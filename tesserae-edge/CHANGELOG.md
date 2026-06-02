@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.12.7-edge.8abfbbf — 2026-06-02
+## 0.12.8-edge.a7bbd7d — 2026-06-02
+
+- [`a7bbd7d`](https://github.com/dmellok/tesserae/commit/a7bbd7d2f0289a3620fb23c32f3e7510a05ca0cb) fix: navigation timeout + helpful errors on render failures## 0.12.7-edge.8abfbbf — 2026-06-02
 
 - [`8abfbbf`](https://github.com/dmellok/tesserae/commit/8abfbbf01554f2dff7da824c6ad234dcdc2c1963) fix: defend the renderer against a poisoned persistent browser## 0.12.6-edge.70aa084 — 2026-06-02
 
