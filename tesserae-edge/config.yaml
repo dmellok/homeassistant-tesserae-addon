@@ -34,6 +34,12 @@ image: ghcr.io/dmellok/tesserae
 environment:
   TESSERAE_HA_INGRESS: "1"
   TESSERAE_DATA_ROOT: "/data"
+  # Host-side port the edge add-on publishes Tesserae on. The container
+  # still binds 8765 internally, but the ports: mapping above publishes
+  # it on host 8766 so it doesn't clash with the stable add-on (which
+  # owns 8765). Without this Tesserae would emit panel URLs pointing
+  # at :8765 — wrong host port for edge clients.
+  TESSERAE_HTTP_PORT: "8766"
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   mqtt_host: str?

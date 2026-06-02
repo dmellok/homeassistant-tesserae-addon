@@ -41,6 +41,12 @@ image: ghcr.io/dmellok/tesserae
 environment:
   TESSERAE_HA_INGRESS: "1"
   TESSERAE_DATA_ROOT: "/data"
+  # Host-side port the stable add-on publishes Tesserae on. Tesserae
+  # uses this in MQTT push payloads so panels know where to fetch
+  # render frames — under HA Ingress ``request.host`` is the HA
+  # frontend's port (8123), not ours, so we can't derive it from a
+  # request. Matches the ``ports:`` entry above.
+  TESSERAE_HTTP_PORT: "8765"
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   mqtt_host: str?
