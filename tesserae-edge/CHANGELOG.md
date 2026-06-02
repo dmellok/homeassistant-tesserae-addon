@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.12.0-edge.eb635de — 2026-06-02
+## 0.12.1-edge.c2d5317 — 2026-06-02
+
+- [`c2d5317`](https://github.com/dmellok/tesserae/commit/c2d53171a11ebb29af210c7878ab72c139ed3b8e) fix: widget imports under HA Ingress — prefix dynamic + relative for f1_core## 0.12.0-edge.eb635de — 2026-06-02
 
 - [`eb635de`](https://github.com/dmellok/tesserae/commit/eb635de5fdd8b120bb710545c34634b8eabf5db4) release: v0.12.0 — default port → 8765, HA Ingress URL prefix, HA broker hardening## 0.11.17-edge.c44c7bd — 2026-06-02
 
