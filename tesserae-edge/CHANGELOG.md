@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.12.4-edge.ff5341c — 2026-06-02
+## 0.12.5-edge.c5fad12 — 2026-06-02
+
+- [`c5fad12`](https://github.com/dmellok/tesserae/commit/c5fad12b9fe95d5bffbdb0b14cf04eb02f3a68e5) fix: Chart.js under Ingress + weather widget SSL flakiness## 0.12.4-edge.ff5341c — 2026-06-02
 
 - [`ff5341c`](https://github.com/dmellok/tesserae/commit/ff5341cc82e8aa1b9a1327a00cee61a08237f3c3) fix: sweep remaining absolute paths broken under HA Ingress## 0.12.3-edge.eb1add7 — 2026-06-02
 
