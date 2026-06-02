@@ -11,7 +11,7 @@
 # We pin to a specific Tesserae version (config.yaml `version:` field)
 # so the add-on's CHANGELOG can speak to a known release; bumping the
 # version both bumps the add-on AND moves the image tag pulled.
-ARG BUILD_FROM=ghcr.io/dmellok/tesserae:0.11.10
+ARG BUILD_FROM=ghcr.io/dmellok/tesserae:0.11.12
 FROM ${BUILD_FROM}
 
 # bashio is the HA add-on shell library used in run.sh; it reads

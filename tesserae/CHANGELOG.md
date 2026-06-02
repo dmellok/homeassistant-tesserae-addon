@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.11.10 — 2026-06-02
+## 0.11.12 — 2026-06-02
+
+- Tracks Tesserae [v0.11.12](https://github.com/dmellok/tesserae/releases/tag/v0.11.12).## 0.11.10 — 2026-06-02
 
 - First release. Wraps Tesserae v0.11.10 as a Home Assistant Add-on
   with HA Ingress (UI inside HA's sidebar, single-sign-on via HA's
