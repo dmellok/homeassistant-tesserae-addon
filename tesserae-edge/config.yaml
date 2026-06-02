@@ -19,7 +19,12 @@ panel_title: Tesserae Edge
 # hardware to talk to a server, they should use the stable add-on
 # alongside.
 homeassistant_api: false
-hassio_api: false
+# hassio_api: true lets Tesserae call back to HA Supervisor's local
+# add-on API. We use exactly one endpoint — ``network/info`` — to
+# resolve the host's LAN IP at startup so panels on the LAN have a
+# reachable address to fetch render frames from (rather than the
+# docker bridge IP they'd otherwise see).
+hassio_api: true
 host_network: false
 map:
   - share:rw
