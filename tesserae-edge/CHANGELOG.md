@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.12.3-edge.eb1add7 — 2026-06-02
+## 0.12.4-edge.ff5341c — 2026-06-02
+
+- [`ff5341c`](https://github.com/dmellok/tesserae/commit/ff5341cc82e8aa1b9a1327a00cee61a08237f3c3) fix: sweep remaining absolute paths broken under HA Ingress## 0.12.3-edge.eb1add7 — 2026-06-02
 
 - [`eb1add7`](https://github.com/dmellok/tesserae/commit/eb1add74e484772d9556ec266ec5afaa896c6f0f) feat: wire HA add-on Configuration tab to Tesserae settings## 0.12.2-edge.142f118 — 2026-06-02
 
