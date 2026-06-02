@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.12.5-edge.c5fad12 — 2026-06-02
+## 0.12.6-edge.70aa084 — 2026-06-02
+
+- [`70aa084`](https://github.com/dmellok/tesserae/commit/70aa08484a9c0f706cd64fbb5a744e62a459d14c) feat: brand mark as a real asset (SVG + PNGs)## 0.12.5-edge.c5fad12 — 2026-06-02
 
 - [`c5fad12`](https://github.com/dmellok/tesserae/commit/c5fad12b9fe95d5bffbdb0b14cf04eb02f3a68e5) fix: Chart.js under Ingress + weather widget SSL flakiness## 0.12.4-edge.ff5341c — 2026-06-02
 
