@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.12.8-edge.a7bbd7d — 2026-06-02
+## 0.12.9-edge.f977cb3 — 2026-06-02
+
+- [`f977cb3`](https://github.com/dmellok/tesserae/commit/f977cb3af64d16958a56e2a05d304e5cea514020) fix: parallelise widget data hydration so slow upstreams don't compound## 0.12.8-edge.a7bbd7d — 2026-06-02
 
 - [`a7bbd7d`](https://github.com/dmellok/tesserae/commit/a7bbd7d2f0289a3620fb23c32f3e7510a05ca0cb) fix: navigation timeout + helpful errors on render failures## 0.12.7-edge.8abfbbf — 2026-06-02
 
