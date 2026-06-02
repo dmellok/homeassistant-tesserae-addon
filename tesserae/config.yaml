@@ -1,5 +1,5 @@
 name: Tesserae
-version: "0.11.12"
+version: "0.11.13"
 slug: tesserae
 description: Self-hosted dashboard companion for e-ink panels. Compose dashboards in a browser, render headless, push to your Pi / ESP32 / Kindle / TRMNL hardware.
 url: https://github.com/dmellok/tesserae
@@ -9,9 +9,6 @@ arch:
 init: false
 startup: services
 boot: auto
-# Persistent state ("data/" inside Tesserae). Supervisor maps a per-add-on
-# persistent volume to /data automatically; the add-on's run.sh
-# symlinks the app's data dir to /data.
 ingress: true
 ingress_port: 8000
 panel_icon: mdi:monitor-dashboard
@@ -30,6 +27,15 @@ host_network: false
 map:
   - share:rw
 image: ghcr.io/dmellok/tesserae
+# HA Supervisor sets these on the container before it starts. Together
+# they tell Tesserae:
+#   * to bypass its own password gate when X-Ingress-Path is present
+#     (HA Supervisor authenticated the user upstream)
+#   * to put its persistent state under /data (the add-on's persistent
+#     volume that Supervisor automatically backs up across upgrades)
+environment:
+  TESSERAE_HA_INGRESS: "1"
+  TESSERAE_DATA_ROOT: "/data"
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   mqtt_host: str?
