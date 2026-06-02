@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.11.17-edge.c44c7bd — 2026-06-02
+## 0.12.0-edge.eb635de — 2026-06-02
+
+- [`eb635de`](https://github.com/dmellok/tesserae/commit/eb635de5fdd8b120bb710545c34634b8eabf5db4) release: v0.12.0 — default port → 8765, HA Ingress URL prefix, HA broker hardening## 0.11.17-edge.c44c7bd — 2026-06-02
 
 - [`c44c7bd`](https://github.com/dmellok/tesserae/commit/c44c7bd29d63d66cc294764b00c0ef96b325ef8f) fix: persist a random MQTT client-id suffix so two installs sharing a broker don't evict each other## 0.11.16-edge.fdc87c9 — 2026-06-02
 
