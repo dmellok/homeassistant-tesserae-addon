@@ -40,6 +40,11 @@ environment:
   # owns 8765). Without this Tesserae would emit panel URLs pointing
   # at :8765 — wrong host port for edge clients.
   TESSERAE_HTTP_PORT: "8766"
+  # Tesserae always binds 8765 inside the container; the ports: mapping
+  # publishes it on host 8766. The headless renderer needs the internal
+  # port for its loopback connection — otherwise it'd try 127.0.0.1:8766
+  # and connection-refuse.
+  TESSERAE_BIND_PORT: "8765"
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   mqtt_host: str?
