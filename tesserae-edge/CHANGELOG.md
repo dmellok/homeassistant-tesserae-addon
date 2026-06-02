@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.12.9-edge.f977cb3 — 2026-06-02
+## 0.12.10-edge.4c1dda0 — 2026-06-02
+
+- [`4c1dda0`](https://github.com/dmellok/tesserae/commit/4c1dda009d9b7abedffb3ec9d0faa02990b079a0) fix: F1 widgets switch to plugin_http.fetch_json (15s + retry)## 0.12.9-edge.f977cb3 — 2026-06-02
 
 - [`f977cb3`](https://github.com/dmellok/tesserae/commit/f977cb3af64d16958a56e2a05d304e5cea514020) fix: parallelise widget data hydration so slow upstreams don't compound## 0.12.8-edge.a7bbd7d — 2026-06-02
 
