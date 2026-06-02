@@ -11,7 +11,7 @@ startup: services
 boot: auto
 ingress: true
 ingress_port: 8765
-panel_icon: mdi:test-tube
+panel_icon: mdi:view-quilt-outline
 panel_title: Tesserae Edge
 ports:
   # Edge exposes on 8766 so it doesn't collide with the stable add-on

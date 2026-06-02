@@ -11,7 +11,7 @@ startup: services
 boot: auto
 ingress: true
 ingress_port: 8765
-panel_icon: mdi:monitor-dashboard
+panel_icon: mdi:view-quilt
 panel_title: Tesserae
 ports:
   # Also expose port 8765 on the host so MQTT-push devices, jailbroken
