@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.12.13-edge.ae998eb — 2026-06-02
+## 0.12.14-edge.2793ec4 — 2026-06-02
+
+- [`2793ec4`](https://github.com/dmellok/tesserae/commit/2793ec4637b0302c83f12483ca440fdd7e38ec28) fix: github_repo handles GitHub's async stats 202 properly## 0.12.13-edge.ae998eb — 2026-06-02
 
 - [`ae998eb`](https://github.com/dmellok/tesserae/commit/ae998eb80755657475e94eb003304400f726c6be) fix: serve stale-but-real data when first push hits cold cache + slow upstream## 0.12.12-edge.3febed4 — 2026-06-02
 
