@@ -1,0 +1,44 @@
+name: Tesserae
+version: "0.11.10"
+slug: tesserae
+description: Self-hosted dashboard companion for e-ink panels. Compose dashboards in a browser, render headless, push to your Pi / ESP32 / Kindle / TRMNL hardware.
+url: https://github.com/dmellok/tesserae
+arch:
+  - aarch64
+  - amd64
+init: false
+startup: services
+boot: auto
+# Persistent state ("data/" inside Tesserae). Supervisor maps a per-add-on
+# persistent volume to /data automatically; the add-on's run.sh
+# symlinks the app's data dir to /data.
+ingress: true
+ingress_port: 8000
+panel_icon: mdi:monitor-dashboard
+panel_title: Tesserae
+ports:
+  # Also expose port 8000 on the host so MQTT-push devices, jailbroken
+  # Kindles, native TRMNL hardware, and Home Assistant's generic-camera
+  # integration can reach Tesserae directly. The ingress proxy is only
+  # for the UI inside the HA iframe.
+  "8000/tcp": 8000
+ports_description:
+  "8000/tcp": Tesserae API + TRMNL BYOS HTTP endpoint
+homeassistant_api: false
+hassio_api: false
+host_network: false
+map:
+  - share:rw
+image: ghcr.io/dmellok/tesserae
+schema:
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+  mqtt_host: str?
+  mqtt_port: port?
+  mqtt_username: str?
+  mqtt_password: password?
+options:
+  log_level: info
+  mqtt_host: core-mosquitto
+  mqtt_port: 1883
+  mqtt_username: ""
+  mqtt_password: ""

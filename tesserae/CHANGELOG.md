@@ -1,0 +1,12 @@
+# Changelog
+
+## 0.11.10 — 2026-06-02
+
+- First release. Wraps Tesserae v0.11.10 as a Home Assistant Add-on
+  with HA Ingress (UI inside HA's sidebar, single-sign-on via HA's
+  session), persistent `/data` storage, and a small options UI for
+  pointing at a non-default MQTT broker.
+- Tesserae itself gained the `TESSERAE_HA_INGRESS` env var + an
+  `X-Ingress-Path` URL-prefix middleware in v0.11.11 to make this
+  add-on work; bump that version on the main repo when bumping this
+  add-on's `version:` field.
