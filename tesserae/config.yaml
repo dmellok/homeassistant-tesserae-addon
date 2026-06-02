@@ -1,5 +1,5 @@
 name: Tesserae
-version: "0.11.17"
+version: "0.12.0"
 slug: tesserae
 description: Self-hosted dashboard companion for e-ink panels. Compose dashboards in a browser, render headless, push to your Pi / ESP32 / Kindle / TRMNL hardware.
 url: https://github.com/dmellok/tesserae
