@@ -10,14 +10,16 @@ init: false
 startup: services
 boot: auto
 ingress: true
-ingress_port: 8000
+ingress_port: 8765
 panel_icon: mdi:test-tube
 panel_title: Tesserae Edge
-# Edge intentionally does NOT expose port 8000 on the host so the
-# stable add-on can coexist on the same install. Edge UI is reachable
-# only via the HA sidebar (ingress). If a user needs panels / TRMNL
-# hardware to talk to a server, they should use the stable add-on
-# alongside.
+ports:
+  # Edge exposes on 8766 so it doesn't collide with the stable add-on
+  # (which uses 8765). Both can run side by side, and edge is still
+  # reachable from LAN clients / generic-camera entities directly.
+  "8765/tcp": 8766
+ports_description:
+  "8765/tcp": Tesserae Edge API + TRMNL BYOS HTTP endpoint (host port 8766)
 homeassistant_api: false
 # hassio_api: true lets Tesserae call back to HA Supervisor's local
 # add-on API. We use exactly one endpoint — ``network/info`` — to

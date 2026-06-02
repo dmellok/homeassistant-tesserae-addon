@@ -17,12 +17,11 @@ add-on on the same Home Assistant instance. They use different add-on
 slugs and have different persistent `/data` volumes, so your stable
 dashboards and edge experiments stay completely separate.
 
-The edge add-on intentionally **does not** expose port 8000 on the
-host — the stable add-on takes that port for clients (MQTT-push
-panels, jailbroken Kindles, native TRMNL hardware). Edge is reachable
-only via the HA sidebar's ingress proxy. If you want panels pushing
-to edge, you'll need to either uninstall the stable add-on first or
-edit edge's `config.yaml` to expose a different host port.
+The edge add-on exposes the API on **host port 8766** (stable lives on
+8765) so both can run side-by-side and both are reachable from LAN
+clients (MQTT-push panels, jailbroken Kindles, native TRMNL hardware)
+and Home Assistant's generic-camera integration. The UI is also
+reachable via the HA sidebar through ingress.
 
 ## Configuration
 

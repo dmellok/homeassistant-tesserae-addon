@@ -10,17 +10,17 @@ init: false
 startup: services
 boot: auto
 ingress: true
-ingress_port: 8000
+ingress_port: 8765
 panel_icon: mdi:monitor-dashboard
 panel_title: Tesserae
 ports:
-  # Also expose port 8000 on the host so MQTT-push devices, jailbroken
+  # Also expose port 8765 on the host so MQTT-push devices, jailbroken
   # Kindles, native TRMNL hardware, and Home Assistant's generic-camera
   # integration can reach Tesserae directly. The ingress proxy is only
   # for the UI inside the HA iframe.
-  "8000/tcp": 8000
+  "8765/tcp": 8765
 ports_description:
-  "8000/tcp": Tesserae API + TRMNL BYOS HTTP endpoint
+  "8765/tcp": Tesserae API + TRMNL BYOS HTTP endpoint
 homeassistant_api: false
 # hassio_api: true lets Tesserae call back to HA Supervisor's local
 # add-on API. We use exactly one endpoint — ``network/info`` — to
