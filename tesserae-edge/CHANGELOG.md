@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.12.10-edge.4c1dda0 — 2026-06-02
+## 0.12.11-edge.cb7874a — 2026-06-02
+
+- [`cb7874a`](https://github.com/dmellok/tesserae/commit/cb7874a86fa1d8f7f999173891011fd5e621b976) fix: hydration cap that respected the renderer's goto budget## 0.12.10-edge.4c1dda0 — 2026-06-02
 
 - [`4c1dda0`](https://github.com/dmellok/tesserae/commit/4c1dda009d9b7abedffb3ec9d0faa02990b079a0) fix: F1 widgets switch to plugin_http.fetch_json (15s + retry)## 0.12.9-edge.f977cb3 — 2026-06-02
 
