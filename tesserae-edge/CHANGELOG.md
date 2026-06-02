@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.12.2-edge.142f118 — 2026-06-02
+## 0.12.3-edge.eb1add7 — 2026-06-02
+
+- [`eb1add7`](https://github.com/dmellok/tesserae/commit/eb1add74e484772d9556ec266ec5afaa896c6f0f) feat: wire HA add-on Configuration tab to Tesserae settings## 0.12.2-edge.142f118 — 2026-06-02
 
 - [`142f118`](https://github.com/dmellok/tesserae/commit/142f118d67c0dd0a2ab6a7cabd8915352b2c8616) fix: don't capture HA frontend port under Ingress## 0.12.1-edge.c2d5317 — 2026-06-02
 
