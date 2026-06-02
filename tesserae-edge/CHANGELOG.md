@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.12.11-edge.cb7874a — 2026-06-02
+## 0.12.12-edge.3febed4 — 2026-06-02
+
+- [`3febed4`](https://github.com/dmellok/tesserae/commit/3febed454bf2df3ea3635ce3a24d3b170a7d9c76) fix: drop networkidle for an explicit composer-done signal## 0.12.11-edge.cb7874a — 2026-06-02
 
 - [`cb7874a`](https://github.com/dmellok/tesserae/commit/cb7874a86fa1d8f7f999173891011fd5e621b976) fix: hydration cap that respected the renderer's goto budget## 0.12.10-edge.4c1dda0 — 2026-06-02
 
