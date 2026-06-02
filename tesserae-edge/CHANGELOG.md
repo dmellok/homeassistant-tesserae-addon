@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.12.6-edge.70aa084 — 2026-06-02
+## 0.12.7-edge.8abfbbf — 2026-06-02
+
+- [`8abfbbf`](https://github.com/dmellok/tesserae/commit/8abfbbf01554f2dff7da824c6ad234dcdc2c1963) fix: defend the renderer against a poisoned persistent browser## 0.12.6-edge.70aa084 — 2026-06-02
 
 - [`70aa084`](https://github.com/dmellok/tesserae/commit/70aa08484a9c0f706cd64fbb5a744e62a459d14c) feat: brand mark as a real asset (SVG + PNGs)## 0.12.5-edge.c5fad12 — 2026-06-02
 
