@@ -1,0 +1,41 @@
+name: Tesserae Edge
+version: "0.0.0-edge.placeholder"
+slug: tesserae_edge
+description: "EDGE channel — auto-built from every commit on Tesserae's main branch. Expect breakage. Use Tesserae (stable) for anything you depend on."
+url: https://github.com/dmellok/tesserae
+arch:
+  - aarch64
+  - amd64
+init: false
+startup: services
+boot: auto
+ingress: true
+ingress_port: 8000
+panel_icon: mdi:test-tube
+panel_title: Tesserae Edge
+# Edge intentionally does NOT expose port 8000 on the host so the
+# stable add-on can coexist on the same install. Edge UI is reachable
+# only via the HA sidebar (ingress). If a user needs panels / TRMNL
+# hardware to talk to a server, they should use the stable add-on
+# alongside.
+homeassistant_api: false
+hassio_api: false
+host_network: false
+map:
+  - share:rw
+image: ghcr.io/dmellok/tesserae
+environment:
+  TESSERAE_HA_INGRESS: "1"
+  TESSERAE_DATA_ROOT: "/data"
+schema:
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+  mqtt_host: str?
+  mqtt_port: port?
+  mqtt_username: str?
+  mqtt_password: password?
+options:
+  log_level: info
+  mqtt_host: core-mosquitto
+  mqtt_port: 1883
+  mqtt_username: ""
+  mqtt_password: ""
