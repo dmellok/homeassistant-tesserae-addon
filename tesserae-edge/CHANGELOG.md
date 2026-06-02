@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.11.15-edge.f8b8592 — 2026-06-02
+## 0.11.16-edge.fdc87c9 — 2026-06-02
+
+- [`fdc87c9`](https://github.com/dmellok/tesserae/commit/fdc87c933dbbd12ef39cac2eea01a91eda5a2bea) fix: resolve host LAN IP via HA Supervisor when running as an HA Add-on## 0.11.15-edge.f8b8592 — 2026-06-02
 
 - [`f8b8592`](https://github.com/dmellok/tesserae/commit/f8b85922cb2e6bf6732310f9dd8203d3cbdcfc07) feat(ci): HA Add-on edge channel — auto-build every main commitEdge auto-rebuilds on every commit to the Tesserae core repo's
 `main` branch. Each entry below is a single commit promoted to the
