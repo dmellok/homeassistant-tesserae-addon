@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.7-edge.10292b1 — 2026-06-03
+## 0.16.7-edge.4a28701 — 2026-06-03
+
+- [`4a28701`](https://github.com/dmellok/tesserae/commit/4a28701a7eb5ac7b9a110459c7ef716286bc26e7) feat(ha): per-entity name + icon overrides on ha_sensor + ha_entities## 0.16.7-edge.10292b1 — 2026-06-03
 
 - [`10292b1`](https://github.com/dmellok/tesserae/commit/10292b1f81d5bc284e1aa4b78ce78155b7f3bc20) docs: backfill v0.16.7 CHANGELOG entry## 0.16.7-edge.0acefcd — 2026-06-03
 
