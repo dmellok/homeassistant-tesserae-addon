@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.14.4-edge.fc0075b — 2026-06-03
+## 0.15.0-edge.7d079f8 — 2026-06-03
+
+- [`7d079f8`](https://github.com/dmellok/tesserae/commit/7d079f81a08e857289778d00811c20568cebfdd9) feat(spotify): new spotify_queue widget — now playing + next-up list## 0.14.4-edge.fc0075b — 2026-06-03
 
 - [`fc0075b`](https://github.com/dmellok/tesserae/commit/fc0075be2b4e89fb8ada63deb4287584af7e791c) fix(news_reddit): break pool deadlock during push renders## 0.14.3-edge.18cc819 — 2026-06-03
 
