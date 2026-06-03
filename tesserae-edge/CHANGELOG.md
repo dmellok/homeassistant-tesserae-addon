@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.15.1-edge.5a1b4bc — 2026-06-03
+## 0.16.0-edge.a3a4345 — 2026-06-03
+
+- [`a3a4345`](https://github.com/dmellok/tesserae/commit/a3a43456d7b512f4cf97fa18cd178f98336e864f) feat(ha): new ha_todo widget — items from HA todo lists, 4 variants## 0.15.1-edge.5a1b4bc — 2026-06-03
 
 - [`5a1b4bc`](https://github.com/dmellok/tesserae/commit/5a1b4bc62063f3a2468f0ab95c355304616a9ab7) chore: gitignore launch-plan-*.md## 0.15.1-edge.17bda0c — 2026-06-03
 
