@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.9-edge.adbb6cf — 2026-06-03
+## 0.16.10-edge.f9fed1d — 2026-06-03
+
+- [`f9fed1d`](https://github.com/dmellok/tesserae/commit/f9fed1d5cf887a95aca82ebb7020e82202fe9d21) fix(settings): drop wrong "pip install --upgrade tesserae" hint for bare installs## 0.16.9-edge.adbb6cf — 2026-06-03
 
 - [`adbb6cf`](https://github.com/dmellok/tesserae/commit/adbb6cfc5bf200a5f015b2090a71285bab04e7de) docs: backfill v0.16.9 CHANGELOG entry (parallel-edit race again)## 0.16.9-edge.bbc519f — 2026-06-03
 
