@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.14.3-edge.18cc819 — 2026-06-03
+## 0.14.4-edge.fc0075b — 2026-06-03
+
+- [`fc0075b`](https://github.com/dmellok/tesserae/commit/fc0075be2b4e89fb8ada63deb4287584af7e791c) fix(news_reddit): break pool deadlock during push renders## 0.14.3-edge.18cc819 — 2026-06-03
 
 - [`18cc819`](https://github.com/dmellok/tesserae/commit/18cc8191efed24d51816bbda74925a35910c272b) fix(widgets): pin github family title bars to --wb-bar-h## 0.14.2-edge.7361cb9 — 2026-06-03
 
