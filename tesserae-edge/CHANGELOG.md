@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.7-edge.0acefcd — 2026-06-03
+## 0.16.7-edge.10292b1 — 2026-06-03
+
+- [`10292b1`](https://github.com/dmellok/tesserae/commit/10292b1f81d5bc284e1aa4b78ce78155b7f3bc20) docs: backfill v0.16.7 CHANGELOG entry## 0.16.7-edge.0acefcd — 2026-06-03
 
 - [`0acefcd`](https://github.com/dmellok/tesserae/commit/0acefcd474d9ce8048e9e683c8cab205f8ce07c0) fix(settings): Updates card no longer errors on non-git installs## 0.16.6-edge.3ed9929 — 2026-06-03
 
