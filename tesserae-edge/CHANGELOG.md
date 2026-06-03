@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.7-edge.4a28701 — 2026-06-03
+## 0.16.9-edge.bbc519f — 2026-06-03
+
+- [`bbc519f`](https://github.com/dmellok/tesserae/commit/bbc519fd726aa99a34258ee24576de6848f48820) chore: v0.16.9 — backfill version metadata missed in v0.16.8## 0.16.7-edge.4a28701 — 2026-06-03
 
 - [`4a28701`](https://github.com/dmellok/tesserae/commit/4a28701a7eb5ac7b9a110459c7ef716286bc26e7) feat(ha): per-entity name + icon overrides on ha_sensor + ha_entities## 0.16.7-edge.10292b1 — 2026-06-03
 
