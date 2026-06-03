@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.15.1-edge.17bda0c — 2026-06-03
+## 0.15.1-edge.5a1b4bc — 2026-06-03
+
+- [`5a1b4bc`](https://github.com/dmellok/tesserae/commit/5a1b4bc62063f3a2468f0ab95c355304616a9ab7) chore: gitignore launch-plan-*.md## 0.15.1-edge.17bda0c — 2026-06-03
 
 - [`17bda0c`](https://github.com/dmellok/tesserae/commit/17bda0caf3e3b82dd7473286dfc10c5a012ff7d0) fix(editor,send): block Push when no device is bound, preserve form context## 0.15.0-edge.7d079f8 — 2026-06-03
 
