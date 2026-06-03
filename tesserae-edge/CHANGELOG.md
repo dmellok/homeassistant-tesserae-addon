@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.15.0-edge.7d079f8 — 2026-06-03
+## 0.15.1-edge.17bda0c — 2026-06-03
+
+- [`17bda0c`](https://github.com/dmellok/tesserae/commit/17bda0caf3e3b82dd7473286dfc10c5a012ff7d0) fix(editor,send): block Push when no device is bound, preserve form context## 0.15.0-edge.7d079f8 — 2026-06-03
 
 - [`7d079f8`](https://github.com/dmellok/tesserae/commit/7d079f81a08e857289778d00811c20568cebfdd9) feat(spotify): new spotify_queue widget — now playing + next-up list## 0.14.4-edge.fc0075b — 2026-06-03
 
