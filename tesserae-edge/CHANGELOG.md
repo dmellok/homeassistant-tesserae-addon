@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.13.0-edge.361cedd — 2026-06-03
+## 0.13.1-edge.f4e3ab3 — 2026-06-03
+
+- [`f4e3ab3`](https://github.com/dmellok/tesserae/commit/f4e3ab3598e4b6f66f3f5821d56074a3a665fa23) fix(samples): mypy strict in widget_samples — typed level extraction## 0.13.0-edge.361cedd — 2026-06-03
 
 - [`361cedd`](https://github.com/dmellok/tesserae/commit/361cedd4d8707859e96394941b1f71c2bd71bb16) feat: data export/import + dark Bauhaus bar on remaining refined HA widgets## 0.12.14-edge.2793ec4 — 2026-06-02
 
