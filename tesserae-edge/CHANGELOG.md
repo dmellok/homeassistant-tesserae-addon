@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.14.0-edge.6678f2d — 2026-06-03
+## 0.14.1-edge.68d34cc — 2026-06-03
+
+- [`68d34cc`](https://github.com/dmellok/tesserae/commit/68d34cc7ccdb808ac286b99d48426f815cd51101) docs: v0.14.1 — audit pass, TRMNL + HA integration, theme tokens, regen screenshots## 0.14.0-edge.6678f2d — 2026-06-03
 
 - [`6678f2d`](https://github.com/dmellok/tesserae/commit/6678f2dd8a0165862c9d0c146cfd52e3906d58bf) feat: theme-aware wx widgets, image-wait render phase, two new fonts## 0.13.2-edge.54f8017 — 2026-06-03
 
