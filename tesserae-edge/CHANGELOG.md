@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.14.2-edge.7361cb9 — 2026-06-03
+## 0.14.3-edge.18cc819 — 2026-06-03
+
+- [`18cc819`](https://github.com/dmellok/tesserae/commit/18cc8191efed24d51816bbda74925a35910c272b) fix(widgets): pin github family title bars to --wb-bar-h## 0.14.2-edge.7361cb9 — 2026-06-03
 
 - [`7361cb9`](https://github.com/dmellok/tesserae/commit/7361cb90e1a89bc5aeebf6dc864c0a8fc6138c68) docs: drop preachy "you control whether to send" line from telemetry copy## 0.14.1-edge.68d34cc — 2026-06-03
 
