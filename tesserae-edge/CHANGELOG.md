@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.9-edge.bbc519f — 2026-06-03
+## 0.16.9-edge.adbb6cf — 2026-06-03
+
+- [`adbb6cf`](https://github.com/dmellok/tesserae/commit/adbb6cfc5bf200a5f015b2090a71285bab04e7de) docs: backfill v0.16.9 CHANGELOG entry (parallel-edit race again)## 0.16.9-edge.bbc519f — 2026-06-03
 
 - [`bbc519f`](https://github.com/dmellok/tesserae/commit/bbc519fd726aa99a34258ee24576de6848f48820) chore: v0.16.9 — backfill version metadata missed in v0.16.8## 0.16.7-edge.4a28701 — 2026-06-03
 
