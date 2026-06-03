@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.10-edge.f9fed1d — 2026-06-03
+## 0.16.11-edge.7a01b3f — 2026-06-03
+
+- [`7a01b3f`](https://github.com/dmellok/tesserae/commit/7a01b3f79222f9c6162b4e6d565a44187c87809c) feat(ha): interactive UI for per-entity name + icon overrides## 0.16.10-edge.f9fed1d — 2026-06-03
 
 - [`f9fed1d`](https://github.com/dmellok/tesserae/commit/f9fed1d5cf887a95aca82ebb7020e82202fe9d21) fix(settings): drop wrong "pip install --upgrade tesserae" hint for bare installs## 0.16.9-edge.adbb6cf — 2026-06-03
 
