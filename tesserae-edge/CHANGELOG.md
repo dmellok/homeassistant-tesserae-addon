@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.14.1-edge.68d34cc — 2026-06-03
+## 0.14.2-edge.7361cb9 — 2026-06-03
+
+- [`7361cb9`](https://github.com/dmellok/tesserae/commit/7361cb90e1a89bc5aeebf6dc864c0a8fc6138c68) docs: drop preachy "you control whether to send" line from telemetry copy## 0.14.1-edge.68d34cc — 2026-06-03
 
 - [`68d34cc`](https://github.com/dmellok/tesserae/commit/68d34cc7ccdb808ac286b99d48426f815cd51101) docs: v0.14.1 — audit pass, TRMNL + HA integration, theme tokens, regen screenshots## 0.14.0-edge.6678f2d — 2026-06-03
 
