@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.2-edge.d581572 — 2026-06-03
+## 0.16.6-edge.3ed9929 — 2026-06-03
+
+- [`3ed9929`](https://github.com/dmellok/tesserae/commit/3ed9929b62677c4345bc6236b75a063298b337d5) fix(send): push from dashboards/editor returns to origin, not Send → History## 0.16.2-edge.d581572 — 2026-06-03
 
 - [`d581572`](https://github.com/dmellok/tesserae/commit/d581572b3e894fdb2114c3786ea9d1d0bd8ba3e1) fix(widgets): post-launch design-system pass — picture strips, calendar dividers, ha_history trend, sky_aurora bars## 0.16.1-edge.913661f — 2026-06-03
 
