@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.6-edge.3ed9929 — 2026-06-03
+## 0.16.7-edge.0acefcd — 2026-06-03
+
+- [`0acefcd`](https://github.com/dmellok/tesserae/commit/0acefcd474d9ce8048e9e683c8cab205f8ce07c0) fix(settings): Updates card no longer errors on non-git installs## 0.16.6-edge.3ed9929 — 2026-06-03
 
 - [`3ed9929`](https://github.com/dmellok/tesserae/commit/3ed9929b62677c4345bc6236b75a063298b337d5) fix(send): push from dashboards/editor returns to origin, not Send → History## 0.16.2-edge.d581572 — 2026-06-03
 
