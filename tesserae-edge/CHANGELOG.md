@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.12.14-edge.2793ec4 — 2026-06-02
+## 0.13.0-edge.361cedd — 2026-06-03
+
+- [`361cedd`](https://github.com/dmellok/tesserae/commit/361cedd4d8707859e96394941b1f71c2bd71bb16) feat: data export/import + dark Bauhaus bar on remaining refined HA widgets## 0.12.14-edge.2793ec4 — 2026-06-02
 
 - [`2793ec4`](https://github.com/dmellok/tesserae/commit/2793ec4637b0302c83f12483ca440fdd7e38ec28) fix: github_repo handles GitHub's async stats 202 properly## 0.12.13-edge.ae998eb — 2026-06-02
 
