@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.1-edge.913661f — 2026-06-03
+## 0.16.2-edge.d581572 — 2026-06-03
+
+- [`d581572`](https://github.com/dmellok/tesserae/commit/d581572b3e894fdb2114c3786ea9d1d0bd8ba3e1) fix(widgets): post-launch design-system pass — picture strips, calendar dividers, ha_history trend, sky_aurora bars## 0.16.1-edge.913661f — 2026-06-03
 
 - [`913661f`](https://github.com/dmellok/tesserae/commit/913661f5dbc0f8eae25e94cc09b49c26fcdfe4b1) docs: cross-widget design system rulebook## 0.16.0-edge.a3a4345 — 2026-06-03
 
