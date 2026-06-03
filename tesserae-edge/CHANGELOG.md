@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.13.1-edge.f4e3ab3 — 2026-06-03
+## 0.13.2-edge.54f8017 — 2026-06-03
+
+- [`54f8017`](https://github.com/dmellok/tesserae/commit/54f8017b0900934b0b51f90998fba51adae0aac2) feat(widgets): pinned refined title bars + dev-mode data import## 0.13.1-edge.f4e3ab3 — 2026-06-03
 
 - [`f4e3ab3`](https://github.com/dmellok/tesserae/commit/f4e3ab3598e4b6f66f3f5821d56074a3a665fa23) fix(samples): mypy strict in widget_samples — typed level extraction## 0.13.0-edge.361cedd — 2026-06-03
 
