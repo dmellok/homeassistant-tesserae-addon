@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.0-edge.a3a4345 — 2026-06-03
+## 0.16.1-edge.913661f — 2026-06-03
+
+- [`913661f`](https://github.com/dmellok/tesserae/commit/913661f5dbc0f8eae25e94cc09b49c26fcdfe4b1) docs: cross-widget design system rulebook## 0.16.0-edge.a3a4345 — 2026-06-03
 
 - [`a3a4345`](https://github.com/dmellok/tesserae/commit/a3a43456d7b512f4cf97fa18cd178f98336e864f) feat(ha): new ha_todo widget — items from HA todo lists, 4 variants## 0.15.1-edge.5a1b4bc — 2026-06-03
 
