@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.6-edge.899033f — 2026-06-04
+## 0.17.6-edge.f9bba44 — 2026-06-04
+
+- [`f9bba44`](https://github.com/dmellok/tesserae/commit/f9bba44b76cb33969868f04d23255df81c0136cb) fix(widgets): clock_qlock as a proper packed letter grid## 0.17.6-edge.899033f — 2026-06-04
 
 - [`899033f`](https://github.com/dmellok/tesserae/commit/899033f4ab9d0988a19eeb7a573bc6c821f7c79a) feat(widgets): migrate the clock family to Spectra archetypes## 0.17.5-edge.44fa75e — 2026-06-04
 
