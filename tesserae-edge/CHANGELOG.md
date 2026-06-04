@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.20-edge.db93be2 — 2026-06-04
+## 0.18.0-edge.04824a2 — 2026-06-04
+
+- [`04824a2`](https://github.com/dmellok/tesserae/commit/04824a225372aedf5d1a78172a6bf8ff3871d726) feat(widgets): F1 + Sky + Misc families to Spectra — 58/58## 0.17.20-edge.db93be2 — 2026-06-04
 
 - [`db93be2`](https://github.com/dmellok/tesserae/commit/db93be271b5029384481bdf0b61580421a289d70) feat(github_repo): richer card with description, license, branch, languages## 0.17.19-edge.76a490b — 2026-06-04
 
