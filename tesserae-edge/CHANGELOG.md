@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.23-edge.93ca71d — 2026-06-04
+## 0.16.24-edge.ff7ab16 — 2026-06-04
+
+- [`ff7ab16`](https://github.com/dmellok/tesserae/commit/ff7ab1606308c32f7f24efb404a86d8c75dc7952) fix(settings,themes): tighten vertical density on three settings pages## 0.16.23-edge.93ca71d — 2026-06-04
 
 - [`93ca71d`](https://github.com/dmellok/tesserae/commit/93ca71dc57fc925bbfec912d5d3e37be6a4f333a) refactor(css): clean up duplicate rules + drift to shared utilities## 0.16.22-edge.42cfcbf — 2026-06-04
 
