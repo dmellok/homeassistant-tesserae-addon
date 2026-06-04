@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.8-edge.a155270 — 2026-06-04
+## 0.17.9-edge.2268a5c — 2026-06-04
+
+- [`2268a5c`](https://github.com/dmellok/tesserae/commit/2268a5c7a63f8f828dd5e0179d17d90735f92fc2) fix(timetable): hour banding actually shows hour rows + stronger event tint## 0.17.8-edge.a155270 — 2026-06-04
 
 - [`a155270`](https://github.com/dmellok/tesserae/commit/a1552709101fb700621a012f8b87930ec3b140db) fix(calendars): contrast, day/week event titles, month text option## 0.17.7-edge.8e5b757 — 2026-06-04
 
