@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.17-edge.22e9c8c — 2026-06-04
+## 0.17.18-edge.f803ba9 — 2026-06-04
+
+- [`f803ba9`](https://github.com/dmellok/tesserae/commit/f803ba973a01df91640e3efda7e585fb79a84faf) feat(widgets): GitHub family to Spectra archetypes## 0.17.17-edge.22e9c8c — 2026-06-04
 
 - [`22e9c8c`](https://github.com/dmellok/tesserae/commit/22e9c8c5b745d38bad98d3cffee0d8dc01bc96ad) feat(spotify_album_art): show_track_info toggle + honour scale option## 0.17.16-edge.93bc9c6 — 2026-06-04
 
