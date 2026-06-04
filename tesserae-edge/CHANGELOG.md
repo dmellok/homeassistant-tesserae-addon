@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.17-edge.1001352 — 2026-06-04
+## 0.16.18-edge.78c5c8e — 2026-06-04
+
+- [`78c5c8e`](https://github.com/dmellok/tesserae/commit/78c5c8e53afcf35c550d7146b820dd60f5eb9f56) feat(widgets): roll the weather_now R1 colour recipe across the weather family## 0.16.17-edge.1001352 — 2026-06-04
 
 - [`1001352`](https://github.com/dmellok/tesserae/commit/1001352b11b6222205d5eee29685695af182a1d4) fix(weather_now): hero icon now actually renders## 0.16.16-edge.5a3cd8e — 2026-06-04
 
