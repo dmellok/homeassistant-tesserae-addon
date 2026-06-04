@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.14-edge.2d5074a — 2026-06-04
+## 0.19.0-edge.c8428b7 — 2026-06-04
+
+- [`c8428b7`](https://github.com/dmellok/tesserae/commit/c8428b74db61f0f6cdbd9ea5684613e43b2655de) feat(spectra): orthogonal data-style axis + 3 movement themes## 0.18.14-edge.2d5074a — 2026-06-04
 
 - [`2d5074a`](https://github.com/dmellok/tesserae/commit/2d5074a98ffa3433d01ee8cb52d929f597471302) fix(charts): probe-based token reads so chart colours track active theme## 0.18.13-edge.292e402 — 2026-06-04
 
