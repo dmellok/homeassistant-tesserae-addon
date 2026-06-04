@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.12-edge.f03f392 — 2026-06-04
+## 0.18.13-edge.292e402 — 2026-06-04
+
+- [`292e402`](https://github.com/dmellok/tesserae/commit/292e4027cd31de5995de077c8e5ce6904980f79d) fix(spectra-chart): walk host → body → documentElement for token lookup## 0.18.12-edge.f03f392 — 2026-06-04
 
 - [`f03f392`](https://github.com/dmellok/tesserae/commit/f03f392e3ea5551329cb58cdde63c4acad346fab) feat(spectra-chart): warn when token cascade fails to resolve## 0.18.11-edge.34555d7 — 2026-06-04
 
