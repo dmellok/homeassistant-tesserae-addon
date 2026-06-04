@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.9-edge.2268a5c — 2026-06-04
+## 0.17.10-edge.a3d8cee — 2026-06-04
+
+- [`a3d8cee`](https://github.com/dmellok/tesserae/commit/a3d8ceec42e3254090bbaf3b30f085f3e61fd63f) feat(calendars): rebuild around the display-header / sparse-axis pattern## 0.17.9-edge.2268a5c — 2026-06-04
 
 - [`2268a5c`](https://github.com/dmellok/tesserae/commit/2268a5c7a63f8f828dd5e0179d17d90735f92fc2) fix(timetable): hour banding actually shows hour rows + stronger event tint## 0.17.8-edge.a155270 — 2026-06-04
 
