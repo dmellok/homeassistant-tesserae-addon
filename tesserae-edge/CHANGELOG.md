@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.13-edge.60dc9fc — 2026-06-04
+## 0.16.14-edge.5cd21f3 — 2026-06-04
+
+- [`5cd21f3`](https://github.com/dmellok/tesserae/commit/5cd21f3812a963426c587e5db0ea6e38db25563d) fix(weather_now): graceful R1 fallback at xs/sm cell sizes## 0.16.13-edge.60dc9fc — 2026-06-04
 
 - [`60dc9fc`](https://github.com/dmellok/tesserae/commit/60dc9fc989ca40a5db4b95a1494efce8e17773a7) feat(widgets): 4 variants on all news widgets + drop hardcoded Spectra## 0.16.12-edge.99ff7c2 — 2026-06-03
 
