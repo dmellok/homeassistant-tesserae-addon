@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.10-edge.da91eba — 2026-06-04
+## 0.19.10-edge.c47180f — 2026-06-04
+
+- [`c47180f`](https://github.com/dmellok/tesserae/commit/c47180facb74dd06a310879da39a38db8c6224d8) docs: rewrite widget design docs + build prompt for Spectra## 0.19.10-edge.da91eba — 2026-06-04
 
 - [`da91eba`](https://github.com/dmellok/tesserae/commit/da91eba728396c9845cdee8a8be4dfdd7ff4d0d1) docs: drop the multi-direction artifacts (Spectra unified the variants)## 0.19.10-edge.0816af2 — 2026-06-04
 
