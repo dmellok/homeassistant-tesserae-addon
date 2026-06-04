@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.15-edge.3ca6551 — 2026-06-04
+## 0.17.16-edge.93bc9c6 — 2026-06-04
+
+- [`93bc9c6`](https://github.com/dmellok/tesserae/commit/93bc9c6700c0bb412fb709fe76638343f3f3ba34) fix(widgets): wire up unused client-side options + album art in spotify_queue## 0.17.15-edge.3ca6551 — 2026-06-04
 
 - [`3ca6551`](https://github.com/dmellok/tesserae/commit/3ca655181e26b40d6e7e5a7d18738cf48fbfb261) feat(widgets): pictures + spotify families to Spectra archetypes## 0.17.14-edge.7499ab5 — 2026-06-04
 
