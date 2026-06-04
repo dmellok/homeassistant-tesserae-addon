@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.8-edge.606300d — 2026-06-04
+## 0.19.9-edge.45feb2d — 2026-06-04
+
+- [`45feb2d`](https://github.com/dmellok/tesserae/commit/45feb2d78f0b64fb31b42ec2bcef2cbec9c307bf) feat(f1): more phosphor icons across the F1 widget family## 0.19.8-edge.606300d — 2026-06-04
 
 - [`606300d`](https://github.com/dmellok/tesserae/commit/606300daacdd8aa8354830bdc40143b533cccb98) fix(f1): shrink + center the track within its column## 0.19.7-edge.8e01f0e — 2026-06-04
 
