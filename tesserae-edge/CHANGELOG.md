@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.25-edge.a08eb54 — 2026-06-04
+## 0.16.25-edge.d154a6c — 2026-06-04
+
+- [`d154a6c`](https://github.com/dmellok/tesserae/commit/d154a6c8f415c6d98146bb2e2de4e0466d9aeb81) docs: refresh the four admin UI screenshots on the wiki landing page## 0.16.25-edge.a08eb54 — 2026-06-04
 
 - [`a08eb54`](https://github.com/dmellok/tesserae/commit/a08eb546751e7d5b86c0fe796fd68a6dfa5b2252) docs(gallery): refresh single shots + add 4-direction composites## 0.16.24-edge.ff7ab16 — 2026-06-04
 
