@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.6-edge.284eac4 — 2026-06-04
+## 0.18.7-edge.74b643a — 2026-06-04
+
+- [`74b643a`](https://github.com/dmellok/tesserae/commit/74b643af416c122e14245c36e336e410bbd09c2b) feat(spotify_now_playing): side-by-side layout + thicker progress bar## 0.18.6-edge.284eac4 — 2026-06-04
 
 - [`284eac4`](https://github.com/dmellok/tesserae/commit/284eac4ef81883410637686d96fbad6440b762a2) feat(news): richer rows — source icons + comments + ago across the family## 0.18.5-edge.5957237 — 2026-06-04
 
