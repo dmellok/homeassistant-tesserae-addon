@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.0-edge.5552709 — 2026-06-04
+## 0.17.1-edge.08b0e52 — 2026-06-04
+
+- [`08b0e52`](https://github.com/dmellok/tesserae/commit/08b0e52e40ec399a0f40eb68638b8772b3d30c79) feat: lift Spectra design system + 3 reference widgets## 0.17.0-edge.5552709 — 2026-06-04
 
 - [`5552709`](https://github.com/dmellok/tesserae/commit/5552709bfef9114672f90f7055d8948a4b935bc1) feat!: strip widgets + remove theme system for v2 redesign## 0.16.26-edge.45effbf — 2026-06-04
 
