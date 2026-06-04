@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.19-edge.68a67c3 — 2026-06-04
+## 0.16.20-edge.f661b5e — 2026-06-04
+
+- [`f661b5e`](https://github.com/dmellok/tesserae/commit/f661b5e87293faeeff622acb987ebe3e24e9a749) feat(ha): roll the R1 colour recipe across the r1/g2/s3/d4 HA family## 0.16.19-edge.68a67c3 — 2026-06-04
 
 - [`68a67c3`](https://github.com/dmellok/tesserae/commit/68a67c3b901b6ede78efd918bdc6aa758ff14d5c) feat(widgets): R1 colour pass for ha_todo, ha_battery, octoprint_status## 0.16.18-edge.78c5c8e — 2026-06-04
 
