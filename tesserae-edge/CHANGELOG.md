@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.16-edge.93bc9c6 — 2026-06-04
+## 0.17.17-edge.22e9c8c — 2026-06-04
+
+- [`22e9c8c`](https://github.com/dmellok/tesserae/commit/22e9c8c5b745d38bad98d3cffee0d8dc01bc96ad) feat(spotify_album_art): show_track_info toggle + honour scale option## 0.17.16-edge.93bc9c6 — 2026-06-04
 
 - [`93bc9c6`](https://github.com/dmellok/tesserae/commit/93bc9c6700c0bb412fb709fe76638343f3f3ba34) fix(widgets): wire up unused client-side options + album art in spotify_queue## 0.17.15-edge.3ca6551 — 2026-06-04
 
