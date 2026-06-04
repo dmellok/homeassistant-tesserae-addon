@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.10-edge.860b3f6 — 2026-06-04
+## 0.19.10-edge.0816af2 — 2026-06-04
+
+- [`0816af2`](https://github.com/dmellok/tesserae/commit/0816af26dfb8491fea218808647f3316f850b6c0) docs: regen all 58 widget screenshots + gallery## 0.19.10-edge.860b3f6 — 2026-06-04
 
 - [`860b3f6`](https://github.com/dmellok/tesserae/commit/860b3f6ad815f0b55133cb5610b5fbe852f5d5ec) feat(f1): team-colour stripe on standings rows## 0.19.9-edge.45feb2d — 2026-06-04
 
