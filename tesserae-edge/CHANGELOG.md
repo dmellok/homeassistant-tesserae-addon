@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.20-edge.f661b5e — 2026-06-04
+## 0.16.21-edge.735922f — 2026-06-04
+
+- [`735922f`](https://github.com/dmellok/tesserae/commit/735922faf3d81242d2e5c443c110c730b1f0935b) feat(widgets): add Legacy variant across the r1/g2/s3/d4 family## 0.16.20-edge.f661b5e — 2026-06-04
 
 - [`f661b5e`](https://github.com/dmellok/tesserae/commit/f661b5e87293faeeff622acb987ebe3e24e9a749) feat(ha): roll the R1 colour recipe across the r1/g2/s3/d4 HA family## 0.16.19-edge.68a67c3 — 2026-06-04
 
