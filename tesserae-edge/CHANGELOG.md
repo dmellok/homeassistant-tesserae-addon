@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.7-edge.8e01f0e — 2026-06-04
+## 0.19.8-edge.606300d — 2026-06-04
+
+- [`606300d`](https://github.com/dmellok/tesserae/commit/606300daacdd8aa8354830bdc40143b533cccb98) fix(f1): shrink + center the track within its column## 0.19.7-edge.8e01f0e — 2026-06-04
 
 - [`8e01f0e`](https://github.com/dmellok/tesserae/commit/8e01f0e0db957fa0f3ed899c1bc1de6cd0736a9d) feat(f1): track outline moves to the right + bolder stroke + hide on narrow cells## 0.19.6-edge.9ab0278 — 2026-06-04
 
