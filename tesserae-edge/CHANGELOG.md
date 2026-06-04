@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.5-edge.0167ad8 — 2026-06-04
+## 0.19.6-edge.9ab0278 — 2026-06-04
+
+- [`9ab0278`](https://github.com/dmellok/tesserae/commit/9ab0278d8a3e35f4c2fab397de5814b05f0dc6d0) fix(composer): remount cells when theme / style / font flips## 0.19.5-edge.0167ad8 — 2026-06-04
 
 - [`0167ad8`](https://github.com/dmellok/tesserae/commit/0167ad81739aa710605c352d57c8a8a0c8c28018) fix(charts): remove self-referencing --font-family in cell + body inline styles## 0.19.4-edge.865e64d — 2026-06-04
 
