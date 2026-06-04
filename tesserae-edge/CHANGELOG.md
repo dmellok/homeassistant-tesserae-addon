@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.5-edge.5957237 — 2026-06-04
+## 0.18.6-edge.284eac4 — 2026-06-04
+
+- [`284eac4`](https://github.com/dmellok/tesserae/commit/284eac4ef81883410637686d96fbad6440b762a2) feat(news): richer rows — source icons + comments + ago across the family## 0.18.5-edge.5957237 — 2026-06-04
 
 - [`5957237`](https://github.com/dmellok/tesserae/commit/59572374ad6afd7e9caf1071fd26f8529c278be6) fix(wx-forecast): fill body height + scale per-column## 0.18.4-edge.cc2d772 — 2026-06-04
 
