@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.3-edge.2dc3d7c — 2026-06-04
+## 0.18.4-edge.cc2d772 — 2026-06-04
+
+- [`cc2d772`](https://github.com/dmellok/tesserae/commit/cc2d77219b4439ab4626882771d8183c301ead54) fix(weather_forecast): day names + per-day temperature range bar## 0.18.3-edge.2dc3d7c — 2026-06-04
 
 - [`2dc3d7c`](https://github.com/dmellok/tesserae/commit/2dc3d7c341cfdc39020ef2ce07bf41210e228e74) fix(spectra): lock .w-title size against per-cell content zoom## 0.18.2-edge.7b73f49 — 2026-06-04
 
