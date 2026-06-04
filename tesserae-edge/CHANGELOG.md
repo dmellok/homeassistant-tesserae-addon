@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.13-edge.6a74489 — 2026-06-04
+## 0.17.14-edge.7499ab5 — 2026-06-04
+
+- [`7499ab5`](https://github.com/dmellok/tesserae/commit/7499ab5ca25c2be9b5ae29383ce7db5da0a2c77b) feat(charts): thicker stroke + tinted area fill on sparkline + lineChart## 0.17.13-edge.6a74489 — 2026-06-04
 
 - [`6a74489`](https://github.com/dmellok/tesserae/commit/6a744894542c1d3d0f535145dcb508097d463566) feat(charts): wire Chart.js through Spectra + convert chart widgets## 0.17.12-edge.54b3baa — 2026-06-04
 
