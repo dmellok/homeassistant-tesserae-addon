@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.2-edge.7b73f49 — 2026-06-04
+## 0.18.3-edge.2dc3d7c — 2026-06-04
+
+- [`2dc3d7c`](https://github.com/dmellok/tesserae/commit/2dc3d7c341cfdc39020ef2ce07bf41210e228e74) fix(spectra): lock .w-title size against per-cell content zoom## 0.18.2-edge.7b73f49 — 2026-06-04
 
 - [`7b73f49`](https://github.com/dmellok/tesserae/commit/7b73f49de47ef8c4ae78334cc8751847f826850f) revert: drop the app-wide default theme setting## 0.18.1-edge.3fcfa07 — 2026-06-04
 
