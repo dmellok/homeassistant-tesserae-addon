@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.21-edge.735922f — 2026-06-04
+## 0.16.22-edge.42cfcbf — 2026-06-04
+
+- [`42cfcbf`](https://github.com/dmellok/tesserae/commit/42cfcbf9f00ff3ba18c43c553a7f750da3d45d6a) refactor(css): snap admin CSS to the --t-space scale## 0.16.21-edge.735922f — 2026-06-04
 
 - [`735922f`](https://github.com/dmellok/tesserae/commit/735922faf3d81242d2e5c443c110c730b1f0935b) feat(widgets): add Legacy variant across the r1/g2/s3/d4 family## 0.16.20-edge.f661b5e — 2026-06-04
 
