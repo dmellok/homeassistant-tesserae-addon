@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.10-edge.aca6c41 — 2026-06-04
+## 0.18.11-edge.34555d7 — 2026-06-04
+
+- [`34555d7`](https://github.com/dmellok/tesserae/commit/34555d703f7f809adcb2ac6fc7ad88c52a3c5e2a) feat(weather_hourly): condition-icon strip above the Chart.js bar chart## 0.18.10-edge.aca6c41 — 2026-06-04
 
 - [`aca6c41`](https://github.com/dmellok/tesserae/commit/aca6c41477d66fac755981199a0d37ec73709b76) fix(weather_hourly): read data.points instead of data.hours## 0.18.9-edge.ce1e719 — 2026-06-04
 
