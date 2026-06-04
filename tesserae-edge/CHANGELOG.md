@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.7-edge.8e5b757 — 2026-06-04
+## 0.17.8-edge.a155270 — 2026-06-04
+
+- [`a155270`](https://github.com/dmellok/tesserae/commit/a1552709101fb700621a012f8b87930ec3b140db) fix(calendars): contrast, day/week event titles, month text option## 0.17.7-edge.8e5b757 — 2026-06-04
 
 - [`8e5b757`](https://github.com/dmellok/tesserae/commit/8e5b7579b3f5f099916431ade74c89e0fb33197e) feat(widgets): calendar family as timetable + month grid## 0.17.6-edge.f9bba44 — 2026-06-04
 
