@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.15-edge.f8f7baa — 2026-06-04
+## 0.16.16-edge.5a3cd8e — 2026-06-04
+
+- [`5a3cd8e`](https://github.com/dmellok/tesserae/commit/5a3cd8e343cf334b8067bbc9cd43acd75ae87578) fix(weather_now): rework R1 hero — solid accent icon panel, drop bands## 0.16.15-edge.f8f7baa — 2026-06-04
 
 - [`f8f7baa`](https://github.com/dmellok/tesserae/commit/f8f7baad3b9d85cecfd1b4e9c49c3b11f8edd686) feat(widgets): tint tokens + weather_now R1 colour pass## 0.16.14-edge.5cd21f3 — 2026-06-04
 
