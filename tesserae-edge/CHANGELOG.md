@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.1-edge.3fcfa07 — 2026-06-04
+## 0.18.2-edge.7b73f49 — 2026-06-04
+
+- [`7b73f49`](https://github.com/dmellok/tesserae/commit/7b73f49de47ef8c4ae78334cc8751847f826850f) revert: drop the app-wide default theme setting## 0.18.1-edge.3fcfa07 — 2026-06-04
 
 - [`3fcfa07`](https://github.com/dmellok/tesserae/commit/3fcfa07b53527f813ba078c3392f9fc5bcb7b767) feat(themes): app-wide default theme + per-page inheritance## 0.18.0-edge.04824a2 — 2026-06-04
 
