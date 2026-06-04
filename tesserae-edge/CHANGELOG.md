@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.6-edge.f9bba44 — 2026-06-04
+## 0.17.7-edge.8e5b757 — 2026-06-04
+
+- [`8e5b757`](https://github.com/dmellok/tesserae/commit/8e5b7579b3f5f099916431ade74c89e0fb33197e) feat(widgets): calendar family as timetable + month grid## 0.17.6-edge.f9bba44 — 2026-06-04
 
 - [`f9bba44`](https://github.com/dmellok/tesserae/commit/f9bba44b76cb33969868f04d23255df81c0136cb) fix(widgets): clock_qlock as a proper packed letter grid## 0.17.6-edge.899033f — 2026-06-04
 
