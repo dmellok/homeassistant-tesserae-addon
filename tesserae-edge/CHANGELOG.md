@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.9-edge.8c2e0a6 — 2026-06-04
+## 0.18.9-edge.c8f3280 — 2026-06-04
+
+- [`c8f3280`](https://github.com/dmellok/tesserae/commit/c8f32806c939d28f594849445584e8b22fcafb07) feat(sky_moon): hero moon — actually changed the client this time## 0.18.9-edge.8c2e0a6 — 2026-06-04
 
 - [`8c2e0a6`](https://github.com/dmellok/tesserae/commit/8c2e0a6cee330074bca58361f6ca0bebb4f8082c) feat(sky_moon): hero moon — bigger illustration as the centrepiece## 0.18.8-edge.6c9d923 — 2026-06-04
 
