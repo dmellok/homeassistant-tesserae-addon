@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.19-edge.76a490b — 2026-06-04
+## 0.17.20-edge.db93be2 — 2026-06-04
+
+- [`db93be2`](https://github.com/dmellok/tesserae/commit/db93be271b5029384481bdf0b61580421a289d70) feat(github_repo): richer card with description, license, branch, languages## 0.17.19-edge.76a490b — 2026-06-04
 
 - [`76a490b`](https://github.com/dmellok/tesserae/commit/76a490b3eedc459afc3b4dbd29297e877670b91c) fix(github_contributions): lock heatmap aspect ratio so cells stay square## 0.17.18-edge.f803ba9 — 2026-06-04
 
