@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.26-edge.45effbf — 2026-06-04
+## 0.17.0-edge.5552709 — 2026-06-04
+
+- [`5552709`](https://github.com/dmellok/tesserae/commit/5552709bfef9114672f90f7055d8948a4b935bc1) feat!: strip widgets + remove theme system for v2 redesign## 0.16.26-edge.45effbf — 2026-06-04
 
 - [`45effbf`](https://github.com/dmellok/tesserae/commit/45effbfe5ab9b978812578a326349eabdd25e4a0) chore: bump 0.16.26 (CSS comment cleanup in widget-bauhaus-wx)## 0.16.25-edge.d154a6c — 2026-06-04
 
