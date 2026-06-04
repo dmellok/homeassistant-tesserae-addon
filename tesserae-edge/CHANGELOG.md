@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.2-edge.d9aab71 — 2026-06-04
+## 0.17.3-edge.e8055b6 — 2026-06-04
+
+- [`e8055b6`](https://github.com/dmellok/tesserae/commit/e8055b6047b384bf66f67c23d46779e9903a16ca) fix(editor): per-cell theme override + font override now cascades into Spectra widgets## 0.17.2-edge.d9aab71 — 2026-06-04
 
 - [`d9aab71`](https://github.com/dmellok/tesserae/commit/d9aab71006409341a735ee7a40690565e2887818) feat(widgets): migrate weather family to Spectra archetypes## 0.17.1-edge.08b0e52 — 2026-06-04
 
