@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.14-edge.7499ab5 — 2026-06-04
+## 0.17.15-edge.3ca6551 — 2026-06-04
+
+- [`3ca6551`](https://github.com/dmellok/tesserae/commit/3ca655181e26b40d6e7e5a7d18738cf48fbfb261) feat(widgets): pictures + spotify families to Spectra archetypes## 0.17.14-edge.7499ab5 — 2026-06-04
 
 - [`7499ab5`](https://github.com/dmellok/tesserae/commit/7499ab5ca25c2be9b5ae29383ce7db5da0a2c77b) feat(charts): thicker stroke + tinted area fill on sparkline + lineChart## 0.17.13-edge.6a74489 — 2026-06-04
 
