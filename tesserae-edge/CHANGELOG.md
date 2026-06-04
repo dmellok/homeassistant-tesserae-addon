@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.4-edge.865e64d — 2026-06-04
+## 0.19.5-edge.0167ad8 — 2026-06-04
+
+- [`0167ad8`](https://github.com/dmellok/tesserae/commit/0167ad81739aa710605c352d57c8a8a0c8c28018) fix(charts): remove self-referencing --font-family in cell + body inline styles## 0.19.4-edge.865e64d — 2026-06-04
 
 - [`865e64d`](https://github.com/dmellok/tesserae/commit/865e64dacda0fb28679b836608964daa1218e603) debug(charts): opt-in tokens() resolution log for chart-theme tracing## 0.19.4-edge.3c6b9f8 — 2026-06-04
 
