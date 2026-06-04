@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.1-edge.08b0e52 — 2026-06-04
+## 0.17.2-edge.d9aab71 — 2026-06-04
+
+- [`d9aab71`](https://github.com/dmellok/tesserae/commit/d9aab71006409341a735ee7a40690565e2887818) feat(widgets): migrate weather family to Spectra archetypes## 0.17.1-edge.08b0e52 — 2026-06-04
 
 - [`08b0e52`](https://github.com/dmellok/tesserae/commit/08b0e52e40ec399a0f40eb68638b8772b3d30c79) feat: lift Spectra design system + 3 reference widgets## 0.17.0-edge.5552709 — 2026-06-04
 
