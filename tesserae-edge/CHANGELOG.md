@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.11-edge.c8567d5 — 2026-06-04
+## 0.17.12-edge.54b3baa — 2026-06-04
+
+- [`54b3baa`](https://github.com/dmellok/tesserae/commit/54b3baa7f8e7880302ea297735ebe5e8a37a6373) feat(widgets): news + finance families to Spectra archetypes## 0.17.11-edge.c8567d5 — 2026-06-04
 
 - [`c8567d5`](https://github.com/dmellok/tesserae/commit/c8567d5c1d3a8f495c79b2a24d08c549a5a58b76) feat(calendars): current-time indicator line## 0.17.10-edge.a3d8cee — 2026-06-04
 
