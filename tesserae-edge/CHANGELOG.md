@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.10-edge.a3d8cee — 2026-06-04
+## 0.17.11-edge.c8567d5 — 2026-06-04
+
+- [`c8567d5`](https://github.com/dmellok/tesserae/commit/c8567d5c1d3a8f495c79b2a24d08c549a5a58b76) feat(calendars): current-time indicator line## 0.17.10-edge.a3d8cee — 2026-06-04
 
 - [`a3d8cee`](https://github.com/dmellok/tesserae/commit/a3d8ceec42e3254090bbaf3b30f085f3e61fd63f) feat(calendars): rebuild around the display-header / sparse-axis pattern## 0.17.9-edge.2268a5c — 2026-06-04
 
