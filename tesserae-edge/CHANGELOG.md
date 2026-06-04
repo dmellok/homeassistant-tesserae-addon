@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.12-edge.54b3baa — 2026-06-04
+## 0.17.13-edge.6a74489 — 2026-06-04
+
+- [`6a74489`](https://github.com/dmellok/tesserae/commit/6a744894542c1d3d0f535145dcb508097d463566) feat(charts): wire Chart.js through Spectra + convert chart widgets## 0.17.12-edge.54b3baa — 2026-06-04
 
 - [`54b3baa`](https://github.com/dmellok/tesserae/commit/54b3baa7f8e7880302ea297735ebe5e8a37a6373) feat(widgets): news + finance families to Spectra archetypes## 0.17.11-edge.c8567d5 — 2026-06-04
 
