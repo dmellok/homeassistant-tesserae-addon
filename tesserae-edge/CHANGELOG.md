@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.11-edge.34555d7 — 2026-06-04
+## 0.18.12-edge.f03f392 — 2026-06-04
+
+- [`f03f392`](https://github.com/dmellok/tesserae/commit/f03f392e3ea5551329cb58cdde63c4acad346fab) feat(spectra-chart): warn when token cascade fails to resolve## 0.18.11-edge.34555d7 — 2026-06-04
 
 - [`34555d7`](https://github.com/dmellok/tesserae/commit/34555d703f7f809adcb2ac6fc7ad88c52a3c5e2a) feat(weather_hourly): condition-icon strip above the Chart.js bar chart## 0.18.10-edge.aca6c41 — 2026-06-04
 
