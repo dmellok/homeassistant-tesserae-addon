@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.3-edge.7f512a0 — 2026-06-04
+## 0.19.4-edge.3c6b9f8 — 2026-06-04
+
+- [`3c6b9f8`](https://github.com/dmellok/tesserae/commit/3c6b9f8934de631fc4e788a1ebbf13f25704a304) fix(editor): multiselect search box actually filters now## 0.19.3-edge.7f512a0 — 2026-06-04
 
 - [`7f512a0`](https://github.com/dmellok/tesserae/commit/7f512a04f9fe8a2b8c2f269cb65c03bad5d87b92) feat(spectra): vendor Bodoni Moda / Archivo Narrow / Jost — all 9 style fonts now local## 0.19.2-edge.65dedda — 2026-06-04
 
