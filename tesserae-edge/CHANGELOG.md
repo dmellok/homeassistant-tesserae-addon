@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.22-edge.42cfcbf — 2026-06-04
+## 0.16.23-edge.93ca71d — 2026-06-04
+
+- [`93ca71d`](https://github.com/dmellok/tesserae/commit/93ca71dc57fc925bbfec912d5d3e37be6a4f333a) refactor(css): clean up duplicate rules + drift to shared utilities## 0.16.22-edge.42cfcbf — 2026-06-04
 
 - [`42cfcbf`](https://github.com/dmellok/tesserae/commit/42cfcbf9f00ff3ba18c43c553a7f750da3d45d6a) refactor(css): snap admin CSS to the --t-space scale## 0.16.21-edge.735922f — 2026-06-04
 
