@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.4-edge.d5131b5 — 2026-06-04
+## 0.17.5-edge.44fa75e — 2026-06-04
+
+- [`44fa75e`](https://github.com/dmellok/tesserae/commit/44fa75e507e3947af7b62aed5a33ba368898ce08) feat(widgets): migrate the HA family to Spectra archetypes## 0.17.4-edge.d5131b5 — 2026-06-04
 
 - [`d5131b5`](https://github.com/dmellok/tesserae/commit/d5131b5d7cada4bf8a34dbb7a40cd19d2bf957c9) feat(widgets): condition + category accents on weather/HA/news icons## 0.17.3-edge.e8055b6 — 2026-06-04
 
