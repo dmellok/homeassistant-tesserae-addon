@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.10-edge.0816af2 — 2026-06-04
+## 0.19.10-edge.da91eba — 2026-06-04
+
+- [`da91eba`](https://github.com/dmellok/tesserae/commit/da91eba728396c9845cdee8a8be4dfdd7ff4d0d1) docs: drop the multi-direction artifacts (Spectra unified the variants)## 0.19.10-edge.0816af2 — 2026-06-04
 
 - [`0816af2`](https://github.com/dmellok/tesserae/commit/0816af26dfb8491fea218808647f3316f850b6c0) docs: regen all 58 widget screenshots + gallery## 0.19.10-edge.860b3f6 — 2026-06-04
 
