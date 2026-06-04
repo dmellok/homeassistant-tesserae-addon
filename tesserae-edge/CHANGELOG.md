@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.9-edge.45feb2d — 2026-06-04
+## 0.19.10-edge.860b3f6 — 2026-06-04
+
+- [`860b3f6`](https://github.com/dmellok/tesserae/commit/860b3f6ad815f0b55133cb5610b5fbe852f5d5ec) feat(f1): team-colour stripe on standings rows## 0.19.9-edge.45feb2d — 2026-06-04
 
 - [`45feb2d`](https://github.com/dmellok/tesserae/commit/45feb2d78f0b64fb31b42ec2bcef2cbec9c307bf) feat(f1): more phosphor icons across the F1 widget family## 0.19.8-edge.606300d — 2026-06-04
 
