@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.24-edge.ff7ab16 — 2026-06-04
+## 0.16.25-edge.a08eb54 — 2026-06-04
+
+- [`a08eb54`](https://github.com/dmellok/tesserae/commit/a08eb546751e7d5b86c0fe796fd68a6dfa5b2252) docs(gallery): refresh single shots + add 4-direction composites## 0.16.24-edge.ff7ab16 — 2026-06-04
 
 - [`ff7ab16`](https://github.com/dmellok/tesserae/commit/ff7ab1606308c32f7f24efb404a86d8c75dc7952) fix(settings,themes): tighten vertical density on three settings pages## 0.16.23-edge.93ca71d — 2026-06-04
 
