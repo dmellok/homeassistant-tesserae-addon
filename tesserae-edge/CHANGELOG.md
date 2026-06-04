@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.3-edge.e8055b6 — 2026-06-04
+## 0.17.4-edge.d5131b5 — 2026-06-04
+
+- [`d5131b5`](https://github.com/dmellok/tesserae/commit/d5131b5d7cada4bf8a34dbb7a40cd19d2bf957c9) feat(widgets): condition + category accents on weather/HA/news icons## 0.17.3-edge.e8055b6 — 2026-06-04
 
 - [`e8055b6`](https://github.com/dmellok/tesserae/commit/e8055b6047b384bf66f67c23d46779e9903a16ca) fix(editor): per-cell theme override + font override now cascades into Spectra widgets## 0.17.2-edge.d9aab71 — 2026-06-04
 
