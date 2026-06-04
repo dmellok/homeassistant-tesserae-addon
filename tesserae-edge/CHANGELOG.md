@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.5-edge.44fa75e — 2026-06-04
+## 0.17.6-edge.899033f — 2026-06-04
+
+- [`899033f`](https://github.com/dmellok/tesserae/commit/899033f4ab9d0988a19eeb7a573bc6c821f7c79a) feat(widgets): migrate the clock family to Spectra archetypes## 0.17.5-edge.44fa75e — 2026-06-04
 
 - [`44fa75e`](https://github.com/dmellok/tesserae/commit/44fa75e507e3947af7b62aed5a33ba368898ce08) feat(widgets): migrate the HA family to Spectra archetypes## 0.17.4-edge.d5131b5 — 2026-06-04
 
