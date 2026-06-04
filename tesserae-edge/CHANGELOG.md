@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.2-edge.65dedda — 2026-06-04
+## 0.19.3-edge.7f512a0 — 2026-06-04
+
+- [`7f512a0`](https://github.com/dmellok/tesserae/commit/7f512a04f9fe8a2b8c2f269cb65c03bad5d87b92) feat(spectra): vendor Bodoni Moda / Archivo Narrow / Jost — all 9 style fonts now local## 0.19.2-edge.65dedda — 2026-06-04
 
 - [`65dedda`](https://github.com/dmellok/tesserae/commit/65deddaf70ca717e5369ceff5223ea41e754ea78) feat(spectra): theme×style matrix route + renderer font-preload fix## 0.19.1-edge.fda5c46 — 2026-06-04
 
