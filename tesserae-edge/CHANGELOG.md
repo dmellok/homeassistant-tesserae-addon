@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.13-edge.292e402 — 2026-06-04
+## 0.18.14-edge.2d5074a — 2026-06-04
+
+- [`2d5074a`](https://github.com/dmellok/tesserae/commit/2d5074a98ffa3433d01ee8cb52d929f597471302) fix(charts): probe-based token reads so chart colours track active theme## 0.18.13-edge.292e402 — 2026-06-04
 
 - [`292e402`](https://github.com/dmellok/tesserae/commit/292e4027cd31de5995de077c8e5ce6904980f79d) fix(spectra-chart): walk host → body → documentElement for token lookup## 0.18.12-edge.f03f392 — 2026-06-04
 
