@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.9-edge.ce1e719 — 2026-06-04
+## 0.18.10-edge.aca6c41 — 2026-06-04
+
+- [`aca6c41`](https://github.com/dmellok/tesserae/commit/aca6c41477d66fac755981199a0d37ec73709b76) fix(weather_hourly): read data.points instead of data.hours## 0.18.9-edge.ce1e719 — 2026-06-04
 
 - [`ce1e719`](https://github.com/dmellok/tesserae/commit/ce1e719dd19639b0d1c07b9b176d38eda3fe8182) fix(weather_hourly): read data.points instead of data.hours## 0.18.9-edge.c8f3280 — 2026-06-04
 
