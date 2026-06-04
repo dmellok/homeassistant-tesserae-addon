@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.25-edge.d154a6c — 2026-06-04
+## 0.16.26-edge.45effbf — 2026-06-04
+
+- [`45effbf`](https://github.com/dmellok/tesserae/commit/45effbfe5ab9b978812578a326349eabdd25e4a0) chore: bump 0.16.26 (CSS comment cleanup in widget-bauhaus-wx)## 0.16.25-edge.d154a6c — 2026-06-04
 
 - [`d154a6c`](https://github.com/dmellok/tesserae/commit/d154a6c8f415c6d98146bb2e2de4e0466d9aeb81) docs: refresh the four admin UI screenshots on the wiki landing page## 0.16.25-edge.a08eb54 — 2026-06-04
 
