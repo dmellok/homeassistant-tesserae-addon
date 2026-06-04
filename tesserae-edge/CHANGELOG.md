@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.8-edge.6c9d923 — 2026-06-04
+## 0.18.9-edge.8c2e0a6 — 2026-06-04
+
+- [`8c2e0a6`](https://github.com/dmellok/tesserae/commit/8c2e0a6cee330074bca58361f6ca0bebb4f8082c) feat(sky_moon): hero moon — bigger illustration as the centrepiece## 0.18.8-edge.6c9d923 — 2026-06-04
 
 - [`6c9d923`](https://github.com/dmellok/tesserae/commit/6c9d92396e33241ddd4dd3c934be5b4b93a87d5d) fix(wx-cell): no more wonky stacking when labels / values overflow## 0.18.7-edge.74b643a — 2026-06-04
 
