@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.17.18-edge.f803ba9 — 2026-06-04
+## 0.17.19-edge.76a490b — 2026-06-04
+
+- [`76a490b`](https://github.com/dmellok/tesserae/commit/76a490b3eedc459afc3b4dbd29297e877670b91c) fix(github_contributions): lock heatmap aspect ratio so cells stay square## 0.17.18-edge.f803ba9 — 2026-06-04
 
 - [`f803ba9`](https://github.com/dmellok/tesserae/commit/f803ba973a01df91640e3efda7e585fb79a84faf) feat(widgets): GitHub family to Spectra archetypes## 0.17.17-edge.22e9c8c — 2026-06-04
 
