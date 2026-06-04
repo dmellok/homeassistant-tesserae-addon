@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.0-edge.04824a2 — 2026-06-04
+## 0.18.1-edge.3fcfa07 — 2026-06-04
+
+- [`3fcfa07`](https://github.com/dmellok/tesserae/commit/3fcfa07b53527f813ba078c3392f9fc5bcb7b767) feat(themes): app-wide default theme + per-page inheritance## 0.18.0-edge.04824a2 — 2026-06-04
 
 - [`04824a2`](https://github.com/dmellok/tesserae/commit/04824a225372aedf5d1a78172a6bf8ff3871d726) feat(widgets): F1 + Sky + Misc families to Spectra — 58/58## 0.17.20-edge.db93be2 — 2026-06-04
 
