@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.9-edge.c8f3280 — 2026-06-04
+## 0.18.9-edge.ce1e719 — 2026-06-04
+
+- [`ce1e719`](https://github.com/dmellok/tesserae/commit/ce1e719dd19639b0d1c07b9b176d38eda3fe8182) fix(weather_hourly): read data.points instead of data.hours## 0.18.9-edge.c8f3280 — 2026-06-04
 
 - [`c8f3280`](https://github.com/dmellok/tesserae/commit/c8f32806c939d28f594849445584e8b22fcafb07) feat(sky_moon): hero moon — actually changed the client this time## 0.18.9-edge.8c2e0a6 — 2026-06-04
 
