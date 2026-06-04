@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.6-edge.9ab0278 — 2026-06-04
+## 0.19.7-edge.8e01f0e — 2026-06-04
+
+- [`8e01f0e`](https://github.com/dmellok/tesserae/commit/8e01f0e0db957fa0f3ed899c1bc1de6cd0736a9d) feat(f1): track outline moves to the right + bolder stroke + hide on narrow cells## 0.19.6-edge.9ab0278 — 2026-06-04
 
 - [`9ab0278`](https://github.com/dmellok/tesserae/commit/9ab0278d8a3e35f4c2fab397de5814b05f0dc6d0) fix(composer): remount cells when theme / style / font flips## 0.19.5-edge.0167ad8 — 2026-06-04
 
