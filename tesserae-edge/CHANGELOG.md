@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.12-edge.99ff7c2 — 2026-06-03
+## 0.16.13-edge.60dc9fc — 2026-06-04
+
+- [`60dc9fc`](https://github.com/dmellok/tesserae/commit/60dc9fc989ca40a5db4b95a1494efce8e17773a7) feat(widgets): 4 variants on all news widgets + drop hardcoded Spectra## 0.16.12-edge.99ff7c2 — 2026-06-03
 
 - [`99ff7c2`](https://github.com/dmellok/tesserae/commit/99ff7c295cd82585a93e0fad9ab9e0c83feb0474) fix(editor): icon-picker leak + hard preview reset + draggable HA overrides## 0.16.11-edge.7a01b3f — 2026-06-03
 
