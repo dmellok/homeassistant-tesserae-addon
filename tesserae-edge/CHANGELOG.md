@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.16.14-edge.5cd21f3 — 2026-06-04
+## 0.16.15-edge.f8f7baa — 2026-06-04
+
+- [`f8f7baa`](https://github.com/dmellok/tesserae/commit/f8f7baad3b9d85cecfd1b4e9c49c3b11f8edd686) feat(widgets): tint tokens + weather_now R1 colour pass## 0.16.14-edge.5cd21f3 — 2026-06-04
 
 - [`5cd21f3`](https://github.com/dmellok/tesserae/commit/5cd21f3812a963426c587e5db0ea6e38db25563d) fix(weather_now): graceful R1 fallback at xs/sm cell sizes## 0.16.13-edge.60dc9fc — 2026-06-04
 
