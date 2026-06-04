@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.18.7-edge.74b643a — 2026-06-04
+## 0.18.8-edge.6c9d923 — 2026-06-04
+
+- [`6c9d923`](https://github.com/dmellok/tesserae/commit/6c9d92396e33241ddd4dd3c934be5b4b93a87d5d) fix(wx-cell): no more wonky stacking when labels / values overflow## 0.18.7-edge.74b643a — 2026-06-04
 
 - [`74b643a`](https://github.com/dmellok/tesserae/commit/74b643af416c122e14245c36e336e410bbd09c2b) feat(spotify_now_playing): side-by-side layout + thicker progress bar## 0.18.6-edge.284eac4 — 2026-06-04
 
