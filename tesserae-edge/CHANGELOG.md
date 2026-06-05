@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.27.0-edge.197d231 — 2026-06-05
+## 0.27.1-edge.bc801c6 — 2026-06-05
+
+- [`bc801c6`](https://github.com/dmellok/tesserae/commit/bc801c610843df195e1982788bd15f678284a07c) ui(themes): move auto-soft switch above the accent pairs## 0.27.0-edge.197d231 — 2026-06-05
 
 - [`197d231`](https://github.com/dmellok/tesserae/commit/197d23111fe4fe0242842a59081c7824febbe3e1) feat(themes): single-card palette + auto-derive soft tints switch## 0.26.1-edge.9f6390d — 2026-06-05
 
