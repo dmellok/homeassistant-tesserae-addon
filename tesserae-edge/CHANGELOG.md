@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.24.0-edge.8fdc684 — 2026-06-05
+## 0.25.0-edge.6c239a1 — 2026-06-05
+
+- [`6c239a1`](https://github.com/dmellok/tesserae/commit/6c239a1ac0bbfbe507bcc50668c3e6701c259766) feat(themes): user themes store + builder (M-B of theme rebuild)## 0.24.0-edge.8fdc684 — 2026-06-05
 
 - [`8fdc684`](https://github.com/dmellok/tesserae/commit/8fdc684409199dc463222c478f23414dc7a74dcb) feat(themes): browse page + central theme registry (M-A of theme rebuild)## 0.23.0-edge.0c5d2d8 — 2026-06-05
 
