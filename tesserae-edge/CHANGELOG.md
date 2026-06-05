@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.19-edge.7d9147f — 2026-06-05
+## 0.19.20-edge.ded9200 — 2026-06-05
+
+- [`ded9200`](https://github.com/dmellok/tesserae/commit/ded92006208d7fb88b7c12416962ef0c4e0ebb6f) fix(esp32_bin): pack at firmware-native dims, not calibration choice## 0.19.19-edge.7d9147f — 2026-06-05
 
 - [`7d9147f`](https://github.com/dmellok/tesserae/commit/7d9147ffb25e77421709e8e0df898b3cf6869be8) fix(esp32_bin): pack at panel.w × panel.h, not forced portrait## 0.19.18-edge.035c001 — 2026-06-05
 
