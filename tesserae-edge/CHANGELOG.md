@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.23.0-edge.0c5d2d8 — 2026-06-05
+## 0.24.0-edge.8fdc684 — 2026-06-05
+
+- [`8fdc684`](https://github.com/dmellok/tesserae/commit/8fdc684409199dc463222c478f23414dc7a74dcb) feat(themes): browse page + central theme registry (M-A of theme rebuild)## 0.23.0-edge.0c5d2d8 — 2026-06-05
 
 - [`0c5d2d8`](https://github.com/dmellok/tesserae/commit/0c5d2d802c3800e7a7f8c7ce827b70ea72690264) feat(quantizer): opt-in calibrated palette + tone mapping for .bin path## 0.22.0-edge.0f53803 — 2026-06-05
 
