@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.24-edge.da9fb5c — 2026-06-05
+## 0.20.0-edge.fece5fd — 2026-06-05
+
+- [`fece5fd`](https://github.com/dmellok/tesserae/commit/fece5fd6387c3b911c77b01788cf8e3b6684e085) feat(auth): change / disable / reset the admin password## 0.19.24-edge.da9fb5c — 2026-06-05
 
 - [`da9fb5c`](https://github.com/dmellok/tesserae/commit/da9fb5cfe08184d60b2b70977c6bbb4b62ec6e39) docs: drop stale dashboards gallery + tuck community list under contributing## 0.19.23-edge.90ae3d1 — 2026-06-05
 
