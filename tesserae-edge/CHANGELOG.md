@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.20.2-edge.8dbd556 — 2026-06-05
+## 0.20.3-edge.f218321 — 2026-06-05
+
+- [`f218321`](https://github.com/dmellok/tesserae/commit/f218321d0ead0106ed5101be58d32e9d144cdaa5) fix: surface native_w / native_h through Device.panel## 0.20.2-edge.8dbd556 — 2026-06-05
 
 - [`8dbd556`](https://github.com/dmellok/tesserae/commit/8dbd5563c1cfaef393726cdb1fdf94ad70c7a036) fix: backfill native_w/native_h on pre-v0.20 esp32 device manifests## 0.20.1-edge.a61837b — 2026-06-05
 
