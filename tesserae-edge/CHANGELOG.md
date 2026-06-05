@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.12-edge.59acc78 — 2026-06-05
+## 0.19.12-edge.ead3c83 — 2026-06-05
+
+- [`ead3c83`](https://github.com/dmellok/tesserae/commit/ead3c8358407e82738ce8600c21ecff304f73dde) feat(weather_hourly): shaded line chart, 12h default, refreshed legend## 0.19.12-edge.59acc78 — 2026-06-05
 
 - [`59acc78`](https://github.com/dmellok/tesserae/commit/59acc78824a072615fc9565ef178e3f283924e79) fix(sky_moon): row layout at md + theme-stable moon colours## 0.19.11-edge.b57b7be — 2026-06-05
 
