@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.10-edge.c47180f — 2026-06-04
+## 0.19.11-edge.b57b7be — 2026-06-05
+
+- [`b57b7be`](https://github.com/dmellok/tesserae/commit/b57b7bed0be6bb0dafdc1fb5b2a1270cef2a265c) fix(spectra+clock): Display style calmer on lists + clock_world icons## 0.19.10-edge.c47180f — 2026-06-04
 
 - [`c47180f`](https://github.com/dmellok/tesserae/commit/c47180facb74dd06a310879da39a38db8c6224d8) docs: rewrite widget design docs + build prompt for Spectra## 0.19.10-edge.da91eba — 2026-06-04
 
