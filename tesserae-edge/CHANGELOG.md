@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.21.1-edge.37587b7 — 2026-06-05
+## 0.22.0-edge.0f53803 — 2026-06-05
+
+- [`0f53803`](https://github.com/dmellok/tesserae/commit/0f5380313b475b071e59b24c7b9f2f9ce936f42e) feat(quantizer): calibrated Spectra 6 + ACeP palettes for the .bin path## 0.21.1-edge.37587b7 — 2026-06-05
 
 - [`37587b7`](https://github.com/dmellok/tesserae/commit/37587b737094f08dff2c78ab8e6e7f4fb11337ec) style(editor): grow FAB to 60px + push 24px in for thumb reachability## 0.21.0-edge.d30ad97 — 2026-06-05
 
