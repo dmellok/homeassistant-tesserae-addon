@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.28.1-edge.1a8865e — 2026-06-05
+## 0.28.2-edge.f46fc4b — 2026-06-05
+
+- [`f46fc4b`](https://github.com/dmellok/tesserae/commit/f46fc4bdcd44aeb537e1815dfb31beead97715da) chore(themes): satisfy mypy strict — werkzeug Response + tuple union## 0.28.1-edge.1a8865e — 2026-06-05
 
 - [`1a8865e`](https://github.com/dmellok/tesserae/commit/1a8865e06d6c3498f99565f657774b6f4f950890) ui(nav): group dev surfaces under a Dev dropdown## 0.28.0-edge.4c22c8a — 2026-06-05
 
