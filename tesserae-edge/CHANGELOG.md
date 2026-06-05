@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.28.0-edge.4c22c8a — 2026-06-05
+## 0.28.1-edge.1a8865e — 2026-06-05
+
+- [`1a8865e`](https://github.com/dmellok/tesserae/commit/1a8865e06d6c3498f99565f657774b6f4f950890) ui(nav): group dev surfaces under a Dev dropdown## 0.28.0-edge.4c22c8a — 2026-06-05
 
 - [`4c22c8a`](https://github.com/dmellok/tesserae/commit/4c22c8a58b804668c47db371e7455ebe3c4209f1) feat(themes): bundled-colour parsing, slug cap, telemetry, backup test (M-D)## 0.27.1-edge.bc801c6 — 2026-06-05
 
