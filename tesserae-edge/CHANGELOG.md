@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.27.1-edge.bc801c6 — 2026-06-05
+## 0.28.0-edge.4c22c8a — 2026-06-05
+
+- [`4c22c8a`](https://github.com/dmellok/tesserae/commit/4c22c8a58b804668c47db371e7455ebe3c4209f1) feat(themes): bundled-colour parsing, slug cap, telemetry, backup test (M-D)## 0.27.1-edge.bc801c6 — 2026-06-05
 
 - [`bc801c6`](https://github.com/dmellok/tesserae/commit/bc801c610843df195e1982788bd15f678284a07c) ui(themes): move auto-soft switch above the accent pairs## 0.27.0-edge.197d231 — 2026-06-05
 
