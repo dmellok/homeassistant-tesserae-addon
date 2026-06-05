@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.21.0-edge.d30ad97 — 2026-06-05
+## 0.21.1-edge.37587b7 — 2026-06-05
+
+- [`37587b7`](https://github.com/dmellok/tesserae/commit/37587b737094f08dff2c78ab8e6e7f4fb11337ec) style(editor): grow FAB to 60px + push 24px in for thumb reachability## 0.21.0-edge.d30ad97 — 2026-06-05
 
 - [`d30ad97`](https://github.com/dmellok/tesserae/commit/d30ad9786f9dd878421221e311afd86f33253508) feat(editor): floating back-to-top FAB for the reactive layout## 0.20.3-edge.f218321 — 2026-06-05
 
