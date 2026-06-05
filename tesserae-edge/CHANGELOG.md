@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.26.1-edge.9f6390d — 2026-06-05
+## 0.27.0-edge.197d231 — 2026-06-05
+
+- [`197d231`](https://github.com/dmellok/tesserae/commit/197d23111fe4fe0242842a59081c7824febbe3e1) feat(themes): single-card palette + auto-derive soft tints switch## 0.26.1-edge.9f6390d — 2026-06-05
 
 - [`9f6390d`](https://github.com/dmellok/tesserae/commit/9f6390d8d58bb361be61dd80b3da49d3ff7ff135) fix(themes): preview pane now reflects the selected bundled theme## 0.26.0-edge.967a11d — 2026-06-05
 
