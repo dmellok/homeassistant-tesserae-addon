@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.26.0-edge.967a11d — 2026-06-05
+## 0.26.1-edge.9f6390d — 2026-06-05
+
+- [`9f6390d`](https://github.com/dmellok/tesserae/commit/9f6390d8d58bb361be61dd80b3da49d3ff7ff135) fix(themes): preview pane now reflects the selected bundled theme## 0.26.0-edge.967a11d — 2026-06-05
 
 - [`967a11d`](https://github.com/dmellok/tesserae/commit/967a11dcc823cd1291a9a222854237fa591d7725) feat(themes): image-to-theme + unified strip/builder layout (M-C)## 0.25.1-edge.4ae68af — 2026-06-05
 
