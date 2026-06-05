@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.20.1-edge.a61837b — 2026-06-05
+## 0.20.2-edge.8dbd556 — 2026-06-05
+
+- [`8dbd556`](https://github.com/dmellok/tesserae/commit/8dbd5563c1cfaef393726cdb1fdf94ad70c7a036) fix: backfill native_w/native_h on pre-v0.20 esp32 device manifests## 0.20.1-edge.a61837b — 2026-06-05
 
 - [`a61837b`](https://github.com/dmellok/tesserae/commit/a61837b57660d201987c430e93c508e858ac3846) feat(brand): firmware splash PNGs at nine common sizes## 0.20.0-edge.fece5fd — 2026-06-05
 
