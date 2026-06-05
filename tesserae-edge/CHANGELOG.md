@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.13-edge.37d7f65 — 2026-06-05
+## 0.19.14-edge.3a8d78e — 2026-06-05
+
+- [`3a8d78e`](https://github.com/dmellok/tesserae/commit/3a8d78e187668d3bbea4fbc693a425dcde7f5873) feat(f1): backing card behind the track + bolder stroke## 0.19.13-edge.37d7f65 — 2026-06-05
 
 - [`37d7f65`](https://github.com/dmellok/tesserae/commit/37d7f654533196ef5c71fe14da1c0e85a234c4d2) feat(weather): visual punch across the suite## 0.19.12-edge.ead3c83 — 2026-06-05
 
