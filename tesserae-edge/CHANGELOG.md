@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.23-edge.90ae3d1 — 2026-06-05
+## 0.19.24-edge.da9fb5c — 2026-06-05
+
+- [`da9fb5c`](https://github.com/dmellok/tesserae/commit/da9fb5cfe08184d60b2b70977c6bbb4b62ec6e39) docs: drop stale dashboards gallery + tuck community list under contributing## 0.19.23-edge.90ae3d1 — 2026-06-05
 
 - [`90ae3d1`](https://github.com/dmellok/tesserae/commit/90ae3d1cbeac8ae1f622b75f6c7096888cfcf98c) fix: push_image now passes Panel.native_w / native_h through## 0.19.22-edge.f863204 — 2026-06-05
 
