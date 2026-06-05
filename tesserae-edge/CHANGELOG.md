@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.20-edge.ded9200 — 2026-06-05
+## 0.19.21-edge.9569442 — 2026-06-05
+
+- [`9569442`](https://github.com/dmellok/tesserae/commit/956944273bf971709291b20c508fce0eabe2cf5d) refactor: lift panel hardware facts into PanelPreset + Panel.native_*## 0.19.20-edge.ded9200 — 2026-06-05
 
 - [`ded9200`](https://github.com/dmellok/tesserae/commit/ded92006208d7fb88b7c12416962ef0c4e0ebb6f) fix(esp32_bin): pack at firmware-native dims, not calibration choice## 0.19.19-edge.7d9147f — 2026-06-05
 
