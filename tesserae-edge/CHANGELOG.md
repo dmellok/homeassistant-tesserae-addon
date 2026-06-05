@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.14-edge.3a8d78e — 2026-06-05
+## 0.19.15-edge.b4c7693 — 2026-06-05
+
+- [`b4c7693`](https://github.com/dmellok/tesserae/commit/b4c76937dd436b553d9d6717caf196c9d63e27c0) fix(f1): dial back track stroke + breathe the backing card## 0.19.14-edge.3a8d78e — 2026-06-05
 
 - [`3a8d78e`](https://github.com/dmellok/tesserae/commit/3a8d78e187668d3bbea4fbc693a425dcde7f5873) feat(f1): backing card behind the track + bolder stroke## 0.19.13-edge.37d7f65 — 2026-06-05
 
