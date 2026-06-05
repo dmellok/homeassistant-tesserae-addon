@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.12-edge.ead3c83 — 2026-06-05
+## 0.19.13-edge.37d7f65 — 2026-06-05
+
+- [`37d7f65`](https://github.com/dmellok/tesserae/commit/37d7f654533196ef5c71fe14da1c0e85a234c4d2) feat(weather): visual punch across the suite## 0.19.12-edge.ead3c83 — 2026-06-05
 
 - [`ead3c83`](https://github.com/dmellok/tesserae/commit/ead3c8358407e82738ce8600c21ecff304f73dde) feat(weather_hourly): shaded line chart, 12h default, refreshed legend## 0.19.12-edge.59acc78 — 2026-06-05
 
