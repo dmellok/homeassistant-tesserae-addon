@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.25.0-edge.6c239a1 — 2026-06-05
+## 0.25.1-edge.4ae68af — 2026-06-05
+
+- [`4ae68af`](https://github.com/dmellok/tesserae/commit/4ae68af409ecbf73ed650779ab8c7e61673b16b2) ui(themes): promote Themes from Settings tab to top-nav item## 0.25.0-edge.6c239a1 — 2026-06-05
 
 - [`6c239a1`](https://github.com/dmellok/tesserae/commit/6c239a1ac0bbfbe507bcc50668c3e6701c259766) feat(themes): user themes store + builder (M-B of theme rebuild)## 0.24.0-edge.8fdc684 — 2026-06-05
 
