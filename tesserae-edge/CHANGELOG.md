@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.28.2-edge.28b5639 — 2026-06-05
+## 0.28.2-edge.8b8b659 — 2026-06-05
+
+- [`8b8b659`](https://github.com/dmellok/tesserae/commit/8b8b659de1d464b2e2c69ba6f449028006534f93) docs: refresh writing-a-plugin.md to Spectra-era doctrine## 0.28.2-edge.28b5639 — 2026-06-05
 
 - [`28b5639`](https://github.com/dmellok/tesserae/commit/28b5639c3cd9514ab670c64dfada59a027ebf271) docs: refresh README + wiki to reflect current state## 0.28.2-edge.f46fc4b — 2026-06-05
 
