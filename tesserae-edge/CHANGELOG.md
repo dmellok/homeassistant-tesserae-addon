@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.21-edge.9569442 — 2026-06-05
+## 0.19.22-edge.f863204 — 2026-06-05
+
+- [`f863204`](https://github.com/dmellok/tesserae/commit/f863204975cf89db7700728c6caae76b861a5830) docs: add Waveshare 7.3" PhotoPainter client + panel preset## 0.19.21-edge.9569442 — 2026-06-05
 
 - [`9569442`](https://github.com/dmellok/tesserae/commit/956944273bf971709291b20c508fce0eabe2cf5d) refactor: lift panel hardware facts into PanelPreset + Panel.native_*## 0.19.20-edge.ded9200 — 2026-06-05
 
