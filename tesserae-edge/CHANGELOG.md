@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.20.0-edge.fece5fd — 2026-06-05
+## 0.20.1-edge.a61837b — 2026-06-05
+
+- [`a61837b`](https://github.com/dmellok/tesserae/commit/a61837b57660d201987c430e93c508e858ac3846) feat(brand): firmware splash PNGs at nine common sizes## 0.20.0-edge.fece5fd — 2026-06-05
 
 - [`fece5fd`](https://github.com/dmellok/tesserae/commit/fece5fd6387c3b911c77b01788cf8e3b6684e085) feat(auth): change / disable / reset the admin password## 0.19.24-edge.da9fb5c — 2026-06-05
 
