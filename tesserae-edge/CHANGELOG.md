@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.28.2-edge.f46fc4b — 2026-06-05
+## 0.28.2-edge.28b5639 — 2026-06-05
+
+- [`28b5639`](https://github.com/dmellok/tesserae/commit/28b5639c3cd9514ab670c64dfada59a027ebf271) docs: refresh README + wiki to reflect current state## 0.28.2-edge.f46fc4b — 2026-06-05
 
 - [`f46fc4b`](https://github.com/dmellok/tesserae/commit/f46fc4bdcd44aeb537e1815dfb31beead97715da) chore(themes): satisfy mypy strict — werkzeug Response + tuple union## 0.28.1-edge.1a8865e — 2026-06-05
 
