@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.20.3-edge.f218321 — 2026-06-05
+## 0.21.0-edge.d30ad97 — 2026-06-05
+
+- [`d30ad97`](https://github.com/dmellok/tesserae/commit/d30ad9786f9dd878421221e311afd86f33253508) feat(editor): floating back-to-top FAB for the reactive layout## 0.20.3-edge.f218321 — 2026-06-05
 
 - [`f218321`](https://github.com/dmellok/tesserae/commit/f218321d0ead0106ed5101be58d32e9d144cdaa5) fix: surface native_w / native_h through Device.panel## 0.20.2-edge.8dbd556 — 2026-06-05
 
