@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.22.0-edge.0f53803 — 2026-06-05
+## 0.23.0-edge.0c5d2d8 — 2026-06-05
+
+- [`0c5d2d8`](https://github.com/dmellok/tesserae/commit/0c5d2d802c3800e7a7f8c7ce827b70ea72690264) feat(quantizer): opt-in calibrated palette + tone mapping for .bin path## 0.22.0-edge.0f53803 — 2026-06-05
 
 - [`0f53803`](https://github.com/dmellok/tesserae/commit/0f5380313b475b071e59b24c7b9f2f9ce936f42e) feat(quantizer): calibrated Spectra 6 + ACeP palettes for the .bin path## 0.21.1-edge.37587b7 — 2026-06-05
 
