@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.15-edge.b4c7693 — 2026-06-05
+## 0.19.16-edge.8fc97ff — 2026-06-05
+
+- [`8fc97ff`](https://github.com/dmellok/tesserae/commit/8fc97ff3526eee911c21850fd02fa134b2780bd9) docs: regen screenshots with sample fixtures for empty-state widgets## 0.19.15-edge.b4c7693 — 2026-06-05
 
 - [`b4c7693`](https://github.com/dmellok/tesserae/commit/b4c76937dd436b553d9d6717caf196c9d63e27c0) fix(f1): dial back track stroke + breathe the backing card## 0.19.14-edge.3a8d78e — 2026-06-05
 
