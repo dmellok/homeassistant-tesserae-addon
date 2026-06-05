@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.22-edge.f863204 — 2026-06-05
+## 0.19.23-edge.90ae3d1 — 2026-06-05
+
+- [`90ae3d1`](https://github.com/dmellok/tesserae/commit/90ae3d1cbeac8ae1f622b75f6c7096888cfcf98c) fix: push_image now passes Panel.native_w / native_h through## 0.19.22-edge.f863204 — 2026-06-05
 
 - [`f863204`](https://github.com/dmellok/tesserae/commit/f863204975cf89db7700728c6caae76b861a5830) docs: add Waveshare 7.3" PhotoPainter client + panel preset## 0.19.21-edge.9569442 — 2026-06-05
 
