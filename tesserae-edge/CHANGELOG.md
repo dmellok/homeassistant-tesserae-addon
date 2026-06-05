@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.25.1-edge.4ae68af — 2026-06-05
+## 0.26.0-edge.967a11d — 2026-06-05
+
+- [`967a11d`](https://github.com/dmellok/tesserae/commit/967a11dcc823cd1291a9a222854237fa591d7725) feat(themes): image-to-theme + unified strip/builder layout (M-C)## 0.25.1-edge.4ae68af — 2026-06-05
 
 - [`4ae68af`](https://github.com/dmellok/tesserae/commit/4ae68af409ecbf73ed650779ab8c7e61673b16b2) ui(themes): promote Themes from Settings tab to top-nav item## 0.25.0-edge.6c239a1 — 2026-06-05
 
