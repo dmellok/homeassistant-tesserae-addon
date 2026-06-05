@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.19.16-edge.8fc97ff — 2026-06-05
+## 0.19.17-edge.11740e6 — 2026-06-05
+
+- [`11740e6`](https://github.com/dmellok/tesserae/commit/11740e6bfdcdca4c6a7b0ddb264157dff69fb4ff) fix: ha_camera unwrap + weather_now resize + sky_background toggle## 0.19.16-edge.8fc97ff — 2026-06-05
 
 - [`8fc97ff`](https://github.com/dmellok/tesserae/commit/8fc97ff3526eee911c21850fd02fa134b2780bd9) docs: regen screenshots with sample fixtures for empty-state widgets## 0.19.15-edge.b4c7693 — 2026-06-05
 
