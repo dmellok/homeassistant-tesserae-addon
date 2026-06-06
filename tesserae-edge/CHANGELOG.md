@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.29.9-edge.1685694 — 2026-06-06
+## 0.30.0-edge.517e196 — 2026-06-06
+
+- [`517e196`](https://github.com/dmellok/tesserae/commit/517e1966a8e094d2c6e5eec10248c01108c965e6) feat: calendar + clock widget visual pass## 0.29.9-edge.1685694 — 2026-06-06
 
 - [`1685694`](https://github.com/dmellok/tesserae/commit/168569449e45c04d0f62512eeaf5758caa14ab94) feat: F1 widget visual pass + color emoji on Linux## 0.29.8-edge.8dd27b8 — 2026-06-06
 
