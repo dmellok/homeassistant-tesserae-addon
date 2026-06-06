@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.30.5-edge.cee1535 — 2026-06-06
+## 0.31.0-edge.239448c, 2026-06-06
+
+- [`239448c`](https://github.com/dmellok/tesserae/commit/239448ca7e19d968ca654986376fb43d7a208db4) release: v0.31.0 — whole-catalogue visual pass + admin UI refresh## 0.30.5-edge.cee1535 — 2026-06-06
 
 - [`cee1535`](https://github.com/dmellok/tesserae/commit/cee1535ca69e620f12636b7069e09a6449300eb5) fix(tests): ha_sensor expects ph-thermometer not -simple## 0.30.4-edge.f12a995 — 2026-06-06
 
