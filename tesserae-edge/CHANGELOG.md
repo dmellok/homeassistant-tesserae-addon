@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.29.6-edge.369bd4e — 2026-06-06
+## 0.29.7-edge.51a67eb — 2026-06-06
+
+- [`51a67eb`](https://github.com/dmellok/tesserae/commit/51a67eb0d7948ad9f32ae55e24d47b80a933e267) feat: history nav, source chips, dev preview, weather_now sizing## 0.29.6-edge.369bd4e — 2026-06-06
 
 - [`369bd4e`](https://github.com/dmellok/tesserae/commit/369bd4e30935f748076920ed1f89fe4f45e12159) revert(weather_now): drop the sky-backdrop experiment## 0.29.5-edge.dba8871 — 2026-06-06
 
