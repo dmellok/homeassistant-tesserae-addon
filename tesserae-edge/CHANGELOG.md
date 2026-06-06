@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.30.4-edge.c7fd628 — 2026-06-06
+## 0.30.4-edge.f12a995 — 2026-06-06
+
+- [`f12a995`](https://github.com/dmellok/tesserae/commit/f12a995ce453042857b428fa30fa569b0b883582) docs: recapture widget screenshots after visual pass## 0.30.4-edge.c7fd628 — 2026-06-06
 
 - [`c7fd628`](https://github.com/dmellok/tesserae/commit/c7fd628af6836df73f4c40672a0ba9f49deae10f) fix: glances ring sizing + remove picture-widget chips## 0.30.3-edge.a02a3d3 — 2026-06-06
 
