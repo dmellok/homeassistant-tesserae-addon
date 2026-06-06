@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.29.4-edge.626c547 — 2026-06-06
+## 0.29.5-edge.dba8871 — 2026-06-06
+
+- [`dba8871`](https://github.com/dmellok/tesserae/commit/dba8871d7838bcb105ea9e6dde6f1175db7d47a3) fix(weather_now): unescaped backticks in CSS comment broke the render## 0.29.4-edge.626c547 — 2026-06-06
 
 - [`626c547`](https://github.com/dmellok/tesserae/commit/626c5477fe5ea18020f39b35a99613721422d586) fix(weather_now): sky backdrop sits behind hero; drop decorations## 0.29.3-edge.449e07e — 2026-06-06
 
