@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.29.8-edge.8dd27b8 — 2026-06-06
+## 0.29.9-edge.1685694 — 2026-06-06
+
+- [`1685694`](https://github.com/dmellok/tesserae/commit/168569449e45c04d0f62512eeaf5758caa14ab94) feat: F1 widget visual pass + color emoji on Linux## 0.29.8-edge.8dd27b8 — 2026-06-06
 
 - [`8dd27b8`](https://github.com/dmellok/tesserae/commit/8dd27b854712a73691b8b1bf0886e35235fddfad) feat: weather widget visual pass + dev preview rebuild## 0.29.7-edge.51a67eb — 2026-06-06
 
