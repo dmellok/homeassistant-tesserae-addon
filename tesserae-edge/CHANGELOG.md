@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.29.1-edge.5535a4f — 2026-06-06
+## 0.29.2-edge.16cf663 — 2026-06-06
+
+- [`16cf663`](https://github.com/dmellok/tesserae/commit/16cf663dfe0b1801547a996331b61a0f7c247246) feat(glances_status): per-cell base_url so dashboards can monitor N servers## 0.29.1-edge.5535a4f — 2026-06-06
 
 - [`5535a4f`](https://github.com/dmellok/tesserae/commit/5535a4f2ad82d5f3bc37f78a64ba6e22e87acded) feat(widgets): glances_status — live system stats from a Glances instance## 0.29.0-edge.05d4f1a — 2026-06-05
 
