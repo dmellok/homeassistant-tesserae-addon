@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.31.0-edge.cbd566e, 2026-06-06
+## 0.31.0-edge.37fd96a, 2026-06-06
+
+- [`37fd96a`](https://github.com/dmellok/tesserae/commit/37fd96a52da75e04f396b04ebd3358695ab0e056) docs(readme): flag v0.31.0 visual-language rebuild under hero image## 0.31.0-edge.cbd566e, 2026-06-06
 
 - [`cbd566e`](https://github.com/dmellok/tesserae/commit/cbd566e5c81533bd0a79ff5974c7412970b697dd) docs(readme): lead Install section with the Home Assistant Add-on## 0.31.0-edge.239448c, 2026-06-06
 
