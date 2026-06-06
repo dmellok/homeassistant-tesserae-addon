@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.30.0-edge.517e196 — 2026-06-06
+## 0.30.1-edge.5a277a3 — 2026-06-06
+
+- [`5a277a3`](https://github.com/dmellok/tesserae/commit/5a277a3854810e7a44b8ef731e475235d86ea527) feat: github widget visual pass## 0.30.0-edge.517e196 — 2026-06-06
 
 - [`517e196`](https://github.com/dmellok/tesserae/commit/517e1966a8e094d2c6e5eec10248c01108c965e6) feat: calendar + clock widget visual pass## 0.29.9-edge.1685694 — 2026-06-06
 
