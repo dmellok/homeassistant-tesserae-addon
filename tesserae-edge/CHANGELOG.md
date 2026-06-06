@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.32.1-edge.1978897, 2026-06-06
+## 0.33.0-edge.492bdfd, 2026-06-06
+
+- [`492bdfd`](https://github.com/dmellok/tesserae/commit/492bdfd104f69030dde075bd269811e989045949) feat: community widget marketplace (phase 1, audit-only catalog)## 0.32.1-edge.1978897, 2026-06-06
 
 - [`1978897`](https://github.com/dmellok/tesserae/commit/1978897358e8669606f15cca2c98f9f55698eb84) fix(push): annotate _ui_font ``font`` as Any for strict mypy## 0.32.0-edge.213fe13, 2026-06-06
 
