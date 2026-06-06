@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.30.4-edge.f12a995 — 2026-06-06
+## 0.30.5-edge.cee1535 — 2026-06-06
+
+- [`cee1535`](https://github.com/dmellok/tesserae/commit/cee1535ca69e620f12636b7069e09a6449300eb5) fix(tests): ha_sensor expects ph-thermometer not -simple## 0.30.4-edge.f12a995 — 2026-06-06
 
 - [`f12a995`](https://github.com/dmellok/tesserae/commit/f12a995ce453042857b428fa30fa569b0b883582) docs: recapture widget screenshots after visual pass## 0.30.4-edge.c7fd628 — 2026-06-06
 
