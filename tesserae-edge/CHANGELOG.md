@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.29.3-edge.449e07e — 2026-06-06
+## 0.29.4-edge.626c547 — 2026-06-06
+
+- [`626c547`](https://github.com/dmellok/tesserae/commit/626c5477fe5ea18020f39b35a99613721422d586) fix(weather_now): sky backdrop sits behind hero; drop decorations## 0.29.3-edge.449e07e — 2026-06-06
 
 - [`449e07e`](https://github.com/dmellok/tesserae/commit/449e07ef803ca4b344ac75fd4a71ed2c4f536bdf) feat(weather_now): opt-in sky backdrop (toggleable per cell)## 0.29.2-edge.16cf663 — 2026-06-06
 
