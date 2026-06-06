@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.32.0-edge.213fe13, 2026-06-06
+## 0.32.1-edge.1978897, 2026-06-06
+
+- [`1978897`](https://github.com/dmellok/tesserae/commit/1978897358e8669606f15cca2c98f9f55698eb84) fix(push): annotate _ui_font ``font`` as Any for strict mypy## 0.32.0-edge.213fe13, 2026-06-06
 
 - [`213fe13`](https://github.com/dmellok/tesserae/commit/213fe137d2ef429422d0af8bcd72a75a27da4953) release: v0.32.0 — low-battery overlay + Send page polish## 0.31.0-edge.37fd96a, 2026-06-06
 
