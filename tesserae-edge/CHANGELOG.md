@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.29.5-edge.dba8871 — 2026-06-06
+## 0.29.6-edge.369bd4e — 2026-06-06
+
+- [`369bd4e`](https://github.com/dmellok/tesserae/commit/369bd4e30935f748076920ed1f89fe4f45e12159) revert(weather_now): drop the sky-backdrop experiment## 0.29.5-edge.dba8871 — 2026-06-06
 
 - [`dba8871`](https://github.com/dmellok/tesserae/commit/dba8871d7838bcb105ea9e6dde6f1175db7d47a3) fix(weather_now): unescaped backticks in CSS comment broke the render## 0.29.4-edge.626c547 — 2026-06-06
 
