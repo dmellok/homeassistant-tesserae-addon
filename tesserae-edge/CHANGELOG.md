@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.29.0-edge.05d4f1a — 2026-06-05
+## 0.29.1-edge.5535a4f — 2026-06-06
+
+- [`5535a4f`](https://github.com/dmellok/tesserae/commit/5535a4f2ad82d5f3bc37f78a64ba6e22e87acded) feat(widgets): glances_status — live system stats from a Glances instance## 0.29.0-edge.05d4f1a — 2026-06-05
 
 - [`05d4f1a`](https://github.com/dmellok/tesserae/commit/05d4f1ac1f59833e4e3747bc87d87db13cfd4d88) chore: v0.29.0 release — changelog + release notes## 0.28.2-edge.8b8b659 — 2026-06-05
 
