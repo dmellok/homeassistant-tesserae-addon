@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.29.0 — 2026-06-05
+## 0.31.0, 2026-06-06
+
+- Tracks Tesserae [v0.31.0](https://github.com/dmellok/tesserae/releases/tag/v0.31.0).## 0.29.0 — 2026-06-05
 
 - Tracks Tesserae [v0.29.0](https://github.com/dmellok/tesserae/releases/tag/v0.29.0).## 0.16.26 — 2026-06-04
 
