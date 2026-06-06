@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.29.2-edge.16cf663 — 2026-06-06
+## 0.29.3-edge.449e07e — 2026-06-06
+
+- [`449e07e`](https://github.com/dmellok/tesserae/commit/449e07ef803ca4b344ac75fd4a71ed2c4f536bdf) feat(weather_now): opt-in sky backdrop (toggleable per cell)## 0.29.2-edge.16cf663 — 2026-06-06
 
 - [`16cf663`](https://github.com/dmellok/tesserae/commit/16cf663dfe0b1801547a996331b61a0f7c247246) feat(glances_status): per-cell base_url so dashboards can monitor N servers## 0.29.1-edge.5535a4f — 2026-06-06
 
