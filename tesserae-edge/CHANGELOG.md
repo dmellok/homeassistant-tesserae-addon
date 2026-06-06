@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.31.0-edge.239448c, 2026-06-06
+## 0.31.0-edge.cbd566e, 2026-06-06
+
+- [`cbd566e`](https://github.com/dmellok/tesserae/commit/cbd566e5c81533bd0a79ff5974c7412970b697dd) docs(readme): lead Install section with the Home Assistant Add-on## 0.31.0-edge.239448c, 2026-06-06
 
 - [`239448c`](https://github.com/dmellok/tesserae/commit/239448ca7e19d968ca654986376fb43d7a208db4) release: v0.31.0 — whole-catalogue visual pass + admin UI refresh## 0.30.5-edge.cee1535 — 2026-06-06
 
