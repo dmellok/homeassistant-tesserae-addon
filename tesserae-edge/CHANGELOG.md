@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.31.0-edge.37fd96a, 2026-06-06
+## 0.32.0-edge.213fe13, 2026-06-06
+
+- [`213fe13`](https://github.com/dmellok/tesserae/commit/213fe137d2ef429422d0af8bcd72a75a27da4953) release: v0.32.0 — low-battery overlay + Send page polish## 0.31.0-edge.37fd96a, 2026-06-06
 
 - [`37fd96a`](https://github.com/dmellok/tesserae/commit/37fd96a52da75e04f396b04ebd3358695ab0e056) docs(readme): flag v0.31.0 visual-language rebuild under hero image## 0.31.0-edge.cbd566e, 2026-06-06
 
