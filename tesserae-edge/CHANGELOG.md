@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.29.7-edge.51a67eb — 2026-06-06
+## 0.29.8-edge.8dd27b8 — 2026-06-06
+
+- [`8dd27b8`](https://github.com/dmellok/tesserae/commit/8dd27b854712a73691b8b1bf0886e35235fddfad) feat: weather widget visual pass + dev preview rebuild## 0.29.7-edge.51a67eb — 2026-06-06
 
 - [`51a67eb`](https://github.com/dmellok/tesserae/commit/51a67eb0d7948ad9f32ae55e24d47b80a933e267) feat: history nav, source chips, dev preview, weather_now sizing## 0.29.6-edge.369bd4e — 2026-06-06
 
