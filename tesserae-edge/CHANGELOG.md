@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.30.2-edge.429d7ac — 2026-06-06
+## 0.30.3-edge.a02a3d3 — 2026-06-06
+
+- [`a02a3d3`](https://github.com/dmellok/tesserae/commit/a02a3d38fa9a7655c66d62a561ec52027a1c5256) feat: news / sky / finance / spotify / picture / pt / other widget pass## 0.30.2-edge.429d7ac — 2026-06-06
 
 - [`429d7ac`](https://github.com/dmellok/tesserae/commit/429d7ac053b2105aa16ce1570b740e76903664dc) feat: home-assistant widget visual pass## 0.30.1-edge.5a277a3 — 2026-06-06
 
