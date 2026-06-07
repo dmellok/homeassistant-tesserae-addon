@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.33.0-edge.492bdfd, 2026-06-06
+## 0.34.0-edge.ed89a02, 2026-06-07
+
+- [`ed89a02`](https://github.com/dmellok/tesserae/commit/ed89a02c96130b3a9ee862b0148bfd855a5e8439) feat(marketplace): bundle support for widget families (v0.34.0)## 0.33.0-edge.492bdfd, 2026-06-06
 
 - [`492bdfd`](https://github.com/dmellok/tesserae/commit/492bdfd104f69030dde075bd269811e989045949) feat: community widget marketplace (phase 1, audit-only catalog)## 0.32.1-edge.1978897, 2026-06-06
 
