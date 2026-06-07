@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.35.0-edge.7bc8c28, 2026-06-07
+## 0.35.1-edge.1c25b72, 2026-06-07
+
+- [`1c25b72`](https://github.com/dmellok/tesserae/commit/1c25b721f118190fc1b825ea52171fab610bd771) fix(marketplace): tighten Browse card thumbnail to match lg cell## 0.35.0-edge.7bc8c28, 2026-06-07
 
 - [`7bc8c28`](https://github.com/dmellok/tesserae/commit/7bc8c282aaed56d5608529ce66d6c79fecdb767d) feat(security): widget capability manifest + enforcement (closes #2)## 0.34.2-edge.160a563, 2026-06-07
 
