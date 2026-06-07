@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.34.0-edge.6a15e4b, 2026-06-07
+## 0.34.1-edge.abf6c69, 2026-06-07
+
+- [`abf6c69`](https://github.com/dmellok/tesserae/commit/abf6c695e2d2ccd9d060a2367bfe5dc7f50eb77a) refactor: rename Plugins → Widgets in the UI + docs## 0.34.0-edge.6a15e4b, 2026-06-07
 
 - [`6a15e4b`](https://github.com/dmellok/tesserae/commit/6a15e4b075fef96a9f75da313581d9ba6565bc35) docs: catalog publishing flow + bundle + choices_from coverage## 0.34.0-edge.ed89a02, 2026-06-07
 
