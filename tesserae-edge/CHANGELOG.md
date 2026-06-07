@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.41.1-edge.0cc9625, 2026-06-07
+## 0.41.2-edge.d8944d5, 2026-06-07
 
-[`0cc9625`](https://github.com/dmellok/tesserae/commit/0cc9625b1c7b506de3449f1cdf1535d4422d1598) 0.41.1: Browse uninstall for pre-bundled widgets + verified badge
+[`d8944d5`](https://github.com/dmellok/tesserae/commit/d8944d53b55dc0c1be55b9dca202c12a7d641d41) 0.41.2: gallery picker grouping + matting white default + inner border curves
 
 ---
 
