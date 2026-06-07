@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.34.2-edge.3cf0a4b, 2026-06-07
+## 0.34.2-edge.160a563, 2026-06-07
+
+- [`160a563`](https://github.com/dmellok/tesserae/commit/160a5636fff0f4f2b15ec312b95333c8ccbbf246) docs: hero+list sizing trap + friendlier server.py errors## 0.34.2-edge.3cf0a4b, 2026-06-07
 
 - [`3cf0a4b`](https://github.com/dmellok/tesserae/commit/3cf0a4b57c521cc7e54f89696d3cb12026cedaff) feat(ui): topbar battery indicator + cleaner low-battery overlay## 0.34.1-edge.abf6c69, 2026-06-07
 
