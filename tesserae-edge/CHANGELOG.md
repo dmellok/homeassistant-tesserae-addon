@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.34.1-edge.abf6c69, 2026-06-07
+## 0.34.2-edge.3cf0a4b, 2026-06-07
+
+- [`3cf0a4b`](https://github.com/dmellok/tesserae/commit/3cf0a4b57c521cc7e54f89696d3cb12026cedaff) feat(ui): topbar battery indicator + cleaner low-battery overlay## 0.34.1-edge.abf6c69, 2026-06-07
 
 - [`abf6c69`](https://github.com/dmellok/tesserae/commit/abf6c695e2d2ccd9d060a2367bfe5dc7f50eb77a) refactor: rename Plugins → Widgets in the UI + docs## 0.34.0-edge.6a15e4b, 2026-06-07
 
