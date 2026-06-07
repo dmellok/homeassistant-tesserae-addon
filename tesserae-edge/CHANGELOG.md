@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.35.1-edge.1c25b72, 2026-06-07
+## 0.35.2-edge.708ad9b, 2026-06-07
+
+- [`708ad9b`](https://github.com/dmellok/tesserae/commit/708ad9bde12fb5156ee0e12e87d1e853154061ee) fix(marketplace): stretch card thumbnails to fill (object-fit: fill)## 0.35.1-edge.1c25b72, 2026-06-07
 
 - [`1c25b72`](https://github.com/dmellok/tesserae/commit/1c25b721f118190fc1b825ea52171fab610bd771) fix(marketplace): tighten Browse card thumbnail to match lg cell## 0.35.0-edge.7bc8c28, 2026-06-07
 
