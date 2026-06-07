@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.35.2-edge.318e30b, 2026-06-07
+## 0.36.0-edge.fdbf48a, 2026-06-07
 
-[`318e30b`](https://github.com/dmellok/tesserae/commit/318e30bb27d3e0dcbea6ded70d493d13cf9a7cb5) ci(sync-addon): rewrite add-on CHANGELOG per bump, not append
+[`fdbf48a`](https://github.com/dmellok/tesserae/commit/fdbf48ac5d0d24b5022a416681622535fea8beba) fix(ha): unblock backup restore + data import in Docker / HA add-on
 
 ---
 
