@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.41.2-edge.8b91b36, 2026-06-07
+## 0.41.2-edge.c070808, 2026-06-07
 
-[`8b91b36`](https://github.com/dmellok/tesserae/commit/8b91b363fe26c7a9d6c0e5eb645e187657155741) docs: community widgets gallery page + generator
+[`c070808`](https://github.com/dmellok/tesserae/commit/c070808efd9993bf02c4ac9aa31a2c26320b12f8) ruff format gen_community_gallery.py (CI fix)
 
 ---
 
