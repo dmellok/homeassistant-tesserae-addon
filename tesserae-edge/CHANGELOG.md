@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.38.0-edge.00a0480, 2026-06-07
+## 0.39.0-edge.0932f26, 2026-06-07
 
-[`00a0480`](https://github.com/dmellok/tesserae/commit/00a04808ab5b063e8009c3610492df7d89c034e8) chore(plugins): move F1 family to community catalog (breaking)
+[`0932f26`](https://github.com/dmellok/tesserae/commit/0932f265da42b8c24adaec0cb63c666afc04200c) chore(plugins): move Spotify family to community catalog (breaking)
 
 ---
 
