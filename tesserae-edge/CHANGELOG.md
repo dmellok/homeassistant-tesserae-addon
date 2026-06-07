@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.36.0-edge.fdbf48a, 2026-06-07
+## 0.36.1-edge.534554e, 2026-06-07
 
-[`fdbf48a`](https://github.com/dmellok/tesserae/commit/fdbf48ac5d0d24b5022a416681622535fea8beba) fix(ha): unblock backup restore + data import in Docker / HA add-on
+[`534554e`](https://github.com/dmellok/tesserae/commit/534554e766a1d2664971016ff083684994b48285) fix(docker): re-couple Playwright pip pin to base image (v1.60)
 
 ---
 
