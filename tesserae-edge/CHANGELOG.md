@@ -1,6 +1,8 @@
 # Changelog
 
-## 0.34.2-edge.160a563, 2026-06-07
+## 0.35.0-edge.7bc8c28, 2026-06-07
+
+- [`7bc8c28`](https://github.com/dmellok/tesserae/commit/7bc8c282aaed56d5608529ce66d6c79fecdb767d) feat(security): widget capability manifest + enforcement (closes #2)## 0.34.2-edge.160a563, 2026-06-07
 
 - [`160a563`](https://github.com/dmellok/tesserae/commit/160a5636fff0f4f2b15ec312b95333c8ccbbf246) docs: hero+list sizing trap + friendlier server.py errors## 0.34.2-edge.3cf0a4b, 2026-06-07
 
