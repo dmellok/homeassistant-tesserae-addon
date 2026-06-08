@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.42.3-edge.b562121, 2026-06-08
+## 0.43.0-edge.42f4940, 2026-06-08
 
-[`b562121`](https://github.com/dmellok/tesserae/commit/b56212138a6db010eb9156bf3fe678cd35bfa2a0) docs: refresh README + plugin manifests for 0.38-0.42 state
+[`42f4940`](https://github.com/dmellok/tesserae/commit/42f49404cc4b9b0a7eecd8211403e38b83a82253) 0.43.0: gradient + vivid theme families, theme builder gradient, mobile themes UI, base16 removal
 
 ---
 
