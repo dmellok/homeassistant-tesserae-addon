@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.42.1-edge.002a92c, 2026-06-08
+## 0.42.2-edge.37b6c00, 2026-06-08
 
-[`002a92c`](https://github.com/dmellok/tesserae/commit/002a92c50407c4c4a12a3d1e0ebcdbebead5b747) fix(telemetry): annotate effective_interval as int | None for mypy strict
+[`37b6c00`](https://github.com/dmellok/tesserae/commit/37b6c00bce27be6ff3356ad2913463f3b87cb55e) 0.42.2: marketplace widgets persist across Docker / HA image upgrades
 
 ---
 
