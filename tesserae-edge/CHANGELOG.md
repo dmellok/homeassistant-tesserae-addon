@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.43.0-edge.42f4940, 2026-06-08
+## 0.43.0-edge.7855c30, 2026-06-08
 
-[`42f4940`](https://github.com/dmellok/tesserae/commit/42f49404cc4b9b0a7eecd8211403e38b83a82253) 0.43.0: gradient + vivid theme families, theme builder gradient, mobile themes UI, base16 removal
+[`7855c30`](https://github.com/dmellok/tesserae/commit/7855c30530ad021adb35152c47cf63d75716d413) docs: add UI screenshots to README
 
 ---
 
