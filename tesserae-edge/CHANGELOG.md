@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.42.2-edge.d65ef4d, 2026-06-08
+## 0.42.2-edge.cbf560e, 2026-06-08
 
-[`d65ef4d`](https://github.com/dmellok/tesserae/commit/d65ef4db83558575d02020329b1e248df017d7f3) docs: Spotify widget setup guide for Home Assistant
+[`cbf560e`](https://github.com/dmellok/tesserae/commit/cbf560eed59a132f1f06aa3856443b4cb3daa69d) docs: Umami analytics + security section on the Spotify HA guide
 
 ---
 
