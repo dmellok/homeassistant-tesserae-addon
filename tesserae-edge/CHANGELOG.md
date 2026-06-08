@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.41.2-edge.c070808, 2026-06-07
+## 0.42.0-edge.1d9257e, 2026-06-08
 
-[`c070808`](https://github.com/dmellok/tesserae/commit/c070808efd9993bf02c4ac9aa31a2c26320b12f8) ruff format gen_community_gallery.py (CI fix)
+[`1d9257e`](https://github.com/dmellok/tesserae/commit/1d9257ed70253974540fb9b5ac7400f67f65502e) 0.42.0: smart sync (JIT rendering) + UI polish
 
 ---
 
