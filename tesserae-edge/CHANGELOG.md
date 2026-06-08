@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.42.2-edge.cbf560e, 2026-06-08
+## 0.42.3-edge.b562121, 2026-06-08
 
-[`cbf560e`](https://github.com/dmellok/tesserae/commit/cbf560eed59a132f1f06aa3856443b4cb3daa69d) docs: Umami analytics + security section on the Spotify HA guide
+[`b562121`](https://github.com/dmellok/tesserae/commit/b56212138a6db010eb9156bf3fe678cd35bfa2a0) docs: refresh README + plugin manifests for 0.38-0.42 state
 
 ---
 
