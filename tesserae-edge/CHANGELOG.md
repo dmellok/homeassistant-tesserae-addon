@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.43.2-edge.c653198, 2026-06-08
+## 0.43.3-edge.a30c84b, 2026-06-08
 
-[`c653198`](https://github.com/dmellok/tesserae/commit/c653198d16a45228e06f244931500f5c44343c3a) 0.43.2: drop firmware-prompts/sleep-until-clock-skew-fix.md
+[`a30c84b`](https://github.com/dmellok/tesserae/commit/a30c84b4f1ca3b77460a3a48dca3b55d4132d0ac) 0.43.3: clock_word capitalisation consistency
 
 ---
 
