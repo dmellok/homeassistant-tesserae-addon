@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.43.1-edge.fba94c6, 2026-06-08
+## 0.43.2-edge.c653198, 2026-06-08
 
-[`fba94c6`](https://github.com/dmellok/tesserae/commit/fba94c6b5fadbd40286c25ca10d710189c1823a6) 0.43.1: smart sync defensive fallback when sleep_until disagrees with next_sleep_s
+[`c653198`](https://github.com/dmellok/tesserae/commit/c653198d16a45228e06f244931500f5c44343c3a) 0.43.2: drop firmware-prompts/sleep-until-clock-skew-fix.md
 
 ---
 
