@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.42.0-edge.1d9257e, 2026-06-08
+## 0.42.1-edge.002a92c, 2026-06-08
 
-[`1d9257e`](https://github.com/dmellok/tesserae/commit/1d9257ed70253974540fb9b5ac7400f67f65502e) 0.42.0: smart sync (JIT rendering) + UI polish
+[`002a92c`](https://github.com/dmellok/tesserae/commit/002a92c50407c4c4a12a3d1e0ebcdbebead5b747) fix(telemetry): annotate effective_interval as int | None for mypy strict
 
 ---
 
