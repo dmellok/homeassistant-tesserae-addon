@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.42.2-edge.37b6c00, 2026-06-08
+## 0.42.2-edge.d65ef4d, 2026-06-08
 
-[`37b6c00`](https://github.com/dmellok/tesserae/commit/37b6c00bce27be6ff3356ad2913463f3b87cb55e) 0.42.2: marketplace widgets persist across Docker / HA image upgrades
+[`d65ef4d`](https://github.com/dmellok/tesserae/commit/d65ef4db83558575d02020329b1e248df017d7f3) docs: Spotify widget setup guide for Home Assistant
 
 ---
 
