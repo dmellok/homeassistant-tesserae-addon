@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.43.5-edge.27e7f9e, 2026-06-09
+## 0.43.6-edge.3951174, 2026-06-09
 
-[`27e7f9e`](https://github.com/dmellok/tesserae/commit/27e7f9e8fa9663a876d2ab11976bd2f20a5f7532) 0.43.5: official TRMNL DIY-kit headers + placeholder-token pairing UX
+[`3951174`](https://github.com/dmellok/tesserae/commit/395117410e5c4505ed14c2e385ea5ac5aa214354) 0.43.6: /api/setup mints real tokens for unrecognised TRMNL clients
 
 ---
 
