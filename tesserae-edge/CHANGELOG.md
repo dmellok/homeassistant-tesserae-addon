@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.44.2-edge.fbc6eb7, 2026-06-09
+## 0.44.3-edge.a34ebcc, 2026-06-09
 
-[`fbc6eb7`](https://github.com/dmellok/tesserae/commit/fbc6eb7fe8347c65125f823d56c1ba6201b9e63a) 0.44.2: /api/display also auto-provisions on novel MAC
+[`a34ebcc`](https://github.com/dmellok/tesserae/commit/a34ebcc999bfaa5af35c5cf18f940db21d600b8f) 0.44.3: TRMNL Add-device + token-reveal copy aligned with auto-provision model
 
 ---
 
