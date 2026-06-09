@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.44.0-edge.bb0d84a, 2026-06-09
+## 0.44.1-edge.4562c00, 2026-06-09
 
-[`bb0d84a`](https://github.com/dmellok/tesserae/commit/bb0d84a5d382b54dcaef59a135fd665329df4e75) 0.44.0: BYOS Tier 1 — full TRMNL protocol compliance
+[`4562c00`](https://github.com/dmellok/tesserae/commit/4562c00dba6729801947dabbc074b35e98476788) 0.44.1: full Terminus BYOS parity (MAC auth + auto-provision)
 
 ---
 
