@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.44.4-edge.ecc747a, 2026-06-09
+## 0.44.5-edge.ff4a4db, 2026-06-09
 
-[`ecc747a`](https://github.com/dmellok/tesserae/commit/ecc747a6115529ec05518c2431c7bb847a8c1f61) 0.44.4: README slim-down + new hero + admin gallery wiki page
+[`ff4a4db`](https://github.com/dmellok/tesserae/commit/ff4a4db3a8ed959cc4a48db231b17cd94e90f5f4) 0.44.5: re-encode README images, smaller files
 
 ---
 
