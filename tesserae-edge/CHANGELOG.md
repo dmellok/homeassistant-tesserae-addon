@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.43.7-edge.d3e5917, 2026-06-09
+## 0.44.0-edge.bb0d84a, 2026-06-09
 
-[`d3e5917`](https://github.com/dmellok/tesserae/commit/d3e5917047eee88fa2d24d3380f007d1a61ec922) 0.43.7: ruff format CI fix
+[`bb0d84a`](https://github.com/dmellok/tesserae/commit/bb0d84a5d382b54dcaef59a135fd665329df4e75) 0.44.0: BYOS Tier 1 — full TRMNL protocol compliance
 
 ---
 
