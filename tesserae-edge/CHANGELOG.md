@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.44.3-edge.a34ebcc, 2026-06-09
+## 0.44.4-edge.ecc747a, 2026-06-09
 
-[`a34ebcc`](https://github.com/dmellok/tesserae/commit/a34ebcc999bfaa5af35c5cf18f940db21d600b8f) 0.44.3: TRMNL Add-device + token-reveal copy aligned with auto-provision model
+[`ecc747a`](https://github.com/dmellok/tesserae/commit/ecc747a6115529ec05518c2431c7bb847a8c1f61) 0.44.4: README slim-down + new hero + admin gallery wiki page
 
 ---
 
