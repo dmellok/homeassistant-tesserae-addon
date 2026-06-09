@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.44.1-edge.4562c00, 2026-06-09
+## 0.44.2-edge.fbc6eb7, 2026-06-09
 
-[`4562c00`](https://github.com/dmellok/tesserae/commit/4562c00dba6729801947dabbc074b35e98476788) 0.44.1: full Terminus BYOS parity (MAC auth + auto-provision)
+[`fbc6eb7`](https://github.com/dmellok/tesserae/commit/fbc6eb7fe8347c65125f823d56c1ba6201b9e63a) 0.44.2: /api/display also auto-provisions on novel MAC
 
 ---
 
