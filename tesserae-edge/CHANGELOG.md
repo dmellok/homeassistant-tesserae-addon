@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.44.9-edge.cdc56ab, 2026-06-10
+## 0.44.10-edge.fc5c9d3, 2026-06-10
 
-[`cdc56ab`](https://github.com/dmellok/tesserae/commit/cdc56abd6ea9850ca563be361ab071986c8d4929) 0.44.9: accept TRMNL Battery-Voltage as decimal volts (e.g. '3.86')
+[`fc5c9d3`](https://github.com/dmellok/tesserae/commit/fc5c9d35760457060bb668213013cfa1df6bb279) 0.44.10: forward app timezone setting to Playwright Chromium
 
 ---
 
