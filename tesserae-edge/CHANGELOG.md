@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.45.4-edge.7385c62, 2026-06-10
+## 0.45.5-edge.3a2ba95, 2026-06-10
 
-[`7385c62`](https://github.com/dmellok/tesserae/commit/7385c626ff9d908b647eaad3e224c9a87c1d6dc6) rotations form: 4-column grid + equal field heights
+[`3a2ba95`](https://github.com/dmellok/tesserae/commit/3a2ba958fcf78f2605439ed1d802e263c1c1998e) history: render rotation source-chip with the shuffle icon
 
 ---
 
