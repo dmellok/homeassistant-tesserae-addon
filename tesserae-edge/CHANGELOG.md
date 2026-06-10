@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.44.8-edge.8116c7c, 2026-06-10
+## 0.44.9-edge.cdc56ab, 2026-06-10
 
-[`8116c7c`](https://github.com/dmellok/tesserae/commit/8116c7c62afeaad231f4626e43d29fc2142bdd4e) 0.44.8: TRMNL battery in topbar + HA discovery, BYOS envelope alignment
+[`cdc56ab`](https://github.com/dmellok/tesserae/commit/cdc56abd6ea9850ca563be361ab071986c8d4929) 0.44.9: accept TRMNL Battery-Voltage as decimal volts (e.g. '3.86')
 
 ---
 
