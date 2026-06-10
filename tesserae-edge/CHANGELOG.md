@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.44.5-edge.ff4a4db, 2026-06-09
+## 0.44.6-edge.9af5b0a, 2026-06-10
 
-[`ff4a4db`](https://github.com/dmellok/tesserae/commit/ff4a4db3a8ed959cc4a48db231b17cd94e90f5f4) 0.44.5: re-encode README images, smaller files
+[`9af5b0a`](https://github.com/dmellok/tesserae/commit/9af5b0a76805280c55f656e40230044720ec26f8) 0.44.6: inline schedules card on page editor + mobile sticky preview + doc audit
 
 ---
 
