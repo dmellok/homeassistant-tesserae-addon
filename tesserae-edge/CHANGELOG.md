@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.44.11-edge.43bc193, 2026-06-10
+## 0.45.0-edge.dd81b91, 2026-06-10
 
-[`43bc193`](https://github.com/dmellok/tesserae/commit/43bc1935bddf5ffcf6116be8da21661dcb5d7fa4) 0.44.11: dev gallery sample for calendar_schedule community widget
+[`dd81b91`](https://github.com/dmellok/tesserae/commit/dd81b913fcf78877f1b24db5f4e1f3866ce3f67d) 0.45.0: Rotations, cycle dashboards on a wall-clock anchor
 
 ---
 
