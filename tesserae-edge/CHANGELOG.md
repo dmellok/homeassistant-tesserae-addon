@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.44.6-edge.9af5b0a, 2026-06-10
+## 0.44.7-edge.695d8c7, 2026-06-10
 
-[`9af5b0a`](https://github.com/dmellok/tesserae/commit/9af5b0a76805280c55f656e40230044720ec26f8) 0.44.6: inline schedules card on page editor + mobile sticky preview + doc audit
+[`695d8c7`](https://github.com/dmellok/tesserae/commit/695d8c7486921cc4efbfcf21c5c7c56bd9d552e2) 0.44.7: cell-dim-aware plugin ctx + blur-deferred preview for text inputs
 
 ---
 
