@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.44.10-edge.fc5c9d3, 2026-06-10
+## 0.44.11-edge.43bc193, 2026-06-10
 
-[`fc5c9d3`](https://github.com/dmellok/tesserae/commit/fc5c9d35760457060bb668213013cfa1df6bb279) 0.44.10: forward app timezone setting to Playwright Chromium
+[`43bc193`](https://github.com/dmellok/tesserae/commit/43bc1935bddf5ffcf6116be8da21661dcb5d7fa4) 0.44.11: dev gallery sample for calendar_schedule community widget
 
 ---
 
