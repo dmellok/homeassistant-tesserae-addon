@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.45.1-edge.78341fe, 2026-06-10
+## 0.45.2-edge.5184620, 2026-06-10
 
-[`78341fe`](https://github.com/dmellok/tesserae/commit/78341fe47256ebfe1405071850b613cccab10ca0) rotations: device-checklist styling + fix Add Step button
+[`5184620`](https://github.com/dmellok/tesserae/commit/5184620a4fde9bd771269dc4d7318d8da4eaad34) 0.45.2: rotations editor drops device picker, shows page-bound devices under each step
 
 ---
 
