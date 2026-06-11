@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.46.0-edge.44a7244, 2026-06-11
+## 0.46.1-edge.d28b35b, 2026-06-11
 
-[`44a7244`](https://github.com/dmellok/tesserae/commit/44a7244024044ed4f5104c77e980d756cc8c17a7) Add esp32_bw_client device + esp32_bw_bin 1-bpp renderer
+[`d28b35b`](https://github.com/dmellok/tesserae/commit/d28b35b2036f3a41543223cc4a29fcfa250c8ea0) 0.46.1: stop calling Seeed-built hardware 'native TRMNL hardware'
 
 ---
 
