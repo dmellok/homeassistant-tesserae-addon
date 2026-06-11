@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.45.5-edge.3a2ba95, 2026-06-10
+## 0.45.6-edge.0c84085, 2026-06-11
 
-[`3a2ba95`](https://github.com/dmellok/tesserae/commit/3a2ba958fcf78f2605439ed1d802e263c1c1998e) history: render rotation source-chip with the shuffle icon
+[`0c84085`](https://github.com/dmellok/tesserae/commit/0c840859cb7ece3d347cef279ee6cca556815ab0) docs: audit + fix install guides against current code
 
 ---
 
