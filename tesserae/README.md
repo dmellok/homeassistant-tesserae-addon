@@ -3,7 +3,7 @@
 Self-hosted dashboard companion for e-ink panels. Compose tile-based
 dashboards in a browser, render them headless, and push to your Pi /
 ESP32 panels (MQTT) or polled clients like a jailbroken Kindle running
-KOReader or native TRMNL hardware (HTTP).
+KOReader or a TRMNL device (HTTP).
 
 ## Installation
 

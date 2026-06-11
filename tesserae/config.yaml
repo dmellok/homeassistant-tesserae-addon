@@ -1,7 +1,7 @@
 name: Tesserae
 version: "0.45.5"
 slug: tesserae
-description: Self-hosted dashboard companion for e-ink panels. Compose dashboards in a browser, render headless, push to your Pi / ESP32 / Kindle / TRMNL hardware.
+description: Self-hosted dashboard companion for e-ink panels. Compose dashboards in a browser, render headless, push to your Pi / ESP32 / Kindle / TRMNL device.
 url: https://github.com/dmellok/tesserae
 arch:
   - aarch64
@@ -15,7 +15,7 @@ panel_icon: mdi:view-quilt
 panel_title: Tesserae
 ports:
   # Also expose port 8765 on the host so MQTT-push devices, jailbroken
-  # Kindles, native TRMNL hardware, and Home Assistant's generic-camera
+  # Kindles, TRMNL devices, and Home Assistant's generic-camera
   # integration can reach Tesserae directly. The ingress proxy is only
   # for the UI inside the HA iframe.
   "8765/tcp": 8765

@@ -19,7 +19,7 @@ dashboards and edge experiments stay completely separate.
 
 The edge add-on exposes the API on **host port 8766** (stable lives on
 8765) so both can run side-by-side and both are reachable from LAN
-clients (MQTT-push panels, jailbroken Kindles, native TRMNL hardware)
+clients (MQTT-push panels, jailbroken Kindles, TRMNL devices)
 and Home Assistant's generic-camera integration. The UI is also
 reachable via the HA sidebar through ingress.
 

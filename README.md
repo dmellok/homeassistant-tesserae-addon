@@ -5,8 +5,8 @@ as a Home Assistant app so HA users can install it from the
 Supervisor's app store. Tesserae is a self-hosted dashboard
 companion for e-ink panels: compose dashboards in a browser, render
 them server-side, push the resulting frame to your Pi / ESP32 panels
-(MQTT) or polled clients like a jailbroken Kindle or native TRMNL
-hardware (HTTP).
+(MQTT) or polled clients like a jailbroken Kindle or a TRMNL device
+(HTTP).
 
 ## Install
 
