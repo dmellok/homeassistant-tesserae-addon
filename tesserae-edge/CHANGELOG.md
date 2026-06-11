@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.45.6-edge.0c84085, 2026-06-11
+## 0.45.7-edge.d3ea2a1, 2026-06-11
 
-[`0c84085`](https://github.com/dmellok/tesserae/commit/0c840859cb7ece3d347cef279ee6cca556815ab0) docs: audit + fix install guides against current code
+[`d3ea2a1`](https://github.com/dmellok/tesserae/commit/d3ea2a1124ab2cf84dceb1a7fd8898ab52e42e95) docs: refresh community widget gallery + auto-refresh on cron + dispatch
 
 ---
 
