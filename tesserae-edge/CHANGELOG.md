@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.46.3-edge.f7417df, 2026-06-12
+## 0.46.4-edge.5ee92aa, 2026-06-12
 
-[`f7417df`](https://github.com/dmellok/tesserae/commit/f7417dfeaad3228a51b3e90d997ba04be4fef94a) 0.46.3: proper home-screen icons across iOS / macOS / Android / Windows
+[`5ee92aa`](https://github.com/dmellok/tesserae/commit/5ee92aa20b6d292e7bf917aeffbac9b3241ed56d) 0.46.4: document esp32_bw + photopainter clients in README and docs
 
 ---
 
