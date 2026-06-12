@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.46.2-edge.35b6ca7, 2026-06-12
+## 0.46.3-edge.f7417df, 2026-06-12
 
-[`35b6ca7`](https://github.com/dmellok/tesserae/commit/35b6ca720fa510bf671d9a462b66091c573febbe) 0.46.2: credit TRMNL + Terminus in README and credits page
+[`f7417df`](https://github.com/dmellok/tesserae/commit/f7417dfeaad3228a51b3e90d997ba04be4fef94a) 0.46.3: proper home-screen icons across iOS / macOS / Android / Windows
 
 ---
 
