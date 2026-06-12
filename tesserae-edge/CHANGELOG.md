@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.46.1-edge.d28b35b, 2026-06-11
+## 0.46.2-edge.35b6ca7, 2026-06-12
 
-[`d28b35b`](https://github.com/dmellok/tesserae/commit/d28b35b2036f3a41543223cc4a29fcfa250c8ea0) 0.46.1: stop calling Seeed-built hardware 'native TRMNL hardware'
+[`35b6ca7`](https://github.com/dmellok/tesserae/commit/35b6ca720fa510bf671d9a462b66091c573febbe) 0.46.2: credit TRMNL + Terminus in README and credits page
 
 ---
 
