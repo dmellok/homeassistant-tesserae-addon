@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.47.0-edge.5e43dc3, 2026-06-13
+## 0.47.1-edge.ca8f04c, 2026-06-13
 
-[`5e43dc3`](https://github.com/dmellok/tesserae/commit/5e43dc322aed6153685702961ba3d70ba890958a) 0.47.0: rotations live countdown + "play this step now" override
+[`ca8f04c`](https://github.com/dmellok/tesserae/commit/ca8f04c84596b113d1a0f447b5cafe366d2e5b49) 0.47.1: fix editor reverting cell config + multi-device layout corruption
 
 ---
 
