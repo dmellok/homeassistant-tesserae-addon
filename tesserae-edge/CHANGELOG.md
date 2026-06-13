@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.46.8-edge.1518f38, 2026-06-13
+## 0.46.9-edge.cc56a4a, 2026-06-13
 
-[`1518f38`](https://github.com/dmellok/tesserae/commit/1518f386bfb516a3673160239cab563d05f150f0) 0.46.8: allow variables_textarea in plugin.schema.json
+[`cc56a4a`](https://github.com/dmellok/tesserae/commit/cc56a4aadaaeb24cafde42915e1d483d2af86eb2) 0.46.9: drop plugins/ai_* + regenerated docs screenshots from 0.46.8
 
 ---
 
