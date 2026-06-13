@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.46.6-edge.9c2b05b, 2026-06-12
+## 0.46.7-edge.e2963c1, 2026-06-13
 
-[`9c2b05b`](https://github.com/dmellok/tesserae/commit/9c2b05be743d5977efeb01aa5260ea80d079978d) 0.46.6: show GitHub star counts on community widget catalog cards
+[`e2963c1`](https://github.com/dmellok/tesserae/commit/e2963c1fa9ffcb5bae5e61c234552c33677c24b8) 0.46.7: variables_textarea field type + home location in widget ctx
 
 ---
 
