@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.46.9-edge.cc56a4a, 2026-06-13
+## 0.46.10-edge.fb89126, 2026-06-13
 
-[`cc56a4a`](https://github.com/dmellok/tesserae/commit/cc56a4aadaaeb24cafde42915e1d483d2af86eb2) 0.46.9: drop plugins/ai_* + regenerated docs screenshots from 0.46.8
+[`fb89126`](https://github.com/dmellok/tesserae/commit/fb89126026dfbb224e841b845d15ceb9cb22b2c8) 0.46.10: drop _ai_brief test sample from widget_samples.py
 
 ---
 
