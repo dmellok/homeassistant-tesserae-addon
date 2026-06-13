@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.47.2-edge.3f39600, 2026-06-13
+## 0.47.3-edge.9a19e70, 2026-06-13
 
-[`3f39600`](https://github.com/dmellok/tesserae/commit/3f39600e261720171ce61361ab1059ab5f8e3f61) add Paper + Newsprint themes for B&W e-ink panels
+[`9a19e70`](https://github.com/dmellok/tesserae/commit/9a19e7024fa0c017ab98a62c25fcd7425343bfdd) 0.47.3: smart sync (JIT rendering) for rotations
 
 ---
 
