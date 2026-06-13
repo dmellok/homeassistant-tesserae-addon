@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.47.3-edge.9a19e70, 2026-06-13
+## 0.47.4-edge.80ff119, 2026-06-13
 
-[`9a19e70`](https://github.com/dmellok/tesserae/commit/9a19e7024fa0c017ab98a62c25fcd7425343bfdd) 0.47.3: smart sync (JIT rendering) for rotations
+[`80ff119`](https://github.com/dmellok/tesserae/commit/80ff11938864afe3baeee8b6a72bad25a1fb8555) 0.47.4: carousel preview for marketplace screenshots
 
 ---
 
