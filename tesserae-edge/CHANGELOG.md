@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.46.10-edge.fb89126, 2026-06-13
+## 0.47.0-edge.5e43dc3, 2026-06-13
 
-[`fb89126`](https://github.com/dmellok/tesserae/commit/fb89126026dfbb224e841b845d15ceb9cb22b2c8) 0.46.10: drop _ai_brief test sample from widget_samples.py
+[`5e43dc3`](https://github.com/dmellok/tesserae/commit/5e43dc322aed6153685702961ba3d70ba890958a) 0.47.0: rotations live countdown + "play this step now" override
 
 ---
 
