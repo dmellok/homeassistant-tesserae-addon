@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.47.4-edge.80ff119, 2026-06-13
+## 0.47.5-edge.1afa5e8, 2026-06-13
 
-[`80ff119`](https://github.com/dmellok/tesserae/commit/80ff11938864afe3baeee8b6a72bad25a1fb8555) 0.47.4: carousel preview for marketplace screenshots
+[`1afa5e8`](https://github.com/dmellok/tesserae/commit/1afa5e8ea85b602e3a7dd5c0f39c31d634f0e3d4) 0.47.5: add segno (QR code) as a host dependency
 
 ---
 
