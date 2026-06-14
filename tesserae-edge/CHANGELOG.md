@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.47.8-edge.370e82c, 2026-06-14
+## 0.47.9-edge.2cbf29a, 2026-06-14
 
-[`370e82c`](https://github.com/dmellok/tesserae/commit/370e82cfbb7a244dc55f3db457c50aca2c6f4bee) 0.47.8: themes as a catalog kind (single + packs)
+[`2cbf29a`](https://github.com/dmellok/tesserae/commit/2cbf29a02065967a133159947cc5f46380099443) 0.47.9: extract Vivid + Gradient themes to community catalog
 
 ---
 
