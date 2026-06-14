@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.47.10-edge.6ae8b11, 2026-06-14
+## 0.47.11-edge.acfd785, 2026-06-14
 
-[`6ae8b11`](https://github.com/dmellok/tesserae/commit/6ae8b11656b8e4937c1ff9e435c6ca1c66e93f62) 0.47.10: fix CI failures from 0.47.8 / 0.47.9
+[`acfd785`](https://github.com/dmellok/tesserae/commit/acfd785674b65ad54ad69fdc02c4cca830372201) 0.47.11: kind filter chips on Browse page
 
 ---
 
