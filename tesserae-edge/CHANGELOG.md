@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.47.7-edge.e5b0184, 2026-06-14
+## 0.47.8-edge.370e82c, 2026-06-14
 
-[`e5b0184`](https://github.com/dmellok/tesserae/commit/e5b0184b9403f6de95170044782ea1ddd7c01ee8) 0.47.7: per-theme Show in picker toggle
+[`370e82c`](https://github.com/dmellok/tesserae/commit/370e82cfbb7a244dc55f3db457c50aca2c6f4bee) 0.47.8: themes as a catalog kind (single + packs)
 
 ---
 
