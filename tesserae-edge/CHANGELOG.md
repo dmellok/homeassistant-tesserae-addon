@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.47.6-edge.375639b, 2026-06-14
+## 0.47.7-edge.e5b0184, 2026-06-14
 
-[`375639b`](https://github.com/dmellok/tesserae/commit/375639bdeb1971345480d4b93bdd1ec356454d60) 0.47.6: group Dashboards list by device
+[`e5b0184`](https://github.com/dmellok/tesserae/commit/e5b0184b9403f6de95170044782ea1ddd7c01ee8) 0.47.7: per-theme Show in picker toggle
 
 ---
 
