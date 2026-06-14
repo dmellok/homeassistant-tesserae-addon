@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.47.9-edge.2cbf29a, 2026-06-14
+## 0.47.10-edge.6ae8b11, 2026-06-14
 
-[`2cbf29a`](https://github.com/dmellok/tesserae/commit/2cbf29a02065967a133159947cc5f46380099443) 0.47.9: extract Vivid + Gradient themes to community catalog
+[`6ae8b11`](https://github.com/dmellok/tesserae/commit/6ae8b11656b8e4937c1ff9e435c6ca1c66e93f62) 0.47.10: fix CI failures from 0.47.8 / 0.47.9
 
 ---
 
