@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.47.5-edge.1afa5e8, 2026-06-13
+## 0.47.6-edge.375639b, 2026-06-14
 
-[`1afa5e8`](https://github.com/dmellok/tesserae/commit/1afa5e8ea85b602e3a7dd5c0f39c31d634f0e3d4) 0.47.5: add segno (QR code) as a host dependency
+[`375639b`](https://github.com/dmellok/tesserae/commit/375639bdeb1971345480d4b93bdd1ec356454d60) 0.47.6: group Dashboards list by device
 
 ---
 
