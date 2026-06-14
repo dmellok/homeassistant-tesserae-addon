@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.47.11-edge.acfd785, 2026-06-14
+## 0.47.12-edge.eced63a, 2026-06-14
 
-[`acfd785`](https://github.com/dmellok/tesserae/commit/acfd785674b65ad54ad69fdc02c4cca830372201) 0.47.11: kind filter chips on Browse page
+[`eced63a`](https://github.com/dmellok/tesserae/commit/eced63a575b6cfc8ae86af9f9e3cc228c959ac09) 0.47.12: fix community/user themes not applying on panel push
 
 ---
 
