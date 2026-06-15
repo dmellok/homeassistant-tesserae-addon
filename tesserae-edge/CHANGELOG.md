@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.47.12-edge.eced63a, 2026-06-14
+## 0.47.13-edge.2fc90f8, 2026-06-15
 
-[`eced63a`](https://github.com/dmellok/tesserae/commit/eced63a575b6cfc8ae86af9f9e3cc228c959ac09) 0.47.12: fix community/user themes not applying on panel push
+[`2fc90f8`](https://github.com/dmellok/tesserae/commit/2fc90f8cbdb377c20430689e2f0b99d24f79025e) 0.47.13: add dev-gallery samples for new github_* widgets + devref_egress
 
 ---
 
