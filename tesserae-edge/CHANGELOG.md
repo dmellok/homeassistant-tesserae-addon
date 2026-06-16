@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.49.2-edge.d9b19c5, 2026-06-16
+## 0.49.3-edge.7bbd426, 2026-06-16
 
-[`d9b19c5`](https://github.com/dmellok/tesserae/commit/d9b19c5ab5bc773a5a92220b0325d06b92d2abcc) docs: drop Cloudflare Tunnel from Spotify HA setup guide
+[`7bbd426`](https://github.com/dmellok/tesserae/commit/7bbd4265b6adb950c2f55c41891086964006615c) 0.49.3: honour X-Forwarded-* headers from reverse proxy
 
 ---
 
