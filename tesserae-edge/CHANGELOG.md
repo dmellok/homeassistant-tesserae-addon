@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.48.0-edge.53a2548, 2026-06-16
+## 0.48.1-edge.cdf6baa, 2026-06-16
 
-[`53a2548`](https://github.com/dmellok/tesserae/commit/53a25481dca11e80aa9a8fa7f12f9f061410a33b) 0.48.0: conditional schedules + rotations
+[`cdf6baa`](https://github.com/dmellok/tesserae/commit/cdf6baadddab80849cafc102f7d1623c6a706851) 0.48.1: inline the rot-step conditions disclosure with the step row
 
 ---
 
