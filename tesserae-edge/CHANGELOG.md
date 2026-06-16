@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.48.1-edge.cdf6baa, 2026-06-16
+## 0.48.2-edge.7e76f55, 2026-06-16
 
-[`cdf6baa`](https://github.com/dmellok/tesserae/commit/cdf6baadddab80849cafc102f7d1623c6a706851) 0.48.1: inline the rot-step conditions disclosure with the step row
+[`7e76f55`](https://github.com/dmellok/tesserae/commit/7e76f558f7b48f2d1e2d904e90e6be3bc631ab20) 0.48.2: align expanded rot-step conditions textarea with page-select column
 
 ---
 
