@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.49.4-edge.eaf59f5, 2026-06-16
+## 0.49.5-edge.9184cf2, 2026-06-16
 
-[`eaf59f5`](https://github.com/dmellok/tesserae/commit/eaf59f5c5fc27170fa443aca961cf2f6117706fb) docs: rewrite Spotify HA guide around Public URL setting
+[`9184cf2`](https://github.com/dmellok/tesserae/commit/9184cf27b284b602c1a4ee71d635d9c3dee6991d) 0.49.5: Public URL no longer corrupts LAN device frame URLs
 
 ---
 
