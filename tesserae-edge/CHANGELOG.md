@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.47.17-edge.d75bd88, 2026-06-16
+## 0.48.0-edge.53a2548, 2026-06-16
 
-[`d75bd88`](https://github.com/dmellok/tesserae/commit/d75bd88e2171a40ad9c3872a40fcf86643ffad0b) 0.47.17: backfill CHANGELOG for 0.47.11 through 0.47.16
+[`53a2548`](https://github.com/dmellok/tesserae/commit/53a25481dca11e80aa9a8fa7f12f9f061410a33b) 0.48.0: conditional schedules + rotations
 
 ---
 
