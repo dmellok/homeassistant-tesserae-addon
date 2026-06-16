@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.49.2-edge.7ec768a, 2026-06-16
+## 0.49.2-edge.9609e77, 2026-06-16
 
-[`7ec768a`](https://github.com/dmellok/tesserae/commit/7ec768a3a282aeabab6c774242af2f6c6ce32882) 0.49.2: auto-detect TRMNL X panel size from Model header
+[`9609e77`](https://github.com/dmellok/tesserae/commit/9609e77db1e4d0e910370e30e49fec4fe41f82e7) docs: wire GitHub Sponsors button + README badge
 
 ---
 
