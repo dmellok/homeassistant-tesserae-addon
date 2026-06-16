@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.48.2-edge.7e76f55, 2026-06-16
+## 0.48.2-edge.ee0e861, 2026-06-16
 
-[`7e76f55`](https://github.com/dmellok/tesserae/commit/7e76f558f7b48f2d1e2d904e90e6be3bc631ab20) 0.48.2: align expanded rot-step conditions textarea with page-select column
+[`ee0e861`](https://github.com/dmellok/tesserae/commit/ee0e861045eb39153d81670e853934026dfc9588) 0.48.3: rot-step conditions as button + cap textarea right edge
 
 ---
 
