@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.49.0-edge.6b19ee4, 2026-06-16
+## 0.49.1-edge.dd35aeb, 2026-06-16
 
-[`6b19ee4`](https://github.com/dmellok/tesserae/commit/6b19ee43a429e2a81be06a344c6f98c0b448ecba) docs(readme): switch badges to flat-square + static license
+[`dd35aeb`](https://github.com/dmellok/tesserae/commit/dd35aeb69afe7ee78357b9d9246903d6771bb296) 0.49.1: TRMNL pushes no longer require an MQTT broker
 
 ---
 
