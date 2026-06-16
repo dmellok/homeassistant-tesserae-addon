@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.49.0-edge.4831bb4, 2026-06-16
+## 0.49.0-edge.6b19ee4, 2026-06-16
 
-[`4831bb4`](https://github.com/dmellok/tesserae/commit/4831bb4b410c203709ac4712d86b5737ff38d26a) docs: tighten 0.49.0 CHANGELOG widget wording
+[`6b19ee4`](https://github.com/dmellok/tesserae/commit/6b19ee43a429e2a81be06a344c6f98c0b448ecba) docs(readme): switch badges to flat-square + static license
 
 ---
 
