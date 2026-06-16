@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.48.5-edge.42700d9, 2026-06-16
+## 0.48.6-edge.0c5d240, 2026-06-16
 
-[`42700d9`](https://github.com/dmellok/tesserae/commit/42700d93f5873b968607d9a7e593336a6c216ebd) 0.48.5: match conditions button height to inputs + cap textarea width
+[`0c5d240`](https://github.com/dmellok/tesserae/commit/0c5d240eac3706ad7a1fc0c69bfc8b5156cc8109) 0.48.6: running-state pills + warm rotation timeline + full-width schedule conditions block
 
 ---
 
