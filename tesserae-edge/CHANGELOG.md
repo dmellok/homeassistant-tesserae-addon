@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.49.1-edge.dd35aeb, 2026-06-16
+## 0.49.2-edge.7ec768a, 2026-06-16
 
-[`dd35aeb`](https://github.com/dmellok/tesserae/commit/dd35aeb69afe7ee78357b9d9246903d6771bb296) 0.49.1: TRMNL pushes no longer require an MQTT broker
+[`7ec768a`](https://github.com/dmellok/tesserae/commit/7ec768a3a282aeabab6c774242af2f6c6ce32882) 0.49.2: auto-detect TRMNL X panel size from Model header
 
 ---
 
