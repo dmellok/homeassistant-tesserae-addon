@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.48.4-edge.c596684, 2026-06-16
+## 0.48.5-edge.42700d9, 2026-06-16
 
-[`c596684`](https://github.com/dmellok/tesserae/commit/c596684d18b953d978cb362f852afba7e28ce5e5) 0.48.4: pyproject bump (v0.48.3 missed the pyproject update; tag points at the CSS commit but version stayed at 0.48.2)
+[`42700d9`](https://github.com/dmellok/tesserae/commit/42700d93f5873b968607d9a7e593336a6c216ebd) 0.48.5: match conditions button height to inputs + cap textarea width
 
 ---
 
