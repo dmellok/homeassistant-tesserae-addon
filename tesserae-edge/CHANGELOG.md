@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.49.2-edge.9609e77, 2026-06-16
+## 0.49.2-edge.d9b19c5, 2026-06-16
 
-[`9609e77`](https://github.com/dmellok/tesserae/commit/9609e77db1e4d0e910370e30e49fec4fe41f82e7) docs: wire GitHub Sponsors button + README badge
+[`d9b19c5`](https://github.com/dmellok/tesserae/commit/d9b19c5ab5bc773a5a92220b0325d06b92d2abcc) docs: drop Cloudflare Tunnel from Spotify HA setup guide
 
 ---
 
