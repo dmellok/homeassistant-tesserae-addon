@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.48.6-edge.0c5d240, 2026-06-16
+## 0.49.0-edge.0237157, 2026-06-16
 
-[`0c5d240`](https://github.com/dmellok/tesserae/commit/0c5d240eac3706ad7a1fc0c69bfc8b5156cc8109) 0.48.6: running-state pills + warm rotation timeline + full-width schedule conditions block
+[`0237157`](https://github.com/dmellok/tesserae/commit/023715757d17cb8cc4486ac6e40b749646282683) 0.49.0: at-rest encryption for connector secrets + two calm desk widgets
 
 ---
 
