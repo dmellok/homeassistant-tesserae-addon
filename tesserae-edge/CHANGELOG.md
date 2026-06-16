@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.49.0-edge.0237157, 2026-06-16
+## 0.49.0-edge.4831bb4, 2026-06-16
 
-[`0237157`](https://github.com/dmellok/tesserae/commit/023715757d17cb8cc4486ac6e40b749646282683) 0.49.0: at-rest encryption for connector secrets + two calm desk widgets
+[`4831bb4`](https://github.com/dmellok/tesserae/commit/4831bb4b410c203709ac4712d86b5737ff38d26a) docs: tighten 0.49.0 CHANGELOG widget wording
 
 ---
 
