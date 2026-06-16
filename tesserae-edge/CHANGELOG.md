@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.49.3-edge.7bbd426, 2026-06-16
+## 0.49.4-edge.ee93c71, 2026-06-16
 
-[`7bbd426`](https://github.com/dmellok/tesserae/commit/7bbd4265b6adb950c2f55c41891086964006615c) 0.49.3: honour X-Forwarded-* headers from reverse proxy
+[`ee93c71`](https://github.com/dmellok/tesserae/commit/ee93c71251e8d9dbe3d2c8532e0bf26a73237191) 0.49.4: add Public URL override setting for reverse-proxy installs
 
 ---
 
