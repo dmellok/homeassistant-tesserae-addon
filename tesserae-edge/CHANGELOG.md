@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.48.2-edge.ee0e861, 2026-06-16
+## 0.48.4-edge.c596684, 2026-06-16
 
-[`ee0e861`](https://github.com/dmellok/tesserae/commit/ee0e861045eb39153d81670e853934026dfc9588) 0.48.3: rot-step conditions as button + cap textarea right edge
+[`c596684`](https://github.com/dmellok/tesserae/commit/c596684d18b953d978cb362f852afba7e28ce5e5) 0.48.4: pyproject bump (v0.48.3 missed the pyproject update; tag points at the CSS commit but version stayed at 0.48.2)
 
 ---
 
