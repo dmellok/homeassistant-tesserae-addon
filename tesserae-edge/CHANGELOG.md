@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.50.0-edge.df5a1f2, 2026-06-17
+## 0.50.1-edge.ddc4dfe, 2026-06-17
 
-[`df5a1f2`](https://github.com/dmellok/tesserae/commit/df5a1f28e42857b8fe45f03b8588a2d319fd1458) docs: update Tesserae's own LICENSE reference to AGPL-3.0-or-later
+[`ddc4dfe`](https://github.com/dmellok/tesserae/commit/ddc4dfe28a365ae3c675b702244ad6921ce27705) release: v0.50.1, docs alignment with renamed standalone repos
 
 ---
 
