@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.49.6-edge.1fca780, 2026-06-17
+## 0.50.0-edge.7ca8c65, 2026-06-17
 
-[`1fca780`](https://github.com/dmellok/tesserae/commit/1fca780e5f40525fbcb2962f9593f6e2ade9f762) 0.49.6: countdown_date + year_progress respond to cell size again
+[`7ca8c65`](https://github.com/dmellok/tesserae/commit/7ca8c650a3ef412528d253079ac20bafe4301954) 0.50.0: relicense MIT → AGPL-3.0-or-later
 
 ---
 
