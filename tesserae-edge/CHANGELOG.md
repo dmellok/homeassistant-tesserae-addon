@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.50.1-edge.ddc4dfe, 2026-06-17
+## 0.50.2-edge.9395dfd, 2026-06-17
 
-[`ddc4dfe`](https://github.com/dmellok/tesserae/commit/ddc4dfe28a365ae3c675b702244ad6921ce27705) release: v0.50.1, docs alignment with renamed standalone repos
+[`9395dfd`](https://github.com/dmellok/tesserae/commit/9395dfd072ec4ee86b88f7669b3a29e027c77f6b) fix: rotations + schedules edit form 500 when a step has a saved condition
 
 ---
 
