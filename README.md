@@ -62,4 +62,4 @@ the main project:
 
 ## Licence
 
-MIT, mirroring Tesserae itself.
+AGPL-3.0-or-later, mirroring Tesserae itself.
