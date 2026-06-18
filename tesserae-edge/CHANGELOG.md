@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.51.4-edge.22afa83, 2026-06-18
+## 0.51.5-edge.22b228b, 2026-06-18
 
-[`22afa83`](https://github.com/dmellok/tesserae/commit/22afa832502db95eb481713f64793927e6f066fb) release: v0.51.4, TRMNL battery history + quiet-hours noise + footer links
+[`22b228b`](https://github.com/dmellok/tesserae/commit/22b228b45d1e2e439dee1f01ba3295544238492f) release: v0.51.5, strip Referer from footer links + UTM campaign
 
 ---
 
