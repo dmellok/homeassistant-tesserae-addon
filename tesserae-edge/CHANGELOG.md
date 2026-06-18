@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.51.2-edge.5061530, 2026-06-18
+## 0.51.3-edge.ec987cd, 2026-06-18
 
-[`5061530`](https://github.com/dmellok/tesserae/commit/50615307e064c5ec7835e050e6c97c5fb62da8a4) release: v0.51.2, fix drawer battery item leaking into desktop top nav
+[`ec987cd`](https://github.com/dmellok/tesserae/commit/ec987cd8a942c4a6e30f71161dc4871792d86bba) release: v0.51.3, fix conditions silently fail-opening in prod
 
 ---
 
