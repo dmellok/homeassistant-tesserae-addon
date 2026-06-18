@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.51.1-edge.c2d1f0e, 2026-06-18
+## 0.51.2-edge.5061530, 2026-06-18
 
-[`c2d1f0e`](https://github.com/dmellok/tesserae/commit/c2d1f0e0fb4c165dd9b69203a3b5fbb4c74968de) release: v0.51.1, fix mypy --strict CI
+[`5061530`](https://github.com/dmellok/tesserae/commit/50615307e064c5ec7835e050e6c97c5fb62da8a4) release: v0.51.2, fix drawer battery item leaking into desktop top nav
 
 ---
 
