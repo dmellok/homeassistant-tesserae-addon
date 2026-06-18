@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.51.0-edge.cf0b73d, 2026-06-18
+## 0.51.1-edge.c2d1f0e, 2026-06-18
 
-[`cf0b73d`](https://github.com/dmellok/tesserae/commit/cf0b73dc51f721063626e4ec45255deefe669919) release: v0.51.0 — device battery widget + admin page + condition logging
+[`c2d1f0e`](https://github.com/dmellok/tesserae/commit/c2d1f0e0fb4c165dd9b69203a3b5fbb4c74968de) release: v0.51.1, fix mypy --strict CI
 
 ---
 
