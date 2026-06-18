@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.50.3-edge.103d3db, 2026-06-18
+## 0.51.0-edge.cf0b73d, 2026-06-18
 
-[`103d3db`](https://github.com/dmellok/tesserae/commit/103d3db619aa5355d8c640e881129af23157e8d0) release: v0.50.3, manual rotation Fire now honours step conditions
+[`cf0b73d`](https://github.com/dmellok/tesserae/commit/cf0b73dc51f721063626e4ec45255deefe669919) release: v0.51.0 — device battery widget + admin page + condition logging
 
 ---
 
