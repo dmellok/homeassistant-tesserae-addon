@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.51.5-edge.22b228b, 2026-06-18
+## 0.51.6-edge.50b46c4, 2026-06-18
 
-[`22b228b`](https://github.com/dmellok/tesserae/commit/22b228b45d1e2e439dee1f01ba3295544238492f) release: v0.51.5, strip Referer from footer links + UTM campaign
+[`50b46c4`](https://github.com/dmellok/tesserae/commit/50b46c4c3050e91f25a8c98e274d944c9fa750c2) fix: marketplace restart batches via topbar button (still 0.51.6)
 
 ---
 
