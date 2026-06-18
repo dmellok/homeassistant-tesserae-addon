@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.51.3-edge.ec987cd, 2026-06-18
+## 0.51.4-edge.22afa83, 2026-06-18
 
-[`ec987cd`](https://github.com/dmellok/tesserae/commit/ec987cd8a942c4a6e30f71161dc4871792d86bba) release: v0.51.3, fix conditions silently fail-opening in prod
+[`22afa83`](https://github.com/dmellok/tesserae/commit/22afa832502db95eb481713f64793927e6f066fb) release: v0.51.4, TRMNL battery history + quiet-hours noise + footer links
 
 ---
 
