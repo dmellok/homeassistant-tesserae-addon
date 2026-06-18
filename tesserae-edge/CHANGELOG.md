@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.50.2-edge.9395dfd, 2026-06-17
+## 0.50.3-edge.103d3db, 2026-06-18
 
-[`9395dfd`](https://github.com/dmellok/tesserae/commit/9395dfd072ec4ee86b88f7669b3a29e027c77f6b) fix: rotations + schedules edit form 500 when a step has a saved condition
+[`103d3db`](https://github.com/dmellok/tesserae/commit/103d3db619aa5355d8c640e881129af23157e8d0) release: v0.50.3, manual rotation Fire now honours step conditions
 
 ---
 
