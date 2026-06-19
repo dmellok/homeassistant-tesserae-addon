@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.51.6-edge.50b46c4, 2026-06-18
+## 0.51.7-edge.d405fca, 2026-06-19
 
-[`50b46c4`](https://github.com/dmellok/tesserae/commit/50b46c4c3050e91f25a8c98e274d944c9fa750c2) fix: marketplace restart batches via topbar button (still 0.51.6)
+[`d405fca`](https://github.com/dmellok/tesserae/commit/d405fcab5d8b0d799bc246348806644ef7376577) release: v0.51.7, pico_bin renderer + pico_bin_client device
 
 ---
 
