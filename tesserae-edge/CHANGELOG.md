@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.52.4-edge.735aab0, 2026-06-20
+## 0.52.5-edge.c82aca9, 2026-06-20
 
-[`735aab0`](https://github.com/dmellok/tesserae/commit/735aab0bd9f9200e1d21324bfb23c9507190e530) fix(onboarding): step pip icon class + welcome copy reflects REST default
+[`c82aca9`](https://github.com/dmellok/tesserae/commit/c82aca904bea8b3186ba557ce77039fc71734cf2) test(onboarding): switch v0.52.2 fixture to testing=True for CI
 
 ---
 
