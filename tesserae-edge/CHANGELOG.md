@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.54.3-edge.9ddb476, 2026-06-20
+## 0.55.1-edge.ee1b24b, 2026-06-20
 
-[`9ddb476`](https://github.com/dmellok/tesserae/commit/9ddb4760cfc047872ff91eca948bd2a8d367af24) release: v0.54.3, dark-mode support for redesigned cards
+[`ee1b24b`](https://github.com/dmellok/tesserae/commit/ee1b24bcbe4daa76a74cbd0003bf09428d9cc960) release: v0.55.1, devices polish + battery-purge fix + uplift capture tooling
 
 ---
 
