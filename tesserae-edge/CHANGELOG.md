@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.53.1-edge.95f9f9c, 2026-06-20
+## 0.53.2-edge.c6c5c91, 2026-06-20
 
-[`95f9f9c`](https://github.com/dmellok/tesserae/commit/95f9f9c0dd1eaa49b2a5171a6046fb336ecca12b) release: v0.53.1, fix REST device "last seen" stuck at epoch 0
+[`c6c5c91`](https://github.com/dmellok/tesserae/commit/c6c5c91f6b3157ebb970e3f054fd48115666ea5c) release: v0.53.2, /send 500 when a device has panel w=0/h=0
 
 ---
 
