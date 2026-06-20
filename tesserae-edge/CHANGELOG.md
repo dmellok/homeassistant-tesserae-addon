@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.54.0-edge.3c26fa3, 2026-06-20
+## 0.54.1-edge.c229216, 2026-06-20
 
-[`3c26fa3`](https://github.com/dmellok/tesserae/commit/3c26fa3dfa95328f8c13a646c19ea6203e34c2fa) release: v0.54.0, Settings → Devices card redesign (handoff)
+[`c229216`](https://github.com/dmellok/tesserae/commit/c22921632047593d47188bcd17093edd651c8b90) release: v0.54.1, Settings → Server redesign + tab/page consistency pass
 
 ---
 
