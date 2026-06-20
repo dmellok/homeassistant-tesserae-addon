@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.51.9-edge.de8fae3, 2026-06-20
+## 0.52.0-edge.8860516, 2026-06-20
 
-[`de8fae3`](https://github.com/dmellok/tesserae/commit/de8fae381977901de54a1106448b3fa85ae31b06) release: v0.51.9, install Tesserae as a systemd service on Linux
+[`8860516`](https://github.com/dmellok/tesserae/commit/88605165f6cf4f26d51e5903926443be4840618e) feat: admin pairing-code endpoints (rolled into v0.52.0)
 
 ---
 
