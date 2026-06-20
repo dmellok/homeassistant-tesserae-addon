@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.51.8-edge.6f1202a, 2026-06-20
+## 0.51.9-edge.de8fae3, 2026-06-20
 
-[`6f1202a`](https://github.com/dmellok/tesserae/commit/6f1202a9f052ee7ede93edfded5d00b6b828336e) fix: Send -> Webpage no longer renders external URLs blank (v0.51.8)
+[`de8fae3`](https://github.com/dmellok/tesserae/commit/de8fae381977901de54a1106448b3fa85ae31b06) release: v0.51.9, install Tesserae as a systemd service on Linux
 
 ---
 
