@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.53.0-edge.41a6644, 2026-06-20
+## 0.53.1-edge.95f9f9c, 2026-06-20
 
-[`41a6644`](https://github.com/dmellok/tesserae/commit/41a6644ca27ccf98eae3cf1fdba61da5fa63dc6b) release: v0.53.0, REST discover-then-claim flow (zero firmware typing)
+[`95f9f9c`](https://github.com/dmellok/tesserae/commit/95f9f9c0dd1eaa49b2a5171a6046fb336ecca12b) release: v0.53.1, fix REST device "last seen" stuck at epoch 0
 
 ---
 
