@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.52.0-edge.8860516, 2026-06-20
+## 0.52.3-edge.7a30c3c, 2026-06-20
 
-[`8860516`](https://github.com/dmellok/tesserae/commit/88605165f6cf4f26d51e5903926443be4840618e) feat: admin pairing-code endpoints (rolled into v0.52.0)
+[`7a30c3c`](https://github.com/dmellok/tesserae/commit/7a30c3cde6f1768804aeed1e19ce860fa44b2639) docs(rest): MQTT-to-REST capability mapping table
 
 ---
 
