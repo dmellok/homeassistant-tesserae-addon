@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.52.5-edge.c82aca9, 2026-06-20
+## 0.53.0-edge.41a6644, 2026-06-20
 
-[`c82aca9`](https://github.com/dmellok/tesserae/commit/c82aca904bea8b3186ba557ce77039fc71734cf2) test(onboarding): switch v0.52.2 fixture to testing=True for CI
+[`41a6644`](https://github.com/dmellok/tesserae/commit/41a6644ca27ccf98eae3cf1fdba61da5fa63dc6b) release: v0.53.0, REST discover-then-claim flow (zero firmware typing)
 
 ---
 
