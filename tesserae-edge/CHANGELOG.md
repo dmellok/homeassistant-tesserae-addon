@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.54.1-edge.c229216, 2026-06-20
+## 0.54.2-edge.d045d7e, 2026-06-20
 
-[`c229216`](https://github.com/dmellok/tesserae/commit/c22921632047593d47188bcd17093edd651c8b90) release: v0.54.1, Settings → Server redesign + tab/page consistency pass
+[`d045d7e`](https://github.com/dmellok/tesserae/commit/d045d7ead188bc1bdcbde3ba451fb2a893b7b5a6) fix(types): tighten _humanize_signal so mypy accepts ``object`` rssi
 
 ---
 
