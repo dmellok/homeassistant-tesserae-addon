@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.52.3-edge.7a30c3c, 2026-06-20
+## 0.52.3-edge.957dc4a, 2026-06-20
 
-[`7a30c3c`](https://github.com/dmellok/tesserae/commit/7a30c3cde6f1768804aeed1e19ce860fa44b2639) docs(rest): MQTT-to-REST capability mapping table
+[`957dc4a`](https://github.com/dmellok/tesserae/commit/957dc4a17aac541c9d6a30744458e89b21eeda75) fix(lint): ruff I001 + F401 in new v0.52.3 tests
 
 ---
 
