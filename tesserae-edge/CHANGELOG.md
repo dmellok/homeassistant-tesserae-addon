@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.51.7-edge.d405fca, 2026-06-19
+## 0.51.8-edge.6f1202a, 2026-06-20
 
-[`d405fca`](https://github.com/dmellok/tesserae/commit/d405fcab5d8b0d799bc246348806644ef7376577) release: v0.51.7, pico_bin renderer + pico_bin_client device
+[`6f1202a`](https://github.com/dmellok/tesserae/commit/6f1202a9f052ee7ede93edfded5d00b6b828336e) fix: Send -> Webpage no longer renders external URLs blank (v0.51.8)
 
 ---
 
