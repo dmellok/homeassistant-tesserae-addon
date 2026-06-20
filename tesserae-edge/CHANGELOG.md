@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.54.2-edge.d045d7e, 2026-06-20
+## 0.54.3-edge.9ddb476, 2026-06-20
 
-[`d045d7e`](https://github.com/dmellok/tesserae/commit/d045d7ead188bc1bdcbde3ba451fb2a893b7b5a6) fix(types): tighten _humanize_signal so mypy accepts ``object`` rssi
+[`9ddb476`](https://github.com/dmellok/tesserae/commit/9ddb4760cfc047872ff91eca948bd2a8d367af24) release: v0.54.3, dark-mode support for redesigned cards
 
 ---
 
