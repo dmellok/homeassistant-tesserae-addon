@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.61.2-edge.fec178d, 2026-06-21
+## 0.63.7-edge.c78e428, 2026-06-21
 
-[`fec178d`](https://github.com/dmellok/tesserae/commit/fec178dbc891400a931988b2842a124eff0857dc) release: v0.61.2, REST /frame returns renderer-specific payload fields
+[`c78e428`](https://github.com/dmellok/tesserae/commit/c78e428d7e9e5d687845fcf48298e5ba67d2b345) release: v0.63.7, extract dx-history.css + dx-events.css (last two)
 
 ---
 
