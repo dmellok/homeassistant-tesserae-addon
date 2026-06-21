@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.63.11-edge.81a461b, 2026-06-21
+## 0.63.12-edge.0666c48, 2026-06-21
 
-[`81a461b`](https://github.com/dmellok/tesserae/commit/81a461bc3678502db47ff090e99c0fbaa64bb05a) release: v0.63.11, CORS on /api/v1/device/*
+[`0666c48`](https://github.com/dmellok/tesserae/commit/0666c48722da46710cbc2d8183ef5599c3c849e0) release: v0.63.12, CORS on /renders/ and /preview/
 
 ---
 
