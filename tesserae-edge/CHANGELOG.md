@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.61.1-edge.01ff3b5, 2026-06-21
+## 0.61.2-edge.fec178d, 2026-06-21
 
-[`01ff3b5`](https://github.com/dmellok/tesserae/commit/01ff3b5e3f3b88c04ed0f356889b3b26076072c2) test(rest_api): expect next_poll_s=60 after v0.61.1 default flip
+[`fec178d`](https://github.com/dmellok/tesserae/commit/fec178dbc891400a931988b2842a124eff0857dc) release: v0.61.2, REST /frame returns renderer-specific payload fields
 
 ---
 
