@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.61.1-edge.afb62e7, 2026-06-21
+## 0.61.1-edge.01ff3b5, 2026-06-21
 
-[`afb62e7`](https://github.com/dmellok/tesserae/commit/afb62e7da3883bf6ce0deda8341781f934bbc7af) release: v0.61.1, default new-device cadence to 60s
+[`01ff3b5`](https://github.com/dmellok/tesserae/commit/01ff3b5e3f3b88c04ed0f356889b3b26076072c2) test(rest_api): expect next_poll_s=60 after v0.61.1 default flip
 
 ---
 
