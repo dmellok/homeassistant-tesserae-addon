@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.61.0-edge.15fde55, 2026-06-21
+## 0.61.1-edge.afb62e7, 2026-06-21
 
-[`15fde55`](https://github.com/dmellok/tesserae/commit/15fde557e0e226294a02e08de6e7a5999b3ef6a9) feat(devices): expose sleep_interval_s on pi_bin + pi_png clients
+[`afb62e7`](https://github.com/dmellok/tesserae/commit/afb62e7da3883bf6ce0deda8341781f934bbc7af) release: v0.61.1, default new-device cadence to 60s
 
 ---
 
