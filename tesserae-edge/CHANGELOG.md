@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.63.10-edge.3530325, 2026-06-21
+## 0.63.11-edge.81a461b, 2026-06-21
 
-[`3530325`](https://github.com/dmellok/tesserae/commit/3530325b27db74255b5445255e33d13b399b4332) release: v0.63.10, .sr-only utility + history mobile rework
+[`81a461b`](https://github.com/dmellok/tesserae/commit/81a461bc3678502db47ff090e99c0fbaa64bb05a) release: v0.63.11, CORS on /api/v1/device/*
 
 ---
 
