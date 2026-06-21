@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.63.12-edge.0666c48, 2026-06-21
+## 0.63.13-edge.7f3c6ed, 2026-06-21
 
-[`0666c48`](https://github.com/dmellok/tesserae/commit/0666c48722da46710cbc2d8183ef5599c3c849e0) release: v0.63.12, CORS on /renders/ and /preview/
+[`7f3c6ed`](https://github.com/dmellok/tesserae/commit/7f3c6edd82917e9a51ed0c03718910126b4c992a) release: v0.63.13, allow X-Pairing-Code in CORS preflight
 
 ---
 
