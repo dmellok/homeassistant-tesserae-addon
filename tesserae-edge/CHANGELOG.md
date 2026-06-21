@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.63.7-edge.c78e428, 2026-06-21
+## 0.63.10-edge.3530325, 2026-06-21
 
-[`c78e428`](https://github.com/dmellok/tesserae/commit/c78e428d7e9e5d687845fcf48298e5ba67d2b345) release: v0.63.7, extract dx-history.css + dx-events.css (last two)
+[`3530325`](https://github.com/dmellok/tesserae/commit/3530325b27db74255b5445255e33d13b399b4332) release: v0.63.10, .sr-only utility + history mobile rework
 
 ---
 
