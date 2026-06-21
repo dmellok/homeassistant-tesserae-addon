@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.60.5-edge.c14d282, 2026-06-21
+## 0.61.0-edge.15fde55, 2026-06-21
 
-[`c14d282`](https://github.com/dmellok/tesserae/commit/c14d28280d15a270cc4ed8dd121f66a7c610534b) release: v0.60.5, unfreeze events page when chip-clicking fast
+[`15fde55`](https://github.com/dmellok/tesserae/commit/15fde557e0e226294a02e08de6e7a5999b3ef6a9) feat(devices): expose sleep_interval_s on pi_bin + pi_png clients
 
 ---
 
