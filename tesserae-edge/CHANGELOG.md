@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.55.1-edge.ee1b24b, 2026-06-20
+## 0.60.5-edge.c14d282, 2026-06-21
 
-[`ee1b24b`](https://github.com/dmellok/tesserae/commit/ee1b24bcbe4daa76a74cbd0003bf09428d9cc960) release: v0.55.1, devices polish + battery-purge fix + uplift capture tooling
+[`c14d282`](https://github.com/dmellok/tesserae/commit/c14d28280d15a270cc4ed8dd121f66a7c610534b) release: v0.60.5, unfreeze events page when chip-clicking fast
 
 ---
 
