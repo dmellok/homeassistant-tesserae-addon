@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.6-edge.5b93f05, 2026-06-22
+## 0.64.6-edge.331a78e, 2026-06-22
 
-[`5b93f05`](https://github.com/dmellok/tesserae/commit/5b93f0503d3c6ee381af2fb4d182213b3664ea58) docs: capture pageviews on Material instant navigation
+[`331a78e`](https://github.com/dmellok/tesserae/commit/331a78e3783c012fb66a6731b1617d4927885f90) docs: defer pageview subscribe to DOMContentLoaded + fix path filter
 
 ---
 
