@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.8-edge.c5d815c, 2026-06-22
+## 0.64.8-edge.140b87c, 2026-06-22
 
-[`c5d815c`](https://github.com/dmellok/tesserae/commit/c5d815c6b7eb7abefeb3eaeffb385586d637e353) docs: field-by-field breakdown of the frame response envelope + fix bin/png mixup
+[`140b87c`](https://github.com/dmellok/tesserae/commit/140b87c7e792f813321caa23a8abbda57206d892) fix(devcontainer): properly detached postStartCommand auto-start
 
 ---
 
