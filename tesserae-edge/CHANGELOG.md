@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.4-edge.08e0791, 2026-06-22
+## 0.64.5-edge.36f7016, 2026-06-22
 
-[`08e0791`](https://github.com/dmellok/tesserae/commit/08e079110858d5eb1fe7cfbbe7b71251ad9b837b) release: v0.64.4, telemetry timezone + timezone_region props
+[`36f7016`](https://github.com/dmellok/tesserae/commit/36f7016500848595254370c944eea772a6bf39ae) release: v0.64.5, onboarding timezone step
 
 ---
 
