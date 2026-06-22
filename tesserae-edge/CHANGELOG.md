@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.0-edge.caa2636, 2026-06-22
+## 0.64.0-edge.4e8762b, 2026-06-22
 
-[`caa2636`](https://github.com/dmellok/tesserae/commit/caa2636ae9b14db980de4dd3a856f63f2fa8847a) release: v0.64.0, telemetry backend swap aptabase → posthog
+[`4e8762b`](https://github.com/dmellok/tesserae/commit/4e8762b0c206d13521ef54c532c74063c25678f9) fix(test): rename TelemetryConfig kwarg app_key → project_key
 
 ---
 
