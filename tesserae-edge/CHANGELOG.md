@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.8-edge.ac6ab50, 2026-06-22
+## 0.64.8-edge.0c01141, 2026-06-22
 
-[`ac6ab50`](https://github.com/dmellok/tesserae/commit/ac6ab506d718b3c0fab47fae4f3bde74fbad2d7e) fix(devcontainer): switch auto-start to a VS Code task
+[`0c01141`](https://github.com/dmellok/tesserae/commit/0c01141774ee55e6587ea4e15b3a441925abceae) docs: add client protocol spec for third-party device clients
 
 ---
 
