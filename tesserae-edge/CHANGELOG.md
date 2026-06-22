@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.8-edge.b148c00, 2026-06-22
+## 0.64.8-edge.b46af66, 2026-06-22
 
-[`b148c00`](https://github.com/dmellok/tesserae/commit/b148c00b831984176536879a4fea75d5664d6f3b) release: v0.64.8, fix Android Chrome ERR_UPLOAD_FILE_CHANGED on photo upload
+[`b46af66`](https://github.com/dmellok/tesserae/commit/b46af6620615f970a56e223b14e33e1f958f720f) chore: add Codespaces devcontainer for one-click test drive
 
 ---
 
