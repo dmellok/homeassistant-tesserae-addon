@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.8-edge.5cb39e3, 2026-06-22
+## 0.64.8-edge.ac6ab50, 2026-06-22
 
-[`5cb39e3`](https://github.com/dmellok/tesserae/commit/5cb39e3b16893fc85bcf7112d90bab3e4682f227) fix(devcontainer): strip stale Yarn apt source before update
+[`ac6ab50`](https://github.com/dmellok/tesserae/commit/ac6ab506d718b3c0fab47fae4f3bde74fbad2d7e) fix(devcontainer): switch auto-start to a VS Code task
 
 ---
 
