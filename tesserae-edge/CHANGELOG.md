@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.63.13-edge.7f3c6ed, 2026-06-21
+## 0.64.0-edge.caa2636, 2026-06-22
 
-[`7f3c6ed`](https://github.com/dmellok/tesserae/commit/7f3c6edd82917e9a51ed0c03718910126b4c992a) release: v0.63.13, allow X-Pairing-Code in CORS preflight
+[`caa2636`](https://github.com/dmellok/tesserae/commit/caa2636ae9b14db980de4dd3a856f63f2fa8847a) release: v0.64.0, telemetry backend swap aptabase → posthog
 
 ---
 
