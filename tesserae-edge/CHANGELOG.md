@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.6-edge.331a78e, 2026-06-22
+## 0.64.7-edge.b72b3f2, 2026-06-22
 
-[`331a78e`](https://github.com/dmellok/tesserae/commit/331a78e3783c012fb66a6731b1617d4927885f90) docs: defer pageview subscribe to DOMContentLoaded + fix path filter
+[`b72b3f2`](https://github.com/dmellok/tesserae/commit/b72b3f2c0316d0979f42875c82a5f2e918580f3b) release: v0.64.7, editor preview sticks cleanly + sparkline grace
 
 ---
 
