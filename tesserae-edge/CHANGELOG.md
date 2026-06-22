@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.5-edge.36f7016, 2026-06-22
+## 0.64.6-edge.5efabe5, 2026-06-22
 
-[`36f7016`](https://github.com/dmellok/tesserae/commit/36f7016500848595254370c944eea772a6bf39ae) release: v0.64.5, onboarding timezone step
+[`5efabe5`](https://github.com/dmellok/tesserae/commit/5efabe506e99248695ee44478460f6b4b7b0aa33) release: v0.64.6, accurate IP-suppression mechanism for PostHog
 
 ---
 
