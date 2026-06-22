@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.0-edge.4e8762b, 2026-06-22
+## 0.64.1-edge.7970cae, 2026-06-22
 
-[`4e8762b`](https://github.com/dmellok/tesserae/commit/4e8762b0c206d13521ef54c532c74063c25678f9) fix(test): rename TelemetryConfig kwarg app_key → project_key
+[`7970cae`](https://github.com/dmellok/tesserae/commit/7970cae424d2d8d9ec3a8ff065fcc3209158664f) release: v0.64.1, telemetry copy + CI fix
 
 ---
 
