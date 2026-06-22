@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.7-edge.b72b3f2, 2026-06-22
+## 0.64.8-edge.b148c00, 2026-06-22
 
-[`b72b3f2`](https://github.com/dmellok/tesserae/commit/b72b3f2c0316d0979f42875c82a5f2e918580f3b) release: v0.64.7, editor preview sticks cleanly + sparkline grace
+[`b148c00`](https://github.com/dmellok/tesserae/commit/b148c00b831984176536879a4fea75d5664d6f3b) release: v0.64.8, fix Android Chrome ERR_UPLOAD_FILE_CHANGED on photo upload
 
 ---
 
