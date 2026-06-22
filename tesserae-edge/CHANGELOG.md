@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.8-edge.b46af66, 2026-06-22
+## 0.64.8-edge.0df4277, 2026-06-22
 
-[`b46af66`](https://github.com/dmellok/tesserae/commit/b46af6620615f970a56e223b14e33e1f958f720f) chore: add Codespaces devcontainer for one-click test drive
+[`0df4277`](https://github.com/dmellok/tesserae/commit/0df427797bbc792678f6b05cb9112daaf6119809) chore(devcontainer): block on postCreateCommand to avoid pre-install terminal
 
 ---
 
