@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.1-edge.7970cae, 2026-06-22
+## 0.64.2-edge.1ab2ab7, 2026-06-22
 
-[`7970cae`](https://github.com/dmellok/tesserae/commit/7970cae424d2d8d9ec3a8ff065fcc3209158664f) release: v0.64.1, telemetry copy + CI fix
+[`1ab2ab7`](https://github.com/dmellok/tesserae/commit/1ab2ab7d0f0932cc4d0a12325fb5142b7b8cef92) release: v0.64.2, route telemetry through reverse proxy t.dmello.io
 
 ---
 
