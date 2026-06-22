@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.8-edge.0df4277, 2026-06-22
+## 0.64.8-edge.5cb39e3, 2026-06-22
 
-[`0df4277`](https://github.com/dmellok/tesserae/commit/0df427797bbc792678f6b05cb9112daaf6119809) chore(devcontainer): block on postCreateCommand to avoid pre-install terminal
+[`5cb39e3`](https://github.com/dmellok/tesserae/commit/5cb39e3b16893fc85bcf7112d90bab3e4682f227) fix(devcontainer): strip stale Yarn apt source before update
 
 ---
 
