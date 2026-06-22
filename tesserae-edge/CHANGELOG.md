@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.8-edge.140b87c, 2026-06-22
+## 0.64.8-edge.38c66c9, 2026-06-22
 
-[`140b87c`](https://github.com/dmellok/tesserae/commit/140b87c7e792f813321caa23a8abbda57206d892) fix(devcontainer): properly detached postStartCommand auto-start
+[`38c66c9`](https://github.com/dmellok/tesserae/commit/38c66c9395b94b77b1ea86e2d5d0a51482d10d61) chore(issue-template): drop required on expected/actual behaviour
 
 ---
 
