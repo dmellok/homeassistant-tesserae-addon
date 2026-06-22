@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.6-edge.5efabe5, 2026-06-22
+## 0.64.6-edge.5b93f05, 2026-06-22
 
-[`5efabe5`](https://github.com/dmellok/tesserae/commit/5efabe506e99248695ee44478460f6b4b7b0aa33) release: v0.64.6, accurate IP-suppression mechanism for PostHog
+[`5b93f05`](https://github.com/dmellok/tesserae/commit/5b93f0503d3c6ee381af2fb4d182213b3664ea58) docs: capture pageviews on Material instant navigation
 
 ---
 
