@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.8-edge.0c01141, 2026-06-22
+## 0.64.8-edge.c5d815c, 2026-06-22
 
-[`0c01141`](https://github.com/dmellok/tesserae/commit/0c01141774ee55e6587ea4e15b3a441925abceae) docs: add client protocol spec for third-party device clients
+[`c5d815c`](https://github.com/dmellok/tesserae/commit/c5d815c6b7eb7abefeb3eaeffb385586d637e353) docs: field-by-field breakdown of the frame response envelope + fix bin/png mixup
 
 ---
 
