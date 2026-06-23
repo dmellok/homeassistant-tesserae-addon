@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.18-edge.5c394bc, 2026-06-23
+## 0.64.19-edge.a106bec, 2026-06-23
 
-[`5c394bc`](https://github.com/dmellok/tesserae/commit/5c394bcfae2caebd7b1a26a86a3da9a5499582e9) release: v0.64.18, docs page for the OpenAPI spec
+[`a106bec`](https://github.com/dmellok/tesserae/commit/a106bec865be830f5d93d78c7d8301e278c75fa2) release: v0.64.19, REST docs lead with discover, not pairing codes
 
 ---
 
