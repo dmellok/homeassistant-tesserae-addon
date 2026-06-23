@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.11-edge.da57bde, 2026-06-23
+## 0.64.12-edge.5a99054, 2026-06-23
 
-[`da57bde`](https://github.com/dmellok/tesserae/commit/da57bded6980197ea4ab6c428b6fcd512c4b1cb2) fix(mirror): 500 on real install, device.settings doesn't exist
+[`5a99054`](https://github.com/dmellok/tesserae/commit/5a990542e43d73d5fc73918bda9f2b9a02de8f9e) release: v0.64.12, location_search cell option + weather_now migration
 
 ---
 
