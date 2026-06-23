@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.14-edge.c28c5cb, 2026-06-23
+## 0.64.15-edge.5ec2261, 2026-06-23
 
-[`c28c5cb`](https://github.com/dmellok/tesserae/commit/c28c5cb3ca57c3167e086604d9127d30d64ad564) release: v0.64.14, simpler location flow, decoupled from settings
+[`5ec2261`](https://github.com/dmellok/tesserae/commit/5ec2261374c44a7d0c460c10e43d0b9046e9f8a7) release: v0.64.15, location pick fires preview + UI polish
 
 ---
 
