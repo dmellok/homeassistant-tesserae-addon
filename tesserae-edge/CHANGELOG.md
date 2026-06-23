@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.12-edge.5a99054, 2026-06-23
+## 0.64.13-edge.be08b88, 2026-06-23
 
-[`5a99054`](https://github.com/dmellok/tesserae/commit/5a990542e43d73d5fc73918bda9f2b9a02de8f9e) release: v0.64.12, location_search cell option + weather_now migration
+[`be08b88`](https://github.com/dmellok/tesserae/commit/be08b889692baf969c7ba3fed83b44a0bde4942b) release: v0.64.13, roll out location_search to remaining widgets
 
 ---
 
