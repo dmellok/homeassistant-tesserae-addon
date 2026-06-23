@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.9-edge.ad07f71, 2026-06-23
+## 0.64.10-edge.5f35eb3, 2026-06-23
 
-[`ad07f71`](https://github.com/dmellok/tesserae/commit/ad07f71040737ee9c1a7a3d482daa707fc187658) docs: reframe client-sent tz as an escape hatch, not the headline
+[`5f35eb3`](https://github.com/dmellok/tesserae/commit/5f35eb3e40279776610149746ff393131aad75d5) release: v0.64.10, add /mirror endpoint + device card view links
 
 ---
 
