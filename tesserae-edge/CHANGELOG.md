@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.15-edge.5ec2261, 2026-06-23
+## 0.64.16-edge.fd27cce, 2026-06-23
 
-[`5ec2261`](https://github.com/dmellok/tesserae/commit/5ec2261374c44a7d0c460c10e43d0b9046e9f8a7) release: v0.64.15, location pick fires preview + UI polish
+[`fd27cce`](https://github.com/dmellok/tesserae/commit/fd27cce3984827e0b50cf9e017785b78cc641f05) release: v0.64.16, weather widget label stayed stale on cache hit
 
 ---
 
