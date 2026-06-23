@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.13-edge.be08b88, 2026-06-23
+## 0.64.14-edge.c28c5cb, 2026-06-23
 
-[`be08b88`](https://github.com/dmellok/tesserae/commit/be08b889692baf969c7ba3fed83b44a0bde4942b) release: v0.64.13, roll out location_search to remaining widgets
+[`c28c5cb`](https://github.com/dmellok/tesserae/commit/c28c5cb3ca57c3167e086604d9127d30d64ad564) release: v0.64.14, simpler location flow, decoupled from settings
 
 ---
 
