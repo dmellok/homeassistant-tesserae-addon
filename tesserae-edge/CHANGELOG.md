@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.16-edge.fd27cce, 2026-06-23
+## 0.64.17-edge.b160002, 2026-06-23
 
-[`fd27cce`](https://github.com/dmellok/tesserae/commit/fd27cce3984827e0b50cf9e017785b78cc641f05) release: v0.64.16, weather widget label stayed stale on cache hit
+[`b160002`](https://github.com/dmellok/tesserae/commit/b160002deb8b08b51c1b7a9a8a0fac6abd366cab) release: v0.64.17, OpenAPI spec for SDK generation
 
 ---
 
