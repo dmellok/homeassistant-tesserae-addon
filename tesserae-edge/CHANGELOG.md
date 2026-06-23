@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.9-edge.5b4caf0, 2026-06-23
+## 0.64.9-edge.ad07f71, 2026-06-23
 
-[`5b4caf0`](https://github.com/dmellok/tesserae/commit/5b4caf0af1f6e9bf6f64d001bac624c697249901) release: v0.64.9, server-resolved local time on /status response
+[`ad07f71`](https://github.com/dmellok/tesserae/commit/ad07f71040737ee9c1a7a3d482daa707fc187658) docs: reframe client-sent tz as an escape hatch, not the headline
 
 ---
 
