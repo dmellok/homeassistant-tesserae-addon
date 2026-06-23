@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.8-edge.a4a060c, 2026-06-23
+## 0.64.9-edge.5b4caf0, 2026-06-23
 
-[`a4a060c`](https://github.com/dmellok/tesserae/commit/a4a060c93a9665907114a8af3522817af0570e9d) fix(devcontainer): open admin UI in real browser tab, not embedded preview
+[`5b4caf0`](https://github.com/dmellok/tesserae/commit/5b4caf0af1f6e9bf6f64d001bac624c697249901) release: v0.64.9, server-resolved local time on /status response
 
 ---
 
