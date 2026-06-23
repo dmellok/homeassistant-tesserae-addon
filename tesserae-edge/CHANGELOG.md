@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.8-edge.38c66c9, 2026-06-22
+## 0.64.8-edge.6c062b4, 2026-06-23
 
-[`38c66c9`](https://github.com/dmellok/tesserae/commit/38c66c9395b94b77b1ea86e2d5d0a51482d10d61) chore(issue-template): drop required on expected/actual behaviour
+[`6c062b4`](https://github.com/dmellok/tesserae/commit/6c062b42cfb2a982437cb8ce61e6c9337fcf475e) docs: fix drift between code and docs
 
 ---
 
