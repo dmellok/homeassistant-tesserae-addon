@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.10-edge.5f35eb3, 2026-06-23
+## 0.64.11-edge.da57bde, 2026-06-23
 
-[`5f35eb3`](https://github.com/dmellok/tesserae/commit/5f35eb3e40279776610149746ff393131aad75d5) release: v0.64.10, add /mirror endpoint + device card view links
+[`da57bde`](https://github.com/dmellok/tesserae/commit/da57bded6980197ea4ab6c428b6fcd512c4b1cb2) fix(mirror): 500 on real install, device.settings doesn't exist
 
 ---
 
