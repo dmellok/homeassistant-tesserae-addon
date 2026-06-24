@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.25-edge.f747c6f, 2026-06-24
+## 0.64.26-edge.49f0173, 2026-06-24
 
-[`f747c6f`](https://github.com/dmellok/tesserae/commit/f747c6fd9fd986a25d990c9a1db186ca34b5e647) release: v0.64.25, _unwrap_tree tolerates per-value decryption failures
+[`49f0173`](https://github.com/dmellok/tesserae/commit/49f01730853a1a3ee1026218caa48da5d4fbdb98) release: v0.64.26, README badges restyled to for-the-badge with Phosphor icons
 
 ---
 
