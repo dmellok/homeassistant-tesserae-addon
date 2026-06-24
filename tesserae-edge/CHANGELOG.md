@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.22-edge.e67b60b, 2026-06-24
+## 0.64.23-edge.faf7b10, 2026-06-24
 
-[`e67b60b`](https://github.com/dmellok/tesserae/commit/e67b60b07cbd4347dba4d385ed4051513cf6abaf) release: v0.64.22, rip phone-home telemetry + cookieless docs analytics
+[`faf7b10`](https://github.com/dmellok/tesserae/commit/faf7b106665f7a125c8e8301465c2acb982fc22f) release: v0.64.23, location_search hidden input survives HTML attribute round-trip
 
 ---
 
