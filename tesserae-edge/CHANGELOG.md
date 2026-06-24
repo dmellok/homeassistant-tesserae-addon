@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.21-edge.a6d7e5a, 2026-06-24
+## 0.64.22-edge.e67b60b, 2026-06-24
 
-[`a6d7e5a`](https://github.com/dmellok/tesserae/commit/a6d7e5a0e82acb73eddd7db51773677eef843d30) release: v0.64.21, log msg list join no longer doubles newlines
+[`e67b60b`](https://github.com/dmellok/tesserae/commit/e67b60b07cbd4347dba4d385ed4051513cf6abaf) release: v0.64.22, rip phone-home telemetry + cookieless docs analytics
 
 ---
 
