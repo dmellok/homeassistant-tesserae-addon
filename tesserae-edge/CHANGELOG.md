@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.23-edge.faf7b10, 2026-06-24
+## 0.64.24-edge.d132e0d, 2026-06-24
 
-[`faf7b10`](https://github.com/dmellok/tesserae/commit/faf7b106665f7a125c8e8301465c2acb982fc22f) release: v0.64.23, location_search hidden input survives HTML attribute round-trip
+[`d132e0d`](https://github.com/dmellok/tesserae/commit/d132e0d9dc9b0ca14d4dfc5cab4ea0c65678acae) release: v0.64.24, surface a re-enter banner instead of an empty entity picker on SecretBoxError
 
 ---
 
