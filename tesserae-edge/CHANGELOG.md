@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.20-edge.bd3025a, 2026-06-23
+## 0.64.21-edge.a6d7e5a, 2026-06-24
 
-[`bd3025a`](https://github.com/dmellok/tesserae/commit/bd3025a43c6e5bb27acb2bfcdf2b329d3871cfc6) release: v0.64.20, /api/v1/device/<id>/log accepts list[str] for msg
+[`a6d7e5a`](https://github.com/dmellok/tesserae/commit/a6d7e5a0e82acb73eddd7db51773677eef843d30) release: v0.64.21, log msg list join no longer doubles newlines
 
 ---
 
