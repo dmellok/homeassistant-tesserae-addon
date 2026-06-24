@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.24-edge.d132e0d, 2026-06-24
+## 0.64.25-edge.f747c6f, 2026-06-24
 
-[`d132e0d`](https://github.com/dmellok/tesserae/commit/d132e0d9dc9b0ca14d4dfc5cab4ea0c65678acae) release: v0.64.24, surface a re-enter banner instead of an empty entity picker on SecretBoxError
+[`f747c6f`](https://github.com/dmellok/tesserae/commit/f747c6fd9fd986a25d990c9a1db186ca34b5e647) release: v0.64.25, _unwrap_tree tolerates per-value decryption failures
 
 ---
 
