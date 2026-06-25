@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.30-edge.40a5833, 2026-06-25
+## 0.64.31-edge.aae7d85, 2026-06-25
 
-[`40a5833`](https://github.com/dmellok/tesserae/commit/40a58339874083c358db99a9814f751e877279e6) release: v0.64.30, LXC / Proxmox / MicroCloud install path
+[`aae7d85`](https://github.com/dmellok/tesserae/commit/aae7d85eb2146d4e4565000826ee7d11e6813bf1) release: v0.64.31, duplicate dashboard action
 
 ---
 
