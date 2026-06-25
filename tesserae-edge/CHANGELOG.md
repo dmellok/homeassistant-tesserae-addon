@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.26-edge.49f0173, 2026-06-24
+## 0.64.27-edge.4d43379, 2026-06-25
 
-[`49f0173`](https://github.com/dmellok/tesserae/commit/49f01730853a1a3ee1026218caa48da5d4fbdb98) release: v0.64.26, README badges restyled to for-the-badge with Phosphor icons
+[`4d43379`](https://github.com/dmellok/tesserae/commit/4d43379f686aa74c73d4b26b571efead993034d3) release: v0.64.27, Settings → About tab + Server-tab cleanup
 
 ---
 
