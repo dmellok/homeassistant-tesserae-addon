@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.27-edge.4d43379, 2026-06-25
+## 0.64.28-edge.02c9af4, 2026-06-25
 
-[`4d43379`](https://github.com/dmellok/tesserae/commit/4d43379f686aa74c73d4b26b571efead993034d3) release: v0.64.27, Settings → About tab + Server-tab cleanup
+[`02c9af4`](https://github.com/dmellok/tesserae/commit/02c9af47a958493a4147d791b6e725dcd41a600c) release: v0.64.28, bundle pillow-heif for HEIC asset decoding
 
 ---
 
