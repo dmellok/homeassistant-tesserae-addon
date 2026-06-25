@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.28-edge.02c9af4, 2026-06-25
+## 0.64.29-edge.43721d0, 2026-06-25
 
-[`02c9af4`](https://github.com/dmellok/tesserae/commit/02c9af47a958493a4147d791b6e725dcd41a600c) release: v0.64.28, bundle pillow-heif for HEIC asset decoding
+[`43721d0`](https://github.com/dmellok/tesserae/commit/43721d043005ca7c30762fa1aa41bede9ef482af) release: v0.64.29, docs/openapi.md install hint + embedded caveat
 
 ---
 
