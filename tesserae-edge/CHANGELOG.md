@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.34-edge.efc8f89, 2026-06-26
+## 0.64.35-edge.292975a, 2026-06-26
 
-[`efc8f89`](https://github.com/dmellok/tesserae/commit/efc8f893a8143d0e21dace793088eeefc013eebe) release: v0.64.34, refresh widget gallery + 3 missing font credits
+[`292975a`](https://github.com/dmellok/tesserae/commit/292975adb2deb50c73a1d7a1e4045cb79711731e) release: v0.64.35, drop README SKU section, link adding-hardware docs
 
 ---
 
