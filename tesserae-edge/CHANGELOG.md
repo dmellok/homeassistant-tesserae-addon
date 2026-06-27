@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.36-edge.b33f640, 2026-06-27
+## 0.64.37-edge.e40ff1f, 2026-06-27
 
-[`b33f640`](https://github.com/dmellok/tesserae/commit/b33f640e0e7e89b41ef0e9eb714bb62cfa88e257) release: v0.64.36, weather "place" field + news max_items cache key
+[`e40ff1f`](https://github.com/dmellok/tesserae/commit/e40ff1f2eb6e5c648ba7804a932f665726f61b32) release: v0.64.37, LXC docs use trixie/cloud for cloud-init path
 
 ---
 
