@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.37-edge.e40ff1f, 2026-06-27
+## 0.64.38-edge.90c0a3f, 2026-06-27
 
-[`e40ff1f`](https://github.com/dmellok/tesserae/commit/e40ff1f2eb6e5c648ba7804a932f665726f61b32) release: v0.64.37, LXC docs use trixie/cloud for cloud-init path
+[`90c0a3f`](https://github.com/dmellok/tesserae/commit/90c0a3f7dde9f58d96c8aa74d4fb4c41d2ea97a6) release: v0.64.38, hardware manifests for pending SKUs
 
 ---
 
