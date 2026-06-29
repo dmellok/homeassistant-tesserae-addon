@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.38-edge.90c0a3f, 2026-06-27
+## 0.64.40-edge.c5476c5, 2026-06-29
 
-[`90c0a3f`](https://github.com/dmellok/tesserae/commit/90c0a3f7dde9f58d96c8aa74d4fb4c41d2ea97a6) release: v0.64.38, hardware manifests for pending SKUs
+[`c5476c5`](https://github.com/dmellok/tesserae/commit/c5476c5e48c79b0cb638e442b155717bb8b9c82f) release: v0.64.40, per-hardware quickstart docs + README link
 
 ---
 
