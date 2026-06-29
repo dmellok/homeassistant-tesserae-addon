@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.41-edge.bcd1123, 2026-06-29
+## 0.64.42-edge.a6e0861, 2026-06-29
 
-[`bcd1123`](https://github.com/dmellok/tesserae/commit/bcd1123e3284b877ae5272b6e2c0d582660d5973) release: v0.64.41, seeed-reterminal quickstart gains per-model references
+[`a6e0861`](https://github.com/dmellok/tesserae/commit/a6e0861e2c82eba46921a8953bf822ceb653ace6) release: v0.64.42, cap Browse bundle-folder chips at 3 with "+N more"
 
 ---
 
