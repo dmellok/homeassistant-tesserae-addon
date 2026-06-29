@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.43-edge.723f8b3, 2026-06-29
+## 0.64.44-edge.6d3e39d, 2026-06-29
 
-[`723f8b3`](https://github.com/dmellok/tesserae/commit/723f8b325768295092d3ebaeca16bb4e0559bc58) release: v0.64.43, equal-height rows on the Browse catalog grid
+[`6d3e39d`](https://github.com/dmellok/tesserae/commit/6d3e39dbd8c215ecbe1426a57ec3e20973f2ba23) release: v0.64.44, circuitpython_png renderer
 
 ---
 
