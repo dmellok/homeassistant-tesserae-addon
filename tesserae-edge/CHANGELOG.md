@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.42-edge.a6e0861, 2026-06-29
+## 0.64.43-edge.723f8b3, 2026-06-29
 
-[`a6e0861`](https://github.com/dmellok/tesserae/commit/a6e0861e2c82eba46921a8953bf822ceb653ace6) release: v0.64.42, cap Browse bundle-folder chips at 3 with "+N more"
+[`723f8b3`](https://github.com/dmellok/tesserae/commit/723f8b325768295092d3ebaeca16bb4e0559bc58) release: v0.64.43, equal-height rows on the Browse catalog grid
 
 ---
 
