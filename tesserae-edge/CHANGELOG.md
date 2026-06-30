@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.45-edge.bb9e758, 2026-06-30
+## 0.64.46-edge.5521ebe, 2026-06-30
 
-[`bb9e758`](https://github.com/dmellok/tesserae/commit/bb9e75866544907ec0a9102fa7710b9588121bcb) release: v0.64.45, pi-client cloud-init + quickstart page
+[`5521ebe`](https://github.com/dmellok/tesserae/commit/5521ebe68408f8e88e996e1b5385533ea00ebd2b) release: v0.64.46, three Settings fixes + weekly Release cadence
 
 ---
 
