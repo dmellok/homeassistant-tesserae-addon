@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.46-edge.5521ebe, 2026-06-30
+## 0.64.47-edge.b6553f9, 2026-06-30
 
-[`5521ebe`](https://github.com/dmellok/tesserae/commit/5521ebe68408f8e88e996e1b5385533ea00ebd2b) release: v0.64.46, three Settings fixes + weekly Release cadence
+[`b6553f9`](https://github.com/dmellok/tesserae/commit/b6553f9d817626e1b64fbb86f1c1d08cb34ef98f) release: v0.64.47, per-device battery offset + time-to-full + clear history
 
 ---
 
