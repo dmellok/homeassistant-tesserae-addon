@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.51-edge.07d68a5, 2026-07-01
+## 0.64.52-edge.c78fbda, 2026-07-01
 
-[`07d68a5`](https://github.com/dmellok/tesserae/commit/07d68a5078e4abf15b3965dded18e506b8e84ba4) release: v0.64.51, correct Inky Impression 4 dims + legacy ACeP variant
+[`c78fbda`](https://github.com/dmellok/tesserae/commit/c78fbdaf8f44c8d7abff70ec2b964f2a2d467398) release: v0.64.52, hardware manifests for tesserae-device-firmware boards
 
 ---
 
