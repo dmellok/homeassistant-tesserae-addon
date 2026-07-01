@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.58-edge.7c79172, 2026-07-01
+## 0.64.59-edge.9d4783a, 2026-07-01
 
-[`7c79172`](https://github.com/dmellok/tesserae/commit/7c7917228bb894280d9fc0824f8f25a2c4a1b64b) release: v0.64.58, split 403/404 in /api/v1/device auth + JSON error envelope
+[`9d4783a`](https://github.com/dmellok/tesserae/commit/9d4783a126a108f2d8cf7644d31777deacfefb98) release: v0.64.59, drop unused type:ignore in v0.64.58 error handler
 
 ---
 
