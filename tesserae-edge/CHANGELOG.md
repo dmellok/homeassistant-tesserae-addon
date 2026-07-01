@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.48-edge.5e04b07, 2026-07-01
+## 0.64.49-edge.9831753, 2026-07-01
 
-[`5e04b07`](https://github.com/dmellok/tesserae/commit/5e04b07978e479ef6ea8e5fe8141121102ea2557) release: v0.64.48, apply battery offset at every read site
+[`9831753`](https://github.com/dmellok/tesserae/commit/9831753ae423302d70e64282cc7429d4254a07cc) release: v0.64.49, colour renderer for TRMNL BYOS panels + E1002 wiring
 
 ---
 
