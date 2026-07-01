@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.50-edge.93be02c, 2026-07-01
+## 0.64.51-edge.07d68a5, 2026-07-01
 
-[`93be02c`](https://github.com/dmellok/tesserae/commit/93be02cbfe897b3efa6d372c0788836aaf61bfb7) release: v0.64.50, Debug section on device cards
+[`07d68a5`](https://github.com/dmellok/tesserae/commit/07d68a5078e4abf15b3965dded18e506b8e84ba4) release: v0.64.51, correct Inky Impression 4 dims + legacy ACeP variant
 
 ---
 
