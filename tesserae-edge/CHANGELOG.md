@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.53-edge.8f84007, 2026-07-01
+## 0.64.54-edge.abc1fad, 2026-07-01
 
-[`8f84007`](https://github.com/dmellok/tesserae/commit/8f8400714c44867762857cfc70d89a11039ae3a9) release: v0.64.53, ship hardware/ in the Docker image
+[`abc1fad`](https://github.com/dmellok/tesserae/commit/abc1fad61f16edc778f516ee05b36b4d476fd1b8) release: v0.64.54, native mono path for Seeed reTerminal E1001
 
 ---
 
