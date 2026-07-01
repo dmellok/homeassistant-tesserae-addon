@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.59-edge.9d4783a, 2026-07-01
+## 0.64.60-edge.ef5f511, 2026-07-01
 
-[`9d4783a`](https://github.com/dmellok/tesserae/commit/9d4783a126a108f2d8cf7644d31777deacfefb98) release: v0.64.59, drop unused type:ignore in v0.64.58 error handler
+[`ef5f511`](https://github.com/dmellok/tesserae/commit/ef5f51116d16a4c0a5d700b9c0a3cd7079f6c11c) release: v0.64.60, Waveshare PhotoPainter 7.3" hardware manifest
 
 ---
 
