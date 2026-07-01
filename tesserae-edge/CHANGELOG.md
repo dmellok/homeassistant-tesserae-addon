@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.52-edge.c78fbda, 2026-07-01
+## 0.64.53-edge.8f84007, 2026-07-01
 
-[`c78fbda`](https://github.com/dmellok/tesserae/commit/c78fbdaf8f44c8d7abff70ec2b964f2a2d467398) release: v0.64.52, hardware manifests for tesserae-device-firmware boards
+[`8f84007`](https://github.com/dmellok/tesserae/commit/8f8400714c44867762857cfc70d89a11039ae3a9) release: v0.64.53, ship hardware/ in the Docker image
 
 ---
 
