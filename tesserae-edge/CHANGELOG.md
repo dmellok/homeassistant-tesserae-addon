@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.47-edge.b6553f9, 2026-06-30
+## 0.64.48-edge.5e04b07, 2026-07-01
 
-[`b6553f9`](https://github.com/dmellok/tesserae/commit/b6553f9d817626e1b64fbb86f1c1d08cb34ef98f) release: v0.64.47, per-device battery offset + time-to-full + clear history
+[`5e04b07`](https://github.com/dmellok/tesserae/commit/5e04b07978e479ef6ea8e5fe8141121102ea2557) release: v0.64.48, apply battery offset at every read site
 
 ---
 
