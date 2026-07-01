@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.54-edge.abc1fad, 2026-07-01
+## 0.64.56-edge.77e2769, 2026-07-01
 
-[`abc1fad`](https://github.com/dmellok/tesserae/commit/abc1fad61f16edc778f516ee05b36b4d476fd1b8) release: v0.64.54, native mono path for Seeed reTerminal E1001
+[`77e2769`](https://github.com/dmellok/tesserae/commit/77e27698c2d0bd9ed4bec24e4af8fb2994e1ec61) release: v0.64.56, pi-client cloud-init skips install.sh + templates from meta-data
 
 ---
 
