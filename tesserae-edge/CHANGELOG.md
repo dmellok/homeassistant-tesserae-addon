@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.56-edge.77e2769, 2026-07-01
+## 0.64.57-edge.8ed5776, 2026-07-01
 
-[`77e2769`](https://github.com/dmellok/tesserae/commit/77e27698c2d0bd9ed4bec24e4af8fb2994e1ec61) release: v0.64.56, pi-client cloud-init skips install.sh + templates from meta-data
+[`8ed5776`](https://github.com/dmellok/tesserae/commit/8ed57762ffe3c193e0f2f21feb676c35433dc7ff) release: v0.64.57, 4-bpp grayscale renderer for the E1003
 
 ---
 
