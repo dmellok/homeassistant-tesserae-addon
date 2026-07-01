@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.57-edge.8ed5776, 2026-07-01
+## 0.64.58-edge.7c79172, 2026-07-01
 
-[`8ed5776`](https://github.com/dmellok/tesserae/commit/8ed57762ffe3c193e0f2f21feb676c35433dc7ff) release: v0.64.57, 4-bpp grayscale renderer for the E1003
+[`7c79172`](https://github.com/dmellok/tesserae/commit/7c7917228bb894280d9fc0824f8f25a2c4a1b64b) release: v0.64.58, split 403/404 in /api/v1/device auth + JSON error envelope
 
 ---
 
