@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.49-edge.9831753, 2026-07-01
+## 0.64.50-edge.93be02c, 2026-07-01
 
-[`9831753`](https://github.com/dmellok/tesserae/commit/9831753ae423302d70e64282cc7429d4254a07cc) release: v0.64.49, colour renderer for TRMNL BYOS panels + E1002 wiring
+[`93be02c`](https://github.com/dmellok/tesserae/commit/93be02cbfe897b3efa6d372c0788836aaf61bfb7) release: v0.64.50, Debug section on device cards
 
 ---
 
