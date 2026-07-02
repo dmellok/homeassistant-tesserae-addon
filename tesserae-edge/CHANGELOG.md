@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.64-edge.f3ce534, 2026-07-02
+## 0.64.65-edge.ea2813c, 2026-07-02
 
-[`f3ce534`](https://github.com/dmellok/tesserae/commit/f3ce534adc1d65d683742017bf4e5ccdcacb623b) release: v0.64.64, hardware SKU section on compatibility page + fixes
+[`ea2813c`](https://github.com/dmellok/tesserae/commit/ea2813c6dec1b97c91b1b4ce4697dc82c2199984) release: v0.64.65, Seeed featured page and firmware framing
 
 ---
 
