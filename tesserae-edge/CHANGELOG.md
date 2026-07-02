@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.61-edge.874c976, 2026-07-01
+## 0.64.62-edge.482c63d, 2026-07-02
 
-[`874c976`](https://github.com/dmellok/tesserae/commit/874c976aee6a11e740d9fccbea08a7133d7c8a2d) release: v0.64.61, Seeed XIAO ePaper EE02 hardware manifest
+[`482c63d`](https://github.com/dmellok/tesserae/commit/482c63d600e287dad1ffa1205d5d5f4cb7d20acd) release: v0.64.62, Seeed XIAO ePaper 7.5" (mono) hardware manifest
 
 ---
 
