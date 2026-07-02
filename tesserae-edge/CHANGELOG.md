@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.66-edge.b4813ad, 2026-07-02
+## 0.64.66-edge.9ef616b, 2026-07-02
 
-[`b4813ad`](https://github.com/dmellok/tesserae/commit/b4813ad0ef272521e47d0159d9eda864f2c44f45) release: v0.64.66, drop mobile sticky preview in the dashboard editor
+[`9ef616b`](https://github.com/dmellok/tesserae/commit/9ef616b1d6f28a989c30738d93b1b80664022d3c) Merge pull request #42 from bablokb/pi-client-cloud-init
 
 ---
 
