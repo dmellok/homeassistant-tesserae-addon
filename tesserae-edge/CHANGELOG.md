@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.63-edge.93150ac, 2026-07-02
+## 0.64.64-edge.f3ce534, 2026-07-02
 
-[`93150ac`](https://github.com/dmellok/tesserae/commit/93150ac8529c1bdff86f8b9816ee1c517fc66cb7) release: v0.64.63, unified quickstart for Seeed ePaper devices
+[`f3ce534`](https://github.com/dmellok/tesserae/commit/f3ce534adc1d65d683742017bf4e5ccdcacb623b) release: v0.64.64, hardware SKU section on compatibility page + fixes
 
 ---
 
