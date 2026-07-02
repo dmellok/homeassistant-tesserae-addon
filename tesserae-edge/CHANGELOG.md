@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.65-edge.ea2813c, 2026-07-02
+## 0.64.66-edge.b4813ad, 2026-07-02
 
-[`ea2813c`](https://github.com/dmellok/tesserae/commit/ea2813c6dec1b97c91b1b4ce4697dc82c2199984) release: v0.64.65, Seeed featured page and firmware framing
+[`b4813ad`](https://github.com/dmellok/tesserae/commit/b4813ad0ef272521e47d0159d9eda864f2c44f45) release: v0.64.66, drop mobile sticky preview in the dashboard editor
 
 ---
 
