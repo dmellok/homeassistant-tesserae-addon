@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.62-edge.482c63d, 2026-07-02
+## 0.64.63-edge.93150ac, 2026-07-02
 
-[`482c63d`](https://github.com/dmellok/tesserae/commit/482c63d600e287dad1ffa1205d5d5f4cb7d20acd) release: v0.64.62, Seeed XIAO ePaper 7.5" (mono) hardware manifest
+[`93150ac`](https://github.com/dmellok/tesserae/commit/93150ac8529c1bdff86f8b9816ee1c517fc66cb7) release: v0.64.63, unified quickstart for Seeed ePaper devices
 
 ---
 
