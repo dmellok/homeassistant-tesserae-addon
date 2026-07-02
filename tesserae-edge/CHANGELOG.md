@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.67-edge.7878adc, 2026-07-02
+## 0.64.68-edge.f22e335, 2026-07-02
 
-[`7878adc`](https://github.com/dmellok/tesserae/commit/7878adc3931c2bd105a027de505006858233d305) release: v0.64.67, install-a-client page leads with the unified firmware
+[`f22e335`](https://github.com/dmellok/tesserae/commit/f22e3357d7699afe6158efc506f18c6b7113b007) release: v0.64.68, scope docker workflow cache per ref
 
 ---
 
