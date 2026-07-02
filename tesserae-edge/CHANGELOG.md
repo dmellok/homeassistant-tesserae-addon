@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.66-edge.9ef616b, 2026-07-02
+## 0.64.67-edge.7878adc, 2026-07-02
 
-[`9ef616b`](https://github.com/dmellok/tesserae/commit/9ef616b1d6f28a989c30738d93b1b80664022d3c) Merge pull request #42 from bablokb/pi-client-cloud-init
+[`7878adc`](https://github.com/dmellok/tesserae/commit/7878adc3931c2bd105a027de505006858233d305) release: v0.64.67, install-a-client page leads with the unified firmware
 
 ---
 
