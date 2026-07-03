@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.65.0-edge.aa8ab84, 2026-07-03
+## 0.65.1-edge.b283326, 2026-07-03
 
-[`aa8ab84`](https://github.com/dmellok/tesserae/commit/aa8ab842421f27da4ffbf861988c3dab1cbe4e26) release: v0.65.0, the reTerminal launch release
+[`b283326`](https://github.com/dmellok/tesserae/commit/b283326f0bee41663a931e7c33e36608f0d2c44f) release: v0.65.1, button feature docs surface
 
 ---
 
