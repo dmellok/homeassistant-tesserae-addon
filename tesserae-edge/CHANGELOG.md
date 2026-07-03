@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.66.1-edge.d842968, 2026-07-03
+## 0.66.1-edge.bfb1333, 2026-07-03
 
-[`d842968`](https://github.com/dmellok/tesserae/commit/d842968a886aceec9719be27a034de3a8787e4f3) release: v0.66.1, two-column calibration tab + drop footer chip
+[`bfb1333`](https://github.com/dmellok/tesserae/commit/bfb1333596a38ea3104d35ea82e2bbc428024434) docs: point Waveshare quickstarts at the correct flash path
 
 ---
 
