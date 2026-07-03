@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.71-edge.209b11c, 2026-07-03
+## 0.64.72-edge.8b26a86, 2026-07-03
 
-[`209b11c`](https://github.com/dmellok/tesserae/commit/209b11c4719b0b2f3ee1044e134ffe857ab0b738) release: v0.64.71, fix mypy errors in app/button_service.py
+[`8b26a86`](https://github.com/dmellok/tesserae/commit/8b26a861cc578ea2c18b61a5b06039511e1f1d9c) release: v0.64.72, isolate dead-upstream widget failures from the whole render
 
 ---
 
