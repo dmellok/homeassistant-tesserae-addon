@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.73-edge.249b334, 2026-07-03
+## 0.65.0-edge.aa8ab84, 2026-07-03
 
-[`249b334`](https://github.com/dmellok/tesserae/commit/249b334adda65050a825e18bd0d6da73f76f9d38) release: v0.64.73, friendly device names + button detail line on the History page
+[`aa8ab84`](https://github.com/dmellok/tesserae/commit/aa8ab842421f27da4ffbf861988c3dab1cbe4e26) release: v0.65.0, the reTerminal launch release
 
 ---
 
