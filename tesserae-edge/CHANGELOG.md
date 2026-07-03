@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.72-edge.8b26a86, 2026-07-03
+## 0.64.73-edge.249b334, 2026-07-03
 
-[`8b26a86`](https://github.com/dmellok/tesserae/commit/8b26a861cc578ea2c18b61a5b06039511e1f1d9c) release: v0.64.72, isolate dead-upstream widget failures from the whole render
+[`249b334`](https://github.com/dmellok/tesserae/commit/249b334adda65050a825e18bd0d6da73f76f9d38) release: v0.64.73, friendly device names + button detail line on the History page
 
 ---
 
