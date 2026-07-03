@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.69-edge.31264f2, 2026-07-03
+## 0.64.70-edge.dcbd548, 2026-07-03
 
-[`31264f2`](https://github.com/dmellok/tesserae/commit/31264f245b01380a966cb03291e7b4df4dac4a58) release: v0.64.69, community CTAs across onboarding, footer, and About
+[`dcbd548`](https://github.com/dmellok/tesserae/commit/dcbd548533fd97083b09e7fab93a7a97919e41dc) release: v0.64.70, server-side handling for physical button wakes
 
 ---
 
