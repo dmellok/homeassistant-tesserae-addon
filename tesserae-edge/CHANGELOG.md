@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.66.0-edge.a296111, 2026-07-03
+## 0.66.1-edge.d842968, 2026-07-03
 
-[`a296111`](https://github.com/dmellok/tesserae/commit/a2961115397c25eb84488aa6b6f036289c25fa15) release: v0.66.0, Calibration tab with colour test patterns
+[`d842968`](https://github.com/dmellok/tesserae/commit/d842968a886aceec9719be27a034de3a8787e4f3) release: v0.66.1, two-column calibration tab + drop footer chip
 
 ---
 
