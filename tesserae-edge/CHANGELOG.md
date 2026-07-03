@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.65.2-edge.60cfeb5, 2026-07-03
+## 0.66.0-edge.a296111, 2026-07-03
 
-[`60cfeb5`](https://github.com/dmellok/tesserae/commit/60cfeb5681cf04f0977cd8ba45d4e1557a311a4a) docs: expand README with how-it-works, design decisions, status, community sections
+[`a296111`](https://github.com/dmellok/tesserae/commit/a2961115397c25eb84488aa6b6f036289c25fa15) release: v0.66.0, Calibration tab with colour test patterns
 
 ---
 
