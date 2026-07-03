@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.68-edge.f22e335, 2026-07-02
+## 0.64.69-edge.31264f2, 2026-07-03
 
-[`f22e335`](https://github.com/dmellok/tesserae/commit/f22e3357d7699afe6158efc506f18c6b7113b007) release: v0.64.68, scope docker workflow cache per ref
+[`31264f2`](https://github.com/dmellok/tesserae/commit/31264f245b01380a966cb03291e7b4df4dac4a58) release: v0.64.69, community CTAs across onboarding, footer, and About
 
 ---
 
