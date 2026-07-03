@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.64.70-edge.dcbd548, 2026-07-03
+## 0.64.71-edge.209b11c, 2026-07-03
 
-[`dcbd548`](https://github.com/dmellok/tesserae/commit/dcbd548533fd97083b09e7fab93a7a97919e41dc) release: v0.64.70, server-side handling for physical button wakes
+[`209b11c`](https://github.com/dmellok/tesserae/commit/209b11c4719b0b2f3ee1044e134ffe857ab0b738) release: v0.64.71, fix mypy errors in app/button_service.py
 
 ---
 
