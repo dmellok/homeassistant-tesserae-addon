@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.65.1-edge.b283326, 2026-07-03
+## 0.65.2-edge.607712c, 2026-07-03
 
-[`b283326`](https://github.com/dmellok/tesserae/commit/b283326f0bee41663a931e7c33e36608f0d2c44f) release: v0.65.1, button feature docs surface
+[`607712c`](https://github.com/dmellok/tesserae/commit/607712ca980a4c175ea451049bf6c687534dd7ca) release: v0.65.2, quantize() dispatches every DitherMode (fixes #47)
 
 ---
 
