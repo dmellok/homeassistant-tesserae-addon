@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.66.1-edge.bfb1333, 2026-07-03
+## 0.67.4-edge.3cd2c22, 2026-07-04
 
-[`bfb1333`](https://github.com/dmellok/tesserae/commit/bfb1333596a38ea3104d35ea82e2bbc428024434) docs: point Waveshare quickstarts at the correct flash path
+[`3cd2c22`](https://github.com/dmellok/tesserae/commit/3cd2c22d8361c99520a85043ac7e0b33beda60bf) release: v0.67.4, LAB compression + colour-match modes + tone-aware preview
 
 ---
 
