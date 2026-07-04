@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.6-edge.d5f7c23, 2026-07-04
+## 0.69.7-edge.e4a1bd4, 2026-07-04
 
-[`d5f7c23`](https://github.com/dmellok/tesserae/commit/d5f7c237c94a039bf8fba5cd2b5110ff8424131e) settings: sticky save bar is always visible, muted until dirty (issue #52 item 3)
+[`e4a1bd4`](https://github.com/dmellok/tesserae/commit/e4a1bd404ce4ba6f3dd2cf09c84bb4b9075320f5) composer: narrow legacy lat/lon type for mypy
 
 ---
 
