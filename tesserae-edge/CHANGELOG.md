@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.5-edge.8b26965, 2026-07-04
+## 0.69.6-edge.d5f7c23, 2026-07-04
 
-[`8b26965`](https://github.com/dmellok/tesserae/commit/8b26965e398d2a9613cc70b92641964c0cc16048) release: v0.69.5, route panel.gamut through the esp32_bin renderer
+[`d5f7c23`](https://github.com/dmellok/tesserae/commit/d5f7c237c94a039bf8fba5cd2b5110ff8424131e) settings: sticky save bar is always visible, muted until dirty (issue #52 item 3)
 
 ---
 
