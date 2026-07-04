@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.67.4-edge.3cd2c22, 2026-07-04
+## 0.67.5-edge.7b72615, 2026-07-04
 
-[`3cd2c22`](https://github.com/dmellok/tesserae/commit/3cd2c22d8361c99520a85043ac7e0b33beda60bf) release: v0.67.4, LAB compression + colour-match modes + tone-aware preview
+[`7b72615`](https://github.com/dmellok/tesserae/commit/7b72615a44c2ff51a320d23586c7ea8c1745e462) release: v0.67.5, fix mypy strict on LAB scratch buffers
 
 ---
 
