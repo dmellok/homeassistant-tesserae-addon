@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.4-edge.d7fbee7, 2026-07-04
+## 0.69.5-edge.8b26965, 2026-07-04
 
-[`d7fbee7`](https://github.com/dmellok/tesserae/commit/d7fbee782719229adeb97a91723593a9e33a414c) release: v0.69.4, BWRY switches to native 2-bpp packing + Y/R index swap
+[`8b26965`](https://github.com/dmellok/tesserae/commit/8b26965e398d2a9613cc70b92641964c0cc16048) release: v0.69.5, route panel.gamut through the esp32_bin renderer
 
 ---
 
