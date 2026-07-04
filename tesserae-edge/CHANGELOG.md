@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.3-edge.e968fe4, 2026-07-04
+## 0.69.4-edge.d7fbee7, 2026-07-04
 
-[`e968fe4`](https://github.com/dmellok/tesserae/commit/e968fe451391650c026ae6fb39f9bd71ff122ac3) release: v0.69.3, BWRY 4-colour gamut for PicPak-class panels
+[`d7fbee7`](https://github.com/dmellok/tesserae/commit/d7fbee782719229adeb97a91723593a9e33a414c) release: v0.69.4, BWRY switches to native 2-bpp packing + Y/R index swap
 
 ---
 
