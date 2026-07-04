@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.0-edge.1dd8c62, 2026-07-04
+## 0.69.1-edge.bbfecc6, 2026-07-04
 
-[`1dd8c62`](https://github.com/dmellok/tesserae/commit/1dd8c62e68cf0ac1bbf4a2b1c757da5f28ad540b) release: v0.69.0, PushManager coalescing (no more silent stomps)
+[`bbfecc6`](https://github.com/dmellok/tesserae/commit/bbfecc663bfb0824e6ff293315cd7ac53acfe621) release: v0.69.1, gamut from /discover + rgb24/rgb16 support (issue #41)
 
 ---
 
