@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.7-edge.e4a1bd4, 2026-07-04
+## 0.69.8-edge.4ab9eef, 2026-07-04
 
-[`e4a1bd4`](https://github.com/dmellok/tesserae/commit/e4a1bd404ce4ba6f3dd2cf09c84bb4b9075320f5) composer: narrow legacy lat/lon type for mypy
+[`4ab9eef`](https://github.com/dmellok/tesserae/commit/4ab9eef4a8ee2ed533980605f66f846fb9663ec1) release: v0.69.8, live-preview throbber in the widget editor
 
 ---
 
