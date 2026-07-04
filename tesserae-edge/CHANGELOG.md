@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.1-edge.bbfecc6, 2026-07-04
+## 0.69.2-edge.62be133, 2026-07-04
 
-[`bbfecc6`](https://github.com/dmellok/tesserae/commit/bbfecc663bfb0824e6ff293315cd7ac53acfe621) release: v0.69.1, gamut from /discover + rgb24/rgb16 support (issue #41)
+[`62be133`](https://github.com/dmellok/tesserae/commit/62be1337ed67873c8d65436b5339e1557576af0f) release: v0.69.2, delete-with-cascade + MAC-differs auto-wipe (issue #48)
 
 ---
 
