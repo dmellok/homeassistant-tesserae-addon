@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.67.5-edge.7b72615, 2026-07-04
+## 0.68.0-edge.66ccd06, 2026-07-04
 
-[`7b72615`](https://github.com/dmellok/tesserae/commit/7b72615a44c2ff51a320d23586c7ea8c1745e462) release: v0.67.5, fix mypy strict on LAB scratch buffers
+[`66ccd06`](https://github.com/dmellok/tesserae/commit/66ccd06f4e3114e56ef74b4d7e0c7941dfa20ad2) release: v0.68.0, device-card reorg + custom calibration image
 
 ---
 
