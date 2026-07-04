@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.2-edge.62be133, 2026-07-04
+## 0.69.2-edge.08774d6, 2026-07-04
 
-[`62be133`](https://github.com/dmellok/tesserae/commit/62be1337ed67873c8d65436b5339e1557576af0f) release: v0.69.2, delete-with-cascade + MAC-differs auto-wipe (issue #48)
+[`08774d6`](https://github.com/dmellok/tesserae/commit/08774d667f3a1e24088d90a54e64982ccf9b7622) Merge pull request #50 from bablokb/fix-pi-client-cloud-init
 
 ---
 
