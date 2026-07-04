@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.2-edge.08774d6, 2026-07-04
+## 0.69.3-edge.e968fe4, 2026-07-04
 
-[`08774d6`](https://github.com/dmellok/tesserae/commit/08774d667f3a1e24088d90a54e64982ccf9b7622) Merge pull request #50 from bablokb/fix-pi-client-cloud-init
+[`e968fe4`](https://github.com/dmellok/tesserae/commit/e968fe451391650c026ae6fb39f9bd71ff122ac3) release: v0.69.3, BWRY 4-colour gamut for PicPak-class panels
 
 ---
 
