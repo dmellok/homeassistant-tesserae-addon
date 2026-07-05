@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.15-edge.b83d3a2, 2026-07-05
+## 0.69.16-edge.7ba70b9, 2026-07-05
 
-[`b83d3a2`](https://github.com/dmellok/tesserae/commit/b83d3a2b6dcf62f929ad15ded1bde8d59bfe494c) release: v0.69.15, persist test-pattern picker across saves
+[`7ba70b9`](https://github.com/dmellok/tesserae/commit/7ba70b9d08586c1f9ee64a97b6472241cfbe9900) release: v0.69.16, bundled PicPak 4.2" BWRY panel support
 
 ---
 
