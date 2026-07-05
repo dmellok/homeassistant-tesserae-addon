@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.14-edge.ce5e033, 2026-07-05
+## 0.69.15-edge.b83d3a2, 2026-07-05
 
-[`ce5e033`](https://github.com/dmellok/tesserae/commit/ce5e033f9f7131e947b48f5e1cdadbef772522db) release: v0.69.14, four Calibration-tab fixes
+[`b83d3a2`](https://github.com/dmellok/tesserae/commit/b83d3a2b6dcf62f929ad15ded1bde8d59bfe494c) release: v0.69.15, persist test-pattern picker across saves
 
 ---
 
