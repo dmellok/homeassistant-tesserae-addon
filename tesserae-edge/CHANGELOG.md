@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.10-edge.f42abab, 2026-07-05
+## 0.69.11-edge.88ee37a, 2026-07-05
 
-[`f42abab`](https://github.com/dmellok/tesserae/commit/f42ababffc22150d3e69a4c20058f5cedaebad6b) release: v0.69.10, sticky save bar pinned to viewport + tone-form Save discoverability
+[`88ee37a`](https://github.com/dmellok/tesserae/commit/88ee37a0adcde2ba26453a4dcd6c638078006b6e) release: v0.69.11, palette picker filter + save bar sticky-not-fixed + tone form its own bar
 
 ---
 
