@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.9-edge.2ec1b2c, 2026-07-05
+## 0.69.10-edge.f42abab, 2026-07-05
 
-[`2ec1b2c`](https://github.com/dmellok/tesserae/commit/2ec1b2cbd3d213afba81b85eab281f5a1a70feaa) release: v0.69.9, device card form + collapse regressions from v0.68.0
+[`f42abab`](https://github.com/dmellok/tesserae/commit/f42ababffc22150d3e69a4c20058f5cedaebad6b) release: v0.69.10, sticky save bar pinned to viewport + tone-form Save discoverability
 
 ---
 
