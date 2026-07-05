@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.13-edge.7d8b719, 2026-07-05
+## 0.69.13-edge.3c5772a, 2026-07-05
 
-[`7d8b719`](https://github.com/dmellok/tesserae/commit/7d8b71923021c564dc50d604bb1ade521c083673) release: v0.69.13, pin server cloud-init to release tag (issue #35)
+[`3c5772a`](https://github.com/dmellok/tesserae/commit/3c5772af3870616d4d9eb0a9150727edc2601069) docs: canonicalise on docs.tesserae.ink + retry deploy step
 
 ---
 
