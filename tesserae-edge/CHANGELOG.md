@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.11-edge.88ee37a, 2026-07-05
+## 0.69.12-edge.25f637f, 2026-07-05
 
-[`88ee37a`](https://github.com/dmellok/tesserae/commit/88ee37a0adcde2ba26453a4dcd6c638078006b6e) release: v0.69.11, palette picker filter + save bar sticky-not-fixed + tone form its own bar
+[`25f637f`](https://github.com/dmellok/tesserae/commit/25f637fb27deb6faf972b0f5263bff6ac2d8007c) release: v0.69.12, save bars stack instead of overlap + overflow:clip unblocks sticky
 
 ---
 
