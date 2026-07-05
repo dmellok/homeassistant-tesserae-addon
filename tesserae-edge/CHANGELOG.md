@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.12-edge.25f637f, 2026-07-05
+## 0.69.12-edge.3c51e15, 2026-07-05
 
-[`25f637f`](https://github.com/dmellok/tesserae/commit/25f637fb27deb6faf972b0f5263bff6ac2d8007c) release: v0.69.12, save bars stack instead of overlap + overflow:clip unblocks sticky
+[`3c51e15`](https://github.com/dmellok/tesserae/commit/3c51e150d98d03fc4c5b38caf870365380865519) Merge pull request #54 from charmmmz/codex/calendar-local-date-timezone
 
 ---
 
