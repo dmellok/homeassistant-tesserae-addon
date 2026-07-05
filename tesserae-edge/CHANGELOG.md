@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.13-edge.3c5772a, 2026-07-05
+## 0.69.14-edge.ce5e033, 2026-07-05
 
-[`3c5772a`](https://github.com/dmellok/tesserae/commit/3c5772af3870616d4d9eb0a9150727edc2601069) docs: canonicalise on docs.tesserae.ink + retry deploy step
+[`ce5e033`](https://github.com/dmellok/tesserae/commit/ce5e033f9f7131e947b48f5e1cdadbef772522db) release: v0.69.14, four Calibration-tab fixes
 
 ---
 
