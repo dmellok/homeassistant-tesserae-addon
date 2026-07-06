@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.17-edge.3587aa4, 2026-07-06
+## 0.69.18-edge.d6661e1, 2026-07-06
 
-[`3587aa4`](https://github.com/dmellok/tesserae/commit/3587aa4b58ebef504445a0d555597daf94176c22) release: v0.69.17, calibration + settings + history fixes (issue #52)
+[`d6661e1`](https://github.com/dmellok/tesserae/commit/d6661e190c0f95963ab73e74d6e18b477fd397bb) 0.69.18: carry panel.vflip through the manifest -> renderer allow-lists (#65)
 
 ---
 
