@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.16-edge.5e17237, 2026-07-06
+## 0.69.16-edge.d587e1a, 2026-07-06
 
-[`5e17237`](https://github.com/dmellok/tesserae/commit/5e172379c682be01424d7e5f6c5085651356db6e) docs: add family photo above the Seeed Studio panel table
+[`d587e1a`](https://github.com/dmellok/tesserae/commit/d587e1a01908b2fd8fce6c892feca787c7840b3e) docs: drop inaccurate TRMNL BYOS 'stock' claim from Seeed intro
 
 ---
 
