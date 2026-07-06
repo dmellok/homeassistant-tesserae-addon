@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.16-edge.7ba70b9, 2026-07-05
+## 0.69.16-edge.5e17237, 2026-07-06
 
-[`7ba70b9`](https://github.com/dmellok/tesserae/commit/7ba70b9d08586c1f9ee64a97b6472241cfbe9900) release: v0.69.16, bundled PicPak 4.2" BWRY panel support
+[`5e17237`](https://github.com/dmellok/tesserae/commit/5e172379c682be01424d7e5f6c5085651356db6e) docs: add family photo above the Seeed Studio panel table
 
 ---
 
