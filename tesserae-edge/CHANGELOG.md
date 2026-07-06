@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.18-edge.d6661e1, 2026-07-06
+## 0.70.0-edge.36b5749, 2026-07-06
 
-[`d6661e1`](https://github.com/dmellok/tesserae/commit/d6661e190c0f95963ab73e74d6e18b477fd397bb) 0.69.18: carry panel.vflip through the manifest -> renderer allow-lists (#65)
+[`36b5749`](https://github.com/dmellok/tesserae/commit/36b5749b502cef5fb27f7c78560292e7fdb2c9b4) release: v0.70.0 (install_id, status widget, broker-less push fix)
 
 ---
 
