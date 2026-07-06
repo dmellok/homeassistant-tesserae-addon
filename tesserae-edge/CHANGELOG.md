@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.69.16-edge.d587e1a, 2026-07-06
+## 0.69.17-edge.3587aa4, 2026-07-06
 
-[`d587e1a`](https://github.com/dmellok/tesserae/commit/d587e1a01908b2fd8fce6c892feca787c7840b3e) docs: drop inaccurate TRMNL BYOS 'stock' claim from Seeed intro
+[`3587aa4`](https://github.com/dmellok/tesserae/commit/3587aa4b58ebef504445a0d555597daf94176c22) release: v0.69.17, calibration + settings + history fixes (issue #52)
 
 ---
 
