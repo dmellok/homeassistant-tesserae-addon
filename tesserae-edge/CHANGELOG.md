@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.3-edge.1783400060, 2026-07-07
+## 0.71.3-edge.1783400794, 2026-07-07
 
-[`4947975`](https://github.com/dmellok/tesserae/commit/4947975fdab58e84fb67ac6fc3c66a8ad94d02ba) calendar_core: labelled Refresh button + cache-age chip + informative flash
+[`d4476a4`](https://github.com/dmellok/tesserae/commit/d4476a448e36ffa307bf6719ba8b83a83c9f6436) fix: per-device status bar + history device chip
 
 ---
 
