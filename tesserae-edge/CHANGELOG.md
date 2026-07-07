@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.6-edge.1783423272, 2026-07-07
+## 0.71.6-edge.1783424284, 2026-07-07
 
-[`583e999`](https://github.com/dmellok/tesserae/commit/583e99922c506e68f8306f6c617e7c4535ad6877) fix: clone teardown no longer deletes the base renderer on id collision (#52)
+[`5493b76`](https://github.com/dmellok/tesserae/commit/5493b762da88a676ffae8e294b4392a8308731fc) test: pin broker-less unbound-push fan-out stays clean (#67)
 
 ---
 
