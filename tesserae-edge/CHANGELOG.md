@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.0-edge.c0bb6b3, 2026-07-07
+## 0.71.1-edge.25761da, 2026-07-07
 
-[`c0bb6b3`](https://github.com/dmellok/tesserae/commit/c0bb6b3222575179a202b986d3f261c21f900cbd) release: v0.71.0 (page-level status bar + widget polish)
+[`25761da`](https://github.com/dmellok/tesserae/commit/25761da79088e2509cf81c46e2eb894d32aa5a26) release: v0.71.1 (folded padding + auto-fill fixes)
 
 ---
 
