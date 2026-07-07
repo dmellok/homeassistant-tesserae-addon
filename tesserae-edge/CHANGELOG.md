@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.1-edge.25761da, 2026-07-07
+## 0.71.2-edge.91af66f, 2026-07-07
 
-[`25761da`](https://github.com/dmellok/tesserae/commit/25761da79088e2509cf81c46e2eb894d32aa5a26) release: v0.71.1 (folded padding + auto-fill fixes)
+[`91af66f`](https://github.com/dmellok/tesserae/commit/91af66fc270e15fac64e98de4620999170654761) release: v0.71.2 (padding + cksm skip + palette self-heal)
 
 ---
 
