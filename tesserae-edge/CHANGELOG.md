@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.6-edge.1783424284, 2026-07-07
+## 0.71.7-edge.1783426262, 2026-07-07
 
-[`5493b76`](https://github.com/dmellok/tesserae/commit/5493b762da88a676ffae8e294b4392a8308731fc) test: pin broker-less unbound-push fan-out stays clean (#67)
+[`dcd95d9`](https://github.com/dmellok/tesserae/commit/dcd95d901da2191601df9a3844c474f7c5422d7b) feat: bwr_3 and gray_4 gamuts for the CircuitPython PNG renderer
 
 ---
 
