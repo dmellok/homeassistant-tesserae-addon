@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.7-edge.1783426262, 2026-07-07
+## 0.71.8-edge.1783461036, 2026-07-07
 
-[`dcd95d9`](https://github.com/dmellok/tesserae/commit/dcd95d901da2191601df9a3844c474f7c5422d7b) feat: bwr_3 and gray_4 gamuts for the CircuitPython PNG renderer
+[`a351661`](https://github.com/dmellok/tesserae/commit/a3516613a4fd437749f26e9de33b35c2f802fefd) docs: link the PicPak compat write-up (issue #61)
 
 ---
 
