@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.3-edge.1783406648, 2026-07-07
+## 0.71.3-edge.1783407224, 2026-07-07
 
-[`9532f2c`](https://github.com/dmellok/tesserae/commit/9532f2cae17f8bdfac357988e62fcad687a1ca09) fix: user-initiated Send / Push bypasses content-checksum skip (#81)
+[`76564b7`](https://github.com/dmellok/tesserae/commit/76564b79584be40419e84092a736020f511e187a) fix: broker-less installs no longer fail user pushes with "not connected" (#81)
 
 ---
 
