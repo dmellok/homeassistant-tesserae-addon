@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.4-edge.1783416556, 2026-07-07
+## 0.71.5-edge.1783422326, 2026-07-07
 
-[`e2404ca`](https://github.com/dmellok/tesserae/commit/e2404cab89cdb55dc18ff8c885f8df17ac4c115a) tesserae_status: lead update chips with the new version, not the old
+[`a2ab5f2`](https://github.com/dmellok/tesserae/commit/a2ab5f279684a4c6196c85a61a763cc382f2725b) fix: content-skip keys on full render signature, not composition alone (#81)
 
 ---
 
