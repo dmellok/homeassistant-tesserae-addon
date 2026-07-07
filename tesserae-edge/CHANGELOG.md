@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.3-edge.1783400794, 2026-07-07
+## 0.71.3-edge.1783402617, 2026-07-07
 
-[`d4476a4`](https://github.com/dmellok/tesserae/commit/d4476a448e36ffa307bf6719ba8b83a83c9f6436) fix: per-device status bar + history device chip
+[`74411a6`](https://github.com/dmellok/tesserae/commit/74411a6284138e9ef6a5fd43058aa7eb7fc3072f) status bar polish; slider option type; calendar expansion cache
 
 ---
 
