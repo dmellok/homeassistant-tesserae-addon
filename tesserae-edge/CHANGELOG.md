@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.3-edge.1783403362, 2026-07-07
+## 0.71.3-edge.1783405838, 2026-07-07
 
-[`623011a`](https://github.com/dmellok/tesserae/commit/623011aeb26acf05aa1e1ed8eee1d0d5cc08cc24) push: drop redundant type: ignore on render_targets fallback
+[`c0a84dc`](https://github.com/dmellok/tesserae/commit/c0a84dc696be3c95c93798bd8dc7b9a256f89a70) fix: renderer picture-quality block survives non-Spectra-6 gamuts
 
 ---
 
