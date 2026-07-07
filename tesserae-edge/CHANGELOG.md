@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.3-edge.1783397736, 2026-07-07
+## 0.71.3-edge.1783400060, 2026-07-07
 
-[`dc31352`](https://github.com/dmellok/tesserae/commit/dc31352a50b9cc15dcfb705db6336385bb3e3c67) fix: HA edge suffix now monotonic; bump pyproject 0.71.3 (edge only)
+[`4947975`](https://github.com/dmellok/tesserae/commit/4947975fdab58e84fb67ac6fc3c66a8ad94d02ba) calendar_core: labelled Refresh button + cache-age chip + informative flash
 
 ---
 
