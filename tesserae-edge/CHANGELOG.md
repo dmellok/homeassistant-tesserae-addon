@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.3-edge.1783407224, 2026-07-07
+## 0.71.4-edge.1783416556, 2026-07-07
 
-[`76564b7`](https://github.com/dmellok/tesserae/commit/76564b79584be40419e84092a736020f511e187a) fix: broker-less installs no longer fail user pushes with "not connected" (#81)
+[`e2404ca`](https://github.com/dmellok/tesserae/commit/e2404cab89cdb55dc18ff8c885f8df17ac4c115a) tesserae_status: lead update chips with the new version, not the old
 
 ---
 
