@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.2-edge.91af66f, 2026-07-07
+## 0.71.2-edge.4c45a66, 2026-07-07
 
-[`91af66f`](https://github.com/dmellok/tesserae/commit/91af66fc270e15fac64e98de4620999170654761) release: v0.71.2 (padding + cksm skip + palette self-heal)
+[`4c45a66`](https://github.com/dmellok/tesserae/commit/4c45a665d8212323782fe0a52c85bcaa738c7af7) fix: status bar honours the page gap on all four sides
 
 ---
 
