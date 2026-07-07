@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.3-edge.1783402617, 2026-07-07
+## 0.71.3-edge.1783403362, 2026-07-07
 
-[`74411a6`](https://github.com/dmellok/tesserae/commit/74411a6284138e9ef6a5fd43058aa7eb7fc3072f) status bar polish; slider option type; calendar expansion cache
+[`623011a`](https://github.com/dmellok/tesserae/commit/623011aeb26acf05aa1e1ed8eee1d0d5cc08cc24) push: drop redundant type: ignore on render_targets fallback
 
 ---
 
