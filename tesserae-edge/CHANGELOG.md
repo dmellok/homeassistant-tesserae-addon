@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.2-edge.4c45a66, 2026-07-07
+## 0.71.3-edge.1783397736, 2026-07-07
 
-[`4c45a66`](https://github.com/dmellok/tesserae/commit/4c45a665d8212323782fe0a52c85bcaa738c7af7) fix: status bar honours the page gap on all four sides
+[`dc31352`](https://github.com/dmellok/tesserae/commit/dc31352a50b9cc15dcfb705db6336385bb3e3c67) fix: HA edge suffix now monotonic; bump pyproject 0.71.3 (edge only)
 
 ---
 
