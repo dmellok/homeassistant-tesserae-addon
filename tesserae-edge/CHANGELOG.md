@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.70.0-edge.36b5749, 2026-07-06
+## 0.70.1-edge.8358d14, 2026-07-07
 
-[`36b5749`](https://github.com/dmellok/tesserae/commit/36b5749b502cef5fb27f7c78560292e7fdb2c9b4) release: v0.70.0 (install_id, status widget, broker-less push fix)
+[`8358d14`](https://github.com/dmellok/tesserae/commit/8358d14adbd4e5724b540ed9f88aab9be69050ce) release: v0.70.1 (firmware update lookup now opt-in, off by default)
 
 ---
 
