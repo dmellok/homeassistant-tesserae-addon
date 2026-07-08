@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.72.0-edge.1783490094, 2026-07-08
+## 0.72.0-edge.1783500198, 2026-07-08
 
-[`b9ce60e`](https://github.com/dmellok/tesserae/commit/b9ce60ed3df30e1313149cec72099bfde3a5d781) release: v0.72.0
+[`328800a`](https://github.com/dmellok/tesserae/commit/328800a1e1a62f438b86d7e5cecacd8ff75e20e7) docs: REST-first framing on the landing page; refresh Project status
 
 ---
 
