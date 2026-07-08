@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.8-edge.1783484011, 2026-07-08
+## 0.72.0-edge.1783490094, 2026-07-08
 
-[`ec7631f`](https://github.com/dmellok/tesserae/commit/ec7631ff27b535215365616dfbf3e5915e1bb4e6) docs: swap README hero for the r/eink launch shot
+[`b9ce60e`](https://github.com/dmellok/tesserae/commit/b9ce60ed3df30e1313149cec72099bfde3a5d781) release: v0.72.0
 
 ---
 
