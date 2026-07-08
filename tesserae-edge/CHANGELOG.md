@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.71.8-edge.1783461036, 2026-07-07
+## 0.71.8-edge.1783484011, 2026-07-08
 
-[`a351661`](https://github.com/dmellok/tesserae/commit/a3516613a4fd437749f26e9de33b35c2f802fefd) docs: link the PicPak compat write-up (issue #61)
+[`ec7631f`](https://github.com/dmellok/tesserae/commit/ec7631ff27b535215365616dfbf3e5915e1bb4e6) docs: swap README hero for the r/eink launch shot
 
 ---
 
