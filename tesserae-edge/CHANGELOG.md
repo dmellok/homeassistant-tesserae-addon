@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.84.0-edge.1783716057, 2026-07-10
+## 0.85.0-edge.1783717069, 2026-07-10
 
-[`ca022c6`](https://github.com/dmellok/tesserae/commit/ca022c65423808c9857866a0b32e12c1011087f2) feat(status): show device temperature and humidity in the status bar (#96)
+[`5e81a4f`](https://github.com/dmellok/tesserae/commit/5e81a4fdb0eafa3cb50512c380994b481c04c69d) feat: composer rotation, icon weights, transparent widgets, alignment
 
 ---
 
