@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.91.0-edge.1783720170, 2026-07-10
+## 0.92.0-edge.1783721257, 2026-07-10
 
-[`909662f`](https://github.com/dmellok/tesserae/commit/909662f8a290247c4086064cc659b51056ac9db0) feat: fragment the composite HA widgets
+[`c511196`](https://github.com/dmellok/tesserae/commit/c511196fb6308ff4c878d44b5d8fe77ec7f10f76) feat: composer scale controls
 
 ---
 
