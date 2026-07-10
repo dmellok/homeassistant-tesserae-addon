@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.73.1-edge.1783655734, 2026-07-10
+## 0.74.0-edge.1783657834, 2026-07-10
 
-[`9d2c3d5`](https://github.com/dmellok/tesserae/commit/9d2c3d55ac16fc460926677a044795d8ee70e838) fix: resolve Inky-4 panel variant at registration (#82)
+[`c9632eb`](https://github.com/dmellok/tesserae/commit/c9632ebcea2aeda41262d02a4d6f014c8d2f95f6) feat: per-cell dither control via mode-agnostic region map (#86)
 
 ---
 
