@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.89.0-edge.1783719183, 2026-07-10
+## 0.90.0-edge.1783719581, 2026-07-10
 
-[`55c19ba`](https://github.com/dmellok/tesserae/commit/55c19baeb6ed3f88f7a5b0069fe2eeaa05160b16) feat: composer panel preview and legibility warnings
+[`d3abd23`](https://github.com/dmellok/tesserae/commit/d3abd236973a8cd4ef269fa0fe5bb7a039b72ffe) feat: composer canvas switcher
 
 ---
 
