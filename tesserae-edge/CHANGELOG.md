@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.81.0-edge.1783693074, 2026-07-10
+## 0.82.0-edge.1783694039, 2026-07-10
 
-[`b1f7231`](https://github.com/dmellok/tesserae/commit/b1f7231bbe96cb29195335d3e1c413a48be775e6) feat: render composer widgets with live data
+[`5555c8c`](https://github.com/dmellok/tesserae/commit/5555c8c2cf221ac4476883b58bafe5c85d47baa3) feat: fragment the weather forecast and hourly widgets
 
 ---
 
