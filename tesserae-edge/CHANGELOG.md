@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.74.0-edge.1783670015, 2026-07-10
+## 0.74.0-edge.1783672340, 2026-07-10
 
-[`1620272`](https://github.com/dmellok/tesserae/commit/1620272b87ca2d4d1a69180552049260fe87f938) feat: Panels editor alignment guides + keyboard; parallel CI (#60)
+[`07a3289`](https://github.com/dmellok/tesserae/commit/07a3289d580134853e25110afcc0ec16ae32f2bf) feat: server-side canvas rendering via a shared renderer (#60)
 
 ---
 
