@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.80.1-edge.1783690286, 2026-07-10
+## 0.80.2-edge.1783690826, 2026-07-10
 
-[`c3b463e`](https://github.com/dmellok/tesserae/commit/c3b463e30fb76e5dbb9a234eaf835664432d71da) fix: make the Panels palette scroll and add a widget search
+[`a63f643`](https://github.com/dmellok/tesserae/commit/a63f643d457d976ec505a9573cfeb07cac422f93) feat: tint palette widgets that expose fragments
 
 ---
 
