@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.74.0-edge.1783674971, 2026-07-10
+## 0.74.0-edge.1783675172, 2026-07-10
 
-[`826bc91`](https://github.com/dmellok/tesserae/commit/826bc918217758f20ba3fd0d35f41a9dffb0a238) feat: send a Panels canvas to a device (#60)
+[`59dfe2c`](https://github.com/dmellok/tesserae/commit/59dfe2c11dfd8e83b27b24244534838b6bf03094) feat: Panels panel-size switcher + simulate e-ink mode (#60)
 
 ---
 
