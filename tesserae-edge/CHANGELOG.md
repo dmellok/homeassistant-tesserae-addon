@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.74.0-edge.1783672340, 2026-07-10
+## 0.74.0-edge.1783674971, 2026-07-10
 
-[`07a3289`](https://github.com/dmellok/tesserae/commit/07a3289d580134853e25110afcc0ec16ae32f2bf) feat: server-side canvas rendering via a shared renderer (#60)
+[`826bc91`](https://github.com/dmellok/tesserae/commit/826bc918217758f20ba3fd0d35f41a9dffb0a238) feat: send a Panels canvas to a device (#60)
 
 ---
 
