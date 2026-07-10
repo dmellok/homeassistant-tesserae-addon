@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.73.0-edge.1783654036, 2026-07-10
+## 0.73.0-edge.1783654231, 2026-07-10
 
-[`4f0702a`](https://github.com/dmellok/tesserae/commit/4f0702a791177976de082c90d58264f1a37ae414) feat: make device binding the delivery model (#91)
+[`e305111`](https://github.com/dmellok/tesserae/commit/e305111515f198562e87f84fcfeb32cac9ac8957) fix: narrow optional page before device_ids access in timetable
 
 ---
 
