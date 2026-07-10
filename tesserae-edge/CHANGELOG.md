@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.84.0-edge.1783695947, 2026-07-10
+## 0.84.0-edge.1783716057, 2026-07-10
 
-[`ebb084d`](https://github.com/dmellok/tesserae/commit/ebb084ded90dac007c7ed6fc6c64ba0401c692af) feat: decoration primitives for the composer (shapes, lines, icons)
+[`ca022c6`](https://github.com/dmellok/tesserae/commit/ca022c65423808c9857866a0b32e12c1011087f2) feat(status): show device temperature and humidity in the status bar (#96)
 
 ---
 
