@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.76.0-edge.1783678009, 2026-07-10
+## 0.78.0-edge.1783679904, 2026-07-10
 
-[`29ff0cd`](https://github.com/dmellok/tesserae/commit/29ff0cd1915227d9bb4bf08b6adb1a4131f30dd5) feat: surface environmental telemetry in device status (#93)
+[`aef6eb2`](https://github.com/dmellok/tesserae/commit/aef6eb2638734f0f06e21a56fe9d94c7b7681ce1) feat: Panels multi-select, grouping, and configurable data sources (#60)
 
 ---
 
