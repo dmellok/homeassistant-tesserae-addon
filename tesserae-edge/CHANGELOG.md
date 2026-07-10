@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.72.1-edge.1783580179, 2026-07-09
+## 0.73.0-edge.1783654036, 2026-07-10
 
-[`60d389c`](https://github.com/dmellok/tesserae/commit/60d389cb1b06a8692bf3bf9364781da8d8adca50) Merge pull request #88 from charmmmz/agent/weather-now-current-uv
+[`4f0702a`](https://github.com/dmellok/tesserae/commit/4f0702a791177976de082c90d58264f1a37ae414) feat: make device binding the delivery model (#91)
 
 ---
 
