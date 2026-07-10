@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.85.0-edge.1783717069, 2026-07-10
+## 0.85.1-edge.1783717962, 2026-07-10
 
-[`5e81a4f`](https://github.com/dmellok/tesserae/commit/5e81a4fdb0eafa3cb50512c380994b481c04c69d) feat: composer rotation, icon weights, transparent widgets, alignment
+[`8103bed`](https://github.com/dmellok/tesserae/commit/8103bed377827efbf057451b178d5cd266d9846a) feat: drop-footprint preview when dragging from the composer palette
 
 ---
 
