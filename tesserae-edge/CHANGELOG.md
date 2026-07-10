@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.86.0-edge.1783718425, 2026-07-10
+## 0.87.0-edge.1783718595, 2026-07-10
 
-[`da708aa`](https://github.com/dmellok/tesserae/commit/da708aa46090a641fd6722a333dbca4fc0695a0a) feat: composer text elements, opacity, editable geometry
+[`c51b864`](https://github.com/dmellok/tesserae/commit/c51b864a795b330da401a98c442cdd69a9a9b721) feat: composer distribute/match-size and drag-to-reorder layers
 
 ---
 
