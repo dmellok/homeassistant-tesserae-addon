@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.80.0-edge.1783688890, 2026-07-10
+## 0.80.1-edge.1783690286, 2026-07-10
 
-[`0bd82c4`](https://github.com/dmellok/tesserae/commit/0bd82c499c066e2290d9173d3ee604bcaa93d009) feat: Panels composer places real widget fragments on a freeform canvas (#60)
+[`c3b463e`](https://github.com/dmellok/tesserae/commit/c3b463e30fb76e5dbb9a234eaf835664432d71da) fix: make the Panels palette scroll and add a widget search
 
 ---
 
