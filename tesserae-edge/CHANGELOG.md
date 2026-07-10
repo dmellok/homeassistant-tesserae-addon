@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.79.0-edge.1783685216, 2026-07-10
+## 0.80.0-edge.1783688890, 2026-07-10
 
-[`14f4040`](https://github.com/dmellok/tesserae/commit/14f4040487a29dc2cb7e65140bc0798e497caec2) feat: load all widgets as composer data sources (#60)
+[`0bd82c4`](https://github.com/dmellok/tesserae/commit/0bd82c499c066e2290d9173d3ee604bcaa93d009) feat: Panels composer places real widget fragments on a freeform canvas (#60)
 
 ---
 
