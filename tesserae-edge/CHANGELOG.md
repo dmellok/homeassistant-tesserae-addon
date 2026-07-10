@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.80.2-edge.1783690826, 2026-07-10
+## 0.81.0-edge.1783693074, 2026-07-10
 
-[`a63f643`](https://github.com/dmellok/tesserae/commit/a63f643d457d976ec505a9573cfeb07cac422f93) feat: tint palette widgets that expose fragments
+[`b1f7231`](https://github.com/dmellok/tesserae/commit/b1f7231bbe96cb29195335d3e1c413a48be775e6) feat: render composer widgets with live data
 
 ---
 
