@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.88.0-edge.1783718958, 2026-07-10
+## 0.89.0-edge.1783719183, 2026-07-10
 
-[`10b6bde`](https://github.com/dmellok/tesserae/commit/10b6bde0eb3ea54bdc6423577a102d7b5eb6c687) feat: composer background image and manual zoom/pan
+[`55c19ba`](https://github.com/dmellok/tesserae/commit/55c19baeb6ed3f88f7a5b0069fe2eeaa05160b16) feat: composer panel preview and legibility warnings
 
 ---
 
