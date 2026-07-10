@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.74.0-edge.1783675266, 2026-07-10
+## 0.75.0-edge.1783676142, 2026-07-10
 
-[`c5ea0fa`](https://github.com/dmellok/tesserae/commit/c5ea0fa309c1153fb8161acb838e8e1911865c17) feat: Panels layers show/hide + lock per element (#60)
+[`5da1420`](https://github.com/dmellok/tesserae/commit/5da1420c1b1fdf6bfb1038bd5396266b3455871a) chore: bump version to 0.75.0
 
 ---
 
