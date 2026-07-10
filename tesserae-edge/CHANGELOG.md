@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.87.0-edge.1783718595, 2026-07-10
+## 0.88.0-edge.1783718958, 2026-07-10
 
-[`c51b864`](https://github.com/dmellok/tesserae/commit/c51b864a795b330da401a98c442cdd69a9a9b721) feat: composer distribute/match-size and drag-to-reorder layers
+[`10b6bde`](https://github.com/dmellok/tesserae/commit/10b6bde0eb3ea54bdc6423577a102d7b5eb6c687) feat: composer background image and manual zoom/pan
 
 ---
 
