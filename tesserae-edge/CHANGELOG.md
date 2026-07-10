@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.76.0-edge.1783677558, 2026-07-10
+## 0.76.0-edge.1783678009, 2026-07-10
 
-[`23ca5cd`](https://github.com/dmellok/tesserae/commit/23ca5cd264e057bef6778aa4a579167e35a89170) feat: canvas resolution follows the selected device (#60)
+[`29ff0cd`](https://github.com/dmellok/tesserae/commit/29ff0cd1915227d9bb4bf08b6adb1a4131f30dd5) feat: surface environmental telemetry in device status (#93)
 
 ---
 
