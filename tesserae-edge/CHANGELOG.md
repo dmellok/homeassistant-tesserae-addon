@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.83.0-edge.1783695123, 2026-07-10
+## 0.84.0-edge.1783695947, 2026-07-10
 
-[`ddefce2`](https://github.com/dmellok/tesserae/commit/ddefce2b9c0128fd4730d3785463522a40279be1) feat: composer appearance controls and transparent widgets
+[`ebb084d`](https://github.com/dmellok/tesserae/commit/ebb084ded90dac007c7ed6fc6c64ba0401c692af) feat: decoration primitives for the composer (shapes, lines, icons)
 
 ---
 
