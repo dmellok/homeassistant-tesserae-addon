@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.92.0-edge.1783721257, 2026-07-10
+## 0.93.0-edge.1783727306, 2026-07-10
 
-[`c511196`](https://github.com/dmellok/tesserae/commit/c511196fb6308ff4c878d44b5d8fe77ec7f10f76) feat: composer scale controls
+[`82f04fd`](https://github.com/dmellok/tesserae/commit/82f04fd0af621ba2f3b2c8f0fbeaca6d3fe73850) feat: friendly zoom-parts picker in the composer
 
 ---
 
