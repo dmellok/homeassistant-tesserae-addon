@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.85.1-edge.1783717962, 2026-07-10
+## 0.86.0-edge.1783718425, 2026-07-10
 
-[`8103bed`](https://github.com/dmellok/tesserae/commit/8103bed377827efbf057451b178d5cd266d9846a) feat: drop-footprint preview when dragging from the composer palette
+[`da708aa`](https://github.com/dmellok/tesserae/commit/da708aa46090a641fd6722a333dbca4fc0695a0a) feat: composer text elements, opacity, editable geometry
 
 ---
 
