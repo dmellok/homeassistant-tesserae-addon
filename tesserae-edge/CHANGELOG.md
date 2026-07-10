@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.90.0-edge.1783719581, 2026-07-10
+## 0.91.0-edge.1783720170, 2026-07-10
 
-[`d3abd23`](https://github.com/dmellok/tesserae/commit/d3abd236973a8cd4ef269fa0fe5bb7a039b72ffe) feat: composer canvas switcher
+[`909662f`](https://github.com/dmellok/tesserae/commit/909662f8a290247c4086064cc659b51056ac9db0) feat: fragment the composite HA widgets
 
 ---
 
