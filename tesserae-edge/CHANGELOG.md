@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.74.0-edge.1783675172, 2026-07-10
+## 0.74.0-edge.1783675266, 2026-07-10
 
-[`59dfe2c`](https://github.com/dmellok/tesserae/commit/59dfe2c11dfd8e83b27b24244534838b6bf03094) feat: Panels panel-size switcher + simulate e-ink mode (#60)
+[`c5ea0fa`](https://github.com/dmellok/tesserae/commit/c5ea0fa309c1153fb8161acb838e8e1911865c17) feat: Panels layers show/hide + lock per element (#60)
 
 ---
 
