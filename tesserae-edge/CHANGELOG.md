@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.100.1-edge.1783759590, 2026-07-11
+## 0.101.0-edge.1783771373, 2026-07-11
 
-[`53b0c60`](https://github.com/dmellok/tesserae/commit/53b0c606f89769c82b0b3241c47ce870f1671163) fix: show the online-features consent step before the dashboard step
+[`8fabec1`](https://github.com/dmellok/tesserae/commit/8fabec1a1c550af8bf03aab88496267210d0acef) feat: dark mode for the canvas editor and an admin dark-mode sweep
 
 ---
 
