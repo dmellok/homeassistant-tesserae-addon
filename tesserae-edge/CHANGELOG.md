@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.99.0-edge.1783754639, 2026-07-11
+## 0.100.0-edge.1783757820, 2026-07-11
 
-[`66f2760`](https://github.com/dmellok/tesserae/commit/66f2760070d96082fb70d68da0eed72d2b6da8c2) feat: surface freeform dashboards in the dashboards list + create flow
+[`4fb813c`](https://github.com/dmellok/tesserae/commit/4fb813cfde71a941e67984299b478c60de23afa8) feat: add save, exit, and guardrails to the canvas editor
 
 ---
 
