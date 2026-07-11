@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.94.1-edge.1783732358, 2026-07-11
+## 0.94.2-edge.1783733312, 2026-07-11
 
-[`4a55b05`](https://github.com/dmellok/tesserae/commit/4a55b05ea65088993cf60105223d6d64c7021cb2) docs: drop "on by default" from online-features copy
+[`9c5d61b`](https://github.com/dmellok/tesserae/commit/9c5d61bca1608ac87d16cf476eef18c84dd5ce90) feat: name the widget in the install telemetry event
 
 ---
 
