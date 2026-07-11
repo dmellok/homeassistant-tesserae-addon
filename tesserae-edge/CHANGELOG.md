@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.96.1-edge.1783743508, 2026-07-11
+## 0.96.2-edge.1783743894, 2026-07-11
 
-[`1c40503`](https://github.com/dmellok/tesserae/commit/1c4050397b73c7d36a00e83446b48639582d60fb) fix: stop the heartbeat daemon starting under pytest
+[`0f41a90`](https://github.com/dmellok/tesserae/commit/0f41a907c81c1d343973be43595a560aa4ab2e2d) feat: skip phone-home in build/dev environments
 
 ---
 
