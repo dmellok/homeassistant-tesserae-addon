@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.97.0-edge.1783749494, 2026-07-11
+## 0.98.0-edge.1783754142, 2026-07-11
 
-[`33be24d`](https://github.com/dmellok/tesserae/commit/33be24d5b52569d6929dd1486fa423d6dfd61f61) feat: render freeform canvases as first-class dashboard pages
+[`6d59f8f`](https://github.com/dmellok/tesserae/commit/6d59f8f229b666b619254fe5a8247cff7a9e9887) feat: move the canvas editor into the dashboards area, persist to pages
 
 ---
 
