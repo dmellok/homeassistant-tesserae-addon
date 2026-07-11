@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.95.2-edge.1783739140, 2026-07-11
+## 0.95.3-edge.1783740666, 2026-07-11
 
-[`f854891`](https://github.com/dmellok/tesserae/commit/f8548917df31391eb201b22b7209819d9b0f0d54) test: block live api.tesserae.ink egress + reserved install-UUID marker
+[`048bccf`](https://github.com/dmellok/tesserae/commit/048bccf8e79354609b8a5b25931d965b9be96662) test: block live api.tesserae.ink at the urlopen layer
 
 ---
 
