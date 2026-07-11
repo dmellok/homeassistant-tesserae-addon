@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.102.1-edge.1783808376, 2026-07-11
+## 0.103.0-edge.1783811987, 2026-07-11
 
-[`baeac1a`](https://github.com/dmellok/tesserae/commit/baeac1a904ff9b3bc5f01ad1e046c5d350bd6c00) chore: move the tesserae-mcp bridge to its own repo
+[`52f565b`](https://github.com/dmellok/tesserae/commit/52f565b48d0e2b2c7672e311d983dc62ab78d0b3) docs: detailed MCP setup guide (pipx, both clients, troubleshooting)
 
 ---
 
