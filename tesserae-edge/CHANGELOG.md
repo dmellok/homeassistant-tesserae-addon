@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.96.0-edge.1783742106, 2026-07-11
+## 0.96.1-edge.1783743508, 2026-07-11
 
-[`135c1d1`](https://github.com/dmellok/tesserae/commit/135c1d1dc71768fbaadc2225123b5eff8795ed2e) chore: bump to 0.96.0
+[`1c40503`](https://github.com/dmellok/tesserae/commit/1c4050397b73c7d36a00e83446b48639582d60fb) fix: stop the heartbeat daemon starting under pytest
 
 ---
 
