@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.101.0-edge.1783771373, 2026-07-11
+## 0.102.0-edge.1783775948, 2026-07-11
 
-[`8fabec1`](https://github.com/dmellok/tesserae/commit/8fabec1a1c550af8bf03aab88496267210d0acef) feat: dark mode for the canvas editor and an admin dark-mode sweep
+[`8861333`](https://github.com/dmellok/tesserae/commit/88613339b16115523f5c6201e452891b2d3afcd0) feat: MCP server for building canvas dashboards with an agent
 
 ---
 
