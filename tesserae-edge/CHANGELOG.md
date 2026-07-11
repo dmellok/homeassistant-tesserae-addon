@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.95.1-edge.1783737768, 2026-07-11
+## 0.95.2-edge.1783739140, 2026-07-11
 
-[`64f3e6d`](https://github.com/dmellok/tesserae/commit/64f3e6d34ddf9abbeb2c985d933e689e98d7db67) fix: online-features switch chrome; remove usage survey
+[`f854891`](https://github.com/dmellok/tesserae/commit/f8548917df31391eb201b22b7209819d9b0f0d54) test: block live api.tesserae.ink egress + reserved install-UUID marker
 
 ---
 
