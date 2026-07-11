@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.102.0-edge.1783775948, 2026-07-11
+## 0.102.1-edge.1783808376, 2026-07-11
 
-[`8861333`](https://github.com/dmellok/tesserae/commit/88613339b16115523f5c6201e452891b2d3afcd0) feat: MCP server for building canvas dashboards with an agent
+[`baeac1a`](https://github.com/dmellok/tesserae/commit/baeac1a904ff9b3bc5f01ad1e046c5d350bd6c00) chore: move the tesserae-mcp bridge to its own repo
 
 ---
 
