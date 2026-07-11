@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.95.0-edge.1783736465, 2026-07-11
+## 0.95.1-edge.1783737768, 2026-07-11
 
-[`9d90585`](https://github.com/dmellok/tesserae/commit/9d90585f561e9a6dd6ef49a3a6b21d3a301dce67) feat: daily aggregate heartbeat
+[`64f3e6d`](https://github.com/dmellok/tesserae/commit/64f3e6d34ddf9abbeb2c985d933e689e98d7db67) fix: online-features switch chrome; remove usage survey
 
 ---
 
