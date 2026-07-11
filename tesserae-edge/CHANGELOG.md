@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.98.0-edge.1783754142, 2026-07-11
+## 0.99.0-edge.1783754639, 2026-07-11
 
-[`6d59f8f`](https://github.com/dmellok/tesserae/commit/6d59f8f229b666b619254fe5a8247cff7a9e9887) feat: move the canvas editor into the dashboards area, persist to pages
+[`66f2760`](https://github.com/dmellok/tesserae/commit/66f2760070d96082fb70d68da0eed72d2b6da8c2) feat: surface freeform dashboards in the dashboards list + create flow
 
 ---
 
