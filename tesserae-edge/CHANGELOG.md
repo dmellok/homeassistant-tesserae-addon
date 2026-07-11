@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.103.0-edge.1783811987, 2026-07-11
+## 0.104.0-edge.1783813721, 2026-07-11
 
-[`52f565b`](https://github.com/dmellok/tesserae/commit/52f565b48d0e2b2c7672e311d983dc62ab78d0b3) docs: detailed MCP setup guide (pipx, both clients, troubleshooting)
+[`3d6ad12`](https://github.com/dmellok/tesserae/commit/3d6ad12dae8f7a7979ddf3b6e77c18f02b3777f2) feat: canvas data primitives, custom HTML, off-canvas, shift-aspect
 
 ---
 
