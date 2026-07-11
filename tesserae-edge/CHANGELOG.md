@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.100.0-edge.1783757820, 2026-07-11
+## 0.100.1-edge.1783759590, 2026-07-11
 
-[`4fb813c`](https://github.com/dmellok/tesserae/commit/4fb813cfde71a941e67984299b478c60de23afa8) feat: add save, exit, and guardrails to the canvas editor
+[`53b0c60`](https://github.com/dmellok/tesserae/commit/53b0c606f89769c82b0b3241c47ce870f1671163) fix: show the online-features consent step before the dashboard step
 
 ---
 
