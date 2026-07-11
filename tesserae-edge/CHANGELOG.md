@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.93.0-edge.1783727306, 2026-07-10
+## 0.94.0-edge.1783731317, 2026-07-11
 
-[`82f04fd`](https://github.com/dmellok/tesserae/commit/82f04fd0af621ba2f3b2c8f0fbeaca6d3fe73850) feat: friendly zoom-parts picker in the composer
+[`c682dc7`](https://github.com/dmellok/tesserae/commit/c682dc7056019f610245e6984c41098478765271) feat: online features switch + marketplace install counts
 
 ---
 
