@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.96.2-edge.1783743894, 2026-07-11
+## 0.97.0-edge.1783749494, 2026-07-11
 
-[`0f41a90`](https://github.com/dmellok/tesserae/commit/0f41a907c81c1d343973be43595a560aa4ab2e2d) feat: skip phone-home in build/dev environments
+[`33be24d`](https://github.com/dmellok/tesserae/commit/33be24d5b52569d6929dd1486fa423d6dfd61f61) feat: render freeform canvases as first-class dashboard pages
 
 ---
 
