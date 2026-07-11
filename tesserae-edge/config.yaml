@@ -1,5 +1,5 @@
 name: Tesserae Edge
-version: "0.95.3-edge.1783740666"
+version: "0.96.0-edge.1783742106"
 slug: tesserae_edge
 description: "EDGE channel — auto-built from every commit on Tesserae's main branch. Expect breakage. Use Tesserae (stable) for anything you depend on."
 url: https://github.com/dmellok/tesserae

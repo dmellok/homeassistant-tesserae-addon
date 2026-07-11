@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.95.3-edge.1783740666, 2026-07-11
+## 0.96.0-edge.1783742106, 2026-07-11
 
-[`048bccf`](https://github.com/dmellok/tesserae/commit/048bccf8e79354609b8a5b25931d965b9be96662) test: block live api.tesserae.ink at the urlopen layer
+[`135c1d1`](https://github.com/dmellok/tesserae/commit/135c1d1dc71768fbaadc2225123b5eff8795ed2e) chore: bump to 0.96.0
 
 ---
 
