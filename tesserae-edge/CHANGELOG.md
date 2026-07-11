@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.94.0-edge.1783731317, 2026-07-11
+## 0.94.1-edge.1783732358, 2026-07-11
 
-[`c682dc7`](https://github.com/dmellok/tesserae/commit/c682dc7056019f610245e6984c41098478765271) feat: online features switch + marketplace install counts
+[`4a55b05`](https://github.com/dmellok/tesserae/commit/4a55b05ea65088993cf60105223d6d64c7021cb2) docs: drop "on by default" from online-features copy
 
 ---
 
