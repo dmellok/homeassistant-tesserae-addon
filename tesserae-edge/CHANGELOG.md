@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.105.0-edge.1783824265, 2026-07-12
+## 0.107.0-edge.1783830650, 2026-07-12
 
-[`d1f5993`](https://github.com/dmellok/tesserae/commit/d1f59931b012f982ca7b9b21ff49c3c117070534) feat: canvas data formatting, SVG primitive, and MCP agent affordances
+[`a7a3160`](https://github.com/dmellok/tesserae/commit/a7a3160e30a4330e24f2291660350301530b780b) feat: agent-facing MCP improvements for canvas dashboards
 
 ---
 
