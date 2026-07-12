@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.5
+
+Tracks Studio [0.3.5](https://github.com/dmellok/tesserae-studio): sends the MCP
+token on catalog + data reads so a token-gated Tesserae connects.
+
 ## 0.3.4
 
 Tracks Studio [0.3.4](https://github.com/dmellok/tesserae-studio): reads the
