@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.3
+
+Tracks Studio [0.3.3](https://github.com/dmellok/tesserae-studio): the
+`tesserae_url` / `mcp_token` options now apply reliably (read directly at
+startup). Note: use your HA host IP or the Tesserae add-on hostname, not
+`homeassistant.local`, which does not resolve inside the container.
+
 ## 0.3.2
 
 Tracks Studio [0.3.2](https://github.com/dmellok/tesserae-studio): bundles the

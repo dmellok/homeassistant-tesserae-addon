@@ -20,8 +20,15 @@ running Tesserae (the companion **Tesserae** add-on in this repository).
 | `tesserae_url` | `http://homeassistant.local:8765` | The Tesserae that supplies real `fetch()` data, faithful (e-ink) render, and the widget registry. |
 | `mcp_token` | (empty) | MCP bearer token (Tesserae → Settings → System → MCP). Needed to push/register widgets on a Tesserae that isn't on this host. Stored encrypted in HA Supervisor's secrets. |
 
-Standalone interactive preview reads assets off a Tesserae checkout on disk; in
-the add-on the practical setup is to point `tesserae_url` at your running Tesserae.
+> **Set `tesserae_url` to a value reachable from inside the container.**
+> `homeassistant.local` (mDNS) usually does **not** resolve inside an add-on, so
+> the default often shows "Tesserae offline". Use either your HA host's LAN IP
+> (`http://192.168.x.y:8765`, works when Tesserae publishes its port) or the
+> Tesserae add-on's internal hostname (e.g. `http://<repo-prefix>-tesserae:8765`,
+> works even if the port isn't published). Then Stop and Start the add-on.
+
+For real data / register / faithful render, also enable the **MCP** experiment in
+Tesserae (Settings → System → MCP) and paste its token into `mcp_token`.
 
 ## Storage
 
