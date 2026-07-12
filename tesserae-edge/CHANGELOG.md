@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.108.0-edge.1783836370, 2026-07-12
+## 0.109.0-edge.1783854035, 2026-07-12
 
-[`5f69541`](https://github.com/dmellok/tesserae/commit/5f69541afb60971c1ca15976b1bd613b188db6aa) perf: smooth edge dragging in the grid layout editor
+[`5f790a0`](https://github.com/dmellok/tesserae/commit/5f790a0dba961809e2bb6d34b56d453877788ef6) feat: MCP widget push/install API for authoring clients
 
 ---
 
