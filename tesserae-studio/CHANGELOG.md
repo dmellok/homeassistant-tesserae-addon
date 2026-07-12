@@ -1,9 +1,9 @@
 # Changelog
 
-## 0.3.0
+## 0.3.1
 
 First release of the Tesserae Studio add-on. Tracks Studio
-[0.3.0](https://github.com/dmellok/tesserae-studio). Serves the Studio web UI +
+[0.3.0](https://github.com/dmellok/tesserae-studio) (0.3.1). Serves the Studio web UI +
 API on port 8770; configure `tesserae_url` (and `mcp_token` for remote register)
 to pair it with your Tesserae.
 
