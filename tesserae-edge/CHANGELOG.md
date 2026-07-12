@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.104.0-edge.1783813721, 2026-07-11
+## 0.105.0-edge.1783824265, 2026-07-12
 
-[`3d6ad12`](https://github.com/dmellok/tesserae/commit/3d6ad12dae8f7a7979ddf3b6e77c18f02b3777f2) feat: canvas data primitives, custom HTML, off-canvas, shift-aspect
+[`d1f5993`](https://github.com/dmellok/tesserae/commit/d1f59931b012f982ca7b9b21ff49c3c117070534) feat: canvas data formatting, SVG primitive, and MCP agent affordances
 
 ---
 
