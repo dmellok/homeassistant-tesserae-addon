@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.109.1-edge.1783856197, 2026-07-12
+## 0.110.0-edge.1783899145, 2026-07-12
 
-[`adce55b`](https://github.com/dmellok/tesserae/commit/adce55ba0cbc845b5e86076a5f3e4b8bd188bd6a) fix: render.png captured the login page on password-protected instances
+[`d0375b3`](https://github.com/dmellok/tesserae/commit/d0375b385d24ab4798c417f02384ebd8ceb4eeb5) feat: live data bindings for canvas shapes
 
 ---
 
