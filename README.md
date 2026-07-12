@@ -8,6 +8,17 @@ them server-side, push the resulting frame to your Pi / ESP32 panels
 (MQTT) or polled clients like a jailbroken Kindle or a TRMNL device
 (HTTP).
 
+## Add-ons in this repository
+
+- **Tesserae** — the dashboard companion itself (ingress, sidebar UI).
+- **Tesserae Studio** — author Tesserae widgets end to end (code editor, live +
+  faithful preview, linter, MCP authoring server). Pairs with a running Tesserae;
+  see [`tesserae-studio/`](tesserae-studio/). Served on port 8770 with an
+  **Open Web UI** button.
+
+Both install from the same repository URL below; pick them individually in the
+add-on store.
+
 ## Install
 
 1. In Home Assistant, open **Settings → Apps → app store**.

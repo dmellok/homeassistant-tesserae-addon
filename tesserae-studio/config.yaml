@@ -1,0 +1,43 @@
+name: Tesserae Studio
+version: "0.2.0"
+slug: tesserae-studio
+description: Author Tesserae widgets end to end, a code editor with live and faithful preview, a widget linter, data-schema mining, and an MCP authoring server.
+url: https://github.com/dmellok/tesserae-studio
+arch:
+  - aarch64
+  - amd64
+init: false
+startup: services
+boot: manual
+# No ingress: Studio's built front end uses absolute /assets and /studio/api
+# paths, which the HA ingress path-prefix would break. Exposed on a port with a
+# "Open Web UI" button instead.
+ingress: false
+panel_icon: mdi:pencil-ruler
+webui: "http://[HOST]:[PORT:8770]/"
+ports:
+  "8770/tcp": 8770
+ports_description:
+  "8770/tcp": Studio web UI + API
+homeassistant_api: false
+hassio_api: false
+host_network: false
+image: ghcr.io/dmellok/tesserae-studio
+# HA Supervisor sets STUDIO_WORKDIR's parent (/data) as the add-on's persistent
+# volume. The user-facing options below are read from /data/options.json by the
+# Studio process at startup and mapped onto STUDIO_TESSERAE_URL / _MCP_TOKEN.
+environment:
+  STUDIO_HOST: "0.0.0.0"
+  STUDIO_PORT: "8770"
+  STUDIO_WORKDIR: "/data/workspace"
+  STUDIO_IN_DOCKER: "1"
+schema:
+  tesserae_url: str?
+  mcp_token: password?
+options:
+  # The Tesserae this Studio drives (real data + faithful render + registry).
+  # Point at your Tesserae add-on / instance on the LAN.
+  tesserae_url: "http://homeassistant.local:8765"
+  # MCP bearer token to push widgets to Tesserae (Settings -> System -> MCP).
+  # Needed to register widgets on a Tesserae that isn't on this same host.
+  mcp_token: ""
