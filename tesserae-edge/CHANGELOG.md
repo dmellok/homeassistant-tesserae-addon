@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.107.0-edge.1783830650, 2026-07-12
+## 0.108.0-edge.1783836370, 2026-07-12
 
-[`a7a3160`](https://github.com/dmellok/tesserae/commit/a7a3160e30a4330e24f2291660350301530b780b) feat: agent-facing MCP improvements for canvas dashboards
+[`5f69541`](https://github.com/dmellok/tesserae/commit/5f69541afb60971c1ca15976b1bd613b188db6aa) perf: smooth edge dragging in the grid layout editor
 
 ---
 
