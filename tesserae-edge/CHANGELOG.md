@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.109.0-edge.1783854035, 2026-07-12
+## 0.109.1-edge.1783856197, 2026-07-12
 
-[`5f790a0`](https://github.com/dmellok/tesserae/commit/5f790a0dba961809e2bb6d34b56d453877788ef6) feat: MCP widget push/install API for authoring clients
+[`adce55b`](https://github.com/dmellok/tesserae/commit/adce55ba0cbc845b5e86076a5f3e4b8bd188bd6a) fix: render.png captured the login page on password-protected instances
 
 ---
 
