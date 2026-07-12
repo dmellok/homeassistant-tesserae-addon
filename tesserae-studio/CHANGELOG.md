@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.4
+
+Tracks Studio [0.3.4](https://github.com/dmellok/tesserae-studio): reads the
+add-on options as root at startup (fixes `tesserae_url` not applying), and adds
+an `ha_options` diagnostic + version to the Studio API.
+
 ## 0.3.3
 
 Tracks Studio [0.3.3](https://github.com/dmellok/tesserae-studio): the
