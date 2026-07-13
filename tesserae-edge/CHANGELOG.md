@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.113.0-edge.1783937606, 2026-07-13
+## 0.113.0-edge.1783937634, 2026-07-13
 
-[`6820f54`](https://github.com/dmellok/tesserae/commit/6820f54f08fe12cf92de80166cffe593b91aebb3) feat(mcp): faithful-render screenshots for the catalog (Screenshot Contract) (#107)
+[`0561624`](https://github.com/dmellok/tesserae/commit/056162425c87e3bcc3fae69257a0604b8eeae034) chore(hooks): drop the pre-push version-bump nudge, keep the release gate
 
 ---
 
