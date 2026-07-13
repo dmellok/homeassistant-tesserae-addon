@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.0
+
+Tracks Studio [0.4.0](https://github.com/dmellok/tesserae-studio): adds a widget
+config form (set cell_options and preview live) and an embedded admin page for
+companion plugins.
+
 ## 0.3.5
 
 Tracks Studio [0.3.5](https://github.com/dmellok/tesserae-studio): sends the MCP
