@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.8.1
+
+Tracks Studio [0.8.1](https://github.com/dmellok/tesserae-studio): forwards
+fragment + fresh (cache-bypass) to the faithful render and data probe now that
+Tesserae supports them.
+
 ## 0.8.0
 
 Tracks Studio [0.8.0](https://github.com/dmellok/tesserae-studio): a linter rule
