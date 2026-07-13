@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.117.0-edge.1783955605, 2026-07-13
+## 0.118.0-edge.1783972319, 2026-07-13
 
-[`cfadd10`](https://github.com/dmellok/tesserae/commit/cfadd10395d13256c9f45a9c924957cb57d7e491) feat: Chart.js in code elements; MCP data-source guidance
+[`c123b55`](https://github.com/dmellok/tesserae/commit/c123b5538a493ee619659230a14cab67a10fdc36) feat(circuitpython_bmp): sub-byte BMP packing for smaller frames
 
 ---
 
