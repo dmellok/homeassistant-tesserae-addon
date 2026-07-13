@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.110.2-edge.1783910257, 2026-07-13
+## 0.110.3-edge.1783914876, 2026-07-13
 
-[`a4a376a`](https://github.com/dmellok/tesserae/commit/a4a376a1c641908041bd713a9390b77736a96a6d) fix: newly-pushed widgets 404'd their static assets until restart (#100)
+[`1930397`](https://github.com/dmellok/tesserae/commit/19303976c057b334d98d4d29253f38091d50c291) chore: bring the tesserae-mcp bridge into the monorepo (#101)
 
 ---
 
