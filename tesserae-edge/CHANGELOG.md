@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.112.0-edge.1783934537, 2026-07-13
+## 0.113.0-edge.1783937606, 2026-07-13
 
-[`b18c6b9`](https://github.com/dmellok/tesserae/commit/b18c6b9cc48dbdcbbc9651ebbd7e6ffbda2e3540) chore(mcp): bump tesserae-mcp to 0.5.1
+[`6820f54`](https://github.com/dmellok/tesserae/commit/6820f54f08fe12cf92de80166cffe593b91aebb3) feat(mcp): faithful-render screenshots for the catalog (Screenshot Contract) (#107)
 
 ---
 
