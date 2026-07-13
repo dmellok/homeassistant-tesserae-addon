@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.6.0
+
+Tracks Studio [0.6.0](https://github.com/dmellok/tesserae-studio): the config form
+now drives the live preview data, and a Settings section pushes widget settings
+(API keys) to Tesserae so fetch() runs with real credentials.
+
 ## 0.5.0
 
 Tracks Studio [0.5.0](https://github.com/dmellok/tesserae-studio): the UI live-
