@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.110.0-edge.1783899145, 2026-07-12
+## 0.110.1-edge.1783908505, 2026-07-13
 
-[`d0375b3`](https://github.com/dmellok/tesserae/commit/d0375b385d24ab4798c417f02384ebd8ceb4eeb5) feat: live data bindings for canvas shapes
+[`bbe7243`](https://github.com/dmellok/tesserae/commit/bbe7243a18e49c3bacf89c8948e5db87c0ed2e3b) docs: guides for building widgets with Studio and the MCP servers
 
 ---
 
