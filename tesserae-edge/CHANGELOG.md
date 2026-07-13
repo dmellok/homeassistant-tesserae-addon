@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.116.0-edge.1783951500, 2026-07-13
+## 0.117.0-edge.1783955605, 2026-07-13
 
-[`f1807a6`](https://github.com/dmellok/tesserae/commit/f1807a668cc5cc204185a63889b5d0c59ce2845c) feat: code elements take data from any number of widgets; editor sidebars + CodeMirror
+[`cfadd10`](https://github.com/dmellok/tesserae/commit/cfadd10395d13256c9f45a9c924957cb57d7e491) feat: Chart.js in code elements; MCP data-source guidance
 
 ---
 
