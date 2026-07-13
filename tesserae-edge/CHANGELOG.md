@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.111.0-edge.1783926137, 2026-07-13
+## 0.112.0-edge.1783928508, 2026-07-13
 
-[`4a1fc89`](https://github.com/dmellok/tesserae/commit/4a1fc89ea3640df354d9cae1eea9ab4dc8d079f7) feat: MCP authoring affordances (fragment render, fresh, page delete) (#104)
+[`49fb6fe`](https://github.com/dmellok/tesserae/commit/49fb6fe8cbd3a8b07df117d5fae579b700919e44) feat: uncompressed BMP frame format for CircuitPython clients (#105)
 
 ---
 
