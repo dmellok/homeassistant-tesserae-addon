@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.110.4-edge.1783917908, 2026-07-13
+## 0.110.4-edge.1783924731, 2026-07-13
 
-[`9d24523`](https://github.com/dmellok/tesserae/commit/9d245233aead54d9a366c9ee03262d2d56f6418c) docs: tesserae-studio-mcp installs from PyPI (#102)
+[`37a7e38`](https://github.com/dmellok/tesserae/commit/37a7e38745b3c96b819956965689d696a362ce04) feat(ha): ha_automation_history widget (#80) (#103)
 
 ---
 
