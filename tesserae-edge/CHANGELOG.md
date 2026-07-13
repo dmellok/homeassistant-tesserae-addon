@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.112.0-edge.1783928508, 2026-07-13
+## 0.112.0-edge.1783933765, 2026-07-13
 
-[`49fb6fe`](https://github.com/dmellok/tesserae/commit/49fb6fe8cbd3a8b07df117d5fae579b700919e44) feat: uncompressed BMP frame format for CircuitPython clients (#105)
+[`49fcdd4`](https://github.com/dmellok/tesserae/commit/49fcdd4ceec9df625445d53966161287d79c2e35) fix(mcp): set explicit User-Agent for Tesserae API requests (#106)
 
 ---
 
