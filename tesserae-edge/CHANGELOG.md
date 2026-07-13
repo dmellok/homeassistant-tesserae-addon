@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.114.0-edge.1783941773, 2026-07-13
+## 0.115.0-edge.1783947574, 2026-07-13
 
-[`2872eb1`](https://github.com/dmellok/tesserae/commit/2872eb12be9f3caba214b9cea2cdc8d53fa12430) feat: AI-generated canvas backgrounds via fal.ai (composite) (#108)
+[`029efb6`](https://github.com/dmellok/tesserae/commit/029efb6b2ffa9f287ff73b95679f283f351ea0d8) feat: canvas "code" element — HTML/CSS/JS fed by widget data
 
 ---
 
