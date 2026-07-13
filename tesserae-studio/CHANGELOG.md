@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.7.0
+
+Tracks Studio [0.7.0](https://github.com/dmellok/tesserae-studio): agent tooling,
+readable reference widgets, partial edits, a readable design system, render
+options, and a mine unit-inference fix.
+
 ## 0.6.0
 
 Tracks Studio [0.6.0](https://github.com/dmellok/tesserae-studio): the config form

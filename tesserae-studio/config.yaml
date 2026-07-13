@@ -1,5 +1,5 @@
 name: Tesserae Studio
-version: "0.6.0"
+version: "0.7.0"
 slug: tesserae-studio
 description: Author Tesserae widgets end to end, a code editor with live and faithful preview, a widget linter, data-schema mining, and an MCP authoring server.
 url: https://github.com/dmellok/tesserae-studio
