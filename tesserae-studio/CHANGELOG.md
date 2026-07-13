@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.5.0
+
+Tracks Studio [0.5.0](https://github.com/dmellok/tesserae-studio): the UI live-
+reloads when an agent (or you) changes the workspace, and the MCP client modal
+now shows the install step.
+
 ## 0.4.0
 
 Tracks Studio [0.4.0](https://github.com/dmellok/tesserae-studio): adds a widget
