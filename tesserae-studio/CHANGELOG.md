@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.8.0
+
+Tracks Studio [0.8.0](https://github.com/dmellok/tesserae-studio): a linter rule
+for select cell_option choices, stricter catalog tag validation, and expanded
+agent authoring rules.
+
 ## 0.7.0
 
 Tracks Studio [0.7.0](https://github.com/dmellok/tesserae-studio): agent tooling,
