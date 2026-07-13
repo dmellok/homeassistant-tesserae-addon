@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.110.1-edge.1783908505, 2026-07-13
+## 0.110.2-edge.1783910257, 2026-07-13
 
-[`bbe7243`](https://github.com/dmellok/tesserae/commit/bbe7243a18e49c3bacf89c8948e5db87c0ed2e3b) docs: guides for building widgets with Studio and the MCP servers
+[`a4a376a`](https://github.com/dmellok/tesserae/commit/a4a376a1c641908041bd713a9390b77736a96a6d) fix: newly-pushed widgets 404'd their static assets until restart (#100)
 
 ---
 
