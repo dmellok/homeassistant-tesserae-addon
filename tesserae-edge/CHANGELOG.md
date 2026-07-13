@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.110.3-edge.1783914876, 2026-07-13
+## 0.110.4-edge.1783917908, 2026-07-13
 
-[`1930397`](https://github.com/dmellok/tesserae/commit/19303976c057b334d98d4d29253f38091d50c291) chore: bring the tesserae-mcp bridge into the monorepo (#101)
+[`9d24523`](https://github.com/dmellok/tesserae/commit/9d245233aead54d9a366c9ee03262d2d56f6418c) docs: tesserae-studio-mcp installs from PyPI (#102)
 
 ---
 
