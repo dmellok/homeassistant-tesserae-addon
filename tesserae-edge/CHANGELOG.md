@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.112.0-edge.1783933765, 2026-07-13
+## 0.112.0-edge.1783934537, 2026-07-13
 
-[`49fcdd4`](https://github.com/dmellok/tesserae/commit/49fcdd4ceec9df625445d53966161287d79c2e35) fix(mcp): set explicit User-Agent for Tesserae API requests (#106)
+[`b18c6b9`](https://github.com/dmellok/tesserae/commit/b18c6b9cc48dbdcbbc9651ebbd7e6ffbda2e3540) chore(mcp): bump tesserae-mcp to 0.5.1
 
 ---
 
