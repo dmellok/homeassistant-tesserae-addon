@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.115.0-edge.1783947574, 2026-07-13
+## 0.116.0-edge.1783951500, 2026-07-13
 
-[`029efb6`](https://github.com/dmellok/tesserae/commit/029efb6b2ffa9f287ff73b95679f283f351ea0d8) feat: canvas "code" element — HTML/CSS/JS fed by widget data
+[`f1807a6`](https://github.com/dmellok/tesserae/commit/f1807a668cc5cc204185a63889b5d0c59ce2845c) feat: code elements take data from any number of widgets; editor sidebars + CodeMirror
 
 ---
 
