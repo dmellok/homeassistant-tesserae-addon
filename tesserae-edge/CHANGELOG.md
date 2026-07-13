@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.113.0-edge.1783937634, 2026-07-13
+## 0.114.0-edge.1783941773, 2026-07-13
 
-[`0561624`](https://github.com/dmellok/tesserae/commit/056162425c87e3bcc3fae69257a0604b8eeae034) chore(hooks): drop the pre-push version-bump nudge, keep the release gate
+[`2872eb1`](https://github.com/dmellok/tesserae/commit/2872eb12be9f3caba214b9cea2cdc8d53fa12430) feat: AI-generated canvas backgrounds via fal.ai (composite) (#108)
 
 ---
 
