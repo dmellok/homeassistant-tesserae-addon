@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.110.4-edge.1783924731, 2026-07-13
+## 0.111.0-edge.1783926137, 2026-07-13
 
-[`37a7e38`](https://github.com/dmellok/tesserae/commit/37a7e38745b3c96b819956965689d696a362ce04) feat(ha): ha_automation_history widget (#80) (#103)
+[`4a1fc89`](https://github.com/dmellok/tesserae/commit/4a1fc89ea3640df354d9cae1eea9ab4dc8d079f7) feat: MCP authoring affordances (fragment render, fresh, page delete) (#104)
 
 ---
 
