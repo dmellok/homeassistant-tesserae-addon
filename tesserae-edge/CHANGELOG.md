@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.120.0-edge.1783990552, 2026-07-14
+## 0.120.1-edge.1783992423, 2026-07-14
 
-[`22c1af3`](https://github.com/dmellok/tesserae/commit/22c1af3b41091a18dac93f64e0aa175329a6a823) feat(mcp): append_code endpoint to stream a code element in live
+[`715953b`](https://github.com/dmellok/tesserae/commit/715953b81504a1668ee27c463147abedbd7c43e1) style: ruff format test_mcp_api + bridge (fix CI format check)
 
 ---
 
