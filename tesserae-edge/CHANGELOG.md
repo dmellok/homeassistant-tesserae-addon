@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.119.0-edge.1783985598, 2026-07-13
+## 0.120.0-edge.1783990552, 2026-07-14
 
-[`56c7ee2`](https://github.com/dmellok/tesserae/commit/56c7ee27636db92295f7549c70dd83be794db79f) feat: rich vendored toolkit for code elements; editor auto-format + resizable sidebars
+[`22c1af3`](https://github.com/dmellok/tesserae/commit/22c1af3b41091a18dac93f64e0aa175329a6a823) feat(mcp): append_code endpoint to stream a code element in live
 
 ---
 
