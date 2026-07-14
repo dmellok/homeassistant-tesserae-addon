@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.122.0-edge.1783997590, 2026-07-14
+## 0.123.0-edge.1784017367, 2026-07-14
 
-[`f3ff4bf`](https://github.com/dmellok/tesserae/commit/f3ff4bfcaf2dde6a46bcc72facfe29ae5370d1ef) feat: allow remote images in the canvas code element sandbox
+[`cc523f8`](https://github.com/dmellok/tesserae/commit/cc523f89e531121cbe41eed4d67900e8aa5c5c6a) feat: switch device frame format (png/bmp) without re-registering
 
 ---
 
