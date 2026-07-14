@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.123.1-edge.1784038195, 2026-07-14
+## 0.123.2-edge.1784069350, 2026-07-14
 
-[`7b808fc`](https://github.com/dmellok/tesserae/commit/7b808fcdab1b9de1ab4badd2741573fd0ba7acd8) ci: dispatch add-on stable sync from release.yml via workflow_dispatch
+[`4e37996`](https://github.com/dmellok/tesserae/commit/4e37996d8bcc6dcdfcbb8611203fb03adfa8050d) feat(mcp): design in full colour, not just the raw panel inks
 
 ---
 
