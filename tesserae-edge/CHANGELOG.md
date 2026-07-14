@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.121.1-edge.1783995316, 2026-07-14
+## 0.122.0-edge.1783997590, 2026-07-14
 
-[`751c344`](https://github.com/dmellok/tesserae/commit/751c344ef26c791f3685a58dae708c405a34d327) test: add list_services to the bridge tool-registration assertion
+[`f3ff4bf`](https://github.com/dmellok/tesserae/commit/f3ff4bfcaf2dde6a46bcc72facfe29ae5370d1ef) feat: allow remote images in the canvas code element sandbox
 
 ---
 
