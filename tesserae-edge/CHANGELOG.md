@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.123.0-edge.1784017367, 2026-07-14
+## 0.123.1-edge.1784038195, 2026-07-14
 
-[`cc523f8`](https://github.com/dmellok/tesserae/commit/cc523f89e531121cbe41eed4d67900e8aa5c5c6a) feat: switch device frame format (png/bmp) without re-registering
+[`7b808fc`](https://github.com/dmellok/tesserae/commit/7b808fcdab1b9de1ab4badd2741573fd0ba7acd8) ci: dispatch add-on stable sync from release.yml via workflow_dispatch
 
 ---
 
