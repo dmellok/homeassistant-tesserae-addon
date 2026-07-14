@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.121.0-edge.1783994537, 2026-07-14
+## 0.121.1-edge.1783995316, 2026-07-14
 
-[`352ffff`](https://github.com/dmellok/tesserae/commit/352ffff04537a896c1d7bbbd2b4179bbcf24870b) feat: non-placeable "service" plugin kind for MCP canvas data sources
+[`751c344`](https://github.com/dmellok/tesserae/commit/751c344ef26c791f3685a58dae708c405a34d327) test: add list_services to the bridge tool-registration assertion
 
 ---
 
