@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.123.2-edge.1784069350, 2026-07-14
+## 0.123.3-edge.1784086533, 2026-07-15
 
-[`4e37996`](https://github.com/dmellok/tesserae/commit/4e37996d8bcc6dcdfcbb8611203fb03adfa8050d) feat(mcp): design in full colour, not just the raw panel inks
+[`8349f56`](https://github.com/dmellok/tesserae/commit/8349f56078fdecfa4e13ef119b6b552d5fb0355e) docs: list PicPak community hardware in the README
 
 ---
 
