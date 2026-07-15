@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.9.0
+
+Tracks Studio [0.9.0](https://github.com/dmellok/tesserae-studio): author service
+plugins (kind: service, non-placeable data sources) end to end, scaffold, lint,
+and schema support.
+
 ## 0.8.1
 
 Tracks Studio [0.8.1](https://github.com/dmellok/tesserae-studio): forwards
