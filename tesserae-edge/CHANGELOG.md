@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.124.0-edge.1784112724, 2026-07-15
+## 0.124.1-edge.1784169496, 2026-07-16
 
-[`8432d2f`](https://github.com/dmellok/tesserae/commit/8432d2f84ed8bfcd600681e7ec8e821974ebcb8b) feat: bind a canvas to multiple devices
+[`9b3f19c`](https://github.com/dmellok/tesserae/commit/9b3f19c265d50491ed0ca9a39eadd21f63b68c5e) docs: add TRMNL X classic-Mac dashboard screenshots
 
 ---
 
