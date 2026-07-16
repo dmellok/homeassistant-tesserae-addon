@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.124.1-edge.1784169496, 2026-07-16
+## 0.124.2-edge.1784169821, 2026-07-16
 
-[`9b3f19c`](https://github.com/dmellok/tesserae/commit/9b3f19c265d50491ed0ca9a39eadd21f63b68c5e) docs: add TRMNL X classic-Mac dashboard screenshots
+[`d935a9d`](https://github.com/dmellok/tesserae/commit/d935a9d6d878a397455b8a601ab238ce7a0b0357) docs: swap the TRMNL X hardware photo
 
 ---
 
