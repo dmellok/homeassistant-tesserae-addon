@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.128.0-edge.1784198061, 2026-07-16
+## 0.129.0-edge.1784199124, 2026-07-16
 
-[`282aa21`](https://github.com/dmellok/tesserae/commit/282aa211e58968ee7324174d94fff8e8acfd83ad) fix(mypy): bulk push binds per-page fn via functools.partial (default-arg lambda tripped inference)
+[`fbc3ccd`](https://github.com/dmellok/tesserae/commit/fbc3ccd60f9a932cab69b0fa795bedad4b82fb2f) feat: bundled fonts usable in the code element sandbox
 
 ---
 
