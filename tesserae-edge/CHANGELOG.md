@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.130.0-edge.1784199856, 2026-07-16
+## 0.131.0-edge.1784220296, 2026-07-16
 
-[`b853b15`](https://github.com/dmellok/tesserae/commit/b853b15988af4d8375164d7677d10354644a6865) fix: 6-colour Spectra 6 output and BMP gallery uploads
+[`c7fc6ce`](https://github.com/dmellok/tesserae/commit/c7fc6ce85ee814ae1e784821c9f1131871d42941) feat: configurable number format for the HA Sensor widget
 
 ---
 
