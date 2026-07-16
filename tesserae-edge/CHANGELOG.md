@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.131.0-edge.1784220296, 2026-07-16
+## 0.132.0-edge.1784225225, 2026-07-16
 
-[`c7fc6ce`](https://github.com/dmellok/tesserae/commit/c7fc6ce85ee814ae1e784821c9f1131871d42941) feat: configurable number format for the HA Sensor widget
+[`3e54c04`](https://github.com/dmellok/tesserae/commit/3e54c04d9c4dc1e449e61ce61647c029988e8bdf) feat: extend HA number format to the Entities and History widgets
 
 ---
 
