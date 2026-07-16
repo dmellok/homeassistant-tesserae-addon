@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.129.0-edge.1784199124, 2026-07-16
+## 0.130.0-edge.1784199856, 2026-07-16
 
-[`fbc3ccd`](https://github.com/dmellok/tesserae/commit/fbc3ccd60f9a932cab69b0fa795bedad4b82fb2f) feat: bundled fonts usable in the code element sandbox
+[`b853b15`](https://github.com/dmellok/tesserae/commit/b853b15988af4d8375164d7677d10354644a6865) fix: 6-colour Spectra 6 output and BMP gallery uploads
 
 ---
 
