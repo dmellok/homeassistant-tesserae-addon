@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.142.1-edge.1784293284, 2026-07-17
+## 0.142.2-edge.1784293813, 2026-07-17
 
-[`cedf556`](https://github.com/dmellok/tesserae/commit/cedf556907df97e09376e19d09389f775e3217ae) docs(mcp): document touch actions in the canvas doc-shape (0.6.0)
+[`bb8ecec`](https://github.com/dmellok/tesserae/commit/bb8ececd5e330ca48c78b19e2fe471ce4fda3ca7) fix: satisfy CI ruff SIM108 + mypy on the touch slide path
 
 ---
 
