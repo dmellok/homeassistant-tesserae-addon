@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.142.3-edge.1784296414, 2026-07-17
+## 0.143.0-edge.1784297614, 2026-07-17
 
-[`1a75c32`](https://github.com/dmellok/tesserae/commit/1a75c3216306ceac16e218987ca05ca2c3670984) docs(mcp): surface touch actions in the handshake instructions (0.6.1)
+[`527cfa8`](https://github.com/dmellok/tesserae/commit/527cfa8d1d743865625f1fac097e92d7f0ac5ada) feat: touch actions in the grid dashboard editor (#49)
 
 ---
 
