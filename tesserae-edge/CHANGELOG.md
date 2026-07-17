@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.142.2-edge.1784293813, 2026-07-17
+## 0.142.3-edge.1784296414, 2026-07-17
 
-[`bb8ecec`](https://github.com/dmellok/tesserae/commit/bb8ececd5e330ca48c78b19e2fe471ce4fda3ca7) fix: satisfy CI ruff SIM108 + mypy on the touch slide path
+[`1a75c32`](https://github.com/dmellok/tesserae/commit/1a75c3216306ceac16e218987ca05ca2c3670984) docs(mcp): surface touch actions in the handshake instructions (0.6.1)
 
 ---
 
