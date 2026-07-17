@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.139.0-edge.1784277340, 2026-07-17
+## 0.139.0-edge.1784278265, 2026-07-17
 
-[`1a67387`](https://github.com/dmellok/tesserae/commit/1a67387591f60a4a6cb01abd3b2eb245f2130c3b) fix: grid editor reload-on-change no longer trips the unsaved-changes guard
+[`ac444c1`](https://github.com/dmellok/tesserae/commit/ac444c165c3883622104db7f65b4af06ceff8f30) style: ruff format test_event_log
 
 ---
 
