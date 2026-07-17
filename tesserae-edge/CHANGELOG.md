@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.139.1-edge.1784285373, 2026-07-17
+## 0.142.0-edge.1784292542, 2026-07-17
 
-[`9e8f097`](https://github.com/dmellok/tesserae/commit/9e8f0974697782d73c5105914a5a2daea9a453a4) fix: disambiguate the two "Clear" buttons on the History page
+[`1e3dcc0`](https://github.com/dmellok/tesserae/commit/1e3dcc063128f4fdf174ff8e606f01dc803a1772) feat: Home Assistant touch actions and sliders (#49 phase 3)
 
 ---
 
