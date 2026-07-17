@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.143.1-edge.1784326189, 2026-07-17
+## 0.144.0-edge.1784329130, 2026-07-17
 
-[`a41f713`](https://github.com/dmellok/tesserae/commit/a41f7136f902aa62ebc3940fb80c87470464c215) feat: expose a touch capability flag on devices (#49)
+[`6ed435e`](https://github.com/dmellok/tesserae/commit/6ed435e668f700445ab82fa03b4356e6ff02e356) feat: touch events get their own type on the Events page (#49)
 
 ---
 
