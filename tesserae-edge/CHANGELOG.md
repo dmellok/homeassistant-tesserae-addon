@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.136.0-edge.1784248190, 2026-07-17
+## 0.139.0-edge.1784277340, 2026-07-17
 
-[`9257b2a`](https://github.com/dmellok/tesserae/commit/9257b2a3ebfc5ddac07716fa2469b312ce69bf11) feat: MCP agent binds the device early and builds incrementally
+[`1a67387`](https://github.com/dmellok/tesserae/commit/1a67387591f60a4a6cb01abd3b2eb245f2130c3b) fix: grid editor reload-on-change no longer trips the unsaved-changes guard
 
 ---
 
