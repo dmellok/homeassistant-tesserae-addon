@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.144.1-edge.1784329727, 2026-07-17
+## 0.145.0-edge.1784330582, 2026-07-17
 
-[`ecb7687`](https://github.com/dmellok/tesserae/commit/ecb7687081408ea7462bd060d1d2e709d126df9f) fix: HA touch actions fire in natural shapes; render_report flags dead ones (#49)
+[`619790a`](https://github.com/dmellok/tesserae/commit/619790ae51e056b22da376501dcc0079b42f7d8e) feat: per-device touch monitor page
 
 ---
 
