@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.142.0-edge.1784292542, 2026-07-17
+## 0.142.1-edge.1784293284, 2026-07-17
 
-[`1e3dcc0`](https://github.com/dmellok/tesserae/commit/1e3dcc063128f4fdf174ff8e606f01dc803a1772) feat: Home Assistant touch actions and sliders (#49 phase 3)
+[`cedf556`](https://github.com/dmellok/tesserae/commit/cedf556907df97e09376e19d09389f775e3217ae) docs(mcp): document touch actions in the canvas doc-shape (0.6.0)
 
 ---
 
