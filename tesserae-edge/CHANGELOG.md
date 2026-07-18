@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.147.1-edge.1784353755, 2026-07-18
+## 0.147.2-edge.1784355712, 2026-07-18
 
-[`573ee77`](https://github.com/dmellok/tesserae/commit/573ee77ce98efe960a603c7a7ad4a21f943bf49e) feat: touch authoring ergonomics for MCP agents (#49)
+[`425813e`](https://github.com/dmellok/tesserae/commit/425813efab28c1b9858978273591a6fc16be0a0e) fix: store touch actions canonically so the canvas editor shows them (#49)
 
 ---
 
