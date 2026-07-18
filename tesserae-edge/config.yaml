@@ -30,6 +30,10 @@ hassio_api: true
 host_network: false
 map:
   - share:rw
+  # media:rw lets the OpenDisplay-via-HA device kind write rendered
+  # frames into HA's media folder (/media) so it can hand HA's
+  # OpenDisplay integration a media-source id for opendisplay.upload_image.
+  - media:rw
 image: ghcr.io/dmellok/tesserae
 environment:
   TESSERAE_HA_INGRESS: "1"
