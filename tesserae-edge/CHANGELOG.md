@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.146.0-edge.1784342768, 2026-07-18
+## 0.146.1-edge.1784347603, 2026-07-18
 
-[`547fc32`](https://github.com/dmellok/tesserae/commit/547fc3289be80d7e3375eea7a3d23a3098298c51) feat: cut post-touch latency on the reTerminal E1003 (#49)
+[`270fd37`](https://github.com/dmellok/tesserae/commit/270fd3703b25cf1bb81f439fde08e96c774c446e) fix: artifact GC no longer deletes the live frame's touch regions (#49)
 
 ---
 
