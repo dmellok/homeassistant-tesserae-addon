@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.147.7-edge.1784362093, 2026-07-18
+## 0.149.0-edge.1784380754, 2026-07-18
 
-[`1135efd`](https://github.com/dmellok/tesserae/commit/1135efd9ffb943bee0cffa1aa86e563e201a31b3) feat: touch monitor fade-out + touch interactions guide (#49)
+[`cd02aa3`](https://github.com/dmellok/tesserae/commit/cd02aa335df00499815b6bd9b96896592c274356) feat: opendisplay_ha device kind for driving OpenDisplay tags via Home Assistant
 
 ---
 
