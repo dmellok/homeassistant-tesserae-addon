@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.149.0-edge.1784380754, 2026-07-18
+## 0.149.1-edge.1784383108, 2026-07-18
 
-[`cd02aa3`](https://github.com/dmellok/tesserae/commit/cd02aa335df00499815b6bd9b96896592c274356) feat: opendisplay_ha device kind for driving OpenDisplay tags via Home Assistant
+[`e25fc82`](https://github.com/dmellok/tesserae/commit/e25fc82cc1482971401d196e62f75bb01601ba68) docs: OpenDisplay setup page covering both the HA and bridge paths
 
 ---
 
