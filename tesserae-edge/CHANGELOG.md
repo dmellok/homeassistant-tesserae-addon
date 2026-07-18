@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.149.1-edge.1784383108, 2026-07-18
+## 0.149.2-edge.1784385962, 2026-07-18
 
-[`e25fc82`](https://github.com/dmellok/tesserae/commit/e25fc82cc1482971401d196e62f75bb01601ba68) docs: OpenDisplay setup page covering both the HA and bridge paths
+[`0031a03`](https://github.com/dmellok/tesserae/commit/0031a03a5380b16f4332649599e2b38fe577be88) fix: OpenDisplay devices no longer present as MQTT
 
 ---
 
