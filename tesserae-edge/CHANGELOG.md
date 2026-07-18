@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.147.4-edge.1784359971, 2026-07-18
+## 0.147.7-edge.1784362093, 2026-07-18
 
-[`198bedd`](https://github.com/dmellok/tesserae/commit/198bedd40d70b5aa23208d7c68b80c0f37dfd643) feat: swipe zones fall back to the stroke end point (#49)
+[`1135efd`](https://github.com/dmellok/tesserae/commit/1135efd9ffb943bee0cffa1aa86e563e201a31b3) feat: touch monitor fade-out + touch interactions guide (#49)
 
 ---
 
