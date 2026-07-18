@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.147.2-edge.1784355712, 2026-07-18
+## 0.147.3-edge.1784357690, 2026-07-18
 
-[`425813e`](https://github.com/dmellok/tesserae/commit/425813efab28c1b9858978273591a6fc16be0a0e) fix: store touch actions canonically so the canvas editor shows them (#49)
+[`2779f22`](https://github.com/dmellok/tesserae/commit/2779f22c4c1b3ad83150d42b9c5b19b8f3143026) fix: HA touch actions use a plain service call, not return_response (#49)
 
 ---
 
