@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.145.1-edge.1784339629, 2026-07-18
+## 0.146.0-edge.1784342768, 2026-07-18
 
-[`f41a17a`](https://github.com/dmellok/tesserae/commit/f41a17a5f2a4992f1cd140e886354561c93a43ea) fix: touch monitor Clear deletes events so it survives a refresh
+[`547fc32`](https://github.com/dmellok/tesserae/commit/547fc3289be80d7e3375eea7a3d23a3098298c51) feat: cut post-touch latency on the reTerminal E1003 (#49)
 
 ---
 
