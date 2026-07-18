@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.147.0-edge.1784349635, 2026-07-18
+## 0.147.1-edge.1784353755, 2026-07-18
 
-[`ea142ba`](https://github.com/dmellok/tesserae/commit/ea142ba5e2b31789cc44929af94a11b9c554e7c7) feat: CalDAV auth + discovery + todo lists in calendar_core
+[`573ee77`](https://github.com/dmellok/tesserae/commit/573ee77ce98efe960a603c7a7ad4a21f943bf49e) feat: touch authoring ergonomics for MCP agents (#49)
 
 ---
 
