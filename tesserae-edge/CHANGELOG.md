@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.145.0-edge.1784330582, 2026-07-17
+## 0.145.1-edge.1784339629, 2026-07-18
 
-[`619790a`](https://github.com/dmellok/tesserae/commit/619790ae51e056b22da376501dcc0079b42f7d8e) feat: per-device touch monitor page
+[`f41a17a`](https://github.com/dmellok/tesserae/commit/f41a17a5f2a4992f1cd140e886354561c93a43ea) fix: touch monitor Clear deletes events so it survives a refresh
 
 ---
 
