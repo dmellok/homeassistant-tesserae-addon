@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.154.0-edge.1784502472, 2026-07-19
+## 0.155.0-edge.1784504397, 2026-07-19
 
-[`b7cb049`](https://github.com/dmellok/tesserae/commit/b7cb049ae8575f4877d728b77e54c64a31536078) feat: button wake window config for ESP32 devices (#123)
+[`668e2be`](https://github.com/dmellok/tesserae/commit/668e2be832b98b11311612ba6951f02ec592b226) feat: OTA capability handshake and /status descriptor delivery (#121)
 
 ---
 
