@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.151.1-edge.1784454171, 2026-07-19
+## 0.152.0-edge.1784458892, 2026-07-19
 
-[`0331be3`](https://github.com/dmellok/tesserae/commit/0331be3ffa805935543723a0e2ed1330e95d7f5a) fix: buttons/touch advance UI rotations + a log-level knob (#122)
+[`104390b`](https://github.com/dmellok/tesserae/commit/104390bad70945ed1676c3174cd8c8ca038285ab) release: v0.152.0
 
 ---
 
