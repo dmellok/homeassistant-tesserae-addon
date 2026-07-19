@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.149.2-edge.1784385962, 2026-07-18
+## 0.149.5-edge.1784428629, 2026-07-19
 
-[`0031a03`](https://github.com/dmellok/tesserae/commit/0031a03a5380b16f4332649599e2b38fe577be88) fix: OpenDisplay devices no longer present as MQTT
+[`6a24e65`](https://github.com/dmellok/tesserae/commit/6a24e65a844a1b379820468b65b906704cf7f9a7) fix: resending a frame from History re-paints REST clients (#119)
 
 ---
 
