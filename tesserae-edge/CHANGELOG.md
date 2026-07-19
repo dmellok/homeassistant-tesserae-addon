@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.149.5-edge.1784428629, 2026-07-19
+## 0.149.7-edge.1784430608, 2026-07-19
 
-[`6a24e65`](https://github.com/dmellok/tesserae/commit/6a24e65a844a1b379820468b65b906704cf7f9a7) fix: resending a frame from History re-paints REST clients (#119)
+[`6919998`](https://github.com/dmellok/tesserae/commit/6919998152d2d3dd6c2db78b6f8b78c8ef8bb1da) fix: OpenDisplay-via-HA tolerates slow BLE pushes without blocking
 
 ---
 
