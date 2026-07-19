@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.150.0-edge.1784434099, 2026-07-19
+## 0.150.3-edge.1784436574, 2026-07-19
 
-[`4147568`](https://github.com/dmellok/tesserae/commit/4147568253015aef3ba7efa481dcaed27f157acc) feat: pick the OpenDisplay tag from a Home Assistant device dropdown
+[`fb1df3a`](https://github.com/dmellok/tesserae/commit/fb1df3af4e729bd6addc8bd9a19b627cac086be2) fix: HA device picker dropdown is always visible, not hidden until loaded
 
 ---
 
