@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.149.7-edge.1784430608, 2026-07-19
+## 0.150.0-edge.1784434099, 2026-07-19
 
-[`6919998`](https://github.com/dmellok/tesserae/commit/6919998152d2d3dd6c2db78b6f8b78c8ef8bb1da) fix: OpenDisplay-via-HA tolerates slow BLE pushes without blocking
+[`4147568`](https://github.com/dmellok/tesserae/commit/4147568253015aef3ba7efa481dcaed27f157acc) feat: pick the OpenDisplay tag from a Home Assistant device dropdown
 
 ---
 
