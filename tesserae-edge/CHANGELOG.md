@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.150.3-edge.1784436574, 2026-07-19
+## 0.150.4-edge.1784438518, 2026-07-19
 
-[`fb1df3a`](https://github.com/dmellok/tesserae/commit/fb1df3af4e729bd6addc8bd9a19b627cac086be2) fix: HA device picker dropdown is always visible, not hidden until loaded
+[`6dd1c3d`](https://github.com/dmellok/tesserae/commit/6dd1c3dc071a3319f693a1e1d410e2c8d8e30566) feat: HA device picker in the OpenDisplay Add-device form
 
 ---
 
