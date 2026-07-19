@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.150.4-edge.1784438518, 2026-07-19
+## 0.151.0-edge.1784452720, 2026-07-19
 
-[`6dd1c3d`](https://github.com/dmellok/tesserae/commit/6dd1c3dc071a3319f693a1e1d410e2c8d8e30566) feat: HA device picker in the OpenDisplay Add-device form
+[`6030d9d`](https://github.com/dmellok/tesserae/commit/6030d9dd17d3729f500fcddb71f4e5deca1838c4) feat: OpenDisplay-via-HA tags report battery, signal, and firmware
 
 ---
 
