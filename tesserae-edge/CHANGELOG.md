@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.160.0-edge.1784551902, 2026-07-20
+## 0.161.0-edge.1784584963, 2026-07-20
 
-[`6cebb99`](https://github.com/dmellok/tesserae/commit/6cebb99b98b38da3333957c86483bd9747f24e30) docs: link the PicPak web flasher on the PicPak hardware page
+[`53cb09f`](https://github.com/dmellok/tesserae/commit/53cb09f76aa5853774fcd8e0245000c2f49f41af) fix: calendar discovery keeps the other collections after adding one (#124)
 
 ---
 
