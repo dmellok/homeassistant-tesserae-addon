@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.158.0-edge.1784547874, 2026-07-20
+## 0.159.0-edge.1784551003, 2026-07-20
 
-[`996ce9b`](https://github.com/dmellok/tesserae/commit/996ce9b849d88a26029b9f41649708fc7111647a) fix: calendar_core CalDAV discovery across split propstat blocks (#124)
+[`c79f000`](https://github.com/dmellok/tesserae/commit/c79f0006d27e9fefb93fd5bf06f3f2357834da3a) fix: calendar_core CalDAV discovery resolves principal and service-root URLs (#124)
 
 ---
 
