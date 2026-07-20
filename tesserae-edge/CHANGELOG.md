@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.163.0-edge.1784587272, 2026-07-20
+## 0.164.0-edge.1784588216, 2026-07-20
 
-[`7cb6e7e`](https://github.com/dmellok/tesserae/commit/7cb6e7e0646656ec41a1518e2e7d90b54486f55c) feat: wire Decks end-to-end with a Settings page and background refresh
+[`a239d44`](https://github.com/dmellok/tesserae/commit/a239d44124e10e04f4c92dc7ec402e12dfba69f3) feat: suggest decks from page:<id> tap/swipe links between pages
 
 ---
 
