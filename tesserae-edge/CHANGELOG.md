@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.164.0-edge.1784588216, 2026-07-20
+## 0.165.0-edge.1784588918, 2026-07-20
 
-[`a239d44`](https://github.com/dmellok/tesserae/commit/a239d44124e10e04f4c92dc7ec402e12dfba69f3) feat: suggest decks from page:<id> tap/swipe links between pages
+[`94ae519`](https://github.com/dmellok/tesserae/commit/94ae519caddcf46d5b0899d976058c5bea0c7131) feat: expose rotations, schedules, and decks over the MCP
 
 ---
 
