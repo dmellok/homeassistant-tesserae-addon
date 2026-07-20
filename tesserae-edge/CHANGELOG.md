@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.162.0-edge.1784586205, 2026-07-20
+## 0.163.0-edge.1784587272, 2026-07-20
 
-[`9319515`](https://github.com/dmellok/tesserae/commit/9319515a48dda55ef6756fb5662e33cf72e184d8) fix: serve HEAD on the OTA signer worker /firmware route
+[`7cb6e7e`](https://github.com/dmellok/tesserae/commit/7cb6e7e0646656ec41a1518e2e7d90b54486f55c) feat: wire Decks end-to-end with a Settings page and background refresh
 
 ---
 
