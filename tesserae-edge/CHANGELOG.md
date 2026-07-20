@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.156.0-edge.1784515952, 2026-07-20
+## 0.157.0-edge.1784530615, 2026-07-20
 
-[`5bd7db9`](https://github.com/dmellok/tesserae/commit/5bd7db99ed1ca2ab6abec8c8ff17529e952a4e68) feat: OTA production signing worker and trusted-key registry (#121)
+[`c46c739`](https://github.com/dmellok/tesserae/commit/c46c7390b62432d297b2cdb66e8a560fc9db5bfb) feat: OTA per-kind rollout with manual promote and canary (#121)
 
 ---
 
