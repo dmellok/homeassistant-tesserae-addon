@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.166.0-edge.1784589522, 2026-07-20
+## 0.167.0-edge.1784590557, 2026-07-20
 
-[`d27a0ff`](https://github.com/dmellok/tesserae/commit/d27a0ffdb32b80c07da4b31c37cb1d851d2a1036) feat: per-page refresh cadence in decks
+[`de00f07`](https://github.com/dmellok/tesserae/commit/de00f07f1cd8f564c4d613832adb6a22a05d3658) feat: reshape the Decks page around the canvas editor
 
 ---
 
