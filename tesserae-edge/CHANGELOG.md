@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.157.0-edge.1784530615, 2026-07-20
+## 0.158.0-edge.1784547874, 2026-07-20
 
-[`c46c739`](https://github.com/dmellok/tesserae/commit/c46c7390b62432d297b2cdb66e8a560fc9db5bfb) feat: OTA per-kind rollout with manual promote and canary (#121)
+[`996ce9b`](https://github.com/dmellok/tesserae/commit/996ce9b849d88a26029b9f41649708fc7111647a) fix: calendar_core CalDAV discovery across split propstat blocks (#124)
 
 ---
 
