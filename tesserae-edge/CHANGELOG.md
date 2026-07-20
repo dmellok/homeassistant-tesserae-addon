@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.161.0-edge.1784584963, 2026-07-20
+## 0.162.0-edge.1784586205, 2026-07-20
 
-[`53cb09f`](https://github.com/dmellok/tesserae/commit/53cb09f76aa5853774fcd8e0245000c2f49f41af) fix: calendar discovery keeps the other collections after adding one (#124)
+[`9319515`](https://github.com/dmellok/tesserae/commit/9319515a48dda55ef6756fb5662e33cf72e184d8) fix: serve HEAD on the OTA signer worker /firmware route
 
 ---
 
