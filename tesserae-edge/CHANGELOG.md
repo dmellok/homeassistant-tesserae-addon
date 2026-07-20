@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.155.0-edge.1784504397, 2026-07-19
+## 0.156.0-edge.1784515952, 2026-07-20
 
-[`668e2be`](https://github.com/dmellok/tesserae/commit/668e2be832b98b11311612ba6951f02ec592b226) feat: OTA capability handshake and /status descriptor delivery (#121)
+[`5bd7db9`](https://github.com/dmellok/tesserae/commit/5bd7db99ed1ca2ab6abec8c8ff17529e952a4e68) feat: OTA production signing worker and trusted-key registry (#121)
 
 ---
 
