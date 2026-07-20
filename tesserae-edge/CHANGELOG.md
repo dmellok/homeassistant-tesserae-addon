@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.165.0-edge.1784588918, 2026-07-20
+## 0.166.0-edge.1784589522, 2026-07-20
 
-[`94ae519`](https://github.com/dmellok/tesserae/commit/94ae519caddcf46d5b0899d976058c5bea0c7131) feat: expose rotations, schedules, and decks over the MCP
+[`d27a0ff`](https://github.com/dmellok/tesserae/commit/d27a0ffdb32b80c07da4b31c37cb1d851d2a1036) feat: per-page refresh cadence in decks
 
 ---
 
