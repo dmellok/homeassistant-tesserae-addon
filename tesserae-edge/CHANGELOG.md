@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.159.0-edge.1784551003, 2026-07-20
+## 0.160.0-edge.1784551902, 2026-07-20
 
-[`c79f000`](https://github.com/dmellok/tesserae/commit/c79f0006d27e9fefb93fd5bf06f3f2357834da3a) fix: calendar_core CalDAV discovery resolves principal and service-root URLs (#124)
+[`6cebb99`](https://github.com/dmellok/tesserae/commit/6cebb99b98b38da3333957c86483bd9747f24e30) docs: link the PicPak web flasher on the PicPak hardware page
 
 ---
 
