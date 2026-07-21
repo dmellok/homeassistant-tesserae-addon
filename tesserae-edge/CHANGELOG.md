@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.170.4-edge.1784627968, 2026-07-21
+## 0.170.5-edge.1784629258, 2026-07-21
 
-[`3649448`](https://github.com/dmellok/tesserae/commit/36494489d8f8777c121b00ef6de832ad07623675) fix: wire HA entity filter, icon picker, and overrides in the canvas editor (#130)
+[`3410f03`](https://github.com/dmellok/tesserae/commit/3410f0305cc68e7d00dfd35af662993644a5048b) fix: canvas Scale slider zooms content inside a fixed box
 
 ---
 
