@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.175.0-edge.1784637742, 2026-07-21
+## 0.175.0-edge.1784638516, 2026-07-21
 
-[`0323cd2`](https://github.com/dmellok/tesserae/commit/0323cd28709c52cb18d60ff1a4108ddf60cf796f) feat: crop shrinks the widget box (undistorted), no stretch
+[`47b479e`](https://github.com/dmellok/tesserae/commit/47b479e7f1df4ea3e01d9942f0e50321283a46a6) Add fetch_latest button action (#135)
 
 ---
 
