@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.170.7-edge.1784630174, 2026-07-21
+## 0.170.8-edge.1784630431, 2026-07-21
 
-[`84e81df`](https://github.com/dmellok/tesserae/commit/84e81df7c3bfeabf190e103fad3854976de6dd68) fix: write REST instance files into data/devices/ so pairing survives restart
+[`6730b0e`](https://github.com/dmellok/tesserae/commit/6730b0eec56c8565828f9ddbc0bb227245564d3f) feat: log REST pairing and registration outcomes server-side
 
 ---
 
