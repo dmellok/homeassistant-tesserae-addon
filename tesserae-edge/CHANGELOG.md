@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.170.6-edge.1784629555, 2026-07-21
+## 0.170.7-edge.1784630174, 2026-07-21
 
-[`3d3d83b`](https://github.com/dmellok/tesserae/commit/3d3d83b1c571c0724de267d107c691ddb517e610) fix: resolve device ids case-insensitively so mixed-case pairs fetch frames
+[`84e81df`](https://github.com/dmellok/tesserae/commit/84e81df7c3bfeabf190e103fad3854976de6dd68) fix: write REST instance files into data/devices/ so pairing survives restart
 
 ---
 
