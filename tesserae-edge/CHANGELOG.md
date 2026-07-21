@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.168.0-edge.1784591054, 2026-07-20
+## 0.169.0-edge.1784592806, 2026-07-21
 
-[`f9c7af2`](https://github.com/dmellok/tesserae/commit/f9c7af203811e81477f211939b0bdd97139b5b89) style: dedicated stylesheet for the Decks page
+[`31e94cd`](https://github.com/dmellok/tesserae/commit/31e94cdf7d3535a3f58e7540bf472b195b5bfb8b) style: Decks header matches the Rotations page
 
 ---
 
