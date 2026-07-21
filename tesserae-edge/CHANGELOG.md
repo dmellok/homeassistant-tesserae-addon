@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.170.0-edge.1784595579, 2026-07-21
+## 0.170.1-edge.1784596827, 2026-07-21
 
-[`16c216e`](https://github.com/dmellok/tesserae/commit/16c216e2a940e9b68212f7e53d847c8201f1cae9) fix: per-device status bar on canvas dashboards (#125)
+[`ad6d84f`](https://github.com/dmellok/tesserae/commit/ad6d84fd819bc488197abfdfb6c308477ab52891) fix: thread target device through canvas render + preview status bar (#125)
 
 ---
 
