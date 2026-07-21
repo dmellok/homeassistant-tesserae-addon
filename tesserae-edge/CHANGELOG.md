@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.170.8-edge.1784630431, 2026-07-21
+## 0.172.0-edge.1784632714, 2026-07-21
 
-[`6730b0e`](https://github.com/dmellok/tesserae/commit/6730b0eec56c8565828f9ddbc0bb227245564d3f) feat: log REST pairing and registration outcomes server-side
+[`c8a16b2`](https://github.com/dmellok/tesserae/commit/c8a16b21b3f05e8b697b174d742b997cf1c3ff8e) feat: per-dashboard image asset catalog
 
 ---
 
