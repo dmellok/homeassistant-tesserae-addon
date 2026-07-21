@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.170.5-edge.1784629258, 2026-07-21
+## 0.170.6-edge.1784629555, 2026-07-21
 
-[`3410f03`](https://github.com/dmellok/tesserae/commit/3410f0305cc68e7d00dfd35af662993644a5048b) fix: canvas Scale slider zooms content inside a fixed box
+[`3d3d83b`](https://github.com/dmellok/tesserae/commit/3d3d83b1c571c0724de267d107c691ddb517e610) fix: resolve device ids case-insensitively so mixed-case pairs fetch frames
 
 ---
 
