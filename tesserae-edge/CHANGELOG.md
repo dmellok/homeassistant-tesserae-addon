@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.174.0-edge.1784634677, 2026-07-21
+## 0.174.1-edge.1784636462, 2026-07-21
 
-[`09226dc`](https://github.com/dmellok/tesserae/commit/09226dca8e2d866cf3615ce0314ef47e6906cad1) feat: per-widget crop control (drop a title / reclaim space)
+[`75d9a19`](https://github.com/dmellok/tesserae/commit/75d9a19d75d712d0d6f172201aad0bcb6aeb3e8f) fix: keep widget Scale continuous through 100%
 
 ---
 
