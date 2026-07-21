@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.170.3-edge.1784626220, 2026-07-21
+## 0.170.4-edge.1784627968, 2026-07-21
 
-[`b2febc8`](https://github.com/dmellok/tesserae/commit/b2febc8467d0a022d9926e0945091b89a63a7d88) fix: canvas preview fails behind a non-default external port (#129)
+[`3649448`](https://github.com/dmellok/tesserae/commit/36494489d8f8777c121b00ef6de832ad07623675) fix: wire HA entity filter, icon picker, and overrides in the canvas editor (#130)
 
 ---
 
