@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.174.1-edge.1784636462, 2026-07-21
+## 0.175.0-edge.1784637742, 2026-07-21
 
-[`75d9a19`](https://github.com/dmellok/tesserae/commit/75d9a19d75d712d0d6f172201aad0bcb6aeb3e8f) fix: keep widget Scale continuous through 100%
+[`0323cd2`](https://github.com/dmellok/tesserae/commit/0323cd28709c52cb18d60ff1a4108ddf60cf796f) feat: crop shrinks the widget box (undistorted), no stretch
 
 ---
 
