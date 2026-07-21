@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.173.1-edge.1784633927, 2026-07-21
+## 0.174.0-edge.1784634677, 2026-07-21
 
-[`e747848`](https://github.com/dmellok/tesserae/commit/e7478484255dbc2367f8e485e5d72072757f7da7) fix: pin canvas zoom control to the viewport, not the scrolling canvas
+[`09226dc`](https://github.com/dmellok/tesserae/commit/09226dca8e2d866cf3615ce0314ef47e6906cad1) feat: per-widget crop control (drop a title / reclaim space)
 
 ---
 
