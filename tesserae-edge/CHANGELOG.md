@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.169.0-edge.1784592806, 2026-07-21
+## 0.170.0-edge.1784595579, 2026-07-21
 
-[`31e94cd`](https://github.com/dmellok/tesserae/commit/31e94cdf7d3535a3f58e7540bf472b195b5bfb8b) style: Decks header matches the Rotations page
+[`16c216e`](https://github.com/dmellok/tesserae/commit/16c216e2a940e9b68212f7e53d847c8201f1cae9) fix: per-device status bar on canvas dashboards (#125)
 
 ---
 
