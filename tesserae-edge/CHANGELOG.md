@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.172.0-edge.1784632714, 2026-07-21
+## 0.173.1-edge.1784633927, 2026-07-21
 
-[`c8a16b2`](https://github.com/dmellok/tesserae/commit/c8a16b21b3f05e8b697b174d742b997cf1c3ff8e) feat: per-dashboard image asset catalog
+[`e747848`](https://github.com/dmellok/tesserae/commit/e7478484255dbc2367f8e485e5d72072757f7da7) fix: pin canvas zoom control to the viewport, not the scrolling canvas
 
 ---
 
