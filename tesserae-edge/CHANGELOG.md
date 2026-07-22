@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.175.2-edge.1784717112, 2026-07-22
+## 0.176.0-edge.1784752864, 2026-07-22
 
-[`f36a242`](https://github.com/dmellok/tesserae/commit/f36a242f59571004ac5f9873179d5332aad70d8e) fix: OTA release path no longer needs an undeclared packaging dep, ship trusted keys in image (#121)
+[`0759693`](https://github.com/dmellok/tesserae/commit/07596937d39adf7cfe44edfd7ae9402394ceadf3) feat: ingest device OTA state reports (#121)
 
 ---
 
