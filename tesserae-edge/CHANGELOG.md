@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.175.1-edge.1784709465, 2026-07-22
+## 0.175.2-edge.1784717112, 2026-07-22
 
-[`7b03496`](https://github.com/dmellok/tesserae/commit/7b03496a7b5e35f76bcc4a9fec9e2174e786dade) fix: resend from history replays the original push's device targets (#119)
+[`f36a242`](https://github.com/dmellok/tesserae/commit/f36a242f59571004ac5f9873179d5332aad70d8e) fix: OTA release path no longer needs an undeclared packaging dep, ship trusted keys in image (#121)
 
 ---
 
