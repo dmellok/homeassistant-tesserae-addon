@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.9.1
+
+Tracks Studio [0.9.1](https://github.com/dmellok/tesserae-studio): authoring
+usability fixes, status-pill tooltips and clearer data-API wording, more visible
+errors, a Monaco caret-drift fix, config-form and live-data refresh on save, and
+workspace detection of service and font plugins.
+
 ## 0.9.0
 
 Tracks Studio [0.9.0](https://github.com/dmellok/tesserae-studio): author service
