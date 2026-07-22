@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.176.0-edge.1784752864, 2026-07-22
+## 0.177.0-edge.1784762421, 2026-07-22
 
-[`0759693`](https://github.com/dmellok/tesserae/commit/07596937d39adf7cfe44edfd7ae9402394ceadf3) feat: ingest device OTA state reports (#121)
+[`1b79d36`](https://github.com/dmellok/tesserae/commit/1b79d36a59d813ee732289bfbdf8a02569703c77) feat: firmware-version telemetry + one-click release import on the Firmware page
 
 ---
 
