@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.180.0-edge.1784778515, 2026-07-23
+## 0.181.0-edge.1784798167, 2026-07-23
 
-[`dfffb47`](https://github.com/dmellok/tesserae/commit/dfffb47fd435e2466305cf8b6470dde37140858b) feat: flatten the Firmware page to a per-device update queue
+[`23823c6`](https://github.com/dmellok/tesserae/commit/23823c6b01ec0fb1dd9b794920a795ce4d26f152) feat: per-device auto-update switch, one-shot update queue, persisted device facts
 
 ---
 
