@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.178.0-edge.1784768781, 2026-07-23
+## 0.179.0-edge.1784774232, 2026-07-23
 
-[`9a0908c`](https://github.com/dmellok/tesserae/commit/9a0908c20fbe5f35a3daedf3ef8ecfd45b7e2a35) feat: auto-heal stale device kind on re-register and MAC-claim discover
+[`9c9fbd5`](https://github.com/dmellok/tesserae/commit/9c9fbd5f4fd2b8175d1553bcd0afa15450511b4c) feat: hardware-catalog kinds for the Seeed XIAO ePaper EE04 board
 
 ---
 
