@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.187.0-edge.1784844478, 2026-07-23
+## 0.187.1-edge.1784850916, 2026-07-23
 
-[`6c495aa`](https://github.com/dmellok/tesserae/commit/6c495aa662a9d366536685e4dfb0764ae816e0ac) feat: per-device overlay target budgets with nav-priority trimming
+[`8d6c57d`](https://github.com/dmellok/tesserae/commit/8d6c57d32d4bbbbd40127c4948645fad34a35a45) fix: reconcile deck-painted frames so touches and polls track the glass
 
 ---
 
