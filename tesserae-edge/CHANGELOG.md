@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.181.0-edge.1784798167, 2026-07-23
+## 0.182.0-edge.1784803872, 2026-07-23
 
-[`23823c6`](https://github.com/dmellok/tesserae/commit/23823c6b01ec0fb1dd9b794920a795ce4d26f152) feat: per-device auto-update switch, one-shot update queue, persisted device facts
+[`2bac42a`](https://github.com/dmellok/tesserae/commit/2bac42acae137bc7cdcab444426294c32d5d8f7c) feat: deck cache sync for devices + 2-bpp grayscale E1001 variant
 
 ---
 
