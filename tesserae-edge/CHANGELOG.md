@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.177.0-edge.1784762421, 2026-07-22
+## 0.178.0-edge.1784768781, 2026-07-23
 
-[`1b79d36`](https://github.com/dmellok/tesserae/commit/1b79d36a59d813ee732289bfbdf8a02569703c77) feat: firmware-version telemetry + one-click release import on the Firmware page
+[`9a0908c`](https://github.com/dmellok/tesserae/commit/9a0908c20fbe5f35a3daedf3ef8ecfd45b7e2a35) feat: auto-heal stale device kind on re-register and MAC-claim discover
 
 ---
 
