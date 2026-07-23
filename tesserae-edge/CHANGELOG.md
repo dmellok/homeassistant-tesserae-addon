@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.179.0-edge.1784774232, 2026-07-23
+## 0.180.0-edge.1784778515, 2026-07-23
 
-[`9c9fbd5`](https://github.com/dmellok/tesserae/commit/9c9fbd5f4fd2b8175d1553bcd0afa15450511b4c) feat: hardware-catalog kinds for the Seeed XIAO ePaper EE04 board
+[`dfffb47`](https://github.com/dmellok/tesserae/commit/dfffb47fd435e2466305cf8b6470dde37140858b) feat: flatten the Firmware page to a per-device update queue
 
 ---
 
