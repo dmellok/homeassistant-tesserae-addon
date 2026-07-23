@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.182.0-edge.1784803872, 2026-07-23
+## 0.183.0-edge.1784811773, 2026-07-23
 
-[`2bac42a`](https://github.com/dmellok/tesserae/commit/2bac42acae137bc7cdcab444426294c32d5d8f7c) feat: deck cache sync for devices + 2-bpp grayscale E1001 variant
+[`3812b84`](https://github.com/dmellok/tesserae/commit/3812b84c909e511a1fe514a30235aac61d2e8963) feat: bwr_3 native 2-bpp gamut + XIAO ePaper 7.5 BWR hardware SKU
 
 ---
 
