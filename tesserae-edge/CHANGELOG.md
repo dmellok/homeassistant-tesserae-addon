@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.187.1-edge.1784850916, 2026-07-23
+## 0.187.2-edge.1784855487, 2026-07-24
 
-[`8d6c57d`](https://github.com/dmellok/tesserae/commit/8d6c57d32d4bbbbd40127c4948645fad34a35a45) fix: reconcile deck-painted frames so touches and polls track the glass
+[`a777a61`](https://github.com/dmellok/tesserae/commit/a777a618ac2caf53f193787b2d1b7c7d280f4cf8) fix: recency-guard deck promotions so reports can't revert fresh pushes
 
 ---
 
