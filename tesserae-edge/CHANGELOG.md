@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.190.0-edge.1784876282, 2026-07-24
+## 0.191.0-edge.1784884430, 2026-07-24
 
-[`4283291`](https://github.com/dmellok/tesserae/commit/4283291dda606294cf29924bec8afc5a2596a792) feat: rotation content refresh cadence (#140)
+[`18aa1c7`](https://github.com/dmellok/tesserae/commit/18aa1c7456ac8751b61548aefa3a0beeaf249b29) feat!: rotations re-fire at every dwell boundary, including onto themselves
 
 ---
 
