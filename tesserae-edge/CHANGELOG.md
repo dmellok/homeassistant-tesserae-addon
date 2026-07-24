@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.191.0-edge.1784884430, 2026-07-24
+## 0.192.0-edge.1784897669, 2026-07-24
 
-[`18aa1c7`](https://github.com/dmellok/tesserae/commit/18aa1c7456ac8751b61548aefa3a0beeaf249b29) feat!: rotations re-fire at every dwell boundary, including onto themselves
+[`6d52f42`](https://github.com/dmellok/tesserae/commit/6d52f4291f2d95241b4909b85949cc2250cfd1a3) fix: deck home-return respects quiet hours on the promote fast path
 
 ---
 
