@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.188.0-edge.1784864904, 2026-07-24
+## 0.189.0-edge.1784873514, 2026-07-24
 
-[`8096b15`](https://github.com/dmellok/tesserae/commit/8096b15b12b2b6f0eb4de5a8389eec4fb291b98a) feat: default deck navigation, MCP graph derivation, deck Push button
+[`8a0f370`](https://github.com/dmellok/tesserae/commit/8a0f37004caff7d7bd4957a90ed6fead85208cd3) fix: rejoin manually paged-away devices to their rotation (#140)
 
 ---
 
