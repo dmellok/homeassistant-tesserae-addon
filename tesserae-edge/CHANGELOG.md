@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.189.0-edge.1784873514, 2026-07-24
+## 0.189.1-edge.1784875412, 2026-07-24
 
-[`8a0f370`](https://github.com/dmellok/tesserae/commit/8a0f37004caff7d7bd4957a90ed6fead85208cd3) fix: rejoin manually paged-away devices to their rotation (#140)
+[`9159a52`](https://github.com/dmellok/tesserae/commit/9159a52329cea01b0ee3cbdb67b378e98e2375d4) Merge branch 'pr139'
 
 ---
 
