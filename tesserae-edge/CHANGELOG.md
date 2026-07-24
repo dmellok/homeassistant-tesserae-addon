@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.189.1-edge.1784875412, 2026-07-24
+## 0.190.0-edge.1784876282, 2026-07-24
 
-[`9159a52`](https://github.com/dmellok/tesserae/commit/9159a52329cea01b0ee3cbdb67b378e98e2375d4) Merge branch 'pr139'
+[`4283291`](https://github.com/dmellok/tesserae/commit/4283291dda606294cf29924bec8afc5a2596a792) feat: rotation content refresh cadence (#140)
 
 ---
 
