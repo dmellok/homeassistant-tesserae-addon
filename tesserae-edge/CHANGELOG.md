@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.187.2-edge.1784855487, 2026-07-24
+## 0.188.0-edge.1784864904, 2026-07-24
 
-[`a777a61`](https://github.com/dmellok/tesserae/commit/a777a618ac2caf53f193787b2d1b7c7d280f4cf8) fix: recency-guard deck promotions so reports can't revert fresh pushes
+[`8096b15`](https://github.com/dmellok/tesserae/commit/8096b15b12b2b6f0eb4de5a8389eec4fb291b98a) feat: default deck navigation, MCP graph derivation, deck Push button
 
 ---
 
