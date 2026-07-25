@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.198.0-edge.1784970672, 2026-07-25
+## 0.199.0-edge.1784972281, 2026-07-25
 
-[`6f3168a`](https://github.com/dmellok/tesserae/commit/6f3168a0d6990bf0a11b083e7ee1a48f60de8482) docs: protocol v2 on the MCP surfaces (proto capability, data-touch-id guidance)
+[`73c7a64`](https://github.com/dmellok/tesserae/commit/73c7a644dd1b53e87fcc094b9acef2b50b902e08) fix: v2 manifest delivery survives re-renders; grace window for superseded digests; sticky envelope gating
 
 ---
 
