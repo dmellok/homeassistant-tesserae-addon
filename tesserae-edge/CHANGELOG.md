@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.200.1-edge.1784975473, 2026-07-25
+## 0.201.0-edge.1784976984, 2026-07-25
 
-[`f7149ed`](https://github.com/dmellok/tesserae/commit/f7149edd7f38daab21225d4d295c4005837e7f6a) docs: region budget is a hard cap on v2 panels (MCP surfaces)
+[`ff397f4`](https://github.com/dmellok/tesserae/commit/ff397f4481b168190996f833a2494748c7a291a0) fix: layout-anchored /tap staleness, extraction-race guards, jitter-tolerant patch diff
 
 ---
 
