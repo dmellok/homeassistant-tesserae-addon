@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.200.0-edge.1784974326, 2026-07-25
+## 0.200.1-edge.1784975473, 2026-07-25
 
-[`906550e`](https://github.com/dmellok/tesserae/commit/906550e12553bb2a9e225c0c39bd766045484a0a) fix: coerce JSON-string action specs in v2 manifests and region dispatch; wire outcome vocabulary
+[`f7149ed`](https://github.com/dmellok/tesserae/commit/f7149edd7f38daab21225d4d295c4005837e7f6a) docs: region budget is a hard cap on v2 panels (MCP surfaces)
 
 ---
 
