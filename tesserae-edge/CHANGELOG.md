@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.195.0-edge.1784953189, 2026-07-25
+## 0.197.0-edge.1784963625, 2026-07-25
 
-[`5446d18`](https://github.com/dmellok/tesserae/commit/5446d18a73d1f10b7598025d4ce49f887ae16d9e) fix: engage frame patches under error-diffusion dither; hold digests stable for small diffs
+[`2695b51`](https://github.com/dmellok/tesserae/commit/2695b5180b9cf34aa6ab373d748259cfac504aec) docs: protocol v2 endpoints in the client contract; v0.197.0
 
 ---
 
