@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.197.0-edge.1784963625, 2026-07-25
+## 0.198.0-edge.1784970672, 2026-07-25
 
-[`2695b51`](https://github.com/dmellok/tesserae/commit/2695b5180b9cf34aa6ab373d748259cfac504aec) docs: protocol v2 endpoints in the client contract; v0.197.0
+[`6f3168a`](https://github.com/dmellok/tesserae/commit/6f3168a0d6990bf0a11b083e7ee1a48f60de8482) docs: protocol v2 on the MCP surfaces (proto capability, data-touch-id guidance)
 
 ---
 
