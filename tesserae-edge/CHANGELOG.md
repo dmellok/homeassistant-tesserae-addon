@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.194.1-edge.1784947975, 2026-07-25
+## 0.194.2-edge.1784950529, 2026-07-25
 
-[`789d817`](https://github.com/dmellok/tesserae/commit/789d8178a669f0927afc86a5295430094c26afb3) docs: surface overlay schema + patch behaviour on the MCP device list
+[`72f070f`](https://github.com/dmellok/tesserae/commit/72f070f584a2151a27a962b9f21dd36d06c867f2) docs: teach the MCP bridge the schema-2 overlay capability and slot grammar
 
 ---
 
