@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.193.0-edge.1784940193, 2026-07-25
+## 0.194.0-edge.1784945876, 2026-07-25
 
-[`1338fbd`](https://github.com/dmellok/tesserae/commit/1338fbd7dc7fe00f19d3123b0598a58000d0bf8b) feat: per-page update cadence delivered only to showing panels (#140)
+[`cf0bb9e`](https://github.com/dmellok/tesserae/commit/cf0bb9e3000abb21742ca73921af32965bfa643c) feat: post-action frame patches (overlay schema 2) + async debounced HA reconcile
 
 ---
 
