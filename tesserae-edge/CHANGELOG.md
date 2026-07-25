@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.192.0-edge.1784897669, 2026-07-24
+## 0.193.0-edge.1784940193, 2026-07-25
 
-[`6d52f42`](https://github.com/dmellok/tesserae/commit/6d52f4291f2d95241b4909b85949cc2250cfd1a3) fix: deck home-return respects quiet hours on the promote fast path
+[`1338fbd`](https://github.com/dmellok/tesserae/commit/1338fbd7dc7fe00f19d3123b0598a58000d0bf8b) feat: per-page update cadence delivered only to showing panels (#140)
 
 ---
 
