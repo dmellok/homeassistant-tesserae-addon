@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.194.0-edge.1784945876, 2026-07-25
+## 0.194.1-edge.1784947975, 2026-07-25
 
-[`cf0bb9e`](https://github.com/dmellok/tesserae/commit/cf0bb9e3000abb21742ca73921af32965bfa643c) feat: post-action frame patches (overlay schema 2) + async debounced HA reconcile
+[`789d817`](https://github.com/dmellok/tesserae/commit/789d8178a669f0927afc86a5295430094c26afb3) docs: surface overlay schema + patch behaviour on the MCP device list
 
 ---
 
