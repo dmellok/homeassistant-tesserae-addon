@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.199.0-edge.1784972281, 2026-07-25
+## 0.200.0-edge.1784974326, 2026-07-25
 
-[`73c7a64`](https://github.com/dmellok/tesserae/commit/73c7a644dd1b53e87fcc094b9acef2b50b902e08) fix: v2 manifest delivery survives re-renders; grace window for superseded digests; sticky envelope gating
+[`906550e`](https://github.com/dmellok/tesserae/commit/906550e12553bb2a9e225c0c39bd766045484a0a) fix: coerce JSON-string action specs in v2 manifests and region dispatch; wire outcome vocabulary
 
 ---
 
