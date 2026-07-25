@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.201.0-edge.1784976984, 2026-07-25
+## 0.201.1-edge.1784977376, 2026-07-25
 
-[`ff397f4`](https://github.com/dmellok/tesserae/commit/ff397f4481b168190996f833a2494748c7a291a0) fix: layout-anchored /tap staleness, extraction-race guards, jitter-tolerant patch diff
+[`43f2fc4`](https://github.com/dmellok/tesserae/commit/43f2fc427d88599cc667615a57016719653e9bd4) test: silence unused unpacked fixtures flagged by CI ruff
 
 ---
 
