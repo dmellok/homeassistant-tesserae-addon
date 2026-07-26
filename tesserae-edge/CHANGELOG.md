@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.201.2-edge.1785034453, 2026-07-26
+## 0.201.3-edge.1785052243, 2026-07-26
 
-[`50cdfce`](https://github.com/dmellok/tesserae/commit/50cdfce6674e45275f0d329733581c826426de46) docs: drop unreferenced screenshots; downscale the README hero
+[`c2acdf7`](https://github.com/dmellok/tesserae/commit/c2acdf7b8dbc38ebed48b5fa2f76d9e616f15148) chore: harden CI with coverage, security, and lockfile gates plus frontend lint tooling
 
 ---
 
