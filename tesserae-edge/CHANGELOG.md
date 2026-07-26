@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.201.3-edge.1785052243, 2026-07-26
+## 0.201.4-edge.1785055289, 2026-07-26
 
-[`c2acdf7`](https://github.com/dmellok/tesserae/commit/c2acdf7b8dbc38ebed48b5fa2f76d9e616f15148) chore: harden CI with coverage, security, and lockfile gates plus frontend lint tooling
+[`aed40e7`](https://github.com/dmellok/tesserae/commit/aed40e71577b77018ad683f81a84b4b48b4f0c92) chore: lift pillow and cryptography pins to current security fixes (#142)
 
 ---
 
