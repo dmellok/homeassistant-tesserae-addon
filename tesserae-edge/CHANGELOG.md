@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.201.1-edge.1784977376, 2026-07-25
+## 0.201.2-edge.1785034453, 2026-07-26
 
-[`43f2fc4`](https://github.com/dmellok/tesserae/commit/43f2fc427d88599cc667615a57016719653e9bd4) test: silence unused unpacked fixtures flagged by CI ruff
+[`50cdfce`](https://github.com/dmellok/tesserae/commit/50cdfce6674e45275f0d329733581c826426de46) docs: drop unreferenced screenshots; downscale the README hero
 
 ---
 
