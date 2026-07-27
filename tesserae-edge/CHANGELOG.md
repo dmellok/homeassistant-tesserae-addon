@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.203.0-edge.1785145067, 2026-07-27
+## 0.203.1-edge.1785147400, 2026-07-27
 
-[`3bfba0e`](https://github.com/dmellok/tesserae/commit/3bfba0e6f20335afabb7a607632dc7bb9c156b96) fix: emit server_time as an integer epoch (#143)
+[`13e16ba`](https://github.com/dmellok/tesserae/commit/13e16ba78f0a86093729f1dec70d8d3d18d9f051) chore: refresh uv.lock and bump to 0.203.1
 
 ---
 
