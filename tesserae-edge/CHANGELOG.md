@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.202.0-edge.1785131519, 2026-07-27
+## 0.202.1-edge.1785142460, 2026-07-27
 
-[`1e3d096`](https://github.com/dmellok/tesserae/commit/1e3d096a6b054869aeb9ee431035f8c2ef94860f) chore: tesserae-mcp 0.10.2
+[`b965d1c`](https://github.com/dmellok/tesserae/commit/b965d1caa0f320467662f32e43c5b2938d5da93f) docs: MCP bridge leads with v3 touch primitives for named controls
 
 ---
 
