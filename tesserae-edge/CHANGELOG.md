@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.202.0-edge.1785127147, 2026-07-27
+## 0.202.0-edge.1785131519, 2026-07-27
 
-[`57398d9`](https://github.com/dmellok/tesserae/commit/57398d9fd53dd68d275d08091fda20f6ff4a6287) chore: bump version to 0.202.0
+[`1e3d096`](https://github.com/dmellok/tesserae/commit/1e3d096a6b054869aeb9ee431035f8c2ef94860f) chore: tesserae-mcp 0.10.2
 
 ---
 
