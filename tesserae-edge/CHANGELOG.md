@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.202.1-edge.1785142460, 2026-07-27
+## 0.203.0-edge.1785145067, 2026-07-27
 
-[`b965d1c`](https://github.com/dmellok/tesserae/commit/b965d1caa0f320467662f32e43c5b2938d5da93f) docs: MCP bridge leads with v3 touch primitives for named controls
+[`3bfba0e`](https://github.com/dmellok/tesserae/commit/3bfba0e6f20335afabb7a607632dc7bb9c156b96) fix: emit server_time as an integer epoch (#143)
 
 ---
 
