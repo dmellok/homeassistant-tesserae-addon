@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.201.4-edge.1785055289, 2026-07-26
+## 0.202.0-edge.1785127147, 2026-07-27
 
-[`aed40e7`](https://github.com/dmellok/tesserae/commit/aed40e71577b77018ad683f81a84b4b48b4f0c92) chore: lift pillow and cryptography pins to current security fixes (#142)
+[`57398d9`](https://github.com/dmellok/tesserae/commit/57398d9fd53dd68d275d08091fda20f6ff4a6287) chore: bump version to 0.202.0
 
 ---
 
