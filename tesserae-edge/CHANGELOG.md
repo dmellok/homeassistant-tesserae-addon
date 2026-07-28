@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.210.0-edge.1785280077, 2026-07-28
+## 0.210.1-edge.1785282485, 2026-07-28
 
-[`5c5c80a`](https://github.com/dmellok/tesserae/commit/5c5c80a563f17f62d9d5fa55b504a0c7d809831f) feat: signed render URLs for opt-in public REST hosting
+[`ae6d601`](https://github.com/dmellok/tesserae/commit/ae6d601fd94d060340dc2a406eaefeee532ef665) fix: webpage widget captures JS pages after their data loads
 
 ---
 
