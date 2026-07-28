@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.208.0-edge.1785278633, 2026-07-28
+## 0.209.0-edge.1785278867, 2026-07-28
 
-[`4a9ae2b`](https://github.com/dmellok/tesserae/commit/4a9ae2b417b73192759d7ebe1783d9887df24dd3) fix: photo orientation for portrait-native ESP32 panels (#148)
+[`c2b8481`](https://github.com/dmellok/tesserae/commit/c2b8481db30672af83476433d4e81a14d1370e18) chore: bump to 0.209.0
 
 ---
 
