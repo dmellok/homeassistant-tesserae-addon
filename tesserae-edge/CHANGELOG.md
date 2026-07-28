@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.209.0-edge.1785278867, 2026-07-28
+## 0.210.0-edge.1785280077, 2026-07-28
 
-[`c2b8481`](https://github.com/dmellok/tesserae/commit/c2b8481db30672af83476433d4e81a14d1370e18) chore: bump to 0.209.0
+[`5c5c80a`](https://github.com/dmellok/tesserae/commit/5c5c80a563f17f62d9d5fa55b504a0c7d809831f) feat: signed render URLs for opt-in public REST hosting
 
 ---
 
