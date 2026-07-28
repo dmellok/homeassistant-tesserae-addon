@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.205.0-edge.1785220546, 2026-07-28
+## 0.205.1-edge.1785227203, 2026-07-28
 
-[`23f9adb`](https://github.com/dmellok/tesserae/commit/23f9adba53af30a059722e842680b16efccd1554) chore: bump to 0.205.0
+[`06563f6`](https://github.com/dmellok/tesserae/commit/06563f61140fcc4affca6f3b8ac32469b54798be) chore: bump to 0.205.1
 
 ---
 
