@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.203.5-edge.1785204743, 2026-07-28
+## 0.204.0-edge.1785209684, 2026-07-28
 
-[`47d9806`](https://github.com/dmellok/tesserae/commit/47d9806a85f4b8d66f64c4f0d851ae7752eb0353) docs: cross-position Decks, Rotations, and Schedules in their ledes
+[`0d5ea0a`](https://github.com/dmellok/tesserae/commit/0d5ea0a6cb01378e1bf3c29636e08ffc829757e4) chore: bump to 0.204.0
 
 ---
 
