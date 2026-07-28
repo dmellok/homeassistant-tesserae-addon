@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.203.3-edge.1785150438, 2026-07-27
+## 0.203.4-edge.1785202115, 2026-07-28
 
-[`5ff2b1f`](https://github.com/dmellok/tesserae/commit/5ff2b1fa0de1a5a039a5971987e831edf3970897) fix: never drive a synchronous atlas render from /frame/spec
+[`6453a83`](https://github.com/dmellok/tesserae/commit/6453a83ff5768ac1083567a4e4303e4155113930) chore: bump to 0.203.4
 
 ---
 
