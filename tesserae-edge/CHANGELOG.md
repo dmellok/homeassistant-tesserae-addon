@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.207.0-edge.1785235015, 2026-07-28
+## 0.207.1-edge.1785241659, 2026-07-28
 
-[`3e4d481`](https://github.com/dmellok/tesserae/commit/3e4d4818f246e24730e1181c5cf1d203900395db) feat: companion API phase 2 (async pushes, jobs, discovery)
+[`623fe49`](https://github.com/dmellok/tesserae/commit/623fe491e4c79110b75dac8bc5f07054f60c2e3b) chore: bump to 0.207.1
 
 ---
 
