@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.208.0-edge.1785242468, 2026-07-28
+## 0.208.0-edge.1785278633, 2026-07-28
 
-[`7652171`](https://github.com/dmellok/tesserae/commit/76521718411ff0632920b2daa4ace19bc4e6d098) feat: companion API read-only previews
+[`4a9ae2b`](https://github.com/dmellok/tesserae/commit/4a9ae2b417b73192759d7ebe1783d9887df24dd3) fix: photo orientation for portrait-native ESP32 panels (#148)
 
 ---
 
