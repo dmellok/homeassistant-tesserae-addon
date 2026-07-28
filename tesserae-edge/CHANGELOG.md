@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.207.1-edge.1785241659, 2026-07-28
+## 0.208.0-edge.1785242468, 2026-07-28
 
-[`623fe49`](https://github.com/dmellok/tesserae/commit/623fe491e4c79110b75dac8bc5f07054f60c2e3b) chore: bump to 0.207.1
+[`7652171`](https://github.com/dmellok/tesserae/commit/76521718411ff0632920b2daa4ace19bc4e6d098) feat: companion API read-only previews
 
 ---
 
