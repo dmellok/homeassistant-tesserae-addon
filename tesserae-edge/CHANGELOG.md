@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.206.0-edge.1785233588, 2026-07-28
+## 0.207.0-edge.1785235015, 2026-07-28
 
-[`ea9c436`](https://github.com/dmellok/tesserae/commit/ea9c436c50f1713f89c7495ad39bca9e11dcdcd1) feat: companion API phase 1 (discovery, pairing, read models)
+[`3e4d481`](https://github.com/dmellok/tesserae/commit/3e4d4818f246e24730e1181c5cf1d203900395db) feat: companion API phase 2 (async pushes, jobs, discovery)
 
 ---
 
