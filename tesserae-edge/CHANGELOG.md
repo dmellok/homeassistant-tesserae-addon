@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.204.1-edge.1785211459, 2026-07-28
+## 0.205.0-edge.1785220546, 2026-07-28
 
-[`203104f`](https://github.com/dmellok/tesserae/commit/203104f82c5d88724112d47bfef6657d5c66cae6) fix: import order in test_deck_timer; bump to 0.204.1
+[`23f9adb`](https://github.com/dmellok/tesserae/commit/23f9adba53af30a059722e842680b16efccd1554) chore: bump to 0.205.0
 
 ---
 
