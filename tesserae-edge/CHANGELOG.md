@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.212.0-edge.1785322430, 2026-07-29
+## 0.212.0-edge.1785323387, 2026-07-29
 
-[`8be77e0`](https://github.com/dmellok/tesserae/commit/8be77e0ceefd1d6ed9483dc4cf73fbb63348777e) chore: bump to 0.212.0
+[`0531ca3`](https://github.com/dmellok/tesserae/commit/0531ca3c838832908ff61214f8622827ee9fb670) feat(hardware): add Xteink X4, X4 Pro and X3 catalog entries (#155)
 
 ---
 
