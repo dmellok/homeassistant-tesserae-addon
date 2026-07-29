@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.212.0-edge.1785323387, 2026-07-29
+## 0.212.0-edge.1785328285, 2026-07-29
 
-[`0531ca3`](https://github.com/dmellok/tesserae/commit/0531ca3c838832908ff61214f8622827ee9fb670) feat(hardware): add Xteink X4, X4 Pro and X3 catalog entries (#155)
+[`4c90698`](https://github.com/dmellok/tesserae/commit/4c90698a84a6cf129d51d16f1a22bb6de3245881) feat(hardware): add xteink_x4_gray for 4-level grayscale on the X4 (#157)
 
 ---
 
