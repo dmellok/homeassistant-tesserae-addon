@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.211.0-edge.1785321038, 2026-07-29
+## 0.211.0-edge.1785322417, 2026-07-29
 
-[`b7b6a5c`](https://github.com/dmellok/tesserae/commit/b7b6a5cad950dd81ccc322880c93202db5504a77) chore: bump to 0.211.0
+[`6d6ef08`](https://github.com/dmellok/tesserae/commit/6d6ef087a3f4afad736d3ade18e1e1730e1eedb4) feat: logical Companion device previews (#154)
 
 ---
 
