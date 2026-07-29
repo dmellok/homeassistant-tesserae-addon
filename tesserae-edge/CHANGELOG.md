@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.210.2-edge.1785321023, 2026-07-29
+## 0.211.0-edge.1785321038, 2026-07-29
 
-[`6643dec`](https://github.com/dmellok/tesserae/commit/6643dec97f5a394ec060b7ee02693e14f909b89a) feat: Companion 0.4 History + photo layout modes (#153)
+[`b7b6a5c`](https://github.com/dmellok/tesserae/commit/b7b6a5cad950dd81ccc322880c93202db5504a77) chore: bump to 0.211.0
 
 ---
 
