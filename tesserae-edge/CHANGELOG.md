@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.212.0-edge.1785328285, 2026-07-29
+## 0.212.0-edge.1785362339, 2026-07-29
 
-[`4c90698`](https://github.com/dmellok/tesserae/commit/4c90698a84a6cf129d51d16f1a22bb6de3245881) feat(hardware): add xteink_x4_gray for 4-level grayscale on the X4 (#157)
+[`34938bc`](https://github.com/dmellok/tesserae/commit/34938bc79d5dc8c549bd3cad991b91dbe33b37b8) fix: preserve Companion History identity (#158)
 
 ---
 
