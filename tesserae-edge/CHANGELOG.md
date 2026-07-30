@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.213.1-edge.1785401392, 2026-07-30
+## 0.213.2-edge.1785406780, 2026-07-30
 
-[`29e29ab`](https://github.com/dmellok/tesserae/commit/29e29ab0f0faf1d0fef2f84d087766b3eef9a714) docs(hardware): confirm Xteink X4 mono and grayscale on real hardware (#161)
+[`cce8f02`](https://github.com/dmellok/tesserae/commit/cce8f025ff651423ae6420620593794a48536a07) fix(tests): anchor pre-0.4 companion job fixture to now
 
 ---
 
