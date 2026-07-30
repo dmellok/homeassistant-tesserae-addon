@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.213.5-edge.1785448507, 2026-07-30
+## 0.213.6-edge.1785449260, 2026-07-30
 
-[`13e3b02`](https://github.com/dmellok/tesserae/commit/13e3b02a8a2185c5d8b4f70ba8162214988dc720) fix: render schedule timeline and last-fired times in the configured timezone
+[`b69e19f`](https://github.com/dmellok/tesserae/commit/b69e19f90ed2aedbbc203013ce200197e82f8197) fix: tolerate leading BOM/whitespace before the XML declaration in CalDAV discovery
 
 ---
 
