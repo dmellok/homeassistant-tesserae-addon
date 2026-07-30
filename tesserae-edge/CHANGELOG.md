@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.213.6-edge.1785449260, 2026-07-30
+## 0.213.7-edge.1785454540, 2026-07-30
 
-[`b69e19f`](https://github.com/dmellok/tesserae/commit/b69e19f90ed2aedbbc203013ce200197e82f8197) fix: tolerate leading BOM/whitespace before the XML declaration in CalDAV discovery
+[`b741a62`](https://github.com/dmellok/tesserae/commit/b741a62714e5e99c28bb94b5624d459b824be74f) test: stabilize the timezone-timeline test against the run's wall-clock hour
 
 ---
 
