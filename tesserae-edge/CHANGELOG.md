@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.213.7-edge.1785454540, 2026-07-30
+## 0.213.8-edge.1785456288, 2026-07-31
 
-[`b741a62`](https://github.com/dmellok/tesserae/commit/b741a62714e5e99c28bb94b5624d459b824be74f) test: stabilize the timezone-timeline test against the run's wall-clock hour
+[`21db10b`](https://github.com/dmellok/tesserae/commit/21db10bfdb23ed47cb74380064768725018548be) docs: Cloudflare Tunnel + Access recipe for remote REST devices
 
 ---
 
