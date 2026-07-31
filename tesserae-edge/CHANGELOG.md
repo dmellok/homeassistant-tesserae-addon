@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.216.1-edge.1785503539, 2026-07-31
+## 0.217.0-edge.1785504290, 2026-07-31
 
-[`4acf853`](https://github.com/dmellok/tesserae/commit/4acf853ed60a130b5efbb8efcfcf7ad9abfde14b) chore: sync uv.lock with version bump
+[`a4a41c4`](https://github.com/dmellok/tesserae/commit/a4a41c4db41fa7658d666e9f0ffb7f4f90a5bf85) Merge pull request #173 from charmmmz/agent/companion-dashboard-icons
 
 ---
 
