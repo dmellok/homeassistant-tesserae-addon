@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.214.2-edge.1785490896, 2026-07-31
+## 0.214.3-edge.1785491607, 2026-07-31
 
-[`3ad9468`](https://github.com/dmellok/tesserae/commit/3ad94685814ba20ad4cd62587a51cca1f29dea0c) feat(mcp): surface the icon set and code-element library toolkit to agents
+[`6fe2098`](https://github.com/dmellok/tesserae/commit/6fe2098990ce9cd8300e082aa4cf8351b449494c) feat(mcp-bridge): add list_icons tool + sync toolkit docs
 
 ---
 
