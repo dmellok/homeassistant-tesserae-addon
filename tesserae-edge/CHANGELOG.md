@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.214.1-edge.1785479784, 2026-07-31
+## 0.214.2-edge.1785490896, 2026-07-31
 
-[`9408d98`](https://github.com/dmellok/tesserae/commit/9408d98f7fc2a430536376daa51f4d941afaa7d5) fix: decode compressed CalDAV responses in discovery and feed fetch
+[`3ad9468`](https://github.com/dmellok/tesserae/commit/3ad94685814ba20ad4cd62587a51cca1f29dea0c) feat(mcp): surface the icon set and code-element library toolkit to agents
 
 ---
 
