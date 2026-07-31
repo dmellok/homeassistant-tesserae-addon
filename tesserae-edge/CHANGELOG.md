@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.214.0-edge.1785457305, 2026-07-31
+## 0.214.1-edge.1785479784, 2026-07-31
 
-[`e264815`](https://github.com/dmellok/tesserae/commit/e2648155a37b631907d544c7a978052e47097b55) Merge pull request #171 from dmellok/feat/companion-0.5-link-send
+[`9408d98`](https://github.com/dmellok/tesserae/commit/9408d98f7fc2a430536376daa51f4d941afaa7d5) fix: decode compressed CalDAV responses in discovery and feed fetch
 
 ---
 
