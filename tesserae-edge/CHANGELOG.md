@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.216.0-edge.1785501139, 2026-07-31
+## 0.216.1-edge.1785503539, 2026-07-31
 
-[`46b187f`](https://github.com/dmellok/tesserae/commit/46b187f8b032797f924e7138f42ca41a17d101a7) feat(mcp): flag unresolvable icon refs + normalize icon search
+[`4acf853`](https://github.com/dmellok/tesserae/commit/4acf853ed60a130b5efbb8efcfcf7ad9abfde14b) chore: sync uv.lock with version bump
 
 ---
 
