@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.217.0-edge.1785504290, 2026-07-31
+## 0.218.0-edge.1785538853, 2026-07-31
 
-[`a4a41c4`](https://github.com/dmellok/tesserae/commit/a4a41c4db41fa7658d666e9f0ffb7f4f90a5bf85) Merge pull request #173 from charmmmz/agent/companion-dashboard-icons
+[`adcdac4`](https://github.com/dmellok/tesserae/commit/adcdac4dc2d5a3405ba5b78ba88c220bbad9d1b5) Merge pull request #175 from dmellok/feat/picture-crop-and-panel-preview
 
 ---
 
