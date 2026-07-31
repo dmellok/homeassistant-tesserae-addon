@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.218.0-edge.1785538853, 2026-07-31
+## 0.218.1-edge.1785540699, 2026-07-31
 
-[`adcdac4`](https://github.com/dmellok/tesserae/commit/adcdac4dc2d5a3405ba5b78ba88c220bbad9d1b5) Merge pull request #175 from dmellok/feat/picture-crop-and-panel-preview
+[`8e89382`](https://github.com/dmellok/tesserae/commit/8e89382498ce42f0df3b1da91a6f9f68f4f59c86) fix(editor): make the panel-view toggle actually switch
 
 ---
 
