@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.228.1-edge.1785625702, 2026-08-01
+## 0.228.2-edge.1785627262, 2026-08-01
 
-[`afe4b4a`](https://github.com/dmellok/tesserae/commit/afe4b4a825d7e8a0f38ee602746092b19c14a1f1) docs(relay): add the status POST to the firmware build checklist
+[`6047a83`](https://github.com/dmellok/tesserae/commit/6047a83523d42f1584a1713b3fc56bf0110dd722) docs(relay): step-by-step remote-display setup walkthrough
 
 ---
 
