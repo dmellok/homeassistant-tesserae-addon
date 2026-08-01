@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.221.0-edge.1785555661, 2026-08-01
+## 0.222.0-edge.1785557858, 2026-08-01
 
-[`862bf3f`](https://github.com/dmellok/tesserae/commit/862bf3fe53288bc0f0cefc46b1fd5a4334f9999b) feat(settings): experiments card with per-flag toggles
+[`1121d7d`](https://github.com/dmellok/tesserae/commit/1121d7dc9f6ecbf852363f608c1a9b7b352aa0ed) feat(templates): dedicated page grouped by resolution, fix install redirect
 
 ---
 
