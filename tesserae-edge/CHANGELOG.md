@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.228.2-edge.1785627262, 2026-08-01
+## 0.228.3-edge.1785627532, 2026-08-01
 
-[`6047a83`](https://github.com/dmellok/tesserae/commit/6047a83523d42f1584a1713b3fc56bf0110dd722) docs(relay): step-by-step remote-display setup walkthrough
+[`8a62d56`](https://github.com/dmellok/tesserae/commit/8a62d56b8d4c2619352744a137dae2a2c0b39652) fix(relay): set a User-Agent so Cloudflare doesn't 403 the client; switch UI
 
 ---
 
