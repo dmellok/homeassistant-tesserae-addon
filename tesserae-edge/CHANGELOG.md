@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.227.1-edge.1785588708, 2026-08-01
+## 0.227.2-edge.1785589077, 2026-08-01
 
-[`bc98df7`](https://github.com/dmellok/tesserae/commit/bc98df72e143de0e70ac89a39ee8092b8ce625db) fix(relay): delete superseded frame blob on upload
+[`f0f4c8c`](https://github.com/dmellok/tesserae/commit/f0f4c8c4e2b3ee94bfc84ccd1473b2fbfadaba9e) feat(relay): aggregate analytics for frames + mailboxes
 
 ---
 
