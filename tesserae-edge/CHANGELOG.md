@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.227.3-edge.1785590265, 2026-08-01
+## 0.227.4-edge.1785590524, 2026-08-01
 
-[`edc63a0`](https://github.com/dmellok/tesserae/commit/edc63a006208de0147e9313f8f5ed58d640bea41) chore(relay): gitignore build output + commit lockfile
+[`ccd3f33`](https://github.com/dmellok/tesserae/commit/ccd3f336a557c92e22d0a9fa938990cde1c43643) docs(relay): exact wrangler commands for the R2 lifecycle rule
 
 ---
 
