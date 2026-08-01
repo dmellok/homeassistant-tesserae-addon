@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.219.0-edge.1785544870, 2026-08-01
+## 0.219.1-edge.1785545199, 2026-08-01
 
-[`faecb1a`](https://github.com/dmellok/tesserae/commit/faecb1ac22c9280e65c98a36b288d60ca30c9539) chore: bump version to 0.219.0
+[`4489202`](https://github.com/dmellok/tesserae/commit/44892027c5b43ae804de3084d4d512c47856e212) test: stabilise the quiet-hours skip test against the window boundary
 
 ---
 
