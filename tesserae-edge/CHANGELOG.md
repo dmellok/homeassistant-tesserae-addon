@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.219.1-edge.1785545199, 2026-08-01
+## 0.220.0-edge.1785551933, 2026-08-01
 
-[`4489202`](https://github.com/dmellok/tesserae/commit/44892027c5b43ae804de3084d4d512c47856e212) test: stabilise the quiet-hours skip test against the window boundary
+[`515e210`](https://github.com/dmellok/tesserae/commit/515e2105afa133e7a1659c89b464a089784aa178) feat: template marketplace share + browse (experimental)
 
 ---
 
