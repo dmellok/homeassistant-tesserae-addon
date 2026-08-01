@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.227.0-edge.1785584938, 2026-08-01
+## 0.227.1-edge.1785588708, 2026-08-01
 
-[`e59e678`](https://github.com/dmellok/tesserae/commit/e59e67815accc7f732f2093ba4dfa6490dfed894) feat(relay): Settings -> Cloud relay UI + bump 0.227.0
+[`bc98df7`](https://github.com/dmellok/tesserae/commit/bc98df72e143de0e70ac89a39ee8092b8ce625db) fix(relay): delete superseded frame blob on upload
 
 ---
 
