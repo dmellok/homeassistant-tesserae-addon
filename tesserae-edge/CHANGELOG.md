@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.226.1-edge.1785580954, 2026-08-01
+## 0.227.0-edge.1785584938, 2026-08-01
 
-[`f8fa454`](https://github.com/dmellok/tesserae/commit/f8fa4545930c7680992b8210a988e8fc9e82ccf2) fix(templates): label install questions by the element they configure
+[`e59e678`](https://github.com/dmellok/tesserae/commit/e59e67815accc7f732f2093ba4dfa6490dfed894) feat(relay): Settings -> Cloud relay UI + bump 0.227.0
 
 ---
 
