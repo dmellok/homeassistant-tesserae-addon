@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.225.0-edge.1785573483, 2026-08-01
+## 0.226.1-edge.1785580954, 2026-08-01
 
-[`02b8217`](https://github.com/dmellok/tesserae/commit/02b82172502140486bd53cdc7a73803bbeac2970) fix: normalize EXIF orientation before crop and fit
+[`f8fa454`](https://github.com/dmellok/tesserae/commit/f8fa4545930c7680992b8210a988e8fc9e82ccf2) fix(templates): label install questions by the element they configure
 
 ---
 
