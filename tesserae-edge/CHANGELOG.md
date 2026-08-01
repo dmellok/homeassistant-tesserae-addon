@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.227.2-edge.1785589077, 2026-08-01
+## 0.227.3-edge.1785590265, 2026-08-01
 
-[`f0f4c8c`](https://github.com/dmellok/tesserae/commit/f0f4c8c4e2b3ee94bfc84ccd1473b2fbfadaba9e) feat(relay): aggregate analytics for frames + mailboxes
+[`edc63a0`](https://github.com/dmellok/tesserae/commit/edc63a006208de0147e9313f8f5ed58d640bea41) chore(relay): gitignore build output + commit lockfile
 
 ---
 
