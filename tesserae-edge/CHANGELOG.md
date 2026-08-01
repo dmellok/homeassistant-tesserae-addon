@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.224.0-edge.1785566444, 2026-08-01
+## 0.225.0-edge.1785573483, 2026-08-01
 
-[`36569c6`](https://github.com/dmellok/tesserae/commit/36569c63ee7aadb6870e14483c8143d4e99ae854) feat(templates): report a template for takedown
+[`02b8217`](https://github.com/dmellok/tesserae/commit/02b82172502140486bd53cdc7a73803bbeac2970) fix: normalize EXIF orientation before crop and fit
 
 ---
 
