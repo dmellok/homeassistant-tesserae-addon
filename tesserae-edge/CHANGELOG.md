@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.218.1-edge.1785540699, 2026-07-31
+## 0.218.1-edge.1785544835, 2026-08-01
 
-[`8e89382`](https://github.com/dmellok/tesserae/commit/8e89382498ce42f0df3b1da91a6f9f68f4f59c86) fix(editor): make the panel-view toggle actually switch
+[`6190c0a`](https://github.com/dmellok/tesserae/commit/6190c0afb61fc4a9806a96ea74f7c6f7182ff144) Merge pull request #174 from charmmmz/agent/rest-device-config-save
 
 ---
 
