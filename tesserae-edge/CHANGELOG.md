@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.223.0-edge.1785564011, 2026-08-01
+## 0.224.0-edge.1785566444, 2026-08-01
 
-[`8d6f8d8`](https://github.com/dmellok/tesserae/commit/8d6f8d883ab007b0f9f9aab1036ede42deaea8d3) fix(templates): downsample oversized previews before submitting
+[`36569c6`](https://github.com/dmellok/tesserae/commit/36569c63ee7aadb6870e14483c8143d4e99ae854) feat(templates): report a template for takedown
 
 ---
 
