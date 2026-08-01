@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.218.1-edge.1785544838, 2026-08-01
+## 0.219.0-edge.1785544870, 2026-08-01
 
-[`8c25e8f`](https://github.com/dmellok/tesserae/commit/8c25e8fbd830959d83ab8317faf11133a494f8ef) Merge pull request #169 from charmmmz/agent/companion-pending-render-preview
+[`faecb1a`](https://github.com/dmellok/tesserae/commit/faecb1ac22c9280e65c98a36b288d60ca30c9539) chore: bump version to 0.219.0
 
 ---
 
