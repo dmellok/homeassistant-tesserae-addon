@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.238.0-edge.1785668808, 2026-08-02
+## 0.238.1-edge.1785670540, 2026-08-02
 
-[`97c190d`](https://github.com/dmellok/tesserae/commit/97c190d98ba733b11bae703585615c0c7f7d3491) refactor(widgets): move reminders/fridge widget to the community catalog
+[`568c421`](https://github.com/dmellok/tesserae/commit/568c421e7d00194727cd9398b37cbd03efc78af2) style: format album warm helpers to the line-length limit
 
 ---
 
