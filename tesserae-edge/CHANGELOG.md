@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.228.4-edge.1785628899, 2026-08-02
+## 0.229.0-edge.1785630340, 2026-08-02
 
-[`b520835`](https://github.com/dmellok/tesserae/commit/b520835275e91a8c6e25068d257b60e24ad1a51d) fix(relay): return install_id in the pairing-ready response
+[`a2e2871`](https://github.com/dmellok/tesserae/commit/a2e2871eb41128d98fc0ed3af588386094efe6c8) feat(relay): panel self-describes at pairing; kind/dims/gamut optional
 
 ---
 
