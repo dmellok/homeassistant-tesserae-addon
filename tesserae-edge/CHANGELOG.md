@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.238.1-edge.1785670540, 2026-08-02
+## 0.238.1-edge.1785708654, 2026-08-02
 
-[`568c421`](https://github.com/dmellok/tesserae/commit/568c421e7d00194727cd9398b37cbd03efc78af2) style: format album warm helpers to the line-length limit
+[`510106e`](https://github.com/dmellok/tesserae/commit/510106eb0f55059958a644de9dafcb0bf865d7ac) Merge pull request #181 from charmmmz/agent/companion-webpage-ssrf-cache
 
 ---
 
