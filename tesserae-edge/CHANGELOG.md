@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.230.0-edge.1785631681, 2026-08-02
+## 0.231.0-edge.1785633785, 2026-08-02
 
-[`6e7fd5d`](https://github.com/dmellok/tesserae/commit/6e7fd5da8aa90be23c8ad875861eff5493718796) feat(companion): image framing adapter for Companion contract 0.6
+[`053a4ed`](https://github.com/dmellok/tesserae/commit/053a4ed037b89f70bbc624403e13a4c5cf743dbe) feat(relay): remote panels get full device configuration
 
 ---
 
