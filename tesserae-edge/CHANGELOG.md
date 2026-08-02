@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.233.0-edge.1785639285, 2026-08-02
+## 0.234.0-edge.1785648771, 2026-08-02
 
-[`dc394fb`](https://github.com/dmellok/tesserae/commit/dc394fb6253c9a7c5a6e1c896369d8b35e5515d8) feat(relay): gamut-aware kind resolution + configurable pairing-code lifetime
+[`155de08`](https://github.com/dmellok/tesserae/commit/155de08092ce0374b390cc29d99ca7be0fa132a3) feat(relay): event-log rows for relay mailbox uploads
 
 ---
 
