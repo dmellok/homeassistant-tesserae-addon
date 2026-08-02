@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.238.1-edge.1785708654, 2026-08-02
+## 0.239.0-edge.1785709223, 2026-08-02
 
-[`510106e`](https://github.com/dmellok/tesserae/commit/510106eb0f55059958a644de9dafcb0bf865d7ac) Merge pull request #181 from charmmmz/agent/companion-webpage-ssrf-cache
+[`9564922`](https://github.com/dmellok/tesserae/commit/9564922ea61caab1f0a2f63ebf2aa4cc77be66e1) feat(collections): page the /collection manifest and ingest playback reports
 
 ---
 
