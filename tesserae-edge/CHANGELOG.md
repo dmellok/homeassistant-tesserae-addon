@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.235.0-edge.1785664902, 2026-08-02
+## 0.238.0-edge.1785668808, 2026-08-02
 
-[`3333df0`](https://github.com/dmellok/tesserae/commit/3333df0a4bbbf5a24c8f1aaa2e9feaa29474c23f) feat(companion): personal-data bridge adapter (contract 0.7)
+[`97c190d`](https://github.com/dmellok/tesserae/commit/97c190d98ba733b11bae703585615c0c7f7d3491) refactor(widgets): move reminders/fridge widget to the community catalog
 
 ---
 
