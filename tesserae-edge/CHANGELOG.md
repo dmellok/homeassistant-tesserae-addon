@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.234.0-edge.1785648771, 2026-08-02
+## 0.234.0-edge.1785663165, 2026-08-02
 
-[`155de08`](https://github.com/dmellok/tesserae/commit/155de08092ce0374b390cc29d99ca7be0fa132a3) feat(relay): event-log rows for relay mailbox uploads
+[`a1e237e`](https://github.com/dmellok/tesserae/commit/a1e237ec7efdfd8c770eab4765219258264570a3) docs: pin the frame-cache collections contract (generalizes deck cache)
 
 ---
 
