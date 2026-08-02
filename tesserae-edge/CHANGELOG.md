@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.229.1-edge.1785630357, 2026-08-02
+## 0.230.0-edge.1785631681, 2026-08-02
 
-[`ed32dff`](https://github.com/dmellok/tesserae/commit/ed32dff5c8e698575e1a02c1cd96882736014003) style(relay): ruff format the home test
+[`6e7fd5d`](https://github.com/dmellok/tesserae/commit/6e7fd5da8aa90be23c8ad875861eff5493718796) feat(companion): image framing adapter for Companion contract 0.6
 
 ---
 
