@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.234.1-edge.1785663211, 2026-08-02
+## 0.235.0-edge.1785664902, 2026-08-02
 
-[`cd99410`](https://github.com/dmellok/tesserae/commit/cd99410c4e5c8322c21073ceef631b4f87cd106a) chore: bump version to 0.234.1
+[`3333df0`](https://github.com/dmellok/tesserae/commit/3333df0a4bbbf5a24c8f1aaa2e9feaa29474c23f) feat(companion): personal-data bridge adapter (contract 0.7)
 
 ---
 
