@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.229.0-edge.1785630340, 2026-08-02
+## 0.229.1-edge.1785630357, 2026-08-02
 
-[`a2e2871`](https://github.com/dmellok/tesserae/commit/a2e2871eb41128d98fc0ed3af588386094efe6c8) feat(relay): panel self-describes at pairing; kind/dims/gamut optional
+[`ed32dff`](https://github.com/dmellok/tesserae/commit/ed32dff5c8e698575e1a02c1cd96882736014003) style(relay): ruff format the home test
 
 ---
 
