@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.234.0-edge.1785663165, 2026-08-02
+## 0.234.1-edge.1785663211, 2026-08-02
 
-[`a1e237e`](https://github.com/dmellok/tesserae/commit/a1e237ec7efdfd8c770eab4765219258264570a3) docs: pin the frame-cache collections contract (generalizes deck cache)
+[`cd99410`](https://github.com/dmellok/tesserae/commit/cd99410c4e5c8322c21073ceef631b4f87cd106a) chore: bump version to 0.234.1
 
 ---
 
