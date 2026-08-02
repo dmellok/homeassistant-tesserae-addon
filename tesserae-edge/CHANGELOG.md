@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.231.0-edge.1785633785, 2026-08-02
+## 0.233.0-edge.1785639285, 2026-08-02
 
-[`053a4ed`](https://github.com/dmellok/tesserae/commit/053a4ed037b89f70bbc624403e13a4c5cf743dbe) feat(relay): remote panels get full device configuration
+[`dc394fb`](https://github.com/dmellok/tesserae/commit/dc394fb6253c9a7c5a6e1c896369d8b35e5515d8) feat(relay): gamut-aware kind resolution + configurable pairing-code lifetime
 
 ---
 
