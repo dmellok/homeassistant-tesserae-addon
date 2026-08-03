@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.251.0-edge.1785796067, 2026-08-03
+## 0.252.0-edge.1785798117, 2026-08-03
 
-[`89dfbfb`](https://github.com/dmellok/tesserae/commit/89dfbfb6106aa2103e77717f169ce0933e4310c9) feat(ui): one-list Decks page and a step-by-step wizard
+[`5783d37`](https://github.com/dmellok/tesserae/commit/5783d37a4a09c017630576da723578df72276486) feat(ui): one unified card for every deck shape
 
 ---
 
