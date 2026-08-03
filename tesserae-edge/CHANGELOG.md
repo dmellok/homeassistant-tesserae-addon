@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.239.0-edge.1785709223, 2026-08-02
+## 0.240.0-edge.1785724998, 2026-08-03
 
-[`9564922`](https://github.com/dmellok/tesserae/commit/9564922ea61caab1f0a2f63ebf2aa4cc77be66e1) feat(collections): page the /collection manifest and ingest playback reports
+[`2a47121`](https://github.com/dmellok/tesserae/commit/2a47121ec9895fd2db836347ccca49fa82b7f050) feat(relay): deliver button presses through the relay and fix revoke to invalidate the device token
 
 ---
 
