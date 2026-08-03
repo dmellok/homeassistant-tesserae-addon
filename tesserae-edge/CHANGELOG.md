@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.248.0-edge.1785791864, 2026-08-03
+## 0.250.0-edge.1785794177, 2026-08-03
 
-[`48c6faa`](https://github.com/dmellok/tesserae/commit/48c6faaa7b489e5b79e3147eab75277ceac10909) feat(companion): expose the resolved device icon in the devices listing
+[`4bfc840`](https://github.com/dmellok/tesserae/commit/4bfc840b63e239cf1046d83da61c016236b8a68a) feat(ui): Help me choose wizard for timed content and decks
 
 ---
 
