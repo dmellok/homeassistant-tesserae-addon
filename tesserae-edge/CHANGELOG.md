@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.242.0-edge.1785754743, 2026-08-03
+## 0.247.0-edge.1785789507, 2026-08-03
 
-[`d72f1fb`](https://github.com/dmellok/tesserae/commit/d72f1fb42d6c44990aff59a58884f110fa325435) chore: bump version to 0.242.0
+[`cc223ac`](https://github.com/dmellok/tesserae/commit/cc223ace223ca260de1e50f54ec6dad5c75b1ec4) feat(buttons): rotate and step actions drive bound timer decks
 
 ---
 
