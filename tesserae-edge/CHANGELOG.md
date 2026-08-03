@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.252.0-edge.1785798117, 2026-08-03
+## 0.254.0-edge.1785801250, 2026-08-03
 
-[`5783d37`](https://github.com/dmellok/tesserae/commit/5783d37a4a09c017630576da723578df72276486) feat(ui): one unified card for every deck shape
+[`d3000a3`](https://github.com/dmellok/tesserae/commit/d3000a350fb7741119c73fa1c628c10b2def1501) feat(ui): consolidate cycle editing into the deck editor
 
 ---
 
