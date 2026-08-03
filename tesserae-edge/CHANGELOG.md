@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.240.0-edge.1785724998, 2026-08-03
+## 0.240.0-edge.1785750669, 2026-08-03
 
-[`2a47121`](https://github.com/dmellok/tesserae/commit/2a47121ec9895fd2db836347ccca49fa82b7f050) feat(relay): deliver button presses through the relay and fix revoke to invalidate the device token
+[`9703556`](https://github.com/dmellok/tesserae/commit/97035563e1b7ff5c293e9382524b821d99c700b6) Merge pull request #182 from charmmmz/agent/reminders-multi-list-contract
 
 ---
 
