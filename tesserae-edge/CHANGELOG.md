@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.240.0-edge.1785750669, 2026-08-03
+## 0.241.0-edge.1785750684, 2026-08-03
 
-[`9703556`](https://github.com/dmellok/tesserae/commit/97035563e1b7ff5c293e9382524b821d99c700b6) Merge pull request #182 from charmmmz/agent/reminders-multi-list-contract
+[`0f2a54e`](https://github.com/dmellok/tesserae/commit/0f2a54e900aeecfc080114efc75178031c960d3b) chore: bump version to 0.241.0
 
 ---
 
