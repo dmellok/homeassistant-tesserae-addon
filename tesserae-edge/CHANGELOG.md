@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.261.0-edge.1785848963, 2026-08-04
+## 0.261.0-edge.1785852910, 2026-08-04
 
-[`61894d2`](https://github.com/dmellok/tesserae/commit/61894d263a8404b162a005e1f0141a3aaa936f55) feat(ui): surface deck conditions on Lineups and in the wizard
+[`d95408b`](https://github.com/dmellok/tesserae/commit/d95408bb99b33c268661a909e342352eb5effea8) docs(hardware): confirm the Xteink X3 on real hardware (#187)
 
 ---
 
