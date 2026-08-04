@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.261.0-edge.1785852910, 2026-08-04
+## 0.263.0-edge.1785886864, 2026-08-04
 
-[`d95408b`](https://github.com/dmellok/tesserae/commit/d95408bb99b33c268661a909e342352eb5effea8) docs(hardware): confirm the Xteink X3 on real hardware (#187)
+[`0f90d08`](https://github.com/dmellok/tesserae/commit/0f90d08ace599cce1ff6dc9f019b855c4e540b02) feat(ui): promote Smart sync to a top-level switch on the deck card
 
 ---
 
