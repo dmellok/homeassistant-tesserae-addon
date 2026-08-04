@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.255.0-edge.1785811982, 2026-08-04
+## 0.256.0-edge.1785815590, 2026-08-04
 
-[`8ad4bb4`](https://github.com/dmellok/tesserae/commit/8ad4bb492268a1e81a774600b528047284bafd21) feat(ui): implement the Decks page design handoff
+[`6a5c881`](https://github.com/dmellok/tesserae/commit/6a5c8818ed9ff493d62296fb0057ca64306537d0) feat(hardware): add xteink_x3_gray for 4-level grayscale on the X3
 
 ---
 
