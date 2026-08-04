@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.258.0-edge.1785826496, 2026-08-04
+## 0.258.1-edge.1785834904, 2026-08-04
 
-[`4420a5d`](https://github.com/dmellok/tesserae/commit/4420a5d81b6c5e38f24c915b43e774d2137b74f3) feat(ui): rename Decks to Lineups and make the wizard the sole entry point
+[`f86578a`](https://github.com/dmellok/tesserae/commit/f86578a5e9ffd7f0e17873cffe9cba5574b6a47d) fix(ui): hide displays with nothing lined up and use device icons in Lineups
 
 ---
 
