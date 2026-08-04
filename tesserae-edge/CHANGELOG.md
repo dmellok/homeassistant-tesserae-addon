@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.257.0-edge.1785817689, 2026-08-04
+## 0.257.1-edge.1785819225, 2026-08-04
 
-[`ac53ea5`](https://github.com/dmellok/tesserae/commit/ac53ea582f961bc9f4179599384c6c22b0cda190) feat(ui): redesign the display setup wizard as a three-step flow
+[`a3d73ee`](https://github.com/dmellok/tesserae/commit/a3d73eeb7cae1fe9e7c7d72804b70ede2f674c84) fix(ui): hide inactive wizard blocks and space the schedule form card
 
 ---
 
