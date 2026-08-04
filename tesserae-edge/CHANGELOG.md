@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.257.1-edge.1785819225, 2026-08-04
+## 0.258.0-edge.1785826496, 2026-08-04
 
-[`a3d73ee`](https://github.com/dmellok/tesserae/commit/a3d73eeb7cae1fe9e7c7d72804b70ede2f674c84) fix(ui): hide inactive wizard blocks and space the schedule form card
+[`4420a5d`](https://github.com/dmellok/tesserae/commit/4420a5d81b6c5e38f24c915b43e774d2137b74f3) feat(ui): rename Decks to Lineups and make the wizard the sole entry point
 
 ---
 
