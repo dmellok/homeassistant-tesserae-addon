@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.258.1-edge.1785834904, 2026-08-04
+## 0.259.0-edge.1785836552, 2026-08-04
 
-[`f86578a`](https://github.com/dmellok/tesserae/commit/f86578a5e9ffd7f0e17873cffe9cba5574b6a47d) fix(ui): hide displays with nothing lined up and use device icons in Lineups
+[`adffc31`](https://github.com/dmellok/tesserae/commit/adffc31540a7ae0a5ddbede2c66da2c202de77ff) release: v0.259.0
 
 ---
 
