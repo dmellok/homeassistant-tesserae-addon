@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.260.0-edge.1785842751, 2026-08-04
+## 0.261.0-edge.1785848963, 2026-08-04
 
-[`24a38dc`](https://github.com/dmellok/tesserae/commit/24a38dc68dccffca3fd59fe25ecd27fa7bc14aa1) chore: bump version to 0.260.0
+[`61894d2`](https://github.com/dmellok/tesserae/commit/61894d263a8404b162a005e1f0141a3aaa936f55) feat(ui): surface deck conditions on Lineups and in the wizard
 
 ---
 
