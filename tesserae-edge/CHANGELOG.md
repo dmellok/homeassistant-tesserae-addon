@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.259.0-edge.1785836552, 2026-08-04
+## 0.259.0-edge.1785842718, 2026-08-04
 
-[`adffc31`](https://github.com/dmellok/tesserae/commit/adffc31540a7ae0a5ddbede2c66da2c202de77ff) release: v0.259.0
+[`49462c4`](https://github.com/dmellok/tesserae/commit/49462c431e624221b00093f011e0f173283ae908) feat(widgets): add per-placement update-on-change policy (#185)
 
 ---
 
