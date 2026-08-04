@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.256.0-edge.1785815590, 2026-08-04
+## 0.257.0-edge.1785817689, 2026-08-04
 
-[`6a5c881`](https://github.com/dmellok/tesserae/commit/6a5c8818ed9ff493d62296fb0057ca64306537d0) feat(hardware): add xteink_x3_gray for 4-level grayscale on the X3
+[`ac53ea5`](https://github.com/dmellok/tesserae/commit/ac53ea582f961bc9f4179599384c6c22b0cda190) feat(ui): redesign the display setup wizard as a three-step flow
 
 ---
 
