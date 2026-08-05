@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.266.0-edge.1785934583, 2026-08-05
+## 0.267.0-edge.1785934614, 2026-08-05
 
-[`e59c97b`](https://github.com/dmellok/tesserae/commit/e59c97be93157b44998cb575ff34109714d605da) fix: isolate personal data publishers (#189)
+[`4607ca5`](https://github.com/dmellok/tesserae/commit/4607ca5e527d77c63e01f8ab0ad71a8d3d8e4620) feat(discovery): prefill Register display name from /discover announce
 
 ---
 
