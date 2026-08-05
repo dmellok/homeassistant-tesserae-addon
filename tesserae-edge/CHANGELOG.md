@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.263.0-edge.1785912898, 2026-08-05
+## 0.264.1-edge.1785926084, 2026-08-05
 
-[`4399491`](https://github.com/dmellok/tesserae/commit/4399491f608f88c4f487dfd7d5cf165c35e64a5d) feat(widgets): refresh opted-in pages on data changes (#188)
+[`457fa39`](https://github.com/dmellok/tesserae/commit/457fa39587c755a09b990754327cb32f83355aaf) fix(docs): reconcile hardware verification and widget tier claims
 
 ---
 
