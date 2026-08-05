@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.264.1-edge.1785926084, 2026-08-05
+## 0.265.1-edge.1785928995, 2026-08-05
 
-[`457fa39`](https://github.com/dmellok/tesserae/commit/457fa39587c755a09b990754327cb32f83355aaf) fix(docs): reconcile hardware verification and widget tier claims
+[`81d7188`](https://github.com/dmellok/tesserae/commit/81d7188eca6c5af95f3cf34bdf0cbe64d6222a00) docs(hardware): record real-hardware confirmations across manifests and matrix
 
 ---
 
