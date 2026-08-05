@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.265.1-edge.1785928995, 2026-08-05
+## 0.266.0-edge.1785930862, 2026-08-05
 
-[`81d7188`](https://github.com/dmellok/tesserae/commit/81d7188eca6c5af95f3cf34bdf0cbe64d6222a00) docs(hardware): record real-hardware confirmations across manifests and matrix
+[`04cd1e6`](https://github.com/dmellok/tesserae/commit/04cd1e679c24e6c044ec033235f0760416f1872c) fix(rotations): manual Play/Fire-now bypass page-away holds
 
 ---
 
