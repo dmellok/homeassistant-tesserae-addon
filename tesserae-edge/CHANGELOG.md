@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.270.0-edge.1786021293, 2026-08-06
+## 0.271.0-edge.1786022796, 2026-08-06
 
-[`80a1396`](https://github.com/dmellok/tesserae/commit/80a139699c00c7b6d54d2381c86f9ba70f2cd354) ci(docs): document the Pages deploy failure mode
+[`820276c`](https://github.com/dmellok/tesserae/commit/820276c23db05917b68cfe880657da4525449a33) feat(hardware): add the E1001 legacy-glass grayscale kind
 
 ---
 
