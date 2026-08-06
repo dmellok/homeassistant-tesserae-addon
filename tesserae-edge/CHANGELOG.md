@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.271.0-edge.1786022796, 2026-08-06
+## 0.272.0-edge.1786027522, 2026-08-06
 
-[`820276c`](https://github.com/dmellok/tesserae/commit/820276c23db05917b68cfe880657da4525449a33) feat(hardware): add the E1001 legacy-glass grayscale kind
+[`8bee893`](https://github.com/dmellok/tesserae/commit/8bee893db0dcc3082a656f71422edd327f6b40ac) fix(preview): show the pushed frame on Lineups cards, honour the timezone
 
 ---
 
