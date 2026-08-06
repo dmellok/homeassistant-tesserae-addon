@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.268.0-edge.1785973943, 2026-08-06
+## 0.269.0-edge.1786018093, 2026-08-06
 
-[`bc17129`](https://github.com/dmellok/tesserae/commit/bc17129d14773236e01aa6eeaa6c3f0f14264296) feat(history): fold button presses into the push they triggered
+[`a5c4208`](https://github.com/dmellok/tesserae/commit/a5c4208f28ce47a778f60e164762d0098dee8524) fix(webpage): render direct image URLs as images
 
 ---
 
