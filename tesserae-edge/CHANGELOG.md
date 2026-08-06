@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.269.0-edge.1786018093, 2026-08-06
+## 0.270.0-edge.1786020053, 2026-08-06
 
-[`a5c4208`](https://github.com/dmellok/tesserae/commit/a5c4208f28ce47a778f60e164762d0098dee8524) fix(webpage): render direct image URLs as images
+[`bd55edb`](https://github.com/dmellok/tesserae/commit/bd55edb15e0d448365f7fb9935888d125c3beb7b) feat(settings): move Companion app pairing to its own page
 
 ---
 
