@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.273.0-edge.1786056059, 2026-08-06
+## 0.274.1-edge.1786060309, 2026-08-06
 
-[`4958cc2`](https://github.com/dmellok/tesserae/commit/4958cc2488cb872569c39dfcf0566ee9e569562b) feat(news_rss): optional article preview under each headline
+[`8158dcb`](https://github.com/dmellok/tesserae/commit/8158dcb4988586725f7d1118e1abb58311cb93c4) fix(lineups): offer return-home only when a person drives the deck
 
 ---
 
