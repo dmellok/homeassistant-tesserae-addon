@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.270.0-edge.1786020053, 2026-08-06
+## 0.270.0-edge.1786020895, 2026-08-06
 
-[`bd55edb`](https://github.com/dmellok/tesserae/commit/bd55edb15e0d448365f7fb9935888d125c3beb7b) feat(settings): move Companion app pairing to its own page
+[`49ac1b3`](https://github.com/dmellok/tesserae/commit/49ac1b3d0e5b9eb59f80abda786895e2168839a3) ci(docs): wait out slow Pages publishes
 
 ---
 
