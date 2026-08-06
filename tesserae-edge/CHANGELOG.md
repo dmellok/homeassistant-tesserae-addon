@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.267.0-edge.1785934614, 2026-08-05
+## 0.268.0-edge.1785973943, 2026-08-06
 
-[`4607ca5`](https://github.com/dmellok/tesserae/commit/4607ca5e527d77c63e01f8ab0ad71a8d3d8e4620) feat(discovery): prefill Register display name from /discover announce
+[`bc17129`](https://github.com/dmellok/tesserae/commit/bc17129d14773236e01aa6eeaa6c3f0f14264296) feat(history): fold button presses into the push they triggered
 
 ---
 
