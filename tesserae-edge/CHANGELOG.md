@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.272.0-edge.1786027522, 2026-08-06
+## 0.272.1-edge.1786029832, 2026-08-06
 
-[`8bee893`](https://github.com/dmellok/tesserae/commit/8bee893db0dcc3082a656f71422edd327f6b40ac) fix(preview): show the pushed frame on Lineups cards, honour the timezone
+[`e30c0c2`](https://github.com/dmellok/tesserae/commit/e30c0c2da851b9070d8e4900eb26d713dfe65b9c) fix(preview): type the preview route against werkzeug's Response
 
 ---
 
