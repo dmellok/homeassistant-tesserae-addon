@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.274.2-edge.1786062065, 2026-08-07
+## 0.275.0-edge.1786097397, 2026-08-07
 
-[`0895edd`](https://github.com/dmellok/tesserae/commit/0895edd4b6fab84cc8d4246beb84da92a85b47eb) fix(ui): highlight Settings in the nav on every settings page
+[`9b9e81a`](https://github.com/dmellok/tesserae/commit/9b9e81ab227d0da15c9af05f7ff30f51670bd8a7) feat(fonts): add the TRMNL12 / 16 / 21 pixel fonts
 
 ---
 
