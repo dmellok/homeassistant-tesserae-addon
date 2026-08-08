@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.279.1-edge.1786187060, 2026-08-08
+## 0.281.0-edge.1786198393, 2026-08-08
 
-[`833fe66`](https://github.com/dmellok/tesserae/commit/833fe66daa9f31120ff73de65790834406574ab4) feat(pages): drag widgets on the live preview to swap them
+[`40fece5`](https://github.com/dmellok/tesserae/commit/40fece5b68a610be71dfbbb02504ad444807d3f9) fix(composer): never let a cache keep a dashboard composition
 
 ---
 
