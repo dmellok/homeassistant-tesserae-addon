@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.278.2-edge.1786175388, 2026-08-08
+## 0.279.0-edge.1786184167, 2026-08-08
 
-[`c4fbeb1`](https://github.com/dmellok/tesserae/commit/c4fbeb1b29a0660b82fe0907c2e5ea378ea9159a) feat(panels): rename a dashboard by clicking its name
+[`6ad08c9`](https://github.com/dmellok/tesserae/commit/6ad08c97cbb9efe1e0c7a8567fc0c3c287da5efa) feat(pages): swap two grid cells by dragging one onto the other
 
 ---
 
