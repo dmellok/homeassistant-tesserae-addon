@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.278.1-edge.1786173573, 2026-08-08
+## 0.278.2-edge.1786175388, 2026-08-08
 
-[`77eb258`](https://github.com/dmellok/tesserae/commit/77eb258be2102a6754e3282673b6a91311e02407) fix(renderer): drop the ingress prefix from loopback render URLs
+[`c4fbeb1`](https://github.com/dmellok/tesserae/commit/c4fbeb1b29a0660b82fe0907c2e5ea378ea9159a) feat(panels): rename a dashboard by clicking its name
 
 ---
 
