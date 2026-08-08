@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.277.0-edge.1786146821, 2026-08-08
+## 0.277.1-edge.1786158692, 2026-08-08
 
-[`9ecd2a3`](https://github.com/dmellok/tesserae/commit/9ecd2a3a63a87a959e04279cb67499283c240251) fix(pages,ha_history): keep the editor on save; label history by time
+[`1a25274`](https://github.com/dmellok/tesserae/commit/1a25274c0b6705019ae37993cca9a4af290b6e9b) fix(templates): carry the script root on marketplace request URLs
 
 ---
 
