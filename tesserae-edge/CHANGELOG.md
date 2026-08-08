@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.281.0-edge.1786227974, 2026-08-08
+## 0.282.0-edge.1786228170, 2026-08-08
 
-[`8f0ecc7`](https://github.com/dmellok/tesserae/commit/8f0ecc7bdb9df78d7e9d9f584345a95fc18f1d9d) PicPak BWRY calibration (#201)
+[`b31a229`](https://github.com/dmellok/tesserae/commit/b31a22946f9036a09621f9abbd7e46d6b6ae95f3) chore(palette): pin the BWRY calibrated-toggle path, fix formatting
 
 ---
 
