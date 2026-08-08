@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.277.1-edge.1786158692, 2026-08-08
+## 0.278.1-edge.1786173573, 2026-08-08
 
-[`1a25274`](https://github.com/dmellok/tesserae/commit/1a25274c0b6705019ae37993cca9a4af290b6e9b) fix(templates): carry the script root on marketplace request URLs
+[`77eb258`](https://github.com/dmellok/tesserae/commit/77eb258be2102a6754e3282673b6a91311e02407) fix(renderer): drop the ingress prefix from loopback render URLs
 
 ---
 
