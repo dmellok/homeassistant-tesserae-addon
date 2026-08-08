@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.279.0-edge.1786184167, 2026-08-08
+## 0.279.1-edge.1786187060, 2026-08-08
 
-[`6ad08c9`](https://github.com/dmellok/tesserae/commit/6ad08c97cbb9efe1e0c7a8567fc0c3c287da5efa) feat(pages): swap two grid cells by dragging one onto the other
+[`833fe66`](https://github.com/dmellok/tesserae/commit/833fe66daa9f31120ff73de65790834406574ab4) feat(pages): drag widgets on the live preview to swap them
 
 ---
 
