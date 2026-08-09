@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.282.0-edge.1786228170, 2026-08-08
+## 0.283.0-edge.1786257398, 2026-08-09
 
-[`b31a229`](https://github.com/dmellok/tesserae/commit/b31a22946f9036a09621f9abbd7e46d6b6ae95f3) chore(palette): pin the BWRY calibrated-toggle path, fix formatting
+[`744d443`](https://github.com/dmellok/tesserae/commit/744d44354539f076e371f49b67f2e5f97b7d2565) feat(devices): accept a client-declared panel rotation at registration
 
 ---
 
