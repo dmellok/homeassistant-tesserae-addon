@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.283.0-edge.1786257398, 2026-08-09
+## 0.284.0-edge.1786310694, 2026-08-09
 
-[`744d443`](https://github.com/dmellok/tesserae/commit/744d44354539f076e371f49b67f2e5f97b7d2565) feat(devices): accept a client-declared panel rotation at registration
+[`59b9d4d`](https://github.com/dmellok/tesserae/commit/59b9d4d4aaeb09496ecbd753fd891bed6a1db7ab) feat(pages): allow any dashboard update cadence
 
 ---
 
