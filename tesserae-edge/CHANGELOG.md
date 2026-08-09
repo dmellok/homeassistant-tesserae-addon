@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.284.0-edge.1786310694, 2026-08-09
+## 0.285.0-edge.1786311945, 2026-08-09
 
-[`59b9d4d`](https://github.com/dmellok/tesserae/commit/59b9d4d4aaeb09496ecbd753fd891bed6a1db7ab) feat(pages): allow any dashboard update cadence
+[`97005f8`](https://github.com/dmellok/tesserae/commit/97005f86b4b5e69307418742a147cccb03a0fa55) feat(widgets): remove a shadowed duplicate from the Widgets page
 
 ---
 
