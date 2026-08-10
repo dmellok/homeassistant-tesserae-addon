@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.286.2-edge.1786359065, 2026-08-10
+## 0.287.0-edge.1786363500, 2026-08-10
 
-[`894f3f3`](https://github.com/dmellok/tesserae/commit/894f3f3588d761cf0517815977b2f87bd7833ce7) fix(devices): label rotation from the panel's own framebuffer
+[`1bed762`](https://github.com/dmellok/tesserae/commit/1bed762b999fceabeb242f67fd3e0709f459110b) feat(companion): Lineups read and control
 
 ---
 
