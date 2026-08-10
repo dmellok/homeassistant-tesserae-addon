@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.290.0-edge.1786398695, 2026-08-10
+## 0.291.0-edge.1786403156, 2026-08-10
 
-[`86c49e6`](https://github.com/dmellok/tesserae/commit/86c49e6512998603335cc3c8d6a4e91ccf211b22) fix(news_rss): decode a compressed feed instead of blaming its XML
+[`1943b58`](https://github.com/dmellok/tesserae/commit/1943b58b9e7aff55acfa2b153ffc56ba75f89042) feat(companion): complete the Lineups read shape and name the control job
 
 ---
 
