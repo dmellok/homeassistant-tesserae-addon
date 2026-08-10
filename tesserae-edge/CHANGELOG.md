@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.286.1-edge.1786357604, 2026-08-10
+## 0.286.2-edge.1786359065, 2026-08-10
 
-[`1761c22`](https://github.com/dmellok/tesserae/commit/1761c22f20b464b811143472b4b2e136e78f6db5) Widget/calendar native refresh (#210)
+[`894f3f3`](https://github.com/dmellok/tesserae/commit/894f3f3588d761cf0517815977b2f87bd7833ce7) fix(devices): label rotation from the panel's own framebuffer
 
 ---
 
