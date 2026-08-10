@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.286.0-edge.1786342995, 2026-08-10
+## 0.286.1-edge.1786353710, 2026-08-10
 
-[`a0886c5`](https://github.com/dmellok/tesserae/commit/a0886c598f3b5375af649ef1393a77333946eebe) feat(marketplace): let a catalog entry ship its own icon
+[`74d51a8`](https://github.com/dmellok/tesserae/commit/74d51a8efa528b7f55a71e77560a19d108716466) fix(marketplace): lead a card with the entry's mark, not its screenshot
 
 ---
 
