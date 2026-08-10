@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.286.1-edge.1786353710, 2026-08-10
+## 0.286.1-edge.1786357604, 2026-08-10
 
-[`74d51a8`](https://github.com/dmellok/tesserae/commit/74d51a8efa528b7f55a71e77560a19d108716466) fix(marketplace): lead a card with the entry's mark, not its screenshot
+[`1761c22`](https://github.com/dmellok/tesserae/commit/1761c22f20b464b811143472b4b2e136e78f6db5) Widget/calendar native refresh (#210)
 
 ---
 
