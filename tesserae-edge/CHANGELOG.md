@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.287.0-edge.1786363500, 2026-08-10
+## 0.289.2-edge.1786368552, 2026-08-10
 
-[`1bed762`](https://github.com/dmellok/tesserae/commit/1bed762b999fceabeb242f67fd3e0709f459110b) feat(companion): Lineups read and control
+[`4660166`](https://github.com/dmellok/tesserae/commit/4660166df0d7be43d80a8a905e39e64f14cd3ba8) fix(scheduler): stop the min-hold gate swallowing alternate dwell windows
 
 ---
 
