@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.285.0-edge.1786311945, 2026-08-09
+## 0.286.0-edge.1786342995, 2026-08-10
 
-[`97005f8`](https://github.com/dmellok/tesserae/commit/97005f86b4b5e69307418742a147cccb03a0fa55) feat(widgets): remove a shadowed duplicate from the Widgets page
+[`a0886c5`](https://github.com/dmellok/tesserae/commit/a0886c598f3b5375af649ef1393a77333946eebe) feat(marketplace): let a catalog entry ship its own icon
 
 ---
 
