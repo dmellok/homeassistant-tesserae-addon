@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.289.2-edge.1786368552, 2026-08-10
+## 0.290.0-edge.1786398695, 2026-08-10
 
-[`4660166`](https://github.com/dmellok/tesserae/commit/4660166df0d7be43d80a8a905e39e64f14cd3ba8) fix(scheduler): stop the min-hold gate swallowing alternate dwell windows
+[`86c49e6`](https://github.com/dmellok/tesserae/commit/86c49e6512998603335cc3c8d6a4e91ccf211b22) fix(news_rss): decode a compressed feed instead of blaming its XML
 
 ---
 
