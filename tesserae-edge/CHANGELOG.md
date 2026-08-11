@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.293.0-edge.1786487269, 2026-08-11
+## 0.293.0-edge.1786487287, 2026-08-11
 
-[`b2fde32`](https://github.com/dmellok/tesserae/commit/b2fde3251625bfbd7fcd8bdbf35b15d04dfbc8db) feat(widgets): add placement-level scheduled widget refresh core (#218)
+[`5aa0b2d`](https://github.com/dmellok/tesserae/commit/5aa0b2d9b517c4417e46c0e0fafa1417fabbc637) feat(widgets): configure scheduled widget refreshes (#219)
 
 ---
 
