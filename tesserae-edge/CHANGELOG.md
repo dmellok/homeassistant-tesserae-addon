@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.292.0-edge.1786441873, 2026-08-11
+## 0.292.2-edge.1786455010, 2026-08-11
 
-[`708e708`](https://github.com/dmellok/tesserae/commit/708e70849730f5c27170567a0313a99fe05c7011) feat(companion): Lineups authoring, and 403 for a missing permission
+[`691356d`](https://github.com/dmellok/tesserae/commit/691356d470a12a6c34174d331ff6610ca521ca15) fix(ui): match a select value against its choices by string
 
 ---
 
