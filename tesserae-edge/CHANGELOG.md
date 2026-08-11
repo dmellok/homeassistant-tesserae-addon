@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.292.2-edge.1786455010, 2026-08-11
+## 0.292.3-edge.1786458973, 2026-08-11
 
-[`691356d`](https://github.com/dmellok/tesserae/commit/691356d470a12a6c34174d331ff6610ca521ca15) fix(ui): match a select value against its choices by string
+[`1916c98`](https://github.com/dmellok/tesserae/commit/1916c9897bcec71fce431c8ec7661382f947655f) fix(mqtt): keep the session when a rebuild changes nothing
 
 ---
 
