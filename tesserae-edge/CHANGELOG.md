@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.294.1-edge.1786492074, 2026-08-11
+## 0.294.2-edge.1786492120, 2026-08-11
 
-[`03d10d6`](https://github.com/dmellok/tesserae/commit/03d10d65e6346ee98f9f49c49e07e575195a60d6) fix(auth): gate a plugin's admin page, not just the plugin index (#221)
+[`d8d9a4d`](https://github.com/dmellok/tesserae/commit/d8d9a4d39fe04882263abd481cdf7a1e927930d8) chore: bump to 0.294.2
 
 ---
 
