@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.294.0-edge.1786487932, 2026-08-11
+## 0.294.1-edge.1786492074, 2026-08-11
 
-[`46cfd5c`](https://github.com/dmellok/tesserae/commit/46cfd5c26677eb68f014a6efc25b8cced67c9da7) docs(widgets): point new widgets at the catalog
+[`03d10d6`](https://github.com/dmellok/tesserae/commit/03d10d65e6346ee98f9f49c49e07e575195a60d6) fix(auth): gate a plugin's admin page, not just the plugin index (#221)
 
 ---
 
