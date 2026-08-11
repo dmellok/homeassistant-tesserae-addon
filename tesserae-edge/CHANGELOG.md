@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.291.0-edge.1786403156, 2026-08-10
+## 0.291.1-edge.1786439551, 2026-08-11
 
-[`1943b58`](https://github.com/dmellok/tesserae/commit/1943b58b9e7aff55acfa2b153ffc56ba75f89042) feat(companion): complete the Lineups read shape and name the control job
+[`8c5783f`](https://github.com/dmellok/tesserae/commit/8c5783fb8309d5634b9320c05894de399ddacab8) fix(companion): point a Lineup's web link at the editor that exists
 
 ---
 
