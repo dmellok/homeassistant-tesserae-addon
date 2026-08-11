@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.293.0-edge.1786487287, 2026-08-11
+## 0.294.0-edge.1786487932, 2026-08-11
 
-[`5aa0b2d`](https://github.com/dmellok/tesserae/commit/5aa0b2d9b517c4417e46c0e0fafa1417fabbc637) feat(widgets): configure scheduled widget refreshes (#219)
+[`46cfd5c`](https://github.com/dmellok/tesserae/commit/46cfd5c26677eb68f014a6efc25b8cced67c9da7) docs(widgets): point new widgets at the catalog
 
 ---
 
