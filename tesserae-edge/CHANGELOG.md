@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.292.3-edge.1786458973, 2026-08-11
+## 0.293.0-edge.1786487269, 2026-08-11
 
-[`1916c98`](https://github.com/dmellok/tesserae/commit/1916c9897bcec71fce431c8ec7661382f947655f) fix(mqtt): keep the session when a rebuild changes nothing
+[`b2fde32`](https://github.com/dmellok/tesserae/commit/b2fde3251625bfbd7fcd8bdbf35b15d04dfbc8db) feat(widgets): add placement-level scheduled widget refresh core (#218)
 
 ---
 
