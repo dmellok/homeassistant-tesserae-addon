@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.294.2-edge.1786492120, 2026-08-11
+## 0.294.3-edge.1786500362, 2026-08-12
 
-[`d8d9a4d`](https://github.com/dmellok/tesserae/commit/d8d9a4d39fe04882263abd481cdf7a1e927930d8) chore: bump to 0.294.2
+[`c14a65e`](https://github.com/dmellok/tesserae/commit/c14a65ea3c47f683a5cbc416cc3c15f9394ebf5c) fix(push): treat no_change as the success it is
 
 ---
 
