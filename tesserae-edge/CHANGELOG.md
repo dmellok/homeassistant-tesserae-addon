@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.296.1-edge.1786612543, 2026-08-13
+## 0.297.0-edge.1786660696, 2026-08-13
 
-[`38185f4`](https://github.com/dmellok/tesserae/commit/38185f46c03827e1b4f0ed76c4d4c62113e766ad) fix(release): notes cover the span since the previous tag
+[`8169636`](https://github.com/dmellok/tesserae/commit/816963600f8f22c9313d0cd33b764415dbe8f173) feat(catalog): merge widget browse and templates into one Browse catalog
 
 ---
 
