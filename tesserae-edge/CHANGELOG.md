@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.296.0-edge.1786611387, 2026-08-13
+## 0.296.1-edge.1786612543, 2026-08-13
 
-[`062e02a`](https://github.com/dmellok/tesserae/commit/062e02a78f5e735b7b5beeb7a3b119c433e9d8e8) release: v0.296.0
+[`38185f4`](https://github.com/dmellok/tesserae/commit/38185f46c03827e1b4f0ed76c4d4c62113e766ad) fix(release): notes cover the span since the previous tag
 
 ---
 
