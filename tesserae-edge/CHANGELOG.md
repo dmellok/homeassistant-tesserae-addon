@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.295.0-edge.1786582785, 2026-08-13
+## 0.296.0-edge.1786611387, 2026-08-13
 
-[`08bde83`](https://github.com/dmellok/tesserae/commit/08bde83d752a3dddda4242c0235f30f5579f5449) feat(companion): read session scopes, resolve schedule-style lineup targets
+[`062e02a`](https://github.com/dmellok/tesserae/commit/062e02a78f5e735b7b5beeb7a3b119c433e9d8e8) release: v0.296.0
 
 ---
 
