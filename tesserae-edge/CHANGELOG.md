@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.294.3-edge.1786500362, 2026-08-12
+## 0.295.0-edge.1786582785, 2026-08-13
 
-[`c14a65e`](https://github.com/dmellok/tesserae/commit/c14a65ea3c47f683a5cbc416cc3c15f9394ebf5c) fix(push): treat no_change as the success it is
+[`08bde83`](https://github.com/dmellok/tesserae/commit/08bde83d752a3dddda4242c0235f30f5579f5449) feat(companion): read session scopes, resolve schedule-style lineup targets
 
 ---
 
