@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.300.4-edge.1786701660, 2026-08-14
+## 0.301.0-edge.1786714456, 2026-08-14
 
-[`beda4d4`](https://github.com/dmellok/tesserae/commit/beda4d4691b49017656a24fd902ce811dcb3cbb7) test(companion): vendor app contract 0.12 and empty the errata list
+[`2ecad62`](https://github.com/dmellok/tesserae/commit/2ecad62c73ff2b9c4fee8dc6eb4d5211df920e97) build: let mypy follow the interpreter it runs under
 
 ---
 
