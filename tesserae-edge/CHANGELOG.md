@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.300.0-edge.1786693079, 2026-08-14
+## 0.300.1-edge.1786695259, 2026-08-14
 
-[`49e944b`](https://github.com/dmellok/tesserae/commit/49e944b1ed9abbfe9fc421e6814a061b9ef760fd) feat(companion): native Gallery browse, create, upload and Send hand-off
+[`ee93796`](https://github.com/dmellok/tesserae/commit/ee93796e6193de02e2063e4552ceff80dd0135bf) fix(rest): treat a placeholder MAC as no MAC
 
 ---
 
