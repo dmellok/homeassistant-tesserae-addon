@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.300.3-edge.1786700694, 2026-08-14
+## 0.300.4-edge.1786701660, 2026-08-14
 
-[`9612669`](https://github.com/dmellok/tesserae/commit/9612669007db5f066dfd928632da7a321cc42160) fix(companion): serve BMP and GIF gallery images as a PNG rendition
+[`beda4d4`](https://github.com/dmellok/tesserae/commit/beda4d4691b49017656a24fd902ce811dcb3cbb7) test(companion): vendor app contract 0.12 and empty the errata list
 
 ---
 
