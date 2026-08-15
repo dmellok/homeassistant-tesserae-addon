@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.302.1-edge.1786757096, 2026-08-15
+## 0.302.2-edge.1786786730, 2026-08-15
 
-[`d2d3e79`](https://github.com/dmellok/tesserae/commit/d2d3e79200606f1f95d926a546377ae1dcdee3cb) fix(catalog): stop double-prefixing catalog request URLs under HA ingress
+[`2e1aad9`](https://github.com/dmellok/tesserae/commit/2e1aad96a36b2b141a7e860438171f2e2191ca2f) fix(devices): scope history to the device, and collapse repeated bindings
 
 ---
 
