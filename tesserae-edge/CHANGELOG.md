@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.302.2-edge.1786786730, 2026-08-15
+## 0.303.0-edge.1786789365, 2026-08-15
 
-[`2e1aad9`](https://github.com/dmellok/tesserae/commit/2e1aad96a36b2b141a7e860438171f2e2191ca2f) fix(devices): scope history to the device, and collapse repeated bindings
+[`12aba33`](https://github.com/dmellok/tesserae/commit/12aba33ed83ba9453925de6333930d3232ac23e5) feat(albums): enforce one producer per display, publish frame-cache limits
 
 ---
 
