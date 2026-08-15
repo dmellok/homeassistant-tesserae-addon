@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.304.0-edge.1786824558, 2026-08-15
+## 0.305.0-edge.1786829193, 2026-08-15
 
-[`954edcb`](https://github.com/dmellok/tesserae/commit/954edcb02ecdc32f02e90565b2a8a2313ed5da89) feat(webhook): push a single image to named displays
+[`3f7d650`](https://github.com/dmellok/tesserae/commit/3f7d6508500fecf926601a3c58fe580027579ffe) fix(albums): keep album fields the Gallery form can't edit
 
 ---
 
