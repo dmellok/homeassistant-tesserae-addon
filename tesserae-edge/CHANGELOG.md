@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.303.0-edge.1786789365, 2026-08-15
+## 0.304.0-edge.1786824558, 2026-08-15
 
-[`12aba33`](https://github.com/dmellok/tesserae/commit/12aba33ed83ba9453925de6333930d3232ac23e5) feat(albums): enforce one producer per display, publish frame-cache limits
+[`954edcb`](https://github.com/dmellok/tesserae/commit/954edcb02ecdc32f02e90565b2a8a2313ed5da89) feat(webhook): push a single image to named displays
 
 ---
 
