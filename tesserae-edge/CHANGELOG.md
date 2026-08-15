@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.302.0-edge.1786747113, 2026-08-14
+## 0.302.1-edge.1786757096, 2026-08-15
 
-[`9102d4d`](https://github.com/dmellok/tesserae/commit/9102d4dc27eafaeffdd6b23f807cb4729ae47d00) feat(catalog): roomier Browse rows with a Cozy / Compact control
+[`d2d3e79`](https://github.com/dmellok/tesserae/commit/d2d3e79200606f1f95d926a546377ae1dcdee3cb) fix(catalog): stop double-prefixing catalog request URLs under HA ingress
 
 ---
 
