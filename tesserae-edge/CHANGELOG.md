@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.307.0-edge.1786842349, 2026-08-16
+## 0.308.0-edge.1786844201, 2026-08-16
 
-[`4380669`](https://github.com/dmellok/tesserae/commit/43806698d6efd852a7abe8124dfc876ddd7e59ed) feat(stats): count local activity and show it at /stats
+[`5cbacf2`](https://github.com/dmellok/tesserae/commit/5cbacf2c7f5f00a57fec8b11860faaf7c61bcab2) feat(stats): ask about sponsorship once, after a milestone
 
 ---
 
