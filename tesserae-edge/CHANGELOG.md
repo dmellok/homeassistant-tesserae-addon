@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.308.1-edge.1786874198, 2026-08-16
+## 0.309.0-edge.1786879836, 2026-08-16
 
-[`e9aa865`](https://github.com/dmellok/tesserae/commit/e9aa865e01a745cbf82ce594bb1a2f1b027a819b) docs: point catalog links at tesserae.ink/catalog
+[`3479533`](https://github.com/dmellok/tesserae/commit/347953355db1abc44c2424acbfc8a550b2d810d6) fix(send): settle image orientation on ingest, add a rotation control
 
 ---
 
