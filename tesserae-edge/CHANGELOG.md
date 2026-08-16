@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.309.1-edge.1786882218, 2026-08-16
+## 0.310.0-edge.1786921983, 2026-08-16
 
-[`1afe221`](https://github.com/dmellok/tesserae/commit/1afe221a481299e280b8ab45fb2fa3410ec84b33) fix(renderers): key the panel turn off the composition, not the picture
+[`658ad41`](https://github.com/dmellok/tesserae/commit/658ad412933415a7bc53797a46eb83fa1a748db9) feat(companion): author offline albums over the Companion API
 
 ---
 
