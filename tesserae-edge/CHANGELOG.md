@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.308.1-edge.1786844778, 2026-08-16
+## 0.308.1-edge.1786874198, 2026-08-16
 
-[`11d5548`](https://github.com/dmellok/tesserae/commit/11d55482f96368631b82e75b24072fd7022b8a92) fix(stats): one vertical rhythm for the page's cards
+[`e9aa865`](https://github.com/dmellok/tesserae/commit/e9aa865e01a745cbf82ce594bb1a2f1b027a819b) docs: point catalog links at tesserae.ink/catalog
 
 ---
 
