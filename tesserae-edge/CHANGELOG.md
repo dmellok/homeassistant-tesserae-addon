@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.308.0-edge.1786844201, 2026-08-16
+## 0.308.1-edge.1786844778, 2026-08-16
 
-[`5cbacf2`](https://github.com/dmellok/tesserae/commit/5cbacf2c7f5f00a57fec8b11860faaf7c61bcab2) feat(stats): ask about sponsorship once, after a milestone
+[`11d5548`](https://github.com/dmellok/tesserae/commit/11d55482f96368631b82e75b24072fd7022b8a92) fix(stats): one vertical rhythm for the page's cards
 
 ---
 
