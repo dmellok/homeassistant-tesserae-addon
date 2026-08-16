@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.306.0-edge.1786830541, 2026-08-15
+## 0.307.0-edge.1786842349, 2026-08-16
 
-[`21a3bc1`](https://github.com/dmellok/tesserae/commit/21a3bc1a9d3f93c944af0d62491aea03a88a7124) feat(quantizer): hold flat backgrounds on the panel's own colours
+[`4380669`](https://github.com/dmellok/tesserae/commit/43806698d6efd852a7abe8124dfc876ddd7e59ed) feat(stats): count local activity and show it at /stats
 
 ---
 
