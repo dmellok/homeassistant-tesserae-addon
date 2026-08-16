@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.309.0-edge.1786879836, 2026-08-16
+## 0.309.1-edge.1786882218, 2026-08-16
 
-[`3479533`](https://github.com/dmellok/tesserae/commit/347953355db1abc44c2424acbfc8a550b2d810d6) fix(send): settle image orientation on ingest, add a rotation control
+[`1afe221`](https://github.com/dmellok/tesserae/commit/1afe221a481299e280b8ab45fb2fa3410ec84b33) fix(renderers): key the panel turn off the composition, not the picture
 
 ---
 
