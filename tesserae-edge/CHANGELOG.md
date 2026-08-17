@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.315.0-edge.1787009634, 2026-08-17
+## 0.315.1-edge.1787010242, 2026-08-17
 
-[`2dfb10f`](https://github.com/dmellok/tesserae/commit/2dfb10fb05f43ee7e4009963739313459324e5a5) feat(canvas): give a freeform dashboard its own settings page
+[`fbe8658`](https://github.com/dmellok/tesserae/commit/fbe86581fc9515686d063e5bfaf7ef0aa2751dec) docs(mcp): tell agents how to declare a dashboard's settings
 
 ---
 
