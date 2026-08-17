@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.312.1-edge.1786956424, 2026-08-17
+## 0.313.0-edge.1786975722, 2026-08-17
 
-[`14d5632`](https://github.com/dmellok/tesserae/commit/14d5632721083bf98553e520dfbb9913971db453) build(docker): reuse dependency layers across app updates
+[`b943db8`](https://github.com/dmellok/tesserae/commit/b943db806e7d2f9b95241792d3aa3c02a73423b1) feat(webpage): custom request headers for header-authenticated pages
 
 ---
 
