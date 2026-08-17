@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.312.0-edge.1786954277, 2026-08-17
+## 0.312.1-edge.1786956424, 2026-08-17
 
-[`2137b4e`](https://github.com/dmellok/tesserae/commit/2137b4e3944ae5e4937dc18bffe9b92c2c32e862) feat(circuitpython): apply the profile's edge handling on the indexed path
+[`14d5632`](https://github.com/dmellok/tesserae/commit/14d5632721083bf98553e520dfbb9913971db453) build(docker): reuse dependency layers across app updates
 
 ---
 
