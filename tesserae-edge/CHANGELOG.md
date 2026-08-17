@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.313.0-edge.1786975722, 2026-08-17
+## 0.314.0-edge.1787007278, 2026-08-17
 
-[`b943db8`](https://github.com/dmellok/tesserae/commit/b943db806e7d2f9b95241792d3aa3c02a73423b1) feat(webpage): custom request headers for header-authenticated pages
+[`1b415d8`](https://github.com/dmellok/tesserae/commit/1b415d82b0ab5b0513f5cc64b8f1f8bdf0463c10) chore: bump version to 0.314.0
 
 ---
 
