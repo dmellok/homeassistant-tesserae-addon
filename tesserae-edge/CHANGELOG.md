@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.310.0-edge.1786921983, 2026-08-16
+## 0.311.0-edge.1786950812, 2026-08-17
 
-[`658ad41`](https://github.com/dmellok/tesserae/commit/658ad412933415a7bc53797a46eb83fa1a748db9) feat(companion): author offline albums over the Companion API
+[`b214d01`](https://github.com/dmellok/tesserae/commit/b214d014b55acfce3bd45f52b0c4fba67a924803) feat(companion): project each display's next visible updates
 
 ---
 
