@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.314.0-edge.1787007278, 2026-08-17
+## 0.315.0-edge.1787009634, 2026-08-17
 
-[`1b415d8`](https://github.com/dmellok/tesserae/commit/1b415d82b0ab5b0513f5cc64b8f1f8bdf0463c10) chore: bump version to 0.314.0
+[`2dfb10f`](https://github.com/dmellok/tesserae/commit/2dfb10fb05f43ee7e4009963739313459324e5a5) feat(canvas): give a freeform dashboard its own settings page
 
 ---
 
