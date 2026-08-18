@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.317.0-edge.1787038851, 2026-08-18
+## 0.318.0-edge.1787056148, 2026-08-18
 
-[`0b59800`](https://github.com/dmellok/tesserae/commit/0b5980039566e1daee029c083f8408b1c47130c1) chore: bump version to 0.317.0
+[`1b912fd`](https://github.com/dmellok/tesserae/commit/1b912fddd936725dd70b88608f51704273808b4b) feat(discover): report when a claim keeps a different device id
 
 ---
 
