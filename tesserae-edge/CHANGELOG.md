@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.316.0-edge.1787015435, 2026-08-18
+## 0.316.0-edge.1787038574, 2026-08-18
 
-[`4539706`](https://github.com/dmellok/tesserae/commit/4539706cd263c94a2ee62412913842781c63c573) feat(canvas): open a dashboard's settings from the composer
+[`7d15b6d`](https://github.com/dmellok/tesserae/commit/7d15b6d2ae38393c32a14efcb2bbd5129433a704) Merge pull request #238 from charmmmz/agent/companion-device-setup
 
 ---
 
