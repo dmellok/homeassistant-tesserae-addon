@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.316.0-edge.1787038574, 2026-08-18
+## 0.317.0-edge.1787038851, 2026-08-18
 
-[`7d15b6d`](https://github.com/dmellok/tesserae/commit/7d15b6d2ae38393c32a14efcb2bbd5129433a704) Merge pull request #238 from charmmmz/agent/companion-device-setup
+[`0b59800`](https://github.com/dmellok/tesserae/commit/0b5980039566e1daee029c083f8408b1c47130c1) chore: bump version to 0.317.0
 
 ---
 
