@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.315.1-edge.1787010242, 2026-08-17
+## 0.316.0-edge.1787015435, 2026-08-18
 
-[`fbe8658`](https://github.com/dmellok/tesserae/commit/fbe86581fc9515686d063e5bfaf7ef0aa2751dec) docs(mcp): tell agents how to declare a dashboard's settings
+[`4539706`](https://github.com/dmellok/tesserae/commit/4539706cd263c94a2ee62412913842781c63c573) feat(canvas): open a dashboard's settings from the composer
 
 ---
 
