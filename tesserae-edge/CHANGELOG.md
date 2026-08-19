@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.318.2-edge.1787133716, 2026-08-19
+## 0.319.0-edge.1787141303, 2026-08-19
 
-[`222845a`](https://github.com/dmellok/tesserae/commit/222845a87bf383c08ffe467bad95d75dae171a7e) docs: correct the two-beat heartbeat guidance for e-ink paint times
+[`f4cb098`](https://github.com/dmellok/tesserae/commit/f4cb098b042b9af88f052e9aaf86a58ec4c26448) feat(hardware): add the Seeed XIAO 7.5" ePaper Panel (C3)
 
 ---
 
