@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.318.0-edge.1787056148, 2026-08-18
+## 0.318.1-edge.1787127184, 2026-08-19
 
-[`1b912fd`](https://github.com/dmellok/tesserae/commit/1b912fddd936725dd70b88608f51704273808b4b) feat(discover): report when a claim keeps a different device id
+[`018f5e8`](https://github.com/dmellok/tesserae/commit/018f5e8df0a1726a1c6f4fab4d35fe61960d0227) docs: correct status heartbeat field name and document the full set
 
 ---
 
