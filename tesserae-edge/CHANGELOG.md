@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.318.1-edge.1787127184, 2026-08-19
+## 0.318.2-edge.1787133716, 2026-08-19
 
-[`018f5e8`](https://github.com/dmellok/tesserae/commit/018f5e8df0a1726a1c6f4fab4d35fe61960d0227) docs: correct status heartbeat field name and document the full set
+[`222845a`](https://github.com/dmellok/tesserae/commit/222845a87bf383c08ffe467bad95d75dae171a7e) docs: correct the two-beat heartbeat guidance for e-ink paint times
 
 ---
 
