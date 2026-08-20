@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.320.1-edge.1787227948, 2026-08-20
+## 0.321.0-edge.1787235631, 2026-08-20
 
-[`3327c9e`](https://github.com/dmellok/tesserae/commit/3327c9ebe6ede41e6e0b3a902306e2e379b32d55) docs: rewrite sleep_interval_s sizing guidance for projected polling
+[`8f29e55`](https://github.com/dmellok/tesserae/commit/8f29e556f4228e269b7c81ab01b64797b6cd3f3a) feat(buttons): add webhook_refresh action
 
 ---
 
