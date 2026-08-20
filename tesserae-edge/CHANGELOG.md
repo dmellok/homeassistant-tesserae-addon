@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.319.0-edge.1787141303, 2026-08-19
+## 0.320.0-edge.1787212713, 2026-08-20
 
-[`f4cb098`](https://github.com/dmellok/tesserae/commit/f4cb098b042b9af88f052e9aaf86a58ec4c26448) feat(hardware): add the Seeed XIAO 7.5" ePaper Panel (C3)
+[`89edb1d`](https://github.com/dmellok/tesserae/commit/89edb1dbd4193243543ae4344f598045d490fbce) feat(protocol): derive next_poll_s from projected content changes
 
 ---
 
