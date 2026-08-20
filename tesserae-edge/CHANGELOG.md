@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.321.0-edge.1787235631, 2026-08-20
+## 0.321.1-edge.1787237352, 2026-08-20
 
-[`8f29e55`](https://github.com/dmellok/tesserae/commit/8f29e556f4228e269b7c81ab01b64797b6cd3f3a) feat(buttons): add webhook_refresh action
+[`3447a93`](https://github.com/dmellok/tesserae/commit/3447a934df42d7a71caa8c80db92625f2868c67b) fix(touch): close webhook_refresh gaps in the gate, editor and vocabulary
 
 ---
 
