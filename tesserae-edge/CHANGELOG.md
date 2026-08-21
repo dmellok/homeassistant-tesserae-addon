@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.321.1-edge.1787272501, 2026-08-21
+## 0.321.3-edge.1787275046, 2026-08-21
 
-[`4f4c908`](https://github.com/dmellok/tesserae/commit/4f4c908e3e13273a988815b7a6c5485e8e409b69) Merge pull request #245 from dmellok/hardware/seeed-sticky
+[`efc5d85`](https://github.com/dmellok/tesserae/commit/efc5d85f3e0a9bb18e58682f02b9e12d87180e8b) fix(hardware): stop relay pairing inferring the Sticky grayscale SKU
 
 ---
 
