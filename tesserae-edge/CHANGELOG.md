@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.328.0-edge.1787316354, 2026-08-21
+## 0.329.0-edge.1787338071, 2026-08-21
 
-[`1aee418`](https://github.com/dmellok/tesserae/commit/1aee41890287d18a9279e44c94c31702b1f1df0e) feat: add a forced resync for offline albums (#247)
+[`5df3192`](https://github.com/dmellok/tesserae/commit/5df319277ecdc52d8e27f5f5e330c1da31166b12) fix(auth): gate plugin blueprint routes, not just the plugin index
 
 ---
 
