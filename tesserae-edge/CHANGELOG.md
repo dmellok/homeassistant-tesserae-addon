@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.324.0-edge.1787298120, 2026-08-21
+## 0.326.0-edge.1787307449, 2026-08-21
 
-[`4cb02d3`](https://github.com/dmellok/tesserae/commit/4cb02d3deb80d8148dfea77cef72b7cdfa8541f3) chore: bump to 0.324.0 and record the Rooms work
+[`b8a7c9f`](https://github.com/dmellok/tesserae/commit/b8a7c9ffe0384680aaf28f0ae7026ab76d770d71) feat(rooms): show feed health and the next booking
 
 ---
 
