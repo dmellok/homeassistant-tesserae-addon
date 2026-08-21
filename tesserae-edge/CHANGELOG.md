@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.330.0-edge.1787343817, 2026-08-21
+## 0.331.0-edge.1787346210, 2026-08-21
 
-[`9d215a5`](https://github.com/dmellok/tesserae/commit/9d215a52b9c1454cb294f40bb23e3ffc586649f0) feat: let mains-powered panels stay awake
+[`c60a48a`](https://github.com/dmellok/tesserae/commit/c60a48a2646d563d22ece34f09287c1cc066fcf1) feat: serve frame bytes directly for single-request clients
 
 ---
 
