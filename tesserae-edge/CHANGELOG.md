@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.326.2-edge.1787311313, 2026-08-21
+## 0.328.0-edge.1787316354, 2026-08-21
 
-[`a71e698`](https://github.com/dmellok/tesserae/commit/a71e6989632e9d5b257dec35674822c75549c467) style: format test_device_telemetry
+[`1aee418`](https://github.com/dmellok/tesserae/commit/1aee41890287d18a9279e44c94c31702b1f1df0e) feat: add a forced resync for offline albums (#247)
 
 ---
 
