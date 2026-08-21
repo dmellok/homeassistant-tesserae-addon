@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.321.1-edge.1787237352, 2026-08-20
+## 0.321.1-edge.1787272501, 2026-08-21
 
-[`3447a93`](https://github.com/dmellok/tesserae/commit/3447a934df42d7a71caa8c80db92625f2868c67b) fix(touch): close webhook_refresh gaps in the gate, editor and vocabulary
+[`4f4c908`](https://github.com/dmellok/tesserae/commit/4f4c908e3e13273a988815b7a6c5485e8e409b69) Merge pull request #245 from dmellok/hardware/seeed-sticky
 
 ---
 
