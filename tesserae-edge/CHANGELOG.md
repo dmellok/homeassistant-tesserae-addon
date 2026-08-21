@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.321.3-edge.1787275046, 2026-08-21
+## 0.322.0-edge.1787279094, 2026-08-21
 
-[`efc5d85`](https://github.com/dmellok/tesserae/commit/efc5d85f3e0a9bb18e58682f02b9e12d87180e8b) fix(hardware): stop relay pairing inferring the Sticky grayscale SKU
+[`004a06d`](https://github.com/dmellok/tesserae/commit/004a06db587184fa13f89388a56b095e2c84fa4c) feat: let widgets declare when their data goes stale, and delegate capabilities
 
 ---
 
