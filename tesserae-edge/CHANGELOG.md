@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.322.0-edge.1787279094, 2026-08-21
+## 0.323.0-edge.1787294341, 2026-08-21
 
-[`004a06d`](https://github.com/dmellok/tesserae/commit/004a06db587184fa13f89388a56b095e2c84fa4c) feat: let widgets declare when their data goes stale, and delegate capabilities
+[`362efa3`](https://github.com/dmellok/tesserae/commit/362efa3b489b599c3e40ed87ae14470f0885da8b) feat(rooms): book a room over CalDAV from the panel
 
 ---
 
