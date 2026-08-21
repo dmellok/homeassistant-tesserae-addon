@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.329.0-edge.1787338071, 2026-08-21
+## 0.330.0-edge.1787343817, 2026-08-21
 
-[`5df3192`](https://github.com/dmellok/tesserae/commit/5df319277ecdc52d8e27f5f5e330c1da31166b12) fix(auth): gate plugin blueprint routes, not just the plugin index
+[`9d215a5`](https://github.com/dmellok/tesserae/commit/9d215a52b9c1454cb294f40bb23e3ffc586649f0) feat: let mains-powered panels stay awake
 
 ---
 
