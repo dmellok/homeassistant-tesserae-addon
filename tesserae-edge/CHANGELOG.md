@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.323.0-edge.1787294341, 2026-08-21
+## 0.324.0-edge.1787298120, 2026-08-21
 
-[`362efa3`](https://github.com/dmellok/tesserae/commit/362efa3b489b599c3e40ed87ae14470f0885da8b) feat(rooms): book a room over CalDAV from the panel
+[`4cb02d3`](https://github.com/dmellok/tesserae/commit/4cb02d3deb80d8148dfea77cef72b7cdfa8541f3) chore: bump to 0.324.0 and record the Rooms work
 
 ---
 
