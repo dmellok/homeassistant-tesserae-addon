@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.332.0-edge.1787356200, 2026-08-22
+## 0.333.0-edge.1787366178, 2026-08-22
 
-[`703c9a4`](https://github.com/dmellok/tesserae/commit/703c9a422c0dc390f736632686a16dd2a62c767f) fix(rest): poll an always-on panel on its awake cadence
+[`92706da`](https://github.com/dmellok/tesserae/commit/92706dad5fd276c3318aa8750ecf008f4428ff5d) fix: stop abandoned device streams from starving the web server
 
 ---
 
