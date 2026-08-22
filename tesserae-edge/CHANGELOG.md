@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.333.0-edge.1787366178, 2026-08-22
+## 0.334.0-edge.1787371547, 2026-08-22
 
-[`92706da`](https://github.com/dmellok/tesserae/commit/92706dad5fd276c3318aa8750ecf008f4428ff5d) fix: stop abandoned device streams from starving the web server
+[`e91107f`](https://github.com/dmellok/tesserae/commit/e91107f4af2dc49ab886b8b6beb6c14383e1c1cd) fix(calendar_day): draw only events that occupy the day being shown
 
 ---
 
