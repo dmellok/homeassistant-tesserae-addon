@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.338.1-edge.1787387941, 2026-08-22
+## 0.339.0-edge.1787391031, 2026-08-22
 
-[`4199140`](https://github.com/dmellok/tesserae/commit/4199140786c48b6d75d8a7b45164805cfdedc686) test: skip the live-Chromium image checks when no browser is installed
+[`ff36e75`](https://github.com/dmellok/tesserae/commit/ff36e75a809fa183f98421c6c621247824767a8c) fix(collection): compute one version, independent of warm state
 
 ---
 
