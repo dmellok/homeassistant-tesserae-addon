@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.331.0-edge.1787346210, 2026-08-21
+## 0.332.0-edge.1787356200, 2026-08-22
 
-[`c60a48a`](https://github.com/dmellok/tesserae/commit/c60a48a2646d563d22ece34f09287c1cc066fcf1) feat: serve frame bytes directly for single-request clients
+[`703c9a4`](https://github.com/dmellok/tesserae/commit/703c9a422c0dc390f736632686a16dd2a62c767f) fix(rest): poll an always-on panel on its awake cadence
 
 ---
 
