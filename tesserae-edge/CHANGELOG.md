@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.337.3-edge.1787384784, 2026-08-22
+## 0.338.0-edge.1787385666, 2026-08-22
 
-[`9eaa649`](https://github.com/dmellok/tesserae/commit/9eaa649cc5be287381993561fe440e1ed7a004c5) docs(relay): lead with the released image tag
+[`0128b93`](https://github.com/dmellok/tesserae/commit/0128b9370394cdce640cd1499644f89f33cde651) fix(renderer): report images that failed to load
 
 ---
 
