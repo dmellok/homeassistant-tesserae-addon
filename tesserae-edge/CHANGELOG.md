@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.334.0-edge.1787371547, 2026-08-22
+## 0.335.0-edge.1787374791, 2026-08-22
 
-[`e91107f`](https://github.com/dmellok/tesserae/commit/e91107f4af2dc49ab886b8b6beb6c14383e1c1cd) fix(calendar_day): draw only events that occupy the day being shown
+[`a357376`](https://github.com/dmellok/tesserae/commit/a3573762f3245e61a3c14ce9fe336a8010711d75) feat(devices): add a REST device without pairing
 
 ---
 
