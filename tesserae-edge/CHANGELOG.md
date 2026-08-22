@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.341.0-edge.1787397564, 2026-08-22
+## 0.342.0-edge.1787432579, 2026-08-22
 
-[`037f02a`](https://github.com/dmellok/tesserae/commit/037f02a96b41bab946fed541debf84a3c23ad765) fix(relay): report why a relay refused, on both sides
+[`b7c4f60`](https://github.com/dmellok/tesserae/commit/b7c4f6065a6ff5a7a9f731a53b8b28b1d8e210ca) feat(devices): add crosspoint_gray, and dispatch buttons on /frame.bmp
 
 ---
 
