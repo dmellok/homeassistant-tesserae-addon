@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.335.0-edge.1787374791, 2026-08-22
+## 0.337.0-edge.1787383949, 2026-08-22
 
-[`a357376`](https://github.com/dmellok/tesserae/commit/a3573762f3245e61a3c14ce9fe336a8010711d75) feat(devices): add a REST device without pairing
+[`7e80263`](https://github.com/dmellok/tesserae/commit/7e802635ce8a32e1bac2a97324a9e73c739f0b3f) ci(relay): publish the relay image to GHCR
 
 ---
 
