@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.337.2-edge.1787384491, 2026-08-22
+## 0.337.3-edge.1787384784, 2026-08-22
 
-[`8b4696d`](https://github.com/dmellok/tesserae/commit/8b4696d40faebeb936527bd1ba2d1ec5dd20c0e5) docs(relay): describe the relay as two deployments, not a Worker
+[`9eaa649`](https://github.com/dmellok/tesserae/commit/9eaa649cc5be287381993561fe440e1ed7a004c5) docs(relay): lead with the released image tag
 
 ---
 
