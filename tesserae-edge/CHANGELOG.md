@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.339.0-edge.1787391031, 2026-08-22
+## 0.340.0-edge.1787396662, 2026-08-22
 
-[`ff36e75`](https://github.com/dmellok/tesserae/commit/ff36e75a809fa183f98421c6c621247824767a8c) fix(collection): compute one version, independent of warm state
+[`c9325f4`](https://github.com/dmellok/tesserae/commit/c9325f47a1b7c2fda2242a7f758642c5464f36e3) fix(auth): let a plugin serve its own media to the renderer
 
 ---
 
