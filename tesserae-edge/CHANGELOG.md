@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.337.0-edge.1787383949, 2026-08-22
+## 0.337.1-edge.1787384103, 2026-08-22
 
-[`7e80263`](https://github.com/dmellok/tesserae/commit/7e802635ce8a32e1bac2a97324a9e73c739f0b3f) ci(relay): publish the relay image to GHCR
+[`b9d2e48`](https://github.com/dmellok/tesserae/commit/b9d2e481848a14f28b1d722c2f5996c24eb864ed) docs(relay): point the container quickstart at :edge
 
 ---
 
