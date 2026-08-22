@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.338.0-edge.1787385666, 2026-08-22
+## 0.338.1-edge.1787387941, 2026-08-22
 
-[`0128b93`](https://github.com/dmellok/tesserae/commit/0128b9370394cdce640cd1499644f89f33cde651) fix(renderer): report images that failed to load
+[`4199140`](https://github.com/dmellok/tesserae/commit/4199140786c48b6d75d8a7b45164805cfdedc686) test: skip the live-Chromium image checks when no browser is installed
 
 ---
 
