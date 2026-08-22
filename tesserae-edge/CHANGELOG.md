@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.340.0-edge.1787396662, 2026-08-22
+## 0.341.0-edge.1787397564, 2026-08-22
 
-[`c9325f4`](https://github.com/dmellok/tesserae/commit/c9325f47a1b7c2fda2242a7f758642c5464f36e3) fix(auth): let a plugin serve its own media to the renderer
+[`037f02a`](https://github.com/dmellok/tesserae/commit/037f02a96b41bab946fed541debf84a3c23ad765) fix(relay): report why a relay refused, on both sides
 
 ---
 
