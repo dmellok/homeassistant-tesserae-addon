@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.352.0-edge.1787471858, 2026-08-23
+## 0.352.0-edge.1787480059, 2026-08-23
 
-[`1c1ae73`](https://github.com/dmellok/tesserae/commit/1c1ae73006dad0b1331fd5a9b85d5cc8c5e98289) docs(mcp): correct create_schedule's fires_at and name contract
+[`e1c1515`](https://github.com/dmellok/tesserae/commit/e1c15154aab3a67b7ab303c7849168d36304dceb) Merge pull request #256 from vaibhav8a/docs/render-safe-endpoints
 
 ---
 
