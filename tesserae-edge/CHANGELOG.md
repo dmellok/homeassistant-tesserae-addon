@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.342.0-edge.1787432579, 2026-08-22
+## 0.343.0-edge.1787448405, 2026-08-23
 
-[`b7c4f60`](https://github.com/dmellok/tesserae/commit/b7c4f6065a6ff5a7a9f731a53b8b28b1d8e210ca) feat(devices): add crosspoint_gray, and dispatch buttons on /frame.bmp
+[`0e654fa`](https://github.com/dmellok/tesserae/commit/0e654fa2c6376f68a69d46f08dba757e18ee4a38) feat(hardware): add seeed_reterminal_sticky, and move panel fields on a kind heal
 
 ---
 
