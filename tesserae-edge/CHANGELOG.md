@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.344.0-edge.1787449455, 2026-08-23
+## 0.345.0-edge.1787451526, 2026-08-23
 
-[`8f691df`](https://github.com/dmellok/tesserae/commit/8f691dfb5e43c31c56ab228c0a120d0fddca9b62) refactor(hardware): retire the CrossInk Sticky kinds for the confirmed one
+[`e763b87`](https://github.com/dmellok/tesserae/commit/e763b87c4131179d890a3249360ab8a64ffe9aef) fix(hardware): pack the Sticky at its firmware's portrait stride
 
 ---
 
