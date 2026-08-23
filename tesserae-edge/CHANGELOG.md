@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.350.0-edge.1787468688, 2026-08-23
+## 0.351.0-edge.1787470025, 2026-08-23
 
-[`86cb233`](https://github.com/dmellok/tesserae/commit/86cb233368f75eb0b47e1d7036f57ad400d457e7) fix(mcp): stop the CSS diagnostic reporting a rewrite as a drop
+[`2b0b228`](https://github.com/dmellok/tesserae/commit/2b0b2284491576be93e7d8e4e37d7a9eddb2ec9d) feat(panels): explicit icon opt-in on code elements, beside the existing scan
 
 ---
 
