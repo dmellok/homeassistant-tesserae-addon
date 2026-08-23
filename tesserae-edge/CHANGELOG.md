@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.348.0-edge.1787465898, 2026-08-23
+## 0.349.0-edge.1787466462, 2026-08-23
 
-[`4bf493a`](https://github.com/dmellok/tesserae/commit/4bf493a526243aaf2d2dc677c000957c63bfa0c2) fix(panels): options reach code elements, and author JS gets its own scope
+[`1b71af6`](https://github.com/dmellok/tesserae/commit/1b71af6e6e21a88517371d21f8b0f61403bc4334) fix(mcp): truncate long lists in probe_widget_data
 
 ---
 
