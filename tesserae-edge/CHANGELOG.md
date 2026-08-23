@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.355.1-edge.1787486614, 2026-08-23
+## 0.356.0-edge.1787489403, 2026-08-23
 
-[`2d313bc`](https://github.com/dmellok/tesserae/commit/2d313bc29c2b488fcdf9f21354ef5647da3f8a83) docs(changelog): correct which bridge changes are unreleased
+[`a8234e8`](https://github.com/dmellok/tesserae/commit/a8234e85d491ecc5e3eb33fc07b1af6d92c0cc98) feat(mcp): serve per-tool descriptions, and warn a stale bridge in-session
 
 ---
 
