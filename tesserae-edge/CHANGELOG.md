@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.346.0-edge.1787454151, 2026-08-23
+## 0.347.0-edge.1787460706, 2026-08-23
 
-[`1f29501`](https://github.com/dmellok/tesserae/commit/1f2950157bbd19e87457f3405672d94ad66e4546) feat(calibration): calibrate the grey ramp on grayscale panels
+[`e99900a`](https://github.com/dmellok/tesserae/commit/e99900a588901544b9d679c5bd336d61970dd2b1) fix(calibration): make the grey calibration surfaces grey-aware
 
 ---
 
