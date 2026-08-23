@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.349.0-edge.1787466462, 2026-08-23
+## 0.350.0-edge.1787468688, 2026-08-23
 
-[`1b71af6`](https://github.com/dmellok/tesserae/commit/1b71af6e6e21a88517371d21f8b0f61403bc4334) fix(mcp): truncate long lists in probe_widget_data
+[`86cb233`](https://github.com/dmellok/tesserae/commit/86cb233368f75eb0b47e1d7036f57ad400d457e7) fix(mcp): stop the CSS diagnostic reporting a rewrite as a drop
 
 ---
 
