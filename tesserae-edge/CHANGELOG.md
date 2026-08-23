@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.352.1-edge.1787480125, 2026-08-23
+## 0.352.2-edge.1787480336, 2026-08-23
 
-[`ca5801c`](https://github.com/dmellok/tesserae/commit/ca5801cbadfb2228298e1fce9b8501fd98c8f5fd) docs(widgets): note that the loopback read reaches undeclared sub-routes too
+[`1a151ee`](https://github.com/dmellok/tesserae/commit/1a151ee270b1a186522ea592f337929803710044) ci: skip the Python matrix on prose-only changes
 
 ---
 
