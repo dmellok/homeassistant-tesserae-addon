@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.352.0-edge.1787480059, 2026-08-23
+## 0.352.1-edge.1787480125, 2026-08-23
 
-[`e1c1515`](https://github.com/dmellok/tesserae/commit/e1c15154aab3a67b7ab303c7849168d36304dceb) Merge pull request #256 from vaibhav8a/docs/render-safe-endpoints
+[`ca5801c`](https://github.com/dmellok/tesserae/commit/ca5801cbadfb2228298e1fce9b8501fd98c8f5fd) docs(widgets): note that the loopback read reaches undeclared sub-routes too
 
 ---
 
