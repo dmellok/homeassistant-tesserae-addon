@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.347.0-edge.1787460706, 2026-08-23
+## 0.348.0-edge.1787465898, 2026-08-23
 
-[`e99900a`](https://github.com/dmellok/tesserae/commit/e99900a588901544b9d679c5bd336d61970dd2b1) fix(calibration): make the grey calibration surfaces grey-aware
+[`4bf493a`](https://github.com/dmellok/tesserae/commit/4bf493a526243aaf2d2dc677c000957c63bfa0c2) fix(panels): options reach code elements, and author JS gets its own scope
 
 ---
 
