@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.353.0-edge.1787482028, 2026-08-23
+## 0.355.0-edge.1787486531, 2026-08-23
 
-[`7a1b7c4`](https://github.com/dmellok/tesserae/commit/7a1b7c4f31bb6d4207867973ba80107a14e31185) docs(mcp): name the element discriminator, and summarise list_widgets
+[`26e1e57`](https://github.com/dmellok/tesserae/commit/26e1e574359be632afc00bb5c1e4930193dabd68) chore: tesserae-mcp 0.13.0
 
 ---
 
