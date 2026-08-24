@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.364.2-edge.1787612062, 2026-08-24
+## 0.364.3-edge.1787612525, 2026-08-24
 
-[`3cd8306`](https://github.com/dmellok/tesserae/commit/3cd830611839f95906ed18df37875a07b11156e0) fix(tests): stop the calendar day fixtures depending on the clock
+[`425dacd`](https://github.com/dmellok/tesserae/commit/425dacdd4f5d994283db0e41619cc9e82cb79e52) fix(settings): make the orientation-card buttons reach the calibrate endpoint
 
 ---
 
