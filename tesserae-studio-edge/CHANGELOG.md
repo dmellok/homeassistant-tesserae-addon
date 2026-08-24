@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.10.0-edge.1787536267, 2026-08-24
+## 0.10.0-edge.1787536457, 2026-08-24
 
-[`9645e7b`](https://github.com/dmellok/tesserae-studio/commit/9645e7b5613b7e103da63441f9ea5b95d6c969b1) Delete workspace widgets, catch up to the widget contract, serve the agent docs
+[`3ad69e0`](https://github.com/dmellok/tesserae-studio/commit/3ad69e062bd53718711b7a31bc1df20d391c9ae0) Read the served tool docs from source, not by importing the MCP SDK
 
 ---
 
