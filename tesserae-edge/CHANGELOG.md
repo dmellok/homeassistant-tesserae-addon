@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.363.0-edge.1787577717, 2026-08-24
+## 0.364.1-edge.1787609590, 2026-08-24
 
-[`824c181`](https://github.com/dmellok/tesserae/commit/824c1817dafaf39553cd75313df23ddadf5bbf24) fix(ha): stop the editor re-fetching Home Assistant per cell per preview
+[`b5e5c1b`](https://github.com/dmellok/tesserae/commit/b5e5c1bdcfc61080830268d3cf31c5e69fc84a29) fix(settings): say when a stored secret can no longer be decrypted
 
 ---
 
