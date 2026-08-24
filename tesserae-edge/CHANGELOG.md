@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.358.0-edge.1787542749, 2026-08-24
+## 0.359.0-edge.1787560509, 2026-08-24
 
-[`d1fe553`](https://github.com/dmellok/tesserae/commit/d1fe553b7db1d0481e7d12179c5b46bc6208dfad) feat(hardware): affiliate-tag the Seeed store links, disclosed next to every link
+[`13a9ff4`](https://github.com/dmellok/tesserae/commit/13a9ff4229141c810d24529e307b45ead453f55c) feat(mcp): show what a build costs the agent's context
 
 ---
 
