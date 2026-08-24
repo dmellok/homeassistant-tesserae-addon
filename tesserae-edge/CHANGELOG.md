@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.359.0-edge.1787560509, 2026-08-24
+## 0.361.0-edge.1787563876, 2026-08-24
 
-[`13a9ff4`](https://github.com/dmellok/tesserae/commit/13a9ff4229141c810d24529e307b45ead453f55c) feat(mcp): show what a build costs the agent's context
+[`92b660e`](https://github.com/dmellok/tesserae/commit/92b660ec895eda0ce725587a1bb5d26a9564909f) fix(mcp): stop the agent rail following a dashboard that isn't there
 
 ---
 
