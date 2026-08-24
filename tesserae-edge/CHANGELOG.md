@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.361.0-edge.1787563876, 2026-08-24
+## 0.362.0-edge.1787575875, 2026-08-24
 
-[`92b660e`](https://github.com/dmellok/tesserae/commit/92b660ec895eda0ce725587a1bb5d26a9564909f) fix(mcp): stop the agent rail following a dashboard that isn't there
+[`c7d44ae`](https://github.com/dmellok/tesserae/commit/c7d44ae9d4e55eda1a6acbaf944d94a6c95dc5ed) feat(devices): send the buzzer tones as notes, and cover the Sticky
 
 ---
 
