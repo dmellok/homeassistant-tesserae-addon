@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.362.1-edge.1787576562, 2026-08-24
+## 0.363.0-edge.1787577717, 2026-08-24
 
-[`3e6e262`](https://github.com/dmellok/tesserae/commit/3e6e262421dd1e0288ed572c123cb82a9a77c8a8) feat(docs): capture outbound store clicks on the docs site
+[`824c181`](https://github.com/dmellok/tesserae/commit/824c1817dafaf39553cd75313df23ddadf5bbf24) fix(ha): stop the editor re-fetching Home Assistant per cell per preview
 
 ---
 
