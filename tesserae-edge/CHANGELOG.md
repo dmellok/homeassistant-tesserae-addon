@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.356.0-edge.1787489403, 2026-08-23
+## 0.357.0-edge.1787530900, 2026-08-24
 
-[`a8234e8`](https://github.com/dmellok/tesserae/commit/a8234e85d491ecc5e3eb33fc07b1af6d92c0cc98) feat(mcp): serve per-tool descriptions, and warn a stale bridge in-session
+[`60e975f`](https://github.com/dmellok/tesserae/commit/60e975fecc07aa99e75b4916d0a164992e8225e1) feat(hardware): add the M5Stack PaperS3, and separate same-gamut SKUs by reported stride
 
 ---
 
