@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.357.0-edge.1787530900, 2026-08-24
+## 0.357.1-edge.1787539839, 2026-08-24
 
-[`60e975f`](https://github.com/dmellok/tesserae/commit/60e975fecc07aa99e75b4916d0a164992e8225e1) feat(hardware): add the M5Stack PaperS3, and separate same-gamut SKUs by reported stride
+[`2a183e4`](https://github.com/dmellok/tesserae/commit/2a183e427354cdc5f21fc1a27f7f49aa57e62c24) docs(hardware): list the reTerminal Sticky, and add the M5Stack PaperS3
 
 ---
 
