@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.364.1-edge.1787609590, 2026-08-24
+## 0.364.2-edge.1787612062, 2026-08-24
 
-[`b5e5c1b`](https://github.com/dmellok/tesserae/commit/b5e5c1bdcfc61080830268d3cf31c5e69fc84a29) fix(settings): say when a stored secret can no longer be decrypted
+[`3cd8306`](https://github.com/dmellok/tesserae/commit/3cd830611839f95906ed18df37875a07b11156e0) fix(tests): stop the calendar day fixtures depending on the clock
 
 ---
 
