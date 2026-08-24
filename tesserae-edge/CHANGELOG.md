@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.362.0-edge.1787575875, 2026-08-24
+## 0.362.1-edge.1787576562, 2026-08-24
 
-[`c7d44ae`](https://github.com/dmellok/tesserae/commit/c7d44ae9d4e55eda1a6acbaf944d94a6c95dc5ed) feat(devices): send the buzzer tones as notes, and cover the Sticky
+[`3e6e262`](https://github.com/dmellok/tesserae/commit/3e6e262421dd1e0288ed572c123cb82a9a77c8a8) feat(docs): capture outbound store clicks on the docs site
 
 ---
 
