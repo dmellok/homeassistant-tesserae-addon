@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.357.1-edge.1787539839, 2026-08-24
+## 0.358.0-edge.1787542749, 2026-08-24
 
-[`2a183e4`](https://github.com/dmellok/tesserae/commit/2a183e427354cdc5f21fc1a27f7f49aa57e62c24) docs(hardware): list the reTerminal Sticky, and add the M5Stack PaperS3
+[`d1fe553`](https://github.com/dmellok/tesserae/commit/d1fe553b7db1d0481e7d12179c5b46bc6208dfad) feat(hardware): affiliate-tag the Seeed store links, disclosed next to every link
 
 ---
 
