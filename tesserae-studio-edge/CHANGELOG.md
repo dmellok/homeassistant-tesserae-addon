@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.9.2-edge.1785562363, 2026-08-01
+## 0.10.0-edge.1787536267, 2026-08-24
 
-[`77a5fbc`](https://github.com/dmellok/tesserae-studio/commit/77a5fbc) Sync the HA add-on on release and main pushes, bump to 0.9.2
+[`9645e7b`](https://github.com/dmellok/tesserae-studio/commit/9645e7b5613b7e103da63441f9ea5b95d6c969b1) Delete workspace widgets, catch up to the widget contract, serve the agent docs
 
 ---
 
