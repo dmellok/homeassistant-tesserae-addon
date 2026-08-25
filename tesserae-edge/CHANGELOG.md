@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.364.6-edge.1787655253, 2026-08-25
+## 0.365.0-edge.1787684196, 2026-08-25
 
-[`60cdfe2`](https://github.com/dmellok/tesserae/commit/60cdfe2e5ce472f01f62ccb3f20fe5618451e49b) fix(ci): don't advertise an edge add-on version before its image exists
+[`8d5f719`](https://github.com/dmellok/tesserae/commit/8d5f719f3885d1b367f78906f14ea747c96044c6) feat(hardware): add the Seeed XIAO EE05 2.13" BWRY kind and hidden-column padding
 
 ---
 
