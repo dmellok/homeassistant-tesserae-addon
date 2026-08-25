@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.364.3-edge.1787612525, 2026-08-24
+## 0.364.4-edge.1787633187, 2026-08-25
 
-[`425dacd`](https://github.com/dmellok/tesserae/commit/425dacdd4f5d994283db0e41619cc9e82cb79e52) fix(settings): make the orientation-card buttons reach the calibrate endpoint
+[`5020e40`](https://github.com/dmellok/tesserae/commit/5020e40469a2c49e552a5e6f9a69c2a367fcc3c1) docs(changelog): record the calibration button fix for the release
 
 ---
 
