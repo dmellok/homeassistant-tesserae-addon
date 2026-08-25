@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.364.4-edge.1787633187, 2026-08-25
+## 0.364.5-edge.1787649283, 2026-08-25
 
-[`5020e40`](https://github.com/dmellok/tesserae/commit/5020e40469a2c49e552a5e6f9a69c2a367fcc3c1) docs(changelog): record the calibration button fix for the release
+[`cc2aa24`](https://github.com/dmellok/tesserae/commit/cc2aa24ce974d3f9516cb0c441e386ce08c12cfe) fix(settings): announce a preset change so the save bar appears
 
 ---
 
