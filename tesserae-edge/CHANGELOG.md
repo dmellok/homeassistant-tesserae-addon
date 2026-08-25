@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.365.0-edge.1787684196, 2026-08-25
+## 0.366.0-edge.1787685571, 2026-08-25
 
-[`8d5f719`](https://github.com/dmellok/tesserae/commit/8d5f719f3885d1b367f78906f14ea747c96044c6) feat(hardware): add the Seeed XIAO EE05 2.13" BWRY kind and hidden-column padding
+[`a00d616`](https://github.com/dmellok/tesserae/commit/a00d61678bfd03f1e81619edbaac0c64a5c5c129) Merge PR #261: feat(widgets): widget translation system
 
 ---
 
