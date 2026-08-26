@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.366.0-edge.1787685571, 2026-08-25
+## 0.366.1-edge.1787710764, 2026-08-26
 
-[`a00d616`](https://github.com/dmellok/tesserae/commit/a00d61678bfd03f1e81619edbaac0c64a5c5c129) Merge PR #261: feat(widgets): widget translation system
+[`1ba0d0e`](https://github.com/dmellok/tesserae/commit/1ba0d0eaae958c5b0c70a0a58ff82449ece04905) docs: note the affiliate-link checkout discount in the disclosures
 
 ---
 
