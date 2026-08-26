@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.366.1-edge.1787710764, 2026-08-26
+## 0.367.1-edge.1787740498, 2026-08-26
 
-[`1ba0d0e`](https://github.com/dmellok/tesserae/commit/1ba0d0eaae958c5b0c70a0a58ff82449ece04905) docs: note the affiliate-link checkout discount in the disclosures
+[`38d20a5`](https://github.com/dmellok/tesserae/commit/38d20a5829fc3adab09cdc17c54faea428f2bae9) fix(trmnl): serve the schema default refresh rate, not a hardcoded 900
 
 ---
 
