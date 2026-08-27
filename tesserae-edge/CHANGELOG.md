@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.367.1-edge.1787740498, 2026-08-26
+## 0.367.2-edge.1787799090, 2026-08-27
 
-[`38d20a5`](https://github.com/dmellok/tesserae/commit/38d20a5829fc3adab09cdc17c54faea428f2bae9) fix(trmnl): serve the schema default refresh rate, not a hardcoded 900
+[`88e3ad6`](https://github.com/dmellok/tesserae/commit/88e3ad6289ed9f6628a379e5ea3648ef8b6d8513) docs(hardware): cover the native xteink-x4 firmware in the X4 entry
 
 ---
 
