@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.368.0-edge.1787824685, 2026-08-27
+## 0.369.0-edge.1787824933, 2026-08-27
 
-[`97bc16e`](https://github.com/dmellok/tesserae/commit/97bc16e512f10670b185e48c5405d7e1953d683d) Merge pull request #262 from theiereman/feat/dev-locales-preview
+[`0603820`](https://github.com/dmellok/tesserae/commit/060382054e7e35167eeb7ae00e547b337424509b) Merge pull request #263 from theiereman/feat/calendar_week_fr_translation
 
 ---
 
