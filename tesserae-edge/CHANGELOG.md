@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.367.3-edge.1787804026, 2026-08-27
+## 0.368.0-edge.1787824685, 2026-08-27
 
-[`39e40d3`](https://github.com/dmellok/tesserae/commit/39e40d31903acad6afcc97b6c3ed16706e01b7b7) fix(hardware): X4 orientation is presentational; no per-firmware value
+[`97bc16e`](https://github.com/dmellok/tesserae/commit/97bc16e512f10670b185e48c5405d7e1953d683d) Merge pull request #262 from theiereman/feat/dev-locales-preview
 
 ---
 
