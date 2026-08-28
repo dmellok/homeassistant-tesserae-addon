@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.370.0-edge.1787825109, 2026-08-27
+## 0.370.1-edge.1787881871, 2026-08-28
 
-[`4e394f2`](https://github.com/dmellok/tesserae/commit/4e394f2219aa5101632b2433bf564c8aba839c22) Merge pull request #264 from theiereman/feat/calendar_month_fr_translation
+[`80408e8`](https://github.com/dmellok/tesserae/commit/80408e8e63eb51daaf374407b2a2fb6607e08414) fix(auth): render setup/login validation errors inline in the card
 
 ---
 
