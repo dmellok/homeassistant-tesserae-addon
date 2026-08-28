@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.372.0-edge.1787900224, 2026-08-28
+## 0.372.1-edge.1787914792, 2026-08-28
 
-[`f9090aa`](https://github.com/dmellok/tesserae/commit/f9090aa83ebf6a7ad7e50d014f5f0abedfd8646b) fix(webpage): honour the settle delay in full during headless capture
+[`0caf6e7`](https://github.com/dmellok/tesserae/commit/0caf6e77f04b1440312289cf2b304ccb2f0f13e4) chore: bump version to 0.372.1
 
 ---
 
