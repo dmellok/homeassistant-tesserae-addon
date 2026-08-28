@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.370.1-edge.1787881871, 2026-08-28
+## 0.370.2-edge.1787883415, 2026-08-28
 
-[`80408e8`](https://github.com/dmellok/tesserae/commit/80408e8e63eb51daaf374407b2a2fb6607e08414) fix(auth): render setup/login validation errors inline in the card
+[`468b049`](https://github.com/dmellok/tesserae/commit/468b049b88d3214d914cae1de52f1c250e5c0b76) fix(settings): associate the button-map textarea with the device save form
 
 ---
 
