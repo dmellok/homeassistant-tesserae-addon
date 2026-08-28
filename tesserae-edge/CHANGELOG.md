@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.371.0-edge.1787890331, 2026-08-28
+## 0.372.0-edge.1787900224, 2026-08-28
 
-[`c603478`](https://github.com/dmellok/tesserae/commit/c60347891353d3829dbdaac3c871af8937855561) feat(devices): synchronized wake alignment across a fleet
+[`f9090aa`](https://github.com/dmellok/tesserae/commit/f9090aa83ebf6a7ad7e50d014f5f0abedfd8646b) fix(webpage): honour the settle delay in full during headless capture
 
 ---
 
