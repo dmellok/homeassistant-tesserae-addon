@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.370.2-edge.1787883415, 2026-08-28
+## 0.371.0-edge.1787890331, 2026-08-28
 
-[`468b049`](https://github.com/dmellok/tesserae/commit/468b049b88d3214d914cae1de52f1c250e5c0b76) fix(settings): associate the button-map textarea with the device save form
+[`c603478`](https://github.com/dmellok/tesserae/commit/c60347891353d3829dbdaac3c871af8937855561) feat(devices): synchronized wake alignment across a fleet
 
 ---
 
