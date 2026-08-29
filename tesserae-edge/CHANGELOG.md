@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.374.0-edge.1788000498, 2026-08-29
+## 0.374.0-edge.1788042437, 2026-08-29
 
-[`56e2b6f`](https://github.com/dmellok/tesserae/commit/56e2b6f0bda35993e08ebac9f24a87aa52d5ef75) fix(decks): state the real loop length in the editor and align refresh defaults
+[`2613a87`](https://github.com/dmellok/tesserae/commit/2613a87522607db4dee3ea4cd0f903cff49f02d3) Merge pull request #269 from vaibhav8a/mcp-catalog-summary-desc
 
 ---
 
