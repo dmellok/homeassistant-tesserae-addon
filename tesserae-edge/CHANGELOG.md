@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.375.0-edge.1788042912, 2026-08-29
+## 0.375.1-edge.1788044030, 2026-08-29
 
-[`de4061f`](https://github.com/dmellok/tesserae/commit/de4061f07b39b8b5e9ab66a682514b9b98d43c47) feat(mcp): carry desc in the bridge catalog summary, bridge 0.15.0
+[`c18725d`](https://github.com/dmellok/tesserae/commit/c18725d9272138782a64abbd5c2562ff30e5940f) fix(calendar): keep separate events that reuse a UID
 
 ---
 
