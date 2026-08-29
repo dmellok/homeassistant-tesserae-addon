@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.372.2-edge.1787984867, 2026-08-29
+## 0.373.0-edge.1787995251, 2026-08-29
 
-[`004f782`](https://github.com/dmellok/tesserae/commit/004f782cff186c22a525d210103a65069d3bff2c) fix(plugins): ask for identity encoding and decode Content-Encoding in urllib fetchers
+[`210f93b`](https://github.com/dmellok/tesserae/commit/210f93b649d1dbb106f96721222788a1a7112f9e) feat(calendar): read Home Assistant calendars as calendar feeds
 
 ---
 
