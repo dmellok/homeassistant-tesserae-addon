@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.372.1-edge.1787914792, 2026-08-28
+## 0.372.2-edge.1787984867, 2026-08-29
 
-[`0caf6e7`](https://github.com/dmellok/tesserae/commit/0caf6e77f04b1440312289cf2b304ccb2f0f13e4) chore: bump version to 0.372.1
+[`004f782`](https://github.com/dmellok/tesserae/commit/004f782cff186c22a525d210103a65069d3bff2c) fix(plugins): ask for identity encoding and decode Content-Encoding in urllib fetchers
 
 ---
 
