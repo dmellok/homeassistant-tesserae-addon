@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.373.0-edge.1787995251, 2026-08-29
+## 0.373.1-edge.1787998223, 2026-08-29
 
-[`210f93b`](https://github.com/dmellok/tesserae/commit/210f93b649d1dbb106f96721222788a1a7112f9e) feat(calendar): read Home Assistant calendars as calendar feeds
+[`c5d8d80`](https://github.com/dmellok/tesserae/commit/c5d8d80e0fce5d0ea2875a275e95c49a7fb4710c) fix(locale): treat C.UTF-8 and POSIX.* as unconfigured system locale
 
 ---
 
