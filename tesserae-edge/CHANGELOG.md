@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.373.1-edge.1787998223, 2026-08-29
+## 0.374.0-edge.1788000498, 2026-08-29
 
-[`c5d8d80`](https://github.com/dmellok/tesserae/commit/c5d8d80e0fce5d0ea2875a275e95c49a7fb4710c) fix(locale): treat C.UTF-8 and POSIX.* as unconfigured system locale
+[`56e2b6f`](https://github.com/dmellok/tesserae/commit/56e2b6f0bda35993e08ebac9f24a87aa52d5ef75) fix(decks): state the real loop length in the editor and align refresh defaults
 
 ---
 
