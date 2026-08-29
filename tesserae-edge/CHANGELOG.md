@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.374.0-edge.1788042437, 2026-08-29
+## 0.375.0-edge.1788042912, 2026-08-29
 
-[`2613a87`](https://github.com/dmellok/tesserae/commit/2613a87522607db4dee3ea4cd0f903cff49f02d3) Merge pull request #269 from vaibhav8a/mcp-catalog-summary-desc
+[`de4061f`](https://github.com/dmellok/tesserae/commit/de4061f07b39b8b5e9ab66a682514b9b98d43c47) feat(mcp): carry desc in the bridge catalog summary, bridge 0.15.0
 
 ---
 
