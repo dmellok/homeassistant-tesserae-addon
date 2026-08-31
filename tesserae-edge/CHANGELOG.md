@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.375.2-edge.1788136032, 2026-08-31
+## 0.376.0-edge.1788165964, 2026-08-31
 
-[`de112d0`](https://github.com/dmellok/tesserae/commit/de112d09ea391e8e761b5cb034b6deadf71931da) fix(decks): write live renders through to the deck cache
+[`2cfa635`](https://github.com/dmellok/tesserae/commit/2cfa6355880bb0c1514a035bd8bbf045cd2987ac) feat(hardware): add the Seeed XIAO ePaper EE03 10.3" kind
 
 ---
 
