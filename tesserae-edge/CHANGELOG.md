@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.376.0-edge.1788165964, 2026-08-31
+## 0.377.0-edge.1788166715, 2026-08-31
 
-[`2cfa635`](https://github.com/dmellok/tesserae/commit/2cfa6355880bb0c1514a035bd8bbf045cd2987ac) feat(hardware): add the Seeed XIAO ePaper EE03 10.3" kind
+[`0ae5826`](https://github.com/dmellok/tesserae/commit/0ae5826f9f099d084c64848071935112c3ef15ee) fix(renderer): force http scheme on loopback compose URLs
 
 ---
 
