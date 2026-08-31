@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.375.1-edge.1788044030, 2026-08-29
+## 0.375.2-edge.1788136032, 2026-08-31
 
-[`c18725d`](https://github.com/dmellok/tesserae/commit/c18725d9272138782a64abbd5c2562ff30e5940f) fix(calendar): keep separate events that reuse a UID
+[`de112d0`](https://github.com/dmellok/tesserae/commit/de112d09ea391e8e761b5cb034b6deadf71931da) fix(decks): write live renders through to the deck cache
 
 ---
 
