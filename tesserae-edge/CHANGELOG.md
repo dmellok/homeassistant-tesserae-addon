@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.377.0-edge.1788166715, 2026-08-31
+## 0.378.0-edge.1788217064, 2026-08-31
 
-[`0ae5826`](https://github.com/dmellok/tesserae/commit/0ae5826f9f099d084c64848071935112c3ef15ee) fix(renderer): force http scheme on loopback compose URLs
+[`ead8638`](https://github.com/dmellok/tesserae/commit/ead8638fd6c965e4dcd988c652014e7372dacbaf) feat(docker): make the web port settable via TESSERAE_BIND_PORT
 
 ---
 
