@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.10.0-edge.1788259958, 2026-09-01
+## 0.11.0-edge.1788260158, 2026-09-01
 
-[`438f1ac`](https://github.com/dmellok/tesserae-studio/commit/438f1ac24c8cd35049bc16961656812568b16e60) Materialize dynamic choices in widget config forms
+[`dd9b5a5`](https://github.com/dmellok/tesserae-studio/commit/dd9b5a53113326207718da0f81fbe47592c8d541) Harden choices pagination, keep the form in place on manifest reloads
 
 ---
 
