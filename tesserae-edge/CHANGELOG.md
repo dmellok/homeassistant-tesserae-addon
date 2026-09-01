@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.378.0-edge.1788217064, 2026-08-31
+## 0.379.0-edge.1788222339, 2026-09-01
 
-[`ead8638`](https://github.com/dmellok/tesserae/commit/ead8638fd6c965e4dcd988c652014e7372dacbaf) feat(docker): make the web port settable via TESSERAE_BIND_PORT
+[`1249d23`](https://github.com/dmellok/tesserae/commit/1249d232fb3447c9c46f3d3d3b11c1b3dffd1c76) fix(push): fall back to a full frame when patches go undelivered
 
 ---
 
