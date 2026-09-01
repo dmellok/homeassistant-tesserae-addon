@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.10.0-edge.1787536457, 2026-08-24
+## 0.10.0-edge.1788259958, 2026-09-01
 
-[`3ad69e0`](https://github.com/dmellok/tesserae-studio/commit/3ad69e062bd53718711b7a31bc1df20d391c9ae0) Read the served tool docs from source, not by importing the MCP SDK
+[`438f1ac`](https://github.com/dmellok/tesserae-studio/commit/438f1ac24c8cd35049bc16961656812568b16e60) Materialize dynamic choices in widget config forms
 
 ---
 
