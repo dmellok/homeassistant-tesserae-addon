@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.380.1-edge.1788254036, 2026-09-01
+## 0.381.0-edge.1788254789, 2026-09-01
 
-[`a6e910e`](https://github.com/dmellok/tesserae/commit/a6e910efd348dc49223af4beaf33b4408df4b90d) chore: bump version to 0.380.1
+[`34a88ea`](https://github.com/dmellok/tesserae/commit/34a88eac44cb51f301c1c3a126f40c7589a866b5) fix(network): support IPv6 binds and bracket IPv6 literals in URLs
 
 ---
 
