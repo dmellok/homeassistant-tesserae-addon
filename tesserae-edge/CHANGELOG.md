@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.380.0-edge.1788249251, 2026-09-01
+## 0.380.0-edge.1788254010, 2026-09-01
 
-[`b6aeb39`](https://github.com/dmellok/tesserae/commit/b6aeb395a2931234784eaa797860ffb1ff8c7eb2) feat(calendar): fetch feeds via CalDAV REPORT when there is no ICS export
+[`dbbbb92`](https://github.com/dmellok/tesserae/commit/dbbbb923fe22c6953564dd598fec7df7b5dd9c69) fix(calendar_day): open the day window at local midnight, not at now
 
 ---
 
