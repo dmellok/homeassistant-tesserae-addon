@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.380.0-edge.1788254010, 2026-09-01
+## 0.380.1-edge.1788254036, 2026-09-01
 
-[`dbbbb92`](https://github.com/dmellok/tesserae/commit/dbbbb923fe22c6953564dd598fec7df7b5dd9c69) fix(calendar_day): open the day window at local midnight, not at now
+[`a6e910e`](https://github.com/dmellok/tesserae/commit/a6e910efd348dc49223af4beaf33b4408df4b90d) chore: bump version to 0.380.1
 
 ---
 
