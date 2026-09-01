@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.379.0-edge.1788222339, 2026-09-01
+## 0.380.0-edge.1788249251, 2026-09-01
 
-[`1249d23`](https://github.com/dmellok/tesserae/commit/1249d232fb3447c9c46f3d3d3b11c1b3dffd1c76) fix(push): fall back to a full frame when patches go undelivered
+[`b6aeb39`](https://github.com/dmellok/tesserae/commit/b6aeb395a2931234784eaa797860ffb1ff8c7eb2) feat(calendar): fetch feeds via CalDAV REPORT when there is no ICS export
 
 ---
 
