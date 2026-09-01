@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.10.0, 2026-08-24
+## 0.11.0, 2026-09-01
 
-Tracks Tesserae Studio [v0.10.0](https://github.com/dmellok/tesserae-studio/releases/tag/v0.10.0).
+Tracks Tesserae Studio [v0.11.0](https://github.com/dmellok/tesserae-studio/releases/tag/v0.11.0).
 See the linked release notes for what changed.
 
 ---
