@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.381.0-edge.1788254789, 2026-09-01
+## 0.383.0-edge.1788383825, 2026-09-02
 
-[`34a88ea`](https://github.com/dmellok/tesserae/commit/34a88eac44cb51f301c1c3a126f40c7589a866b5) fix(network): support IPv6 binds and bracket IPv6 literals in URLs
+[`8459eeb`](https://github.com/dmellok/tesserae/commit/8459eeb43082e5015de200d39cf3b3a96222f074) feat(hardware): add the Waveshare 10.85" e-Paper HAT+ (G) on an ESP32-S3 Zero
 
 ---
 
