@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.12.0-edge.1788351111, 2026-09-02
+## 0.12.0-edge.1788353841, 2026-09-02
 
-[`36e65ba`](https://github.com/dmellok/tesserae-studio/commit/36e65ba0b766f71a8ad5e71ed7ac3de719d440be) Debounce choice search, add combobox keyboard navigation, bound the offset
+[`ed7c4bd`](https://github.com/dmellok/tesserae-studio/commit/ed7c4bd928826197fd0ad593c8a0ae6d4f3201c4) Refresh Options after an active push (#6)
 
 ---
 

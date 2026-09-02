@@ -1,5 +1,5 @@
 name: Tesserae Studio Edge
-version: "0.12.0-edge.1788351111"
+version: "0.12.0-edge.1788353841"
 slug: tesserae-studio-edge
 description: "EDGE channel — auto-built from every commit on Studio's main branch. Expect breakage. Use Tesserae Studio (stable) for anything you depend on."
 url: https://github.com/dmellok/tesserae-studio
