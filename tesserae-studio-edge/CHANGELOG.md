@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.12.0-edge.1788353841, 2026-09-02
+## 0.12.1-edge.1788353844, 2026-09-02
 
-[`ed7c4bd`](https://github.com/dmellok/tesserae-studio/commit/ed7c4bd928826197fd0ad593c8a0ae6d4f3201c4) Refresh Options after an active push (#6)
+[`593fe0a`](https://github.com/dmellok/tesserae-studio/commit/593fe0a137a84559052abbf82386c479f1f55890) Bump to 0.12.1
 
 ---
 
