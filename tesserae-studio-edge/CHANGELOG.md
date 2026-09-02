@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.11.0-edge.1788260158, 2026-09-01
+## 0.11.0-edge.1788350880, 2026-09-02
 
-[`dd9b5a5`](https://github.com/dmellok/tesserae-studio/commit/dd9b5a53113326207718da0f81fbe47592c8d541) Harden choices pagination, keep the form in place on manifest reloads
+[`9f3e72e`](https://github.com/dmellok/tesserae-studio/commit/9f3e72e556e86dd198d42ae62d1d379a7aab3994) Add searchable, lazy-loaded dynamic choices (#5)
 
 ---
 
