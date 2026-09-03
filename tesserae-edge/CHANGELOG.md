@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.383.2-edge.1788432479, 2026-09-03
+## 0.384.0-edge.1788433536, 2026-09-03
 
-[`2b8a41c`](https://github.com/dmellok/tesserae/commit/2b8a41c5e45fadd05421acc86867f5f976ef696f) fix(push): carry the declared native buffer through Send-page and resend pushes
+[`8d77201`](https://github.com/dmellok/tesserae/commit/8d77201902cebed347a9fbdd69dd9b834c8b15c8) feat(calendar): let a saved feed's colour be changed in place
 
 ---
 
