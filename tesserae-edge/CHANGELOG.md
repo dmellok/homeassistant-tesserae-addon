@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.384.0-edge.1788433536, 2026-09-03
+## 0.385.0-edge.1788478173, 2026-09-03
 
-[`8d77201`](https://github.com/dmellok/tesserae/commit/8d77201902cebed347a9fbdd69dd9b834c8b15c8) feat(calendar): let a saved feed's colour be changed in place
+[`e6c5380`](https://github.com/dmellok/tesserae/commit/e6c538011f1daef2644a7baa22f5acca06d66185) feat(lineups): show projected refreshes per day on each card and display
 
 ---
 
