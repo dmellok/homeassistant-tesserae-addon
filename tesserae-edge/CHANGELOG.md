@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.383.0-edge.1788383825, 2026-09-02
+## 0.383.2-edge.1788432479, 2026-09-03
 
-[`8459eeb`](https://github.com/dmellok/tesserae/commit/8459eeb43082e5015de200d39cf3b3a96222f074) feat(hardware): add the Waveshare 10.85" e-Paper HAT+ (G) on an ESP32-S3 Zero
+[`2b8a41c`](https://github.com/dmellok/tesserae/commit/2b8a41c5e45fadd05421acc86867f5f976ef696f) fix(push): carry the declared native buffer through Send-page and resend pushes
 
 ---
 
