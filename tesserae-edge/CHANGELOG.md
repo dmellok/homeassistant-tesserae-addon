@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.386.3-edge.1788512045, 2026-09-04
+## 0.386.4-edge.1788513586, 2026-09-04
 
-[`59d47e8`](https://github.com/dmellok/tesserae/commit/59d47e884b226678acef27c99913c9e03e4d4eb1) fix(mcp): record the page behind a bridge push so its touch spec resolves
+[`9dbb1e4`](https://github.com/dmellok/tesserae/commit/9dbb1e45209dcba12cc31a978750079fa6a89d10) docs(hardware): note partial refresh on the reTerminal Sticky
 
 ---
 
