@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.386.2-edge.1788509137, 2026-09-04
+## 0.386.3-edge.1788512045, 2026-09-04
 
-[`2df5c6f`](https://github.com/dmellok/tesserae/commit/2df5c6f39546b7fe00dcdd77d9bf2639c994fc4d) docs(hardware): note Sticky touch as verified on hardware
+[`59d47e8`](https://github.com/dmellok/tesserae/commit/59d47e884b226678acef27c99913c9e03e4d4eb1) fix(mcp): record the page behind a bridge push so its touch spec resolves
 
 ---
 
