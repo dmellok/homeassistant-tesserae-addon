@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.386.1-edge.1788507338, 2026-09-04
+## 0.386.2-edge.1788509137, 2026-09-04
 
-[`fd19126`](https://github.com/dmellok/tesserae/commit/fd1912676a5bebe3691c7724304f9c5eb9344b32) chore(changelog): cut 0.386.1 and record every change since 0.367.1
+[`2df5c6f`](https://github.com/dmellok/tesserae/commit/2df5c6f39546b7fe00dcdd77d9bf2639c994fc4d) docs(hardware): note Sticky touch as verified on hardware
 
 ---
 
