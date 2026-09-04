@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.385.0-edge.1788478173, 2026-09-03
+## 0.386.1-edge.1788507338, 2026-09-04
 
-[`e6c5380`](https://github.com/dmellok/tesserae/commit/e6c538011f1daef2644a7baa22f5acca06d66185) feat(lineups): show projected refreshes per day on each card and display
+[`fd19126`](https://github.com/dmellok/tesserae/commit/fd1912676a5bebe3691c7724304f9c5eb9344b32) chore(changelog): cut 0.386.1 and record every change since 0.367.1
 
 ---
 
