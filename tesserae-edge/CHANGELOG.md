@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.387.0-edge.1788602144, 2026-09-05
+## 0.388.0-edge.1788613004, 2026-09-05
 
-[`56ea7c8`](https://github.com/dmellok/tesserae/commit/56ea7c8e96ff7383f653a2783c41a6597dd49240) feat(settings): derive the panel-text language pickers from installed widgets
+[`33d7824`](https://github.com/dmellok/tesserae/commit/33d78243942720b2a18da5f535b456957a0ef3ce) feat(ha): expose lineups, automation pause and device operations over MQTT discovery
 
 ---
 
