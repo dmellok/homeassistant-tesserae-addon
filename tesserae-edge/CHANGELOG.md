@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.386.5-edge.1788515318, 2026-09-04
+## 0.386.6-edge.1788580344, 2026-09-05
 
-[`46c6b91`](https://github.com/dmellok/tesserae/commit/46c6b9153313692f686e82cbdd17ee3a2a1a0ae3) docs(hardware): Sticky partial timing after the plane seed
+[`79da644`](https://github.com/dmellok/tesserae/commit/79da644f0b732e150186dd9e0facaf41a2ce3891) docs(hardware): record the TRMNL X as confirmed on hardware
 
 ---
 
