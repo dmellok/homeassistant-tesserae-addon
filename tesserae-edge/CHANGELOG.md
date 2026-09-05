@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.386.6-edge.1788580344, 2026-09-05
+## 0.387.0-edge.1788602144, 2026-09-05
 
-[`79da644`](https://github.com/dmellok/tesserae/commit/79da644f0b732e150186dd9e0facaf41a2ce3891) docs(hardware): record the TRMNL X as confirmed on hardware
+[`56ea7c8`](https://github.com/dmellok/tesserae/commit/56ea7c8e96ff7383f653a2783c41a6597dd49240) feat(settings): derive the panel-text language pickers from installed widgets
 
 ---
 
