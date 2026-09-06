@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.389.2-edge.1788680913, 2026-09-06
+## 0.389.3-edge.1788682193, 2026-09-06
 
-[`b29d949`](https://github.com/dmellok/tesserae/commit/b29d949bc02970a9af2c518b398f72b5464319c6) Merge pull request #281 from charmmmz/agent/fix-unavailable-lineups
+[`82a6d7a`](https://github.com/dmellok/tesserae/commit/82a6d7ad43024ece4ef0109a2145e664d623dbd5) fix(scheduler): open the smart-sync gate on the last tick before the lead window
 
 ---
 
