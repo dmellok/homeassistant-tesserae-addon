@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.389.1-edge.1788670133, 2026-09-06
+## 0.389.2-edge.1788680913, 2026-09-06
 
-[`c337b36`](https://github.com/dmellok/tesserae/commit/c337b368bc058089b7184bcde79392ce43dc57b7) fix(touch): reconcile from the live frame so an action never repaints a stale lineup page
+[`b29d949`](https://github.com/dmellok/tesserae/commit/b29d949bc02970a9af2c518b398f72b5464319c6) Merge pull request #281 from charmmmz/agent/fix-unavailable-lineups
 
 ---
 
