@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.391.1-edge.1788690992, 2026-09-06
+## 0.391.2-edge.1788693570, 2026-09-06
 
-[`d5af209`](https://github.com/dmellok/tesserae/commit/d5af2090ae50dade169f4f88f7a5e5685ca59ee9) fix(image_upload): import register_heif_opener from its defining module
+[`aaebd80`](https://github.com/dmellok/tesserae/commit/aaebd806e87aff0e454777fceae4dd10a42be628) fix(gtfs): trim padded CSV header names so stops in feeds like Transperth's resolve
 
 ---
 
