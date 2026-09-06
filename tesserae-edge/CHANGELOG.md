@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.390.0-edge.1788686186, 2026-09-06
+## 0.391.0-edge.1788687509, 2026-09-06
 
-[`c6b9e4a`](https://github.com/dmellok/tesserae/commit/c6b9e4a9d7c02b15ba09f3ae735cdba2e273de08) fix: bound the LAB dither memo, scope the secret-key warning, and bump to 0.390.0
+[`5434612`](https://github.com/dmellok/tesserae/commit/5434612ac4641226d905ae660c728107913e6db3) chore: list the Companion retention page in the docs nav and bump to 0.391.0
 
 ---
 
