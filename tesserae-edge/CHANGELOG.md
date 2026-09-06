@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.391.0-edge.1788687509, 2026-09-06
+## 0.391.1-edge.1788690992, 2026-09-06
 
-[`5434612`](https://github.com/dmellok/tesserae/commit/5434612ac4641226d905ae660c728107913e6db3) chore: list the Companion retention page in the docs nav and bump to 0.391.0
+[`d5af209`](https://github.com/dmellok/tesserae/commit/d5af2090ae50dade169f4f88f7a5e5685ca59ee9) fix(image_upload): import register_heif_opener from its defining module
 
 ---
 
