@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.391.2-edge.1788693570, 2026-09-06
+## 0.392.0-edge.1788697667, 2026-09-06
 
-[`aaebd80`](https://github.com/dmellok/tesserae/commit/aaebd806e87aff0e454777fceae4dd10a42be628) fix(gtfs): trim padded CSV header names so stops in feeds like Transperth's resolve
+[`3e8bd51`](https://github.com/dmellok/tesserae/commit/3e8bd516a894c37a187d41147efde16dbcd75024) fix(lineups): cap touch holds to one dwell window, place button holds at the local anchor, and log held skips
 
 ---
 
