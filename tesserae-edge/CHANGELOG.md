@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.392.0-edge.1788697667, 2026-09-06
+## 0.392.0-edge.1788699849, 2026-09-06
 
-[`3e8bd51`](https://github.com/dmellok/tesserae/commit/3e8bd516a894c37a187d41147efde16dbcd75024) fix(lineups): cap touch holds to one dwell window, place button holds at the local anchor, and log held skips
+[`d5fce04`](https://github.com/dmellok/tesserae/commit/d5fce045893177d0d2c4981404c48b237b6c6aca) chore(changelog): cut 0.392.0 and add headers for the 0.386.2 and 0.386.3 tags
 
 ---
 
