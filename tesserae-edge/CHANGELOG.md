@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.389.3-edge.1788682193, 2026-09-06
+## 0.390.0-edge.1788686186, 2026-09-06
 
-[`82a6d7a`](https://github.com/dmellok/tesserae/commit/82a6d7ad43024ece4ef0109a2145e664d623dbd5) fix(scheduler): open the smart-sync gate on the last tick before the lead window
+[`c6b9e4a`](https://github.com/dmellok/tesserae/commit/c6b9e4a9d7c02b15ba09f3ae735cdba2e273de08) fix: bound the LAB dither memo, scope the secret-key warning, and bump to 0.390.0
 
 ---
 
