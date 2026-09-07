@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.393.0-edge.1788740234, 2026-09-07
+## 0.394.0-edge.1788748271, 2026-09-07
 
-[`778d7a9`](https://github.com/dmellok/tesserae/commit/778d7a93a3b4838ad62d672afddf54711473fb10) chore: note per-event calendar colours, the appearance split and tesserae-mcp 0.16.0, and bump to 0.393.0
+[`e6c0f6f`](https://github.com/dmellok/tesserae/commit/e6c0f6ffb40c0286480d34946dfc43f2c0a100e4) ci: name stalled tests, settle two flaky assertions, lift the cryptography pin, and bump to 0.394.0
 
 ---
 
