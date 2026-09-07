@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.394.0-edge.1788748271, 2026-09-07
+## 0.394.1-edge.1788754681, 2026-09-07
 
-[`e6c0f6f`](https://github.com/dmellok/tesserae/commit/e6c0f6ffb40c0286480d34946dfc43f2c0a100e4) ci: name stalled tests, settle two flaky assertions, lift the cryptography pin, and bump to 0.394.0
+[`975f676`](https://github.com/dmellok/tesserae/commit/975f6764e1498079afcb7975775ba95f4e72aebf) ci: fail a stalled test after fifteen minutes and list the slowest tests, bump to 0.394.1
 
 ---
 
