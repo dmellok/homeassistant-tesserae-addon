@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.396.3-edge.1788783167, 2026-09-07
+## 0.396.4-edge.1788784370, 2026-09-07
 
-[`29dbf0e`](https://github.com/dmellok/tesserae/commit/29dbf0e4735fa36b8e5e546d43685937ad272709) fix(docker): explain the numpy CPU floor and add a NUMPY_SPEC build argument, bump to 0.396.3
+[`acd6ea1`](https://github.com/dmellok/tesserae/commit/acd6ea17fc429bfa92530e8ea6086000b79fe758) fix(relay): send Content-Length from the container bridge, bump to 0.396.4
 
 ---
 
