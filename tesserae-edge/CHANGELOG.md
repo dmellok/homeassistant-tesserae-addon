@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.395.1-edge.1788764822, 2026-09-07
+## 0.396.1-edge.1788768104, 2026-09-07
 
-[`068dfea`](https://github.com/dmellok/tesserae/commit/068dfea5c810e18d4674df5f253dcc63c7517a5b) fix(picture_gallery): honour the Scale option, and bump to 0.395.1
+[`38892bb`](https://github.com/dmellok/tesserae/commit/38892bb58924910b57af83a3df51de86b09e3be9) Merge pull request #298 from partridgeworks/feat/pimoroni-inky-frame-73-hardware-kinds
 
 ---
 
