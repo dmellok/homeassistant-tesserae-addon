@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.392.0-edge.1788699849, 2026-09-06
+## 0.393.0-edge.1788740234, 2026-09-07
 
-[`d5fce04`](https://github.com/dmellok/tesserae/commit/d5fce045893177d0d2c4981404c48b237b6c6aca) chore(changelog): cut 0.392.0 and add headers for the 0.386.2 and 0.386.3 tags
+[`778d7a9`](https://github.com/dmellok/tesserae/commit/778d7a93a3b4838ad62d672afddf54711473fb10) chore: note per-event calendar colours, the appearance split and tesserae-mcp 0.16.0, and bump to 0.393.0
 
 ---
 
