@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.394.1-edge.1788754681, 2026-09-07
+## 0.395.0-edge.1788763813, 2026-09-07
 
-[`975f676`](https://github.com/dmellok/tesserae/commit/975f6764e1498079afcb7975775ba95f4e72aebf) ci: fail a stalled test after fifteen minutes and list the slowest tests, bump to 0.394.1
+[`c0b28f1`](https://github.com/dmellok/tesserae/commit/c0b28f1a2a7a9ce43f4a51955b09e79b336e1671) fix(circuitpython_bmp): keep the colour table constant per gamut, and bump to 0.395.0
 
 ---
 
