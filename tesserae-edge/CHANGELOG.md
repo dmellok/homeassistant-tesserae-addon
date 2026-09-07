@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.396.2-edge.1788776670, 2026-09-07
+## 0.396.3-edge.1788783167, 2026-09-07
 
-[`ea9a309`](https://github.com/dmellok/tesserae/commit/ea9a309c85e580e27ec5e5700cdbc77b42a9d6a3) docs(picpak): note the firmware update check against the community repo, bump to 0.396.2
+[`29dbf0e`](https://github.com/dmellok/tesserae/commit/29dbf0e4735fa36b8e5e546d43685937ad272709) fix(docker): explain the numpy CPU floor and add a NUMPY_SPEC build argument, bump to 0.396.3
 
 ---
 
