@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.395.0-edge.1788763813, 2026-09-07
+## 0.395.1-edge.1788764822, 2026-09-07
 
-[`c0b28f1`](https://github.com/dmellok/tesserae/commit/c0b28f1a2a7a9ce43f4a51955b09e79b336e1671) fix(circuitpython_bmp): keep the colour table constant per gamut, and bump to 0.395.0
+[`068dfea`](https://github.com/dmellok/tesserae/commit/068dfea5c810e18d4674df5f253dcc63c7517a5b) fix(picture_gallery): honour the Scale option, and bump to 0.395.1
 
 ---
 
