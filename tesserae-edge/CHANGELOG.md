@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.398.0-edge.1788829187, 2026-09-08
+## 0.399.0-edge.1788831197, 2026-09-08
 
-[`026bfe8`](https://github.com/dmellok/tesserae/commit/026bfe8ca6bd2c767edc90bf596a57187773ce4c) feat(quiet_hours): weekday windows, all-day days, and sleep-through, bump to 0.398.0
+[`e14c8df`](https://github.com/dmellok/tesserae/commit/e14c8df04c67c8719eae346cc47c270029fb8e1f) feat(ha_history): current value as a large headline above the chart, bump to 0.399.0
 
 ---
 
