@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.397.0-edge.1788785978, 2026-09-07
+## 0.398.0-edge.1788829187, 2026-09-08
 
-[`82dea98`](https://github.com/dmellok/tesserae/commit/82dea9862613bbcdb5da574889c3e4dfbaddecd6) feat(ha_history): optional fixed y-axis range, point ha_sensor at the History widget, bump to 0.397.0
+[`026bfe8`](https://github.com/dmellok/tesserae/commit/026bfe8ca6bd2c767edc90bf596a57187773ce4c) feat(quiet_hours): weekday windows, all-day days, and sleep-through, bump to 0.398.0
 
 ---
 
