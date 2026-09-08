@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.399.2-edge.1788835762, 2026-09-08
+## 0.399.3-edge.1788865341, 2026-09-08
 
-[`c787006`](https://github.com/dmellok/tesserae/commit/c787006ed60151433cb4519e549adfbe4254a31b) fix(ha_history): fold a newer live state into the series so low and high bracket the current value, bump to 0.399.2
+[`8fd1b51`](https://github.com/dmellok/tesserae/commit/8fd1b510dce3f1c751f9ba12462c296107007f35) fix(catalog): stop a finished Browse install also reporting a network error, bump to 0.399.3
 
 ---
 
