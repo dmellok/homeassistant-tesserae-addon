@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.400.1-edge.1788924814, 2026-09-09
+## 0.401.0-edge.1788928902, 2026-09-09
 
-[`8555dcd`](https://github.com/dmellok/tesserae/commit/8555dcdd5e07675454d4c05ecd2c5aaf1b5725d6) Merge pull request #285 from vaibhav8a/fix/gallery-cursor-is-per-device
+[`3553d00`](https://github.com/dmellok/tesserae/commit/3553d00ed353e9ebb6dfe949b5ffabf2cd806361) feat(hardware): add paperlesspaper OpenPaper 7 and OpenPaper L catalog entries, bump to 0.401.0
 
 ---
 
