@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.400.0-edge.1788913338, 2026-09-09
+## 0.400.1-edge.1788924814, 2026-09-09
 
-[`a249d60`](https://github.com/dmellok/tesserae/commit/a249d60fd755c1ec973e09fd4d9c65bdc12bfd2c) feat(gtfs): separate VehiclePositions URL with a distance-from-stop fallback, bump to 0.400.0
+[`8555dcd`](https://github.com/dmellok/tesserae/commit/8555dcdd5e07675454d4c05ecd2c5aaf1b5725d6) Merge pull request #285 from vaibhav8a/fix/gallery-cursor-is-per-device
 
 ---
 
