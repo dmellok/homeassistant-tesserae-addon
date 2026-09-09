@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.402.0-edge.1788935707, 2026-09-09
+## 0.403.0-edge.1788969024, 2026-09-09
 
-[`e47c716`](https://github.com/dmellok/tesserae/commit/e47c716da4f078ffbd4c883c4f4de2367b6fa8e6) feat(hardware): compose the OpenPaper 7 portrait by default, bump to 0.402.0
+[`4dff386`](https://github.com/dmellok/tesserae/commit/4dff3866c738fc2c1780d728e34b5378888e538d) feat(fonts): cache any webfont server-side for canvas pages and code elements, bump to 0.403.0
 
 ---
 
