@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.399.3-edge.1788865341, 2026-09-08
+## 0.400.0-edge.1788913338, 2026-09-09
 
-[`8fd1b51`](https://github.com/dmellok/tesserae/commit/8fd1b510dce3f1c751f9ba12462c296107007f35) fix(catalog): stop a finished Browse install also reporting a network error, bump to 0.399.3
+[`a249d60`](https://github.com/dmellok/tesserae/commit/a249d60fd755c1ec973e09fd4d9c65bdc12bfd2c) feat(gtfs): separate VehiclePositions URL with a distance-from-stop fallback, bump to 0.400.0
 
 ---
 
