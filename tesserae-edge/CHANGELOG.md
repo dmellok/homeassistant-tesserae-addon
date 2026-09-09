@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.403.0-edge.1788969024, 2026-09-09
+## 0.403.1-edge.1788993761, 2026-09-09
 
-[`4dff386`](https://github.com/dmellok/tesserae/commit/4dff3866c738fc2c1780d728e34b5378888e538d) feat(fonts): cache any webfont server-side for canvas pages and code elements, bump to 0.403.0
+[`25883a5`](https://github.com/dmellok/tesserae/commit/25883a530860de1cb1b73dbbdaa916630b0ae1d4) fix(fonts): paint cached webfonts in the canvas editor preview, bump to 0.403.1
 
 ---
 
