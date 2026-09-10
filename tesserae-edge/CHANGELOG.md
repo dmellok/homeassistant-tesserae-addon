@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.405.2-edge.1789071241, 2026-09-10
+## 0.406.1-edge.1789073455, 2026-09-10
 
-[`24589eb`](https://github.com/dmellok/tesserae/commit/24589eb1c55dddcd86d76bcfff0cce5950f5b905) fix(editor): let the location picker accept a pasted lat, lon pair, bump to 0.405.2
+[`8a4d833`](https://github.com/dmellok/tesserae/commit/8a4d833286c2a18f90d427add5df8e12287a5931) style(scripts): satisfy ruff format in the compatibility generator, bump to 0.406.1
 
 ---
 
