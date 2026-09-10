@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.403.1-edge.1788993761, 2026-09-09
+## 0.403.2-edge.1789006845, 2026-09-10
 
-[`25883a5`](https://github.com/dmellok/tesserae/commit/25883a530860de1cb1b73dbbdaa916630b0ae1d4) fix(fonts): paint cached webfonts in the canvas editor preview, bump to 0.403.1
+[`a957b83`](https://github.com/dmellok/tesserae/commit/a957b8324fc6b3fde80fa48ccef7d7496c6b9367) fix(scheduler): count a no_change push as a fired interval schedule, bump to 0.403.2
 
 ---
 
