@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.405.1-edge.1789010265, 2026-09-10
+## 0.405.2-edge.1789071241, 2026-09-10
 
-[`f0e3fdf`](https://github.com/dmellok/tesserae/commit/f0e3fdfc861ca2fe70986215eb1319d2c1f0fb19) fix(tests): anchor the calendar warm-cache window test to today, bump to 0.405.1
+[`24589eb`](https://github.com/dmellok/tesserae/commit/24589eb1c55dddcd86d76bcfff0cce5950f5b905) fix(editor): let the location picker accept a pasted lat, lon pair, bump to 0.405.2
 
 ---
 
