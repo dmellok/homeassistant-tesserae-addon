@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.404.1-edge.1789007519, 2026-09-10
+## 0.405.1-edge.1789010265, 2026-09-10
 
-[`34ae510`](https://github.com/dmellok/tesserae/commit/34ae510a5f087aec089d797b669e6466469f8fe3) docs(hardware): list the Inkplate 10 and Inky Frame 7.3 in the README community table, bump to 0.404.1
+[`f0e3fdf`](https://github.com/dmellok/tesserae/commit/f0e3fdfc861ca2fe70986215eb1319d2c1f0fb19) fix(tests): anchor the calendar warm-cache window test to today, bump to 0.405.1
 
 ---
 
