@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.407.0-edge.1789092952, 2026-09-11
+## 0.408.0-edge.1789096313, 2026-09-11
 
-[`d6c7652`](https://github.com/dmellok/tesserae/commit/d6c7652a51d9521228df46d03727d17f15ffb290) feat(dashboards): add Active / Archived tabs with an archive action, bump to 0.407.0
+[`d7febf5`](https://github.com/dmellok/tesserae/commit/d7febf5307f6698c5a6f3cb2c4322e9d2cceb68d) feat(editor): lower the content zoom floor to 0.25, bump to 0.408.0
 
 ---
 
