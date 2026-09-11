@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.408.0-edge.1789096313, 2026-09-11
+## 0.408.1-edge.1789098092, 2026-09-11
 
-[`d7febf5`](https://github.com/dmellok/tesserae/commit/d7febf5307f6698c5a6f3cb2c4322e9d2cceb68d) feat(editor): lower the content zoom floor to 0.25, bump to 0.408.0
+[`a59f828`](https://github.com/dmellok/tesserae/commit/a59f8287c0900ecb5a6175c2a5bc1ecc71b0c200) fix(gtfs): fill tall or zoomed-out cells with more departures, bump to 0.408.1
 
 ---
 
