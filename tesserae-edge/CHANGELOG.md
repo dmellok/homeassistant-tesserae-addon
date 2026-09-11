@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.406.1-edge.1789073455, 2026-09-10
+## 0.407.0-edge.1789092952, 2026-09-11
 
-[`8a4d833`](https://github.com/dmellok/tesserae/commit/8a4d833286c2a18f90d427add5df8e12287a5931) style(scripts): satisfy ruff format in the compatibility generator, bump to 0.406.1
+[`d6c7652`](https://github.com/dmellok/tesserae/commit/d6c7652a51d9521228df46d03727d17f15ffb290) feat(dashboards): add Active / Archived tabs with an archive action, bump to 0.407.0
 
 ---
 
