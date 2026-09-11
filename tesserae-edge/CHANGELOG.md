@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.408.1-edge.1789098092, 2026-09-11
+## 0.409.0-edge.1789133181, 2026-09-11
 
-[`a59f828`](https://github.com/dmellok/tesserae/commit/a59f8287c0900ecb5a6175c2a5bc1ecc71b0c200) fix(gtfs): fill tall or zoomed-out cells with more departures, bump to 0.408.1
+[`18e46af`](https://github.com/dmellok/tesserae/commit/18e46affeae5f284d6c8c29127007d774b2bb7f0) feat(calendar_week): count-chip toggle and wrapped locations, bump to 0.409.0
 
 ---
 
