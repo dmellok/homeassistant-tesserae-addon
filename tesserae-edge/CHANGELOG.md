@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.411.0-edge.1789187598, 2026-09-12
+## 0.412.0-edge.1789210477, 2026-09-12
 
-[`9dd5ba4`](https://github.com/dmellok/tesserae/commit/9dd5ba4a74ec3b3a65c2a3578975142e07ed4c11) feat(i18n): translate every bundled widget into the fleet's languages, bump to 0.411.0
+[`f2b3810`](https://github.com/dmellok/tesserae/commit/f2b38108e927f71bab9ad4d81c49b5a8497154da) feat(hardware): add the M5Stack PaperMono kind, bump to 0.412.0
 
 ---
 
