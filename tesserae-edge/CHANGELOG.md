@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.409.0-edge.1789133181, 2026-09-11
+## 0.410.0-edge.1789173130, 2026-09-12
 
-[`18e46af`](https://github.com/dmellok/tesserae/commit/18e46affeae5f284d6c8c29127007d774b2bb7f0) feat(calendar_week): count-chip toggle and wrapped locations, bump to 0.409.0
+[`50d9e42`](https://github.com/dmellok/tesserae/commit/50d9e42488f224b271139ea73ad361b3572dcb65) fix(weather_hourly): use Maintenant for the French NOW chip, matching the legend
 
 ---
 
