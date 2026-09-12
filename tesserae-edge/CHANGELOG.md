@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.412.0-edge.1789210477, 2026-09-12
+## 0.412.2-edge.1789213386, 2026-09-12
 
-[`f2b3810`](https://github.com/dmellok/tesserae/commit/f2b38108e927f71bab9ad4d81c49b5a8497154da) feat(hardware): add the M5Stack PaperMono kind, bump to 0.412.0
+[`fe66303`](https://github.com/dmellok/tesserae/commit/fe663039efdb38947bafc5d701a6b4527579de53) feat(hardware): PaperMono touch and frontlight settings, bump to 0.412.2
 
 ---
 
