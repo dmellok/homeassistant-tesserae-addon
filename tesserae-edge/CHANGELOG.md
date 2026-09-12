@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.410.0-edge.1789173130, 2026-09-12
+## 0.410.1-edge.1789173485, 2026-09-12
 
-[`50d9e42`](https://github.com/dmellok/tesserae/commit/50d9e42488f224b271139ea73ad361b3572dcb65) fix(weather_hourly): use Maintenant for the French NOW chip, matching the legend
+[`f66acf8`](https://github.com/dmellok/tesserae/commit/f66acf8be664600fec2664cf6ced00077edf09a3) chore: merge the REST lineup wake margin and the error-diffusion clamp, bump to 0.410.1
 
 ---
 
