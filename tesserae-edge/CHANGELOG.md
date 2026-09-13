@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.412.2-edge.1789213386, 2026-09-12
+## 0.412.3-edge.1789299587, 2026-09-13
 
-[`fe66303`](https://github.com/dmellok/tesserae/commit/fe663039efdb38947bafc5d701a6b4527579de53) feat(hardware): PaperMono touch and frontlight settings, bump to 0.412.2
+[`dbb96ea`](https://github.com/dmellok/tesserae/commit/dbb96ea96d127c4712af3a2224c097c4e7a78d0b) fix(marketplace): remove folders a bundle upgrade no longer ships, bump to 0.412.3
 
 ---
 
