@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.413.0-edge.1789354173, 2026-09-14
+## 0.414.0-edge.1789356956, 2026-09-14
 
-[`26dfe15`](https://github.com/dmellok/tesserae/commit/26dfe1586fc3b26e7019ae2a6ec79c64b75a68b7) Merge pull request #313: 16-level greyscale TRMNL renderer and a device-card renderer picker
+[`d35c699`](https://github.com/dmellok/tesserae/commit/d35c6996e06110f19716956ef689be01b9db341f) Merge pull request #314: dynamic /api/display refresh_rate from the shared poll decision
 
 ---
 
