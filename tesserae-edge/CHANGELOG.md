@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.415.0-edge.1789392663, 2026-09-14
+## 0.416.0-edge.1789415630, 2026-09-14
 
-[`3dfa40f`](https://github.com/dmellok/tesserae/commit/3dfa40f5f40e2b46d6dcf8d7d7f6bc5f688a563a) chore(changelog): cut 0.415.0
+[`df8d70c`](https://github.com/dmellok/tesserae/commit/df8d70cf2125f794960f833ad4a1ff2dec60a142) feat(widgets): ha_dashboard shows an existing Home Assistant dashboard as a frame, bump to 0.416.0
 
 ---
 
