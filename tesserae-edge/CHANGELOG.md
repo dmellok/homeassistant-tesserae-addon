@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.414.2-edge.1789388261, 2026-09-14
+## 0.415.0-edge.1789390129, 2026-09-14
 
-[`18bb5ae`](https://github.com/dmellok/tesserae/commit/18bb5aec3de607284584dacca352167ac324db3e) chore: merge the native-speaker pass on the German widget strings, bump to 0.414.2
+[`9dc3b30`](https://github.com/dmellok/tesserae/commit/9dc3b30ea37bc95eb84fd45e45b9101ccf350b38) feat(heartbeat): report the real release channel and richer install facts, send the first heartbeat on consent, bump to 0.415.0
 
 ---
 
