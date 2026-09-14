@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.415.0-edge.1789390129, 2026-09-14
+## 0.415.0-edge.1789392663, 2026-09-14
 
-[`9dc3b30`](https://github.com/dmellok/tesserae/commit/9dc3b30ea37bc95eb84fd45e45b9101ccf350b38) feat(heartbeat): report the real release channel and richer install facts, send the first heartbeat on consent, bump to 0.415.0
+[`3dfa40f`](https://github.com/dmellok/tesserae/commit/3dfa40f5f40e2b46d6dcf8d7d7f6bc5f688a563a) chore(changelog): cut 0.415.0
 
 ---
 
