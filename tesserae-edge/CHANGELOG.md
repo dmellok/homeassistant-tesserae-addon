@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.414.0-edge.1789356956, 2026-09-14
+## 0.414.1-edge.1789379476, 2026-09-14
 
-[`d35c699`](https://github.com/dmellok/tesserae/commit/d35c6996e06110f19716956ef689be01b9db341f) Merge pull request #314: dynamic /api/display refresh_rate from the shared poll decision
+[`c8451ac`](https://github.com/dmellok/tesserae/commit/c8451acf1cc7a9f482f29744c484bc898793dc01) fix(rest): a webhook touch wake keeps the frame on the glass, bump to 0.414.1
 
 ---
 
