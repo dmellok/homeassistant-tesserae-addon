@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.416.1-edge.1789427891, 2026-09-15
+## 0.416.2-edge.1789466143, 2026-09-15
 
-[`24a9659`](https://github.com/dmellok/tesserae/commit/24a9659cc73cf43499b350613576a7dda3dc5beb) fix(ha_dashboard): re-render once the first frame lands instead of leaving the placeholder on the panel, bump to 0.416.1
+[`58955c5`](https://github.com/dmellok/tesserae/commit/58955c5da9958354c3d99c41f3e4cea32a0b7dc6) fix(auth): render a bare shell on the sign-in and setup pages, bump to 0.416.2
 
 ---
 
