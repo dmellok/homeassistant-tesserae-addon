@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.417.0-edge.1789473379, 2026-09-15
+## 0.418.0-edge.1789507575, 2026-09-15
 
-[`0f128f2`](https://github.com/dmellok/tesserae/commit/0f128f2688ddc10e127fdd23866df49b412c781d) feat(layout-editor): add a remove-cells mode and lift the delete X above the insert strips, bump to 0.417.0
+[`a861b1b`](https://github.com/dmellok/tesserae/commit/a861b1b8c79947805a6f4b72e0d477c9608848f0) feat(calendar): per-feed symbol shown in front of event titles, bump to 0.418.0
 
 ---
 
