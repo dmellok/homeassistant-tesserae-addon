@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.416.2-edge.1789466143, 2026-09-15
+## 0.417.0-edge.1789473379, 2026-09-15
 
-[`58955c5`](https://github.com/dmellok/tesserae/commit/58955c5da9958354c3d99c41f3e4cea32a0b7dc6) fix(auth): render a bare shell on the sign-in and setup pages, bump to 0.416.2
+[`0f128f2`](https://github.com/dmellok/tesserae/commit/0f128f2688ddc10e127fdd23866df49b412c781d) feat(layout-editor): add a remove-cells mode and lift the delete X above the insert strips, bump to 0.417.0
 
 ---
 
