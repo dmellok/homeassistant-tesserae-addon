@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.418.0-edge.1789507575, 2026-09-15
+## 0.418.1-edge.1789507873, 2026-09-15
 
-[`a861b1b`](https://github.com/dmellok/tesserae/commit/a861b1b8c79947805a6f4b72e0d477c9608848f0) feat(calendar): per-feed symbol shown in front of event titles, bump to 0.418.0
+[`3c4fbcf`](https://github.com/dmellok/tesserae/commit/3c4fbcf4e35024ee1bbb1443d160c45c8a305e69) chore(changelog): cut 0.418.1
 
 ---
 
