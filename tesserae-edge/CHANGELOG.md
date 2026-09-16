@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.419.0-edge.1789508570, 2026-09-15
+## 0.419.1-edge.1789527209, 2026-09-16
 
-[`06930b4`](https://github.com/dmellok/tesserae/commit/06930b467d59ee63cc1d73926a51ee7af8294c87) chore(changelog): cut 0.419.0
+[`e47ef64`](https://github.com/dmellok/tesserae/commit/e47ef646577dda1f04091ec9056fa08b39fe6009) feat(touch): log every device tap report, HA call result, and no-target coordinate tap, bump to 0.419.1
 
 ---
 
