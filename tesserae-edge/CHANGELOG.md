@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.419.1-edge.1789527209, 2026-09-16
+## 0.419.2-edge.1789533556, 2026-09-16
 
-[`e47ef64`](https://github.com/dmellok/tesserae/commit/e47ef646577dda1f04091ec9056fa08b39fe6009) feat(touch): log every device tap report, HA call result, and no-target coordinate tap, bump to 0.419.1
+[`9bc1284`](https://github.com/dmellok/tesserae/commit/9bc12849b7893a49e2d246dd813b1f43242b4372) fix(touch): send from the freeform editor pushes the page, polled values carry touch bindings, bump to 0.419.2
 
 ---
 
