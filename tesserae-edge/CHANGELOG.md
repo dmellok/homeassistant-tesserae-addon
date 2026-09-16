@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.419.2-edge.1789533556, 2026-09-16
+## 0.419.3-edge.1789535579, 2026-09-16
 
-[`9bc1284`](https://github.com/dmellok/tesserae/commit/9bc12849b7893a49e2d246dd813b1f43242b4372) fix(touch): send from the freeform editor pushes the page, polled values carry touch bindings, bump to 0.419.2
+[`1d77c39`](https://github.com/dmellok/tesserae/commit/1d77c399e12a482785af2fd990d34ed5e0b43494) chore(changelog): cut 0.419.3
 
 ---
 
