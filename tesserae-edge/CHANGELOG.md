@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.419.3-edge.1789535579, 2026-09-16
+## 0.419.4-edge.1789684304, 2026-09-17
 
-[`1d77c39`](https://github.com/dmellok/tesserae/commit/1d77c399e12a482785af2fd990d34ed5e0b43494) chore(changelog): cut 0.419.3
+[`0836d24`](https://github.com/dmellok/tesserae/commit/0836d2479ccf201d24d95f51b135d407022f28e8) docs(paperlesspaper): vendor re-provisioning as the way back, board storage and sensor notes, bump to 0.419.4
 
 ---
 
