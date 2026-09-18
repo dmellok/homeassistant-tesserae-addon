@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.419.4-edge.1789684304, 2026-09-17
+## 0.420.0-edge.1789700299, 2026-09-18
 
-[`0836d24`](https://github.com/dmellok/tesserae/commit/0836d2479ccf201d24d95f51b135d407022f28e8) docs(paperlesspaper): vendor re-provisioning as the way back, board storage and sensor notes, bump to 0.419.4
+[`aca5e51`](https://github.com/dmellok/tesserae/commit/aca5e51cc25ccf4be846e14a2fe0223b05d62bf7) feat(ui): rebuild the Lineups card, the Send page and Settings › Devices, bump to 0.420.0
 
 ---
 
