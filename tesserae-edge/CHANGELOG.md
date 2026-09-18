@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.422.0-edge.1789704307, 2026-09-18
+## 0.423.0-edge.1789704676, 2026-09-18
 
-[`47ca4c0`](https://github.com/dmellok/tesserae/commit/47ca4c0d62dd1db365e118bdf877da501a002c67) feat(ui): one chip system across the admin UI and a day-timeline History, bump to 0.422.0
+[`47673b3`](https://github.com/dmellok/tesserae/commit/47673b31d23d0f99e6522322e53f76dd73211100) feat(settings): move Themes under Settings with a Manage themes link from the composer, bump to 0.423.0
 
 ---
 
