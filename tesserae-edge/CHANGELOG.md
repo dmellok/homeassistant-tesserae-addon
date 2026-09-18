@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.424.0-edge.1789718199, 2026-09-18
+## 0.425.0-edge.1789725444, 2026-09-18
 
-[`452d174`](https://github.com/dmellok/tesserae/commit/452d1741f145864c84dbb026c44415b31351148c) feat(ui): badge an outdated MCP bridge in the topbar, bump to 0.424.0
+[`6ff2c0e`](https://github.com/dmellok/tesserae/commit/6ff2c0e1fdb2e699c74f07901472af89159ca7ed) fix(pages): clamp the page wake interval on TRMNL kinds and document it for agents, bump to 0.425.0
 
 ---
 
