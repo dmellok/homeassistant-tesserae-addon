@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.421.0-edge.1789701505, 2026-09-18
+## 0.422.0-edge.1789704307, 2026-09-18
 
-[`7d7e4bc`](https://github.com/dmellok/tesserae/commit/7d7e4bc4de2df5c746c2f06de57b6549f912d961) feat(ui): schedule dialog in the editor, foldable dashboard groups, History display filter, rotation pause reasons, bump to 0.421.0
+[`47ca4c0`](https://github.com/dmellok/tesserae/commit/47ca4c0d62dd1db365e118bdf877da501a002c67) feat(ui): one chip system across the admin UI and a day-timeline History, bump to 0.422.0
 
 ---
 
