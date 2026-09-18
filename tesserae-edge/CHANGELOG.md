@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.423.0-edge.1789704676, 2026-09-18
+## 0.423.1-edge.1789717347, 2026-09-18
 
-[`47673b3`](https://github.com/dmellok/tesserae/commit/47673b31d23d0f99e6522322e53f76dd73211100) feat(settings): move Themes under Settings with a Manage themes link from the composer, bump to 0.423.0
+[`f2bdbed`](https://github.com/dmellok/tesserae/commit/f2bdbed8bb166e22d34fc83ad15f23582387da53) docs(mcp): add a changelog for the bridge and complete the README tool table, bump to 0.423.1
 
 ---
 
