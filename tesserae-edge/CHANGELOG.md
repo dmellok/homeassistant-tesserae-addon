@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.426.1-edge.1789942446, 2026-09-20
+## 0.426.2-edge.1789942543, 2026-09-20
 
-[`a2123b7`](https://github.com/dmellok/tesserae/commit/a2123b725d234935b8b84ec1290004b68267d624) Merge pull request #324 from varanu5/fix/deck-navigation-cloud-relay-fix
+[`38d3d61`](https://github.com/dmellok/tesserae/commit/38d3d610edc2f9aa6dd02607c4b0abbfe6b31630) fix(decks): carry the renderer row on a cached deck promotion, bump to 0.426.2
 
 ---
 
