@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.426.0-edge.1789897236, 2026-09-20
+## 0.426.1-edge.1789901104, 2026-09-20
 
-[`b1131c3`](https://github.com/dmellok/tesserae/commit/b1131c3bc238ff0389b5b34bbadf22a78265f566) feat(relay): keep a relay panel's neighbouring rotation steps composed while it sleeps, bump to 0.426.0
+[`4674351`](https://github.com/dmellok/tesserae/commit/4674351171a4d38ef3909396128ca28412c2d4e6) test(decks): accept the sub-minute reading of a waiting panel's behind label, bump to 0.426.1
 
 ---
 
