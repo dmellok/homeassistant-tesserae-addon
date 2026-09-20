@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.426.1-edge.1789901104, 2026-09-20
+## 0.426.1-edge.1789942446, 2026-09-20
 
-[`4674351`](https://github.com/dmellok/tesserae/commit/4674351171a4d38ef3909396128ca28412c2d4e6) test(decks): accept the sub-minute reading of a waiting panel's behind label, bump to 0.426.1
+[`a2123b7`](https://github.com/dmellok/tesserae/commit/a2123b725d234935b8b84ec1290004b68267d624) Merge pull request #324 from varanu5/fix/deck-navigation-cloud-relay-fix
 
 ---
 
