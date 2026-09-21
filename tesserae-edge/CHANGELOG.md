@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.426.2-edge.1789942543, 2026-09-20
+## 0.426.3-edge.1789979551, 2026-09-21
 
-[`38d3d61`](https://github.com/dmellok/tesserae/commit/38d3d610edc2f9aa6dd02607c4b0abbfe6b31630) fix(decks): carry the renderer row on a cached deck promotion, bump to 0.426.2
+[`b92b5bd`](https://github.com/dmellok/tesserae/commit/b92b5bdd3ac3ba2d995a079342b9c9463775c578) fix(devices): keep the firmware column inside its own track and unbreak the device sub-nav in Firefox, bump to 0.426.3
 
 ---
 
