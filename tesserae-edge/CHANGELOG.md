@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.426.3-edge.1789979551, 2026-09-21
+## 0.426.4-edge.1789986651, 2026-09-21
 
-[`b92b5bd`](https://github.com/dmellok/tesserae/commit/b92b5bdd3ac3ba2d995a079342b9c9463775c578) fix(devices): keep the firmware column inside its own track and unbreak the device sub-nav in Firefox, bump to 0.426.3
+[`fa4f5ce`](https://github.com/dmellok/tesserae/commit/fa4f5ceb891363e085bad23632d485485d9a86ed) fix(devices): derive the device page's sticky offsets from the measured topbar height, bump to 0.426.4
 
 ---
 
