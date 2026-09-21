@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.426.4-edge.1789986651, 2026-09-21
+## 0.427.0-edge.1789997072, 2026-09-21
 
-[`fa4f5ce`](https://github.com/dmellok/tesserae/commit/fa4f5ceb891363e085bad23632d485485d9a86ed) fix(devices): derive the device page's sticky offsets from the measured topbar height, bump to 0.426.4
+[`8e7a636`](https://github.com/dmellok/tesserae/commit/8e7a6369577c8d16c99cd934c9fd5b59e3c6064d) docs(changelog): record the MCP craft guidance and the panel blend vocabulary
 
 ---
 
