@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.427.0-edge.1789997072, 2026-09-21
+## 0.427.2-edge.1790158042, 2026-09-23
 
-[`8e7a636`](https://github.com/dmellok/tesserae/commit/8e7a6369577c8d16c99cd934c9fd5b59e3c6064d) docs(changelog): record the MCP craft guidance and the panel blend vocabulary
+[`8d56528`](https://github.com/dmellok/tesserae/commit/8d565284a778fabd5e89413502691024808dd4cd) fix(cloud-init): resolve the newest release tag at boot instead of a pinned one
 
 ---
 
