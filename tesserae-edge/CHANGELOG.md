@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.427.6-edge.1790256165, 2026-09-24
+## 0.428.0-edge.1790288823, 2026-09-24
 
-[`8a649d3`](https://github.com/dmellok/tesserae/commit/8a649d3a12d44f837f8ad3dfe7067d815da7fac0) fix(onboarding): stop the device step looping back to the opt-in step, bump to 0.427.6
+[`2357e0c`](https://github.com/dmellok/tesserae/commit/2357e0c6d167b4e20f822df6e0cf2f871f4da07c) Merge pull request #321 from vaibhav8a/feat/surface-the-panel-refresh-floor
 
 ---
 
