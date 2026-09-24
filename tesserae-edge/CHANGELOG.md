@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.427.4-edge.1790245221, 2026-09-24
+## 0.427.5-edge.1790246848, 2026-09-24
 
-[`85670a7`](https://github.com/dmellok/tesserae/commit/85670a7405d34e022ce8ee72a4159c4dccfe2317) fix(mcp): run bridge tools on a worker thread so a slow render doesn't queue other calls, bump bridge to 0.17.1 and app to 0.427.4
+[`98979d7`](https://github.com/dmellok/tesserae/commit/98979d7ca2b84408139a58596a7d463a02427123) fix(updater): let a cloud-init LXC install update itself, and follow only release tags on Stable, bump to 0.427.5
 
 ---
 
