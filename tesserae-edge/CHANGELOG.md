@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.427.3-edge.1790218535, 2026-09-24
+## 0.427.4-edge.1790245221, 2026-09-24
 
-[`85d0862`](https://github.com/dmellok/tesserae/commit/85d0862bf1f11ce0465709d086aeeb8d82be951a) fix(renderer): recover the browser pool from a hung render, bump to 0.427.3
+[`85670a7`](https://github.com/dmellok/tesserae/commit/85670a7405d34e022ce8ee72a4159c4dccfe2317) fix(mcp): run bridge tools on a worker thread so a slow render doesn't queue other calls, bump bridge to 0.17.1 and app to 0.427.4
 
 ---
 
