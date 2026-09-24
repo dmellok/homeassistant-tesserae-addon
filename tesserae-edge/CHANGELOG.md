@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.427.2-edge.1790214540, 2026-09-24
+## 0.427.3-edge.1790218535, 2026-09-24
 
-[`e57f8e8`](https://github.com/dmellok/tesserae/commit/e57f8e8ddecf3d24c414a231a8ef798533c8a32d) Merge pull request #329 from siilky/codex/fix-canvas-widget-assets-ingress
+[`85d0862`](https://github.com/dmellok/tesserae/commit/85d0862bf1f11ce0465709d086aeeb8d82be951a) fix(renderer): recover the browser pool from a hung render, bump to 0.427.3
 
 ---
 
