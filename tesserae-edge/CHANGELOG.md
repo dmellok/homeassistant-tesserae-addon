@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.427.2-edge.1790158042, 2026-09-23
+## 0.427.2-edge.1790214540, 2026-09-24
 
-[`8d56528`](https://github.com/dmellok/tesserae/commit/8d565284a778fabd5e89413502691024808dd4cd) fix(cloud-init): resolve the newest release tag at boot instead of a pinned one
+[`e57f8e8`](https://github.com/dmellok/tesserae/commit/e57f8e8ddecf3d24c414a231a8ef798533c8a32d) Merge pull request #329 from siilky/codex/fix-canvas-widget-assets-ingress
 
 ---
 
