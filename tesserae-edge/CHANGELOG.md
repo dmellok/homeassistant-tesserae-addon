@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.427.5-edge.1790246848, 2026-09-24
+## 0.427.6-edge.1790256165, 2026-09-24
 
-[`98979d7`](https://github.com/dmellok/tesserae/commit/98979d7ca2b84408139a58596a7d463a02427123) fix(updater): let a cloud-init LXC install update itself, and follow only release tags on Stable, bump to 0.427.5
+[`8a649d3`](https://github.com/dmellok/tesserae/commit/8a649d3a12d44f837f8ad3dfe7067d815da7fac0) fix(onboarding): stop the device step looping back to the opt-in step, bump to 0.427.6
 
 ---
 
