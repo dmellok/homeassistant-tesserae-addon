@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.428.0-edge.1790288823, 2026-09-24
+## 0.429.0-edge.1790346015, 2026-09-25
 
-[`2357e0c`](https://github.com/dmellok/tesserae/commit/2357e0c6d167b4e20f822df6e0cf2f871f4da07c) Merge pull request #321 from vaibhav8a/feat/surface-the-panel-refresh-floor
+[`03fc3d3`](https://github.com/dmellok/tesserae/commit/03fc3d38a001a4e5b7a1ca319db2e6633f38d161) feat(devices): add the koreader_client kind with Kindle and Kobo hardware entries, bump to 0.429.0
 
 ---
 
