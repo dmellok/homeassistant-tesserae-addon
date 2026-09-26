@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.429.0-edge.1790346015, 2026-09-25
+## 0.429.1-edge.1790466073, 2026-09-26
 
-[`03fc3d3`](https://github.com/dmellok/tesserae/commit/03fc3d38a001a4e5b7a1ca319db2e6633f38d161) feat(devices): add the koreader_client kind with Kindle and Kobo hardware entries, bump to 0.429.0
+[`dd22740`](https://github.com/dmellok/tesserae/commit/dd22740c8f6a642fd4a3ba44ef36ad22d81fd63b) Merge pull request #333 from ibr/fix/trmnl-rotate-composition-onto-client-buffer
 
 ---
 
