@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.429.1-edge.1790466073, 2026-09-26
+## 0.430.0-edge.1790468171, 2026-09-27
 
-[`dd22740`](https://github.com/dmellok/tesserae/commit/dd22740c8f6a642fd4a3ba44ef36ad22d81fd63b) Merge pull request #333 from ibr/fix/trmnl-rotate-composition-onto-client-buffer
+[`1065fc2`](https://github.com/dmellok/tesserae/commit/1065fc2a504d4df51290f29ea38c868f4cf2db20) Merge pull request #332 from vaibhav8a/feat/catalog-fields-and-q-filter
 
 ---
 
