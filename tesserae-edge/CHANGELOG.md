@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.432.0-edge.1790568575, 2026-09-28
+## 0.432.1-edge.1790589966, 2026-09-28
 
-[`baffdac`](https://github.com/dmellok/tesserae/commit/baffdac6a89b7e86758ecb65717cbbcca69d49c1) fix(ha_entities): gate the title-bar changed count on show_last_updated, tighten the option help, plugin 0.8.0; confirm the X4 Pro panel block from the grayscale sibling; changelog for #335 and #336; bump to 0.432.0
+[`5341c41`](https://github.com/dmellok/tesserae/commit/5341c41e08b920ab2f7714a655c25f8686747258) fix(push): log an expected whole-frame divert at INFO; changelog for #337
 
 ---
 
