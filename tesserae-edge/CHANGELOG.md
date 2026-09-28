@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.430.0-edge.1790468171, 2026-09-27
+## 0.430.0-edge.1790566215, 2026-09-28
 
-[`1065fc2`](https://github.com/dmellok/tesserae/commit/1065fc2a504d4df51290f29ea38c868f4cf2db20) Merge pull request #332 from vaibhav8a/feat/catalog-fields-and-q-filter
+[`ecfc3c5`](https://github.com/dmellok/tesserae/commit/ecfc3c537fcaaadaa4d6db4626a5e755f5b2f939) Merge pull request #335 from stumpigit/hardware/xteink-x4-pro-gray
 
 ---
 
