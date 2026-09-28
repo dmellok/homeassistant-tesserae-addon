@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.430.0-edge.1790566215, 2026-09-28
+## 0.430.0-edge.1790568303, 2026-09-28
 
-[`ecfc3c5`](https://github.com/dmellok/tesserae/commit/ecfc3c537fcaaadaa4d6db4626a5e755f5b2f939) Merge pull request #335 from stumpigit/hardware/xteink-x4-pro-gray
+[`2213f71`](https://github.com/dmellok/tesserae/commit/2213f716d5160f4179e03f3a59aa3a44c4f652d4) Merge pull request #336 from lorenzph/ha-entities-allow-hiding-last-updated-badge
 
 ---
 
