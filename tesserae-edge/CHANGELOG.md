@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.430.0-edge.1790568303, 2026-09-28
+## 0.432.0-edge.1790568575, 2026-09-28
 
-[`2213f71`](https://github.com/dmellok/tesserae/commit/2213f716d5160f4179e03f3a59aa3a44c4f652d4) Merge pull request #336 from lorenzph/ha-entities-allow-hiding-last-updated-badge
+[`baffdac`](https://github.com/dmellok/tesserae/commit/baffdac6a89b7e86758ecb65717cbbcca69d49c1) fix(ha_entities): gate the title-bar changed count on show_last_updated, tighten the option help, plugin 0.8.0; confirm the X4 Pro panel block from the grayscale sibling; changelog for #335 and #336; bump to 0.432.0
 
 ---
 
