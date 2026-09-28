@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.432.1-edge.1790589966, 2026-09-28
+## 0.432.3-edge.1790633509, 2026-09-28
 
-[`5341c41`](https://github.com/dmellok/tesserae/commit/5341c41e08b920ab2f7714a655c25f8686747258) fix(push): log an expected whole-frame divert at INFO; changelog for #337
+[`195d1c1`](https://github.com/dmellok/tesserae/commit/195d1c1a8f9a9ac4d7019480f4636635531ffc27) test(calendar_day): load server.py under a unique module name instead of a bare import of server; changelog number for #340; bump to 0.432.3
 
 ---
 
