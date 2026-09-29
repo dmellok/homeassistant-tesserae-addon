@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.432.5-edge.1790648094, 2026-09-29
+## 0.433.0-edge.1790658934, 2026-09-29
 
-[`01997f7`](https://github.com/dmellok/tesserae/commit/01997f70a585287d39070d4db110766fa099cc33) docs(widgets): helper modules beside server.py, how the host imports it and the by-path pattern that avoids sys.path collisions; bump to 0.432.4
+[`ea54ce2`](https://github.com/dmellok/tesserae/commit/ea54ce28fd0eab81f28cfa2a144b2ba675adae25) feat(relay): optional per-panel daily frame cap (FRAME_DAILY_LIMIT) answering 429 rate_limited with Retry-After to 00:00 UTC; home holds uploads for a capped panel until the reset and Settings → Cloud relay shows a self-host notice; changelog; bump to 0.433.0
 
 ---
 
