@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.435.0-edge.1790675779, 2026-09-29
+## 0.435.1-edge.1790687094, 2026-09-29
 
-[`fc7a49d`](https://github.com/dmellok/tesserae/commit/fc7a49dc42f71b1c0e01cc7b216ec4d5db383706) feat(devices): device log upload and failure reports; a panel advertising logs.schema is asked for its log (top-level logs.upload on /status) while an operator collection runs or after a new diag report, text/plain /log batches are stored per device (last 20 or 1 MB) with a Logs section on the device page, diag reports land as error rows in Events, auto-collect on failure is an app setting on by default; protocol docs, changelog; bump to 0.435.0
+[`51367ad`](https://github.com/dmellok/tesserae/commit/51367ad0be731af04acfa46ed6fcf7cdefe85bc4) fix(ha_core): send end_time on history requests; HA ends the period one day after the start without it, so the ha_energy 48 h sparkline only got its oldest day and yesterday's line went flat at the current time while today's was a flat carry, and the HA data service's hours option was cut to 24; test, changelog for #339; bump to 0.435.1
 
 ---
 
