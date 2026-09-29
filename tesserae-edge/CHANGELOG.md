@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.433.0-edge.1790658934, 2026-09-29
+## 0.433.1-edge.1790659154, 2026-09-29
 
-[`ea54ce2`](https://github.com/dmellok/tesserae/commit/ea54ce28fd0eab81f28cfa2a144b2ba675adae25) feat(relay): optional per-panel daily frame cap (FRAME_DAILY_LIMIT) answering 429 rate_limited with Retry-After to 00:00 UTC; home holds uploads for a capped panel until the reset and Settings → Cloud relay shows a self-host notice; changelog; bump to 0.433.0
+[`1e1ff48`](https://github.com/dmellok/tesserae/commit/1e1ff48c43a749c95acd0b319602e378a483e7c6) fix(relay): frame-cap message and Cloud relay notice suggest a slower refresh before self-hosting; bump to 0.433.1
 
 ---
 
