@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.432.5-edge.1790635835, 2026-09-28
+## 0.432.5-edge.1790648094, 2026-09-29
 
-[`18a2c6f`](https://github.com/dmellok/tesserae/commit/18a2c6fa285287525c018f1b2b6540eb5842e6a8) fix(devices): offer Switch to MQTT only where the client can follow; heal REST-only instances left on MQTT; changelog for #341; bump to 0.432.5
+[`01997f7`](https://github.com/dmellok/tesserae/commit/01997f70a585287d39070d4db110766fa099cc33) docs(widgets): helper modules beside server.py, how the host imports it and the by-path pattern that avoids sys.path collisions; bump to 0.432.4
 
 ---
 
