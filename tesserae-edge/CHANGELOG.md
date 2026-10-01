@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.436.1-edge.1790855547, 2026-10-01
+## 0.437.0-edge.1790862045, 2026-10-01
 
-[`7392542`](https://github.com/dmellok/tesserae/commit/7392542c9c563b9982e3c9448f21815ca7433704) chore(changelog): cut 0.436.1
+[`9230848`](https://github.com/dmellok/tesserae/commit/92308482a29929547caec8708111a60ba287eb66) feat(ui): in Paper, Settings gets a second sidebar on wide screens: the settings tab strip on every settings page becomes a full-height column beside the main sidebar with a Settings label and quiet rows, the active one shaded with a red inset bar; narrower screens keep the strip. Page titles drop their leading icon as in the mockups. The themes nav test now checks for a link rather than any mention of the path.
 
 ---
 
