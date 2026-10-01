@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.437.1-edge.1790865838, 2026-10-01
+## 0.437.2-edge.1790867546, 2026-10-01
 
-[`7c27469`](https://github.com/dmellok/tesserae/commit/7c274697da7c64ed484bb71ff173e08f39d3bbd6) chore: changelog for the Paper refinements; bump to 0.437.1
+[`18ea07d`](https://github.com/dmellok/tesserae/commit/18ea07dff003e8e37e3667676dc721bde10fe582) test(history): keep both of today's rows on today's date when the test runs just after midnight in Melbourne; a fixed ten-minute gap pushed the earlier row into yesterday and failed CI in that window; bump to 0.437.2
 
 ---
 
