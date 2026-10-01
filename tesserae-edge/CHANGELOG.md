@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.436.1-edge.1790737304, 2026-09-30
+## 0.436.1-edge.1790855547, 2026-10-01
 
-[`b2fde9a`](https://github.com/dmellok/tesserae/commit/b2fde9a1fba9d9b33271ce6fa5f68f19d65b5395) fix(touch): on a panel that draws its own touch controls, keep buttons out of the touch-v3 spec and paint them server-side when the renderer turns the frame (90/270 against the native orientation, or a flipped mount), since the firmware drew their labels and icons sideways; and blank only the primitives the spec carries, so a button the spec skips (no action) is painted instead of vanishing; changelog for #343; bump to 0.436.1
+[`7392542`](https://github.com/dmellok/tesserae/commit/7392542c9c563b9982e3c9448f21815ca7433704) chore(changelog): cut 0.436.1
 
 ---
 
