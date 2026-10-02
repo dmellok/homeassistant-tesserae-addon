@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.440.1-edge.1790911835, 2026-10-02
+## 0.440.2-edge.1790912068, 2026-10-02
 
-[`61dbeea`](https://github.com/dmellok/tesserae/commit/61dbeeae5c0d4674ee16a6b0f688b1c206ee369c) fix(auth): X-Forwarded-For is only believed from a reverse proxy on this machine or the local network, and loopback means a direct connection from this machine with no forwarding headers. Before, a LAN client claiming 127.0.0.1 reached the renderer-only pages (/compose/, the theme stylesheets) without a session, and an internet client claiming a LAN address got past the network check on installs with the password off; bump to 0.440.1
+[`2e8b947`](https://github.com/dmellok/tesserae/commit/2e8b947c703a11d936f20f953339ad9dc51a99bf) chore(mcp): tesserae-mcp 0.18.1 drops the last "mcp experiment" wording from its messages and docs now that agent access is a regular feature, and the bridge changelog records 0.17.1 and 0.18.0; Tesserae expects bridge 0.18.1; bump to 0.440.2
 
 ---
 
