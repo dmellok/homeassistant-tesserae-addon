@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.437.4-edge.1790894954, 2026-10-01
+## 0.438.0-edge.1790899111, 2026-10-02
 
-[`5c6aa52`](https://github.com/dmellok/tesserae/commit/5c6aa52e2b7194c45867578f0be17280713957af) feat(ui): in Paper, panels morph out of the control that opened them and back. The batteries pill grows into its panel (clip-path from the pill's exact shape, icon and count kept on top) and shrinks back, opening on hover or click and fitting phone widths. A new static/morph.js does the same for info popovers, the icon picker, location results, the Lineups and History row menus, the catalog sort menu, the wizard and schedule dialogs, the lightboxes, the template install box and the restart box: a panel covering its trigger grows by clip-path, one opening away from it scales out from the trigger's rectangle, contents fade in behind; a MutationObserver catches panels shown by hidden, <details open>, <dialog open> or insertion, and closes are held for the shrink. Classic is unchanged and reduced motion turns it off; bump to 0.437.4
+[`7840e98`](https://github.com/dmellok/tesserae/commit/7840e98be9d25d92850e50652e8679ff5718a891) feat(ui): the Dashboards list becomes a table like Settings › Devices, in both designs: a toolbar with search, a Panel filter, the Active / Archived switch and a count; one row per dashboard with a status dot (solid while a panel shows it, hollow while a lineup holds it), a thumbnail, panel, size, updates, wake, last push and state; and a row that opens in place onto a larger preview, four figures and its controls (Updates, Wake, Push, settings, Duplicate, Archive or Restore, Delete, Open in editor). Bulk select gains a select-all box, the per-display groups give way to the Panel column and filter, and the create form opens from New dashboard in the page head. Columns drop as the table narrows and rows become two lines on phones, with no sideways scroll; bump to 0.438.0
 
 ---
 
