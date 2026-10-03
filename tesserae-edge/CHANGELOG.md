@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.441.6-edge.1791062035, 2026-10-03
+## 0.442.0-edge.1791069301, 2026-10-03
 
-[`cdd75ac`](https://github.com/dmellok/tesserae/commit/cdd75acb8565bb87cfdabe058b2b0dfa98cb3916) docs: the design system for code elements is called Looks in the docs and the credits, with a note that the library keeps its Mosaic name in code (the Mosaic global, the m- classes, the tesserae-mosaic repo), so it no longer shares a name with the cloud editor's Mosaic layout, a dashboard made of widget tiles; bump to 0.441.6
+[`949a951`](https://github.com/dmellok/tesserae/commit/949a951330715b0002cdee369e69d5c6a3b82536) feat(panels): a kaleido3 gamut for colour e-readers on the KOReader plugin (Kobo Libra Colour and Clara Colour): a reader pairing with gamut kaleido3 is pinned to the new kaleido_png renderer and receives a full-resolution 24-bit RGB PNG with each channel error-diffused onto sixteen levels, announced as format png; re-registering with kaleido3 or gray_16 moves an existing reader on or off it. Kobo colour SKUs join the hardware catalog, the quantizer and the composer's panel preview handle the gamut, and the client-protocol and compatibility docs describe it. Also fixed: a KOReader instance reporting a different screen than its kind's default no longer inherits that default's native stride; bump to 0.442.0
 
 ---
 
