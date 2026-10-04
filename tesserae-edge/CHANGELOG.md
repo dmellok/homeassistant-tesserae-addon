@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.442.1-edge.1791085854, 2026-10-04
+## 0.442.2-edge.1791100464, 2026-10-04
 
-[`145bb3f`](https://github.com/dmellok/tesserae/commit/145bb3f94b2f595d1f93686ae45aa6bbf592da57) docs(credits): Nominatim, which turns a photo's GPS position into a place name for Tesserae Cloud's photo-frame captions; bump to 0.442.1
+[`450879b`](https://github.com/dmellok/tesserae/commit/450879b59132e77b4f75d1550e18c02ee9ade0e0) docs(credits): Fraunces and the Phosphor bold outlines baked as paths, both used by Tesserae Cloud's Ink pages; bump to 0.442.2
 
 ---
 
