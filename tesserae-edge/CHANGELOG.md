@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.443.1-edge.1791194978, 2026-10-05
+## 0.444.0-edge.1791198533, 2026-10-05
 
-[`6cd062d`](https://github.com/dmellok/tesserae/commit/6cd062d16da61650c56c307dc56dce5c4f025f64) feat(hardware): Soldered Inkplate 6COLOR (600x448 ACeP, inky_7colour) and Inkplate 13SPECTRA (1600x1200 Spectra 6) catalog entries for the community inkplate-tesserae-driver firmware, both on esp32_client with esp32_bin frames; the 6COLOR notes give the current Inky nibble order, which matches the Inkplate library constants. Listed in the README community table and the compatibility doc. Soldered's shop moved to /products/, so the Inkplate 10 link is updated too; bump to 0.443.1
+[`1a02e5b`](https://github.com/dmellok/tesserae/commit/1a02e5ba11b4d487e9f0f29ca3e707b15eb8c823) Merge pull request #348 from bfaist/feat/picture-apod-v2
 
 ---
 
