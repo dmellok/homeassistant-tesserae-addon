@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.443.0-edge.1791153185, 2026-10-04
+## 0.443.1-edge.1791194978, 2026-10-05
 
-[`971f8d3`](https://github.com/dmellok/tesserae/commit/971f8d38ee3df85766d9f35307271eaf404c0d12) feat(touch): a Touch wake setting for the reTerminal E1003 and reTerminal Sticky, sent as touch_wake ("tap" or "gesture") in the status config block next to touch_enabled (#327). Tap keeps the touch controller scanning through deep sleep as before; gesture parks it in its gesture mode, about 1 mA instead of several, where a double tap or a swipe wakes the panel and a single first tap does not. The esp32_client and esp32_bw_client validators accept the two modes, the bw validator now also checks touch_enabled and touch_linger_s, which it had been passing through unchecked; docs for touch, quiet hours and the client protocol describe the mode; bump to 0.443.0
+[`6cd062d`](https://github.com/dmellok/tesserae/commit/6cd062d16da61650c56c307dc56dce5c4f025f64) feat(hardware): Soldered Inkplate 6COLOR (600x448 ACeP, inky_7colour) and Inkplate 13SPECTRA (1600x1200 Spectra 6) catalog entries for the community inkplate-tesserae-driver firmware, both on esp32_client with esp32_bin frames; the 6COLOR notes give the current Inky nibble order, which matches the Inkplate library constants. Listed in the README community table and the compatibility doc. Soldered's shop moved to /products/, so the Inkplate 10 link is updated too; bump to 0.443.1
 
 ---
 
