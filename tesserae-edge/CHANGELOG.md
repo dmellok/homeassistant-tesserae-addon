@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.447.1-edge.1791413596, 2026-10-07
+## 0.447.2-edge.1791420880, 2026-10-08
 
-[`e31287a`](https://github.com/dmellok/tesserae/commit/e31287a006033b0c67063cd43246776c1f79889b) fix(widgets): widgets with a location follow that location's clock instead of the server's (#351). Open-Meteo already answers in the location's zone, but "now" came from the server or the render browser, so a Melbourne cell on a Berlin server showed Berlin's time and date and put the sun on the wrong part of the arc. Sunrise and sunset (0.1.7) places the sun and picks the day or night icon in the location's zone and no longer serves yesterday's times after the location's midnight; scenic weather (0.1.3) shows the location's time and date in the interface language instead of always US English; weather now (0.1.11) and forecast (0.2.1) take the sun position, today and the time from the location's zone and recompute them on a cache hit. The location picker keeps the geocoder's IANA zone inside the saved location, as does server-side geocoding, and a typed place name or the app-level location now reaches a widget's location option as the resolved place, so catalog widgets can read its zone; bump to 0.447.1
+[`747a5bf`](https://github.com/dmellok/tesserae/commit/747a5bf8d03c451f500e885bd64e1eb78cbac613) fix(devices): a device that switches format, gamut or renderer is repainted straight away instead of answering 204 until the next push. Dropping the old-format frame was right, but a device on a page with no schedule or rotation never got that push, so a CircuitPython client moving from png to bmp sat on 204 until somebody pressed Send. The page behind the frame is pushed again for that device when it is known; otherwise the stored composition is re-encoded for the new renderer, except after a kind change, which can move the panel size. The repaint runs in the background and shows in History as a resend; bump to 0.447.2
 
 ---
 
