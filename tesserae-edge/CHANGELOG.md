@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.448.1-edge.1791493491, 2026-10-08
+## 0.448.1-edge.1791494724, 2026-10-08
 
-[`8ee26eb`](https://github.com/dmellok/tesserae/commit/8ee26eb74d2990c1926885888b4b928f256017df) test(rotation): pin the scheduler to UTC in the two wiring helpers (#353)
+[`81fd1ea`](https://github.com/dmellok/tesserae/commit/81fd1eaaf88b1dccc42ad5ed357731aec4ccdaeb) Add Good Display ESP32-133C02 hardware support (#354)
 
 ---
 
