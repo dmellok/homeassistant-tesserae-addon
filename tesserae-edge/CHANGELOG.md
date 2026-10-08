@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.448.2-edge.1791496152, 2026-10-08
+## 0.448.4-edge.1791498689, 2026-10-08
 
-[`bc17f88`](https://github.com/dmellok/tesserae/commit/bc17f8869d11a2a4eacf40f47a3e68f977e7db88) docs(readme): the TRMNL BYOS link pointed at a help article that no longer exists; it now goes to TRMNL's guide for connecting a device to a BYOS server (#356); bump to 0.448.2
+[`0097e50`](https://github.com/dmellok/tesserae/commit/0097e509005f637048e3a6940f231b1fae7dafb8) fix(widgets): scenic weather says Clear rather than Sunny on a clear night (#351). WMO code 0 was always labelled Sunny, so the moon scene read Sonnig in the middle of the night; the night label reuses Weather now's Clear translation in every locale. Scenic weather 0.1.4; bump to 0.448.4
 
 ---
 
