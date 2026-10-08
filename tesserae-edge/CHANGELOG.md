@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.447.2-edge.1791420880, 2026-10-08
+## 0.448.0-edge.1791424257, 2026-10-08
 
-[`747a5bf`](https://github.com/dmellok/tesserae/commit/747a5bf8d03c451f500e885bd64e1eb78cbac613) fix(devices): a device that switches format, gamut or renderer is repainted straight away instead of answering 204 until the next push. Dropping the old-format frame was right, but a device on a page with no schedule or rotation never got that push, so a CircuitPython client moving from png to bmp sat on 204 until somebody pressed Send. The page behind the frame is pushed again for that device when it is known; otherwise the stored composition is re-encoded for the new renderer, except after a kind change, which can move the panel size. The repaint runs in the background and shows in History as a resend; bump to 0.447.2
+[`719a760`](https://github.com/dmellok/tesserae/commit/719a7604b44279fc8d31b9b090ccd115a3d3c42d) feat(brand): the self-hosted server looks like itself next to Tesserae Cloud. The mark is the ink tile with a red top right and a paper bottom left, drawn once in a template macro for the Paper and classic UIs and the canvas editor (the classic conic-gradient mark is gone), and it no longer turns light in the light theme; on a dark theme it gains a 1 px light hairline, the only part that follows the theme. The lockup reads Tesserae in Inter 700 with a SERVER tag in place of the old Self-hosted label, and a server name chip (#350) sits beside it. A server colour now colours only the top-right square, so a tinted tab still reads as self-hosted. The favicon is an SVG with a PNG fallback, the PWA, touch, maskable, Home Assistant App and firmware splash PNGs are rendered from the SVGs by scripts/render_brand.py through Chromium instead of drawn with Pillow, the docs site and the README carry the server mark and wordmark, and the manifest colours are ink; bump to 0.448.0
 
 ---
 
