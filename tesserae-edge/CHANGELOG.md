@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.448.7-edge.1791612142, 2026-10-10
+## 0.448.8-edge.1791626686, 2026-10-10
 
-[`f5b3041`](https://github.com/dmellok/tesserae/commit/f5b30417aee854a57c58618301b03536f0525a25) fix(hardware): the epdiy v7 + ED133UT2 entry describes the firmware as it now is: the PaperS3's parallel driver, a FastEPD port, with the v7 power path and the grey matrix and VCOM from bitbank2/FastEPD#44, instead of the epdiy library; the partial-refresh build is gone; bump to 0.448.7
+[`ee1edcb`](https://github.com/dmellok/tesserae/commit/ee1edcb92792be1832ba231282588d474473f513) fix(backups): a data export over 16 MiB imports through the Home Assistant sidebar. HA's ingress proxy refuses any request body over 16 MiB, and an export carrying plugin caches such as GTFS feeds passes that, so importing a stable server's export into the edge App failed with "Maximum request body size 16777216 exceeded" before the upload reached Tesserae. The import page now sends a zip over 8 MiB in 8 MiB pieces to a new chunk route, which keeps them in the system temp dir outside data/, then a finish route joins them and runs the same validation, pre-import backup and restore as a single upload; smaller zips keep the plain form post. Pieces are refused for a malformed id or number, over 12 MiB, or past 4 GiB in total, are dropped after an hour, and a missing piece fails the import without touching data/. Checked end to end in Chromium with a 20 MiB export; bump to 0.448.8
 
 ---
 
