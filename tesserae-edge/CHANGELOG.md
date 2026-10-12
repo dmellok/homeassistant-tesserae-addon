@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.449.1-edge.1791686280, 2026-10-11
+## 0.450.0-edge.1791804787, 2026-10-12
 
-[`3b6a5af`](https://github.com/dmellok/tesserae/commit/3b6a5af779c18779a8d92242683375cfcc894761) fix(scheduler): a page's Auto-update lands on the clock. A page refreshing every N minutes now renders once per N-minute slot of the wall clock in the configured timezone, just after the slot starts, and the scheduler tick waits to the next multiple of its interval rather than a full interval after the last tick finished. Each refresh used to come N minutes after the previous render ended and every tick slid by the time the last one spent rendering, so a 1-minute clock page crept a few seconds every minute and skipped a minute every few (firmware repo #39); bump to 0.449.1
+[`3a5a129`](https://github.com/dmellok/tesserae/commit/3a5a129c99bebb79dad5097c22264f32d83383f2) feat(ha_energy): yesterday's solar total (#362)
 
 ---
 
