@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.450.0-edge.1791804787, 2026-10-12
+## 0.451.0-edge.1791853427, 2026-10-13
 
-[`3a5a129`](https://github.com/dmellok/tesserae/commit/3a5a129c99bebb79dad5097c22264f32d83383f2) feat(ha_energy): yesterday's solar total (#362)
+[`9a386d8`](https://github.com/dmellok/tesserae/commit/9a386d851d8d00a2922dbb69207ed9aef9206051) feat(widgets): upload a widget from the Widgets page. Upload widget takes a .zip or .tar.gz of a widget folder and installs it into data/authored/ beside Tesserae Studio pushes, so a widget written for one install needs neither the catalog nor file access, which the Home Assistant App does not offer. A zip is repacked as a tarball under the same caps and goes through the existing install path (schema check, bundled-id refusal, data extraction filter); symlinks and Finder's __MACOSX and .DS_Store entries are dropped. The widget is live after an in-process reload, and one with an admin page marks a restart pending. Uploaded and pushed widgets get a Remove button that only ever deletes under data/authored/. Docs, changelog and tests follow; bump to 0.451.0
 
 ---
 
