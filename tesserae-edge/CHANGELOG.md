@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.451.0-edge.1791853427, 2026-10-13
+## 0.452.0-edge.1791890637, 2026-10-13
 
-[`9a386d8`](https://github.com/dmellok/tesserae/commit/9a386d851d8d00a2922dbb69207ed9aef9206051) feat(widgets): upload a widget from the Widgets page. Upload widget takes a .zip or .tar.gz of a widget folder and installs it into data/authored/ beside Tesserae Studio pushes, so a widget written for one install needs neither the catalog nor file access, which the Home Assistant App does not offer. A zip is repacked as a tarball under the same caps and goes through the existing install path (schema check, bundled-id refusal, data extraction filter); symlinks and Finder's __MACOSX and .DS_Store entries are dropped. The widget is live after an in-process reload, and one with an admin page marks a restart pending. Uploaded and pushed widgets get a Remove button that only ever deletes under data/authored/. Docs, changelog and tests follow; bump to 0.451.0
+[`ab8bca9`](https://github.com/dmellok/tesserae/commit/ab8bca9d7f54719caf823cd299a821b607d94a0c) feat(devices, widgets): Bloomin8 Canvas support and widget options that show only when they apply. A bloomin8_canvas kind answers the Canvas's Schedule Pull API under /api/bloomin8 (#344): /eink_pull authenticates by X-Access-Token, records the battery as a heartbeat and returns the latest composition as a baseline portrait JPEG (_P or _L) with next_cron_time from the shared next-poll decision, answering status 204 once /eink_signal confirms the frame was painted; the frame route serves only frames a pull handed that device. The token modal shows the upstream URL and pull_settings command, and a quickstart covers setup; not yet tested on hardware. Widget cell_options gain show_if (equals, any-of list, not), evaluated server-side for the first render by app/option_conditions.py and kept live by attachShowIf in the grid editor and canvas Configure drawer; hidden fields stay enabled so their values still save. Schema, docs, MCP notes and tests follow; bump to 0.452.0
 
 ---
 
