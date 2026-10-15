@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.12.1-edge.1792049666, 2026-10-15
+## 0.12.1-edge.1792049670, 2026-10-15
 
-[`f382814`](https://github.com/dmellok/tesserae-studio/commit/f38281435a4000a102bf1f1d1bab000ce9262de1) Give preview widgets ctx.locale and ctx.t (#7)
+[`14b9d7b`](https://github.com/dmellok/tesserae-studio/commit/14b9d7bb3c014da96ff6654242c79a24169a4740) Do not flag Chart.js border option objects as ad-hoc borders (#8)
 
 ---
 
