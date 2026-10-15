@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.12.1-edge.1788353844, 2026-09-02
+## 0.12.1-edge.1792049666, 2026-10-15
 
-[`593fe0a`](https://github.com/dmellok/tesserae-studio/commit/593fe0a137a84559052abbf82386c479f1f55890) Bump to 0.12.1
+[`f382814`](https://github.com/dmellok/tesserae-studio/commit/f38281435a4000a102bf1f1d1bab000ce9262de1) Give preview widgets ctx.locale and ctx.t (#7)
 
 ---
 
