@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.457.0-edge.1792125581, 2026-10-16
+## 0.457.1-edge.1792143067, 2026-10-16
 
-[`ea6b043`](https://github.com/dmellok/tesserae/commit/ea6b043ebd8e8994e39cc96f7f0a2b5078973cb4) feat(jobs): a button of a job's own in the tray. jobs.report takes action=(label, callable); the card shows the button and POST /jobs/act runs the callable. Bump to 0.457.0
+[`0d21a49`](https://github.com/dmellok/tesserae/commit/0d21a499d397b85991eb91913ae85cfc32484ab1) fix(renderer): decode every loaded picture before the screenshot. The image wait resolved on load, and Chromium decodes a big picture (a widget's data-URL JPEG, a camera frame) after that, so a frame captured in between had the picture's box empty; each loaded image is now decoded and a frame let through first, with a log line when one would not decode or the wait gave up. Bump to 0.457.1
 
 ---
 
