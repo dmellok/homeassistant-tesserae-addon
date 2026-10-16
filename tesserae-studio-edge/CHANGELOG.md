@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.12.1-edge.1792189750, 2026-10-16
+## 0.13.0-edge.1792189808, 2026-10-16
 
-[`39df1b3`](https://github.com/dmellok/tesserae-studio/commit/39df1b3e1479731eb4aa91c73bd0e6c724d8d4ce) Send cell options with the faithful render (#9)
+[`019726f`](https://github.com/dmellok/tesserae-studio/commit/019726f28c7096ce5d4d01c1305f025806f5509a) Bump to 0.13.0
 
 ---
 
