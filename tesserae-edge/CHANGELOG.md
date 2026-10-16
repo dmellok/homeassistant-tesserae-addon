@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.456.1-edge.1792119744, 2026-10-16
+## 0.457.0-edge.1792125581, 2026-10-16
 
-[`dbf19d5`](https://github.com/dmellok/tesserae/commit/dbf19d52242419d677d9b100b463525adca6dfdd) chore: format the textarea presets test; bump to 0.456.1
+[`ea6b043`](https://github.com/dmellok/tesserae/commit/ea6b043ebd8e8994e39cc96f7f0a2b5078973cb4) feat(jobs): a button of a job's own in the tray. jobs.report takes action=(label, callable); the card shows the button and POST /jobs/act runs the callable. Bump to 0.457.0
 
 ---
 
