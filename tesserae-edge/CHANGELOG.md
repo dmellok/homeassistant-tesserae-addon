@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.458.1-edge.1792147114, 2026-10-16
+## 0.459.0-edge.1792150291, 2026-10-16
 
-[`ef683bd`](https://github.com/dmellok/tesserae/commit/ef683bd230970ee3b500b4f280c949109eb651cc) chore: format the custom CSS browser test; bump to 0.458.1. The custom CSS field for dashboards (#366) itself reached main in 36ba0630, which carried the working tree of this change alongside its own one-line test fix.
+[`25175ba`](https://github.com/dmellok/tesserae/commit/25175ba8d15e6fc6224151bdf86f0971cfbc6c4d) chore(calendar_month): locale-ordered month marker on rolling grids; bump to 0.459.0. The "1 Nov" marker on the 1st of a month keeps the short label for English and asks Intl for day + month in other locales so the order is theirs; the duplicate .mc-more rule is folded into one block.
 
 ---
 
