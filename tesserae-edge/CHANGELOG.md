@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.464.2-edge.1792276540, 2026-10-17
+## 0.465.0-edge.1792280968, 2026-10-17
 
-[`129392e`](https://github.com/dmellok/tesserae/commit/129392e60df4430a5462219a2048b5726d6738e3) fix(settings, docker): device setup text gives the server's own address, kinds are listed by name, the data directory's owner bits are restored on start. The access-token pop-up for the Bloomin8 Canvas and TRMNL kinds built its URL from the browser's host, which through Home Assistant ingress is HA's address and port 8123, so a Canvas set up from it called Home Assistant instead of Tesserae; it now uses the detected LAN address and bind port the frame URLs use, with the request host as the fallback, and the Canvas pop-up and quickstart carry a PowerShell form of the pull-settings command beside the Unix one. Add device sorts kinds by display name. The Docker entrypoint adds the owner's read, write and search bits to the data directory after the chown, since a NAS that keeps share permissions in its own ACL layer can leave the real mode at 000 while its tools show rwx. Bump to 0.464.2
+[`33a6942`](https://github.com/dmellok/tesserae/commit/33a6942d51e2270ff0eb06e85d1d928b65b4ac6b) feat(commons): free pictures from Wikimedia Commons for every widget that paints. app.commons looks a file up by title, a category's files, and the best portrait of a subject in a category (ranked by name: an identifier first, then the subject's name, never a plaque, a cabin or a visit), fetches the bytes for the painter and words the credit with the author and licence read off the file; one cache under the data root, one User-Agent with the contact set under Settings › Generative AI, requests one at a time with a small gap. The artwork page says when a picture is an impression. Bump to 0.465.0
 
 ---
 
