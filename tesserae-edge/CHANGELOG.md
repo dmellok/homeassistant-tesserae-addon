@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.461.0-edge.1792232553, 2026-10-17
+## 0.462.0-edge.1792240610, 2026-10-17
 
-[`1b906c2`](https://github.com/dmellok/tesserae/commit/1b906c2218aa04c9892811308eade06cb8fe9f67) feat(scheduler): widgets can be run ahead of a scheduled send. A widget declares render.warm_ahead_s and the scheduler runs its page that long before each projected fire, polling until the page stops asking for a refresh, so the panel paints the finished page once. The lead learns: the widget reports how many pieces of work are pending (live_pending), the server works out seconds per item from the settle time, keeps a typical count per send, and sizes the next lead from the two. Bump to 0.461.0
+[`52ec998`](https://github.com/dmellok/tesserae/commit/52ec998587351320f3301b0ab3b532756656093b) feat(history): a follow-up push folds under the send it finishes. The page sent again once its paintings landed sits under the original push as small dots on the rail, with outcome and timing, and one line says when the finished page reached the panel; deleting the send deletes the chain, and the Follow-up chip still filters to them alone. Bump to 0.462.0
 
 ---
 
