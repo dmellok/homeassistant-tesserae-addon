@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.465.0-edge.1792280968, 2026-10-17
+## 0.466.0-edge.1792286873, 2026-10-18
 
-[`33a6942`](https://github.com/dmellok/tesserae/commit/33a6942d51e2270ff0eb06e85d1d928b65b4ac6b) feat(commons): free pictures from Wikimedia Commons for every widget that paints. app.commons looks a file up by title, a category's files, and the best portrait of a subject in a category (ranked by name: an identifier first, then the subject's name, never a plaque, a cabin or a visit), fetches the bytes for the painter and words the credit with the author and licence read off the file; one cache under the data root, one User-Agent with the contact set under Settings › Generative AI, requests one at a time with a small gap. The artwork page says when a picture is an impression. Bump to 0.465.0
+[`1c9951a`](https://github.com/dmellok/tesserae/commit/1c9951a303bbd85c894195f1a84a6db0ac94406a) feat(devices): the battery tile words a power_plugged heartbeat field as "plugged in" or "on battery", so a UPS sitting at 100 % on the charger reads differently from a panel running down. The Pi clients send it alongside battery_pct and battery_mv from a PiSugar 3; the client protocol doc lists the field. Bump to 0.466.0
 
 ---
 
