@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.467.0-edge.1792358416, 2026-10-18
+## 0.467.1-edge.1792387213, 2026-10-19
 
-[`93aa3c2`](https://github.com/dmellok/tesserae/commit/93aa3c24c2c9675c013edd99b559148b47d8f5ba) Merge pull request #374 from varanu5/feat/note4c-support
+[`9a391d3`](https://github.com/dmellok/tesserae/commit/9a391d393b1d3a1062ff8d50ac670c8608096ee5) fix(push): A board set to stay awake keeps the patch path when its patch poll times out during a render, since the frame poll that followed found the patch unfetched and promoted the full frame, turning a clock tick into a full repaint. Promotion now waits three poll intervals, at least 30 s, from the first unfetched divert; sleeping boards are unchanged. Bump to 0.467.1
 
 ---
 
