@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.470.2-edge.1792502757, 2026-10-20
+## 0.470.3-edge.1792519020, 2026-10-20
 
-[`f8d7a69`](https://github.com/dmellok/tesserae/commit/f8d7a6972128928b77cfcbb12b3329eae55c3566) fix(calendar): match feed IDs case-insensitively and stop phone keyboards capitalising string options, bump to 0.470.2
+[`b2603e5`](https://github.com/dmellok/tesserae/commit/b2603e590259f2077efcc42f1ccd1cd83a100258) ci: pin the coverage job to ubuntu-24.04, bump to 0.470.3
 
 ---
 
