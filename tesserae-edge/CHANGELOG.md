@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.470.1-edge.1792476575, 2026-10-20
+## 0.470.2-edge.1792502757, 2026-10-20
 
-[`cc73f8f`](https://github.com/dmellok/tesserae/commit/cc73f8f2d32387fab367a30ffcd0930b088fe68c) fix(ui): stop the Settings tab bar scrolling vertically, bump to 0.470.1
+[`f8d7a69`](https://github.com/dmellok/tesserae/commit/f8d7a6972128928b77cfcbb12b3329eae55c3566) fix(calendar): match feed IDs case-insensitively and stop phone keyboards capitalising string options, bump to 0.470.2
 
 ---
 
