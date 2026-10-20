@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.470.0-edge.1792468925, 2026-10-20
+## 0.470.1-edge.1792476575, 2026-10-20
 
-[`46403a3`](https://github.com/dmellok/tesserae/commit/46403a35abdf932f08199310d010ff1469a5877b) fix(devices): read a register or status body without gamuts as mono only
+[`cc73f8f`](https://github.com/dmellok/tesserae/commit/cc73f8f2d32387fab367a30ffcd0930b088fe68c) fix(ui): stop the Settings tab bar scrolling vertically, bump to 0.470.1
 
 ---
 
