@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.470.3-edge.1792519020, 2026-10-20
+## 0.471.0-edge.1792520949, 2026-10-20
 
-[`b2603e5`](https://github.com/dmellok/tesserae/commit/b2603e590259f2077efcc42f1ccd1cd83a100258) ci: pin the coverage job to ubuntu-24.04, bump to 0.470.3
+[`0cd8bb7`](https://github.com/dmellok/tesserae/commit/0cd8bb7cc4af5d29824c6f49eb3e8d5c16125412) feat(auth, buttons): forget the saved password while the gate is off, and let page: take a dashboard name, bump to 0.471.0
 
 ---
 
