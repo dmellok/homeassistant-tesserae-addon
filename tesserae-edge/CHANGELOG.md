@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.468.0-edge.1792453796, 2026-10-19
+## 0.470.0-edge.1792468925, 2026-10-20
 
-[`1b5d125`](https://github.com/dmellok/tesserae/commit/1b5d1253f8633b215398c93109fcf58da1bfd1d9) feat(devices): add the Elecrow CrowPanel 5.79" E-Paper as hardware kind elecrow_crowpanel_579, bump to 0.468.0
+[`46403a3`](https://github.com/dmellok/tesserae/commit/46403a35abdf932f08199310d010ff1469a5877b) fix(devices): read a register or status body without gamuts as mono only
 
 ---
 
