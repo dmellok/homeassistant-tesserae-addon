@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.471.2-edge.1792536947, 2026-10-20
+## 0.471.3-edge.1792543070, 2026-10-21
 
-[`e0d244c`](https://github.com/dmellok/tesserae/commit/e0d244c3ba880ca006b90c17addd7064345289ac) ci: run pytest under nice and log runner resources in the coverage job, bump to 0.471.2
+[`e8f9488`](https://github.com/dmellok/tesserae/commit/e8f94886c4aeda3b57ba24a0146f15c80fa96782) fix(app): stop atexit from pinning every built app in memory, skip the editable app in pip-audit, bump to 0.471.3
 
 ---
 
