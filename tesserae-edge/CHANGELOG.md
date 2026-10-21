@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.471.3-edge.1792543070, 2026-10-21
+## 0.471.4-edge.1792547707, 2026-10-21
 
-[`e8f9488`](https://github.com/dmellok/tesserae/commit/e8f94886c4aeda3b57ba24a0146f15c80fa96782) fix(app): stop atexit from pinning every built app in memory, skip the editable app in pip-audit, bump to 0.471.3
+[`6e16ea4`](https://github.com/dmellok/tesserae/commit/6e16ea402d9d41be8616c73de4cc2b3529c9b43b) build(deps): allow Pillow 13 for its security fixes, bump to 0.471.4
 
 ---
 
