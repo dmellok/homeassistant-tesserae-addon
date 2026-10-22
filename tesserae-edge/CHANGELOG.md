@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.471.5-edge.1792662039, 2026-10-22
+## 0.472.0-edge.1792665735, 2026-10-22
 
-[`79af54f`](https://github.com/dmellok/tesserae/commit/79af54ff8241290e7293c3711273a8676c5b7533) Merge pull request #380 from rpcai/fix/docker-ca-certificates
+[`79f6a1b`](https://github.com/dmellok/tesserae/commit/79f6a1b62c1dc4ef42afc01498a0e998a6f8455f) feat(editor): picture picker for select choices with an image, bump to 0.472.0
 
 ---
 
