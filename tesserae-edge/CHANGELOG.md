@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.471.4-edge.1792547707, 2026-10-21
+## 0.471.5-edge.1792662039, 2026-10-22
 
-[`6e16ea4`](https://github.com/dmellok/tesserae/commit/6e16ea402d9d41be8616c73de4cc2b3529c9b43b) build(deps): allow Pillow 13 for its security fixes, bump to 0.471.4
+[`79af54f`](https://github.com/dmellok/tesserae/commit/79af54ff8241290e7293c3711273a8676c5b7533) Merge pull request #380 from rpcai/fix/docker-ca-certificates
 
 ---
 
