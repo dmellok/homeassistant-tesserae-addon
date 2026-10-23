@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.473.0-edge.1792716527, 2026-10-23
+## 0.474.0-edge.1792718335, 2026-10-23
 
-[`e190d07`](https://github.com/dmellok/tesserae/commit/e190d07b5e3933736492dca8e5597446c95f141b) feat(editor): a More options section for advanced widget options, bump to 0.473.0
+[`b2e8242`](https://github.com/dmellok/tesserae/commit/b2e824203dc3ed541a87324299a6a84955a2d046) fix(calendar): size sliders start at 0.05 so the default 1.0 sits on a step
 
 ---
 
