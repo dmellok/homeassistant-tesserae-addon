@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.475.1-edge.1792891694, 2026-10-25
+## 0.476.0-edge.1792896407, 2026-10-25
 
-[`31baf48`](https://github.com/dmellok/tesserae/commit/31baf483ea1db82de412702f177ed73960f6ae42) Merge pull request #384 from irekrog/fix/dashboard-refresh-settings
+[`bdd3698`](https://github.com/dmellok/tesserae/commit/bdd369895d2809ec7066625404582e9104be587b) Merge pull request #381 from charmmmz/codex/companion-hardware-mac
 
 ---
 
