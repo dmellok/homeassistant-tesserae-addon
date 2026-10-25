@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.475.0-edge.1792797454, 2026-10-23
+## 0.475.1-edge.1792891694, 2026-10-25
 
-[`2ae99eb`](https://github.com/dmellok/tesserae/commit/2ae99eb0b1e572e2891540ca5c4cf981fcea8ded) fix(shell): the sidebar restart prompt is a full-width notice row with a reason line and an aligned icon, centred with a dot on the folded rail, bump to 0.475.0
+[`31baf48`](https://github.com/dmellok/tesserae/commit/31baf483ea1db82de412702f177ed73960f6ae42) Merge pull request #384 from irekrog/fix/dashboard-refresh-settings
 
 ---
 
