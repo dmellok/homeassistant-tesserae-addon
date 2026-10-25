@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.477.1-edge.1792964654, 2026-10-25
+## 0.478.0-edge.1792965694, 2026-10-25
 
-[`7c8be3c`](https://github.com/dmellok/tesserae/commit/7c8be3ca0b52cb7b45733d244539bd314e362768) Merge pull request #385 from irekrog/fix/polish-widget-grammar
+[`98c9f97`](https://github.com/dmellok/tesserae/commit/98c9f97aac9d83697d34291a9320d2a80f628fdb) chore: changelog section for the PaperS3 touch options and the Polish widget wording, bump to 0.478.0
 
 ---
 
