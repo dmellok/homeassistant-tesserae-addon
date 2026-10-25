@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.477.0-edge.1792898611, 2026-10-25
+## 0.477.1-edge.1792964654, 2026-10-25
 
-[`911f1c6`](https://github.com/dmellok/tesserae/commit/911f1c6b953383677a13ac1121b18db4815ecc18) Merge pull request #382 from charmmmz/codex/dashboard-settings-upstream
+[`7c8be3c`](https://github.com/dmellok/tesserae/commit/7c8be3ca0b52cb7b45733d244539bd314e362768) Merge pull request #385 from irekrog/fix/polish-widget-grammar
 
 ---
 
