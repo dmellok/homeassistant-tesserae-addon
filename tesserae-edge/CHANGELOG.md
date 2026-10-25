@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.476.0-edge.1792896407, 2026-10-25
+## 0.477.0-edge.1792898611, 2026-10-25
 
-[`bdd3698`](https://github.com/dmellok/tesserae/commit/bdd369895d2809ec7066625404582e9104be587b) Merge pull request #381 from charmmmz/codex/companion-hardware-mac
+[`911f1c6`](https://github.com/dmellok/tesserae/commit/911f1c6b953383677a13ac1121b18db4815ecc18) Merge pull request #382 from charmmmz/codex/dashboard-settings-upstream
 
 ---
 
