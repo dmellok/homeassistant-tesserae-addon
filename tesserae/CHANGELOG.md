@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.479.1, 2026-10-26
+## 0.480.0, 2026-10-26
 
-Tracks Tesserae [v0.479.1](https://github.com/dmellok/tesserae/releases/tag/v0.479.1).
+Tracks Tesserae [v0.480.0](https://github.com/dmellok/tesserae/releases/tag/v0.480.0).
 See the linked release notes for what changed.
 
 ---
