@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.480.0-edge.1793005429, 2026-10-26
+## 0.480.1-edge.1793016166, 2026-10-26
 
-[`c04c308`](https://github.com/dmellok/tesserae/commit/c04c308916daf6f7fdd26e22fed167c41cffeb81) chore: changelog section for the ingress paintings page link, dark mode token and post-setup redirect fixes, bump to 0.480.0
+[`a8ebf00`](https://github.com/dmellok/tesserae/commit/a8ebf00ba98fb67d64ecfeffa7f4adab20474ed1) chore: changelog section for the battery route test fix, bump to 0.480.1
 
 ---
 
