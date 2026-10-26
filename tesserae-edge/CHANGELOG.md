@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.478.0-edge.1792965694, 2026-10-25
+## 0.479.0-edge.1792976946, 2026-10-26
 
-[`98c9f97`](https://github.com/dmellok/tesserae/commit/98c9f97aac9d83697d34291a9320d2a80f628fdb) chore: changelog section for the PaperS3 touch options and the Polish widget wording, bump to 0.478.0
+[`d2bb12b`](https://github.com/dmellok/tesserae/commit/d2bb12bd665a1b837a8fd772964c52ec9c8610e2) chore: changelog section for the searchable cell widget picker and the manifest category field, bump to 0.479.0
 
 ---
 
