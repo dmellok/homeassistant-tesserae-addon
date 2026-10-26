@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.479.1-edge.1792995832, 2026-10-26
+## 0.480.0-edge.1793005429, 2026-10-26
 
-[`0480b25`](https://github.com/dmellok/tesserae/commit/0480b2542f850d15e4b25597e99bbff91149a92b) chore: changelog section for the Home Assistant first-run wizard and Send card alignment fixes, bump to 0.479.1
+[`c04c308`](https://github.com/dmellok/tesserae/commit/c04c308916daf6f7fdd26e22fed167c41cffeb81) chore: changelog section for the ingress paintings page link, dark mode token and post-setup redirect fixes, bump to 0.480.0
 
 ---
 
