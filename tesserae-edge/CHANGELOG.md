@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.479.0-edge.1792976946, 2026-10-26
+## 0.479.1-edge.1792995832, 2026-10-26
 
-[`d2bb12b`](https://github.com/dmellok/tesserae/commit/d2bb12bd665a1b837a8fd772964c52ec9c8610e2) chore: changelog section for the searchable cell widget picker and the manifest category field, bump to 0.479.0
+[`0480b25`](https://github.com/dmellok/tesserae/commit/0480b2542f850d15e4b25597e99bbff91149a92b) chore: changelog section for the Home Assistant first-run wizard and Send card alignment fixes, bump to 0.479.1
 
 ---
 
