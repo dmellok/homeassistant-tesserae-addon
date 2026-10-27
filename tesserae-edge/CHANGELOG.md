@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.482.0-edge.1793077207, 2026-10-27
+## 0.483.0-edge.1793086801, 2026-10-27
 
-[`0549b96`](https://github.com/dmellok/tesserae/commit/0549b965239abdadea719d28efcc21ee0d3c4943) perf: Settings builds only the open tab's cards, and the GitHub release check and per-kind firmware lookups run in the background instead of on the page load; bump to 0.482.0
+[`bdd10c9`](https://github.com/dmellok/tesserae/commit/bdd10c9d323e81066bc9c092861ef86f54a655f1) docs: the Waveshare ESP32-S3-RLCD-4.2 kind is confirmed on real hardware; catalog notes, tested data, compatibility page and changelog say so
 
 ---
 
