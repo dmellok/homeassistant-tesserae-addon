@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.481.2-edge.1793073086, 2026-10-27
+## 0.482.0-edge.1793077207, 2026-10-27
 
-[`c944fc3`](https://github.com/dmellok/tesserae/commit/c944fc370a2bc42c863ad917af1f40b07b29d653) fix: the Proxmox VE helper script asks for the release channel on the host, where a prompt can actually show, bump to 0.481.2
+[`0549b96`](https://github.com/dmellok/tesserae/commit/0549b965239abdadea719d28efcc21ee0d3c4943) perf: Settings builds only the open tab's cards, and the GitHub release check and per-kind firmware lookups run in the background instead of on the page load; bump to 0.482.0
 
 ---
 
