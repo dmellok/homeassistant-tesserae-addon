@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.481.1-edge.1793071356, 2026-10-27
+## 0.481.2-edge.1793073086, 2026-10-27
 
-[`ca798ab`](https://github.com/dmellok/tesserae/commit/ca798abdf25d3669f72cb0641bafad81b59f2db3) chore: the Proxmox VE helper script defaults to 4 CPUs, 3 GB RAM and a 16 GB disk, bump to 0.481.1
+[`c944fc3`](https://github.com/dmellok/tesserae/commit/c944fc370a2bc42c863ad917af1f40b07b29d653) fix: the Proxmox VE helper script asks for the release channel on the host, where a prompt can actually show, bump to 0.481.2
 
 ---
 
