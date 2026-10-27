@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.481.0-edge.1793070143, 2026-10-27
+## 0.481.1-edge.1793071356, 2026-10-27
 
-[`0a39c9f`](https://github.com/dmellok/tesserae/commit/0a39c9fd320e65224c6b5e3e54aacb1a0586c86d) feat: Proxmox VE helper script in the community-scripts format, with a stable or edge channel choice, and Settings → System points helper-script installs at the update command; bump to 0.481.0
+[`ca798ab`](https://github.com/dmellok/tesserae/commit/ca798abdf25d3669f72cb0641bafad81b59f2db3) chore: the Proxmox VE helper script defaults to 4 CPUs, 3 GB RAM and a 16 GB disk, bump to 0.481.1
 
 ---
 
