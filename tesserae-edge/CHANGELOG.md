@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.483.0-edge.1793086801, 2026-10-27
+## 0.483.1-edge.1793089694, 2026-10-27
 
-[`bdd10c9`](https://github.com/dmellok/tesserae/commit/bdd10c9d323e81066bc9c092861ef86f54a655f1) docs: the Waveshare ESP32-S3-RLCD-4.2 kind is confirmed on real hardware; catalog notes, tested data, compatibility page and changelog say so
+[`3897c5d`](https://github.com/dmellok/tesserae/commit/3897c5d369116af8d37b2fdb610737a9b674d35c) chore: bump to 0.483.1 for the docs fixes
 
 ---
 
