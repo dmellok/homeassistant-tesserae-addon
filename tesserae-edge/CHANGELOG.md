@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.483.1-edge.1793089694, 2026-10-27
+## 0.483.2-edge.1793099723, 2026-10-27
 
-[`3897c5d`](https://github.com/dmellok/tesserae/commit/3897c5d369116af8d37b2fdb610737a9b674d35c) chore: bump to 0.483.1 for the docs fixes
+[`08b1e9f`](https://github.com/dmellok/tesserae/commit/08b1e9f0b0c0199abea413bd004fa83bd655d6ad) docs: the paperlesspaper OpenPaper L is confirmed on real hardware; catalog notes, tested data, compatibility page and changelog say so; bump to 0.483.2
 
 ---
 
