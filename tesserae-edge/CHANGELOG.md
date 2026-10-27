@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.480.1-edge.1793016166, 2026-10-26
+## 0.481.0-edge.1793070143, 2026-10-27
 
-[`a8ebf00`](https://github.com/dmellok/tesserae/commit/a8ebf00ba98fb67d64ecfeffa7f4adab20474ed1) chore: changelog section for the battery route test fix, bump to 0.480.1
+[`0a39c9f`](https://github.com/dmellok/tesserae/commit/0a39c9fd320e65224c6b5e3e54aacb1a0586c86d) feat: Proxmox VE helper script in the community-scripts format, with a stable or edge channel choice, and Settings → System points helper-script installs at the update command; bump to 0.481.0
 
 ---
 
