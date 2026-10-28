@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.487.0-edge.1793169267, 2026-10-28
+## 0.487.1-edge.1793176673, 2026-10-28
 
-[`6fd3bc3`](https://github.com/dmellok/tesserae/commit/6fd3bc3954ce531609fe50439555933c9e7ea82e) chore: bump to 0.487.0 for today's merged contributions (settings_store update_item, the instance-file lock, buttons:false, render_in_progress, per-placement fetches, Companion Bluetooth status, CSRF and trusted proxies, HA publish switches, the quiet-hours sensor time zone)
+[`037c010`](https://github.com/dmellok/tesserae/commit/037c010e89110d3bb1a25fef80051b40b1e0d702) chore: bump to 0.487.1 for the UI typography fix
 
 ---
 
