@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.485.0-edge.1793151108, 2026-10-28
+## 0.486.0-edge.1793154715, 2026-10-28
 
-[`52fed9a`](https://github.com/dmellok/tesserae/commit/52fed9aa9403ca2b21e4440f812ef4f34b6f90a4) Merge pull request #393 from skynet01/pr/settings-sidebar
+[`fdfe25e`](https://github.com/dmellok/tesserae/commit/fdfe25e3db9dee6108e110c64bbd3e1a25b9b3b4) feat: hardware kind m5stack_paperdiy for the M5Stack PaperDIY, the PaperS3's 4.7" 960x540 greyscale glass on the M5PM1 PMIC rail, used landscape; confirmed on real hardware by the firmware's contributor; not auto-selected from a relay self-report since it matches the PaperS3 on the wire; bump to 0.486.0
 
 ---
 
