@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.486.0-edge.1793154715, 2026-10-28
+## 0.487.0-edge.1793169267, 2026-10-28
 
-[`fdfe25e`](https://github.com/dmellok/tesserae/commit/fdfe25e3db9dee6108e110c64bbd3e1a25b9b3b4) feat: hardware kind m5stack_paperdiy for the M5Stack PaperDIY, the PaperS3's 4.7" 960x540 greyscale glass on the M5PM1 PMIC rail, used landscape; confirmed on real hardware by the firmware's contributor; not auto-selected from a relay self-report since it matches the PaperS3 on the wire; bump to 0.486.0
+[`6fd3bc3`](https://github.com/dmellok/tesserae/commit/6fd3bc3954ce531609fe50439555933c9e7ea82e) chore: bump to 0.487.0 for today's merged contributions (settings_store update_item, the instance-file lock, buttons:false, render_in_progress, per-placement fetches, Companion Bluetooth status, CSRF and trusted proxies, HA publish switches, the quiet-hours sensor time zone)
 
 ---
 
