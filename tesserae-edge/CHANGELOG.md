@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.487.1-edge.1793176673, 2026-10-28
+## 0.488.0-edge.1793179917, 2026-10-28
 
-[`037c010`](https://github.com/dmellok/tesserae/commit/037c010e89110d3bb1a25fef80051b40b1e0d702) chore: bump to 0.487.1 for the UI typography fix
+[`cdfdcb4`](https://github.com/dmellok/tesserae/commit/cdfdcb4255cadbc54b0d9e11711357db9c0f657e) chore: bump to 0.488.0 for the Home Assistant Next and Previous buttons and the command worker
 
 ---
 
