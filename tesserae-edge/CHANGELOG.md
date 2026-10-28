@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.488.1-edge.1793182094, 2026-10-28
+## 0.489.0-edge.1793223156, 2026-10-28
 
-[`62c1ff3`](https://github.com/dmellok/tesserae/commit/62c1ff32903d756df69bf102f848be549bf83ce8) chore: bump to 0.488.1 for the Companion native dashboard controls
+[`e3a0205`](https://github.com/dmellok/tesserae/commit/e3a020510bec529b861a49584d621cf26882e5d3) chore: bump to 0.489.0 for the per-display Pause number, Visionect signs, the LILYGO T5 S3 Pro kind and the Settings dropdown prefix fix
 
 ---
 
