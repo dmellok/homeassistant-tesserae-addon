@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.491.0-edge.1793252044, 2026-10-29
+## 0.492.0-edge.1793260063, 2026-10-29
 
-[`4fe9349`](https://github.com/dmellok/tesserae/commit/4fe93499231494b2993e30d5261cd8384f033392) fix: a picture deleted but kept as an earlier version stays on the paintings page, bump to 0.491.0
+[`fc741a1`](https://github.com/dmellok/tesserae/commit/fc741a1801cc9b7f2b6b1d246d49456c7b57ebe3) chore: drop an unused name in the paintings listing that failed ruff on CI, bump to 0.492.0
 
 ---
 
