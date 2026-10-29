@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.492.0-edge.1793260063, 2026-10-29
+## 0.493.0-edge.1793270215, 2026-10-29
 
-[`fc741a1`](https://github.com/dmellok/tesserae/commit/fc741a1801cc9b7f2b6b1d246d49456c7b57ebe3) chore: drop an unused name in the paintings listing that failed ruff on CI, bump to 0.492.0
+[`39c5529`](https://github.com/dmellok/tesserae/commit/39c5529e4f0e36e221d24e79d5556dc42e0891d9) feat: OpenAI as a second provider for AI pictures. Settings › Generative AI takes an OpenAI key with a free Check; GPT Image then goes straight to OpenAI's Images API instead of through fal.ai, and an install with only an OpenAI key paints every edit or text-to-picture call with GPT Image. Charged and logged as GPT Image 2 (OpenAI) inside the same ceilings; widgets unchanged; bump to 0.493.0
 
 ---
 
