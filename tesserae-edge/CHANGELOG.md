@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.490.0-edge.1793240482, 2026-10-29
+## 0.491.0-edge.1793252044, 2026-10-29
 
-[`c3a1f8d`](https://github.com/dmellok/tesserae/commit/c3a1f8d02ec1d823e061aba530782926e7e85dbe) Update all on Browse catalog, and a count of widget updates on the sidebar's Widgets entry, bump to 0.490.0
+[`4fe9349`](https://github.com/dmellok/tesserae/commit/4fe93499231494b2993e30d5261cd8384f033392) fix: a picture deleted but kept as an earlier version stays on the paintings page, bump to 0.491.0
 
 ---
 
