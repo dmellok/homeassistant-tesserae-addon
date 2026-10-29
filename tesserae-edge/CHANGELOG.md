@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.494.1-edge.1793309466, 2026-10-29
+## 0.495.0-edge.1793310841, 2026-10-29
 
-[`65d8099`](https://github.com/dmellok/tesserae/commit/65d80995c272ffc8b6da1de225cf10aafbaacafa) fix: Home Assistant notification cards draw umlauts and CJK text with a font that covers them, bump to 0.494.1
+[`9b8594b`](https://github.com/dmellok/tesserae/commit/9b8594bbc5c516ed89df74409870704d662fb585) feat: button_event_id 0 resets the stored event id instead of being compared against it, bump to 0.495.0
 
 ---
 
