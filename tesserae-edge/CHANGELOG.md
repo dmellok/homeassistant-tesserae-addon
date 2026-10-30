@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.496.0-edge.1793327106, 2026-10-30
+## 0.496.1-edge.1793404091, 2026-10-30
 
-[`53c5e0d`](https://github.com/dmellok/tesserae/commit/53c5e0d6a6287ee44a6032a0a3294ef6c6b55236) feat: Gemini as a third provider for AI pictures. Settings › Generative AI takes a Gemini key with a free Check; Nano Banana and Nano Banana Pro then go straight to Google's Gemini API instead of through fal.ai, and an install with only a Gemini key paints every edit or text-to-picture call with Nano Banana. Charged and logged as Nano Banana (Google) inside the same ceilings; widgets unchanged; bump to 0.496.0
+[`c972466`](https://github.com/dmellok/tesserae/commit/c9724662968b1186e7c8705833a6df2fcbfdd1ef) fix: New dashboard opens the create form instead of toggling it shut when it is already showing, and the Grid / Freeform picker says what each kind is. Device ids typed with spaces become underscores instead of being rejected; the setup wizard and empty Devices list link to the web flasher, the MQTT choice steers battery ESP32 boards to REST, and the hand-add device form starts collapsed; bump to 0.496.1
 
 ---
 
