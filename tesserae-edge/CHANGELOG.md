@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.496.1-edge.1793404091, 2026-10-30
+## 0.497.0-edge.1793427082, 2026-10-31
 
-[`c972466`](https://github.com/dmellok/tesserae/commit/c9724662968b1186e7c8705833a6df2fcbfdd1ef) fix: New dashboard opens the create form instead of toggling it shut when it is already showing, and the Grid / Freeform picker says what each kind is. Device ids typed with spaces become underscores instead of being rejected; the setup wizard and empty Devices list link to the web flasher, the MQTT choice steers battery ESP32 boards to REST, and the hand-add device form starts collapsed; bump to 0.496.1
+[`d0c7b54`](https://github.com/dmellok/tesserae/commit/d0c7b541d90cc83503951569b55e12581ecb8a7f) fix: canvas editor delete handles a lineup refusal, one confirm in the grid editor, warmed lineup frames are cleared, MCP bridge 0.19.0, Visionect App wording and entrypoint, bump to 0.497.0
 
 ---
 
