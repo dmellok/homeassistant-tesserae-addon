@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.497.0-edge.1793427082, 2026-10-31
+## 0.498.0-edge.1793478972, 2026-10-31
 
-[`d0c7b54`](https://github.com/dmellok/tesserae/commit/d0c7b541d90cc83503951569b55e12581ecb8a7f) fix: canvas editor delete handles a lineup refusal, one confirm in the grid editor, warmed lineup frames are cleared, MCP bridge 0.19.0, Visionect App wording and entrypoint, bump to 0.497.0
+[`0df1e97`](https://github.com/dmellok/tesserae/commit/0df1e97b9ef5809e414e0d32e9aca4b30895b045) feat: devices with a menu can list their bound dashboards and show one, bump to 0.498.0
 
 ---
 
