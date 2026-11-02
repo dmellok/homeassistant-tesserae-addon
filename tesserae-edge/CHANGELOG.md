@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.499.0-edge.1793570024, 2026-11-01
+## 0.499.1-edge.1793617491, 2026-11-02
 
-[`415547b`](https://github.com/dmellok/tesserae/commit/415547bf2516e2c70b46592b01ae8d0f4823ee37) fix: a button press that lands a warmed lineup frame keeps its own id for retry dedup, lineup thumbnails close the temp file before the rename, the Lineups page stops polling in a hidden tab, the browser CI job has a timeout, consented binds are written before the lineup is saved, frames that only poll count their poll as a check-in, by-hand lineups get Step back in the row menu, bump to 0.499.0
+[`3580bbc`](https://github.com/dmellok/tesserae/commit/3580bbcf3cda74874a63b63034a8d162419868a8) fix: the Lineups locale test no longer depends on the time of day, the browser CI job runs on Ubuntu 24.04 where Playwright has a Chromium build, bump to 0.499.1
 
 ---
 
