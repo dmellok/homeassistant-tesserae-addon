@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.500.0-edge.1793751233, 2026-11-04
+## 0.501.0-edge.1793821123, 2026-11-04
 
-[`4d60df3`](https://github.com/dmellok/tesserae/commit/4d60df365e41472cce9567b399e6c1017bb114b6) feat: Paper's phone shell: Send, Dashboards, Lineups and History in a tab bar along the bottom with More lifting the drawer up as a sheet, a page bar that takes over the top bar once the title scrolls under it and carries the notices (restart, update, new devices, a low battery) as chips, the notices in a band at the top of the page instead of the drawer, the battery pill off the top bar with the charge list in the sheet; desktop and the classic design unchanged; bump to 0.500.0
+[`e289ee8`](https://github.com/dmellok/tesserae/commit/e289ee81d8cb59c2ba621e5621e8c35b6107da2d) feat: a painting can ask GPT Image for its quality and exact size, generate() taking quality (low, medium or high) and size (width, height), fal.ai sent the size rounded to multiples of 16 and OpenAI the quality at its nearest preset, the budget charged the high price when high is asked for; defaults unchanged; bump to 0.501.0
 
 ---
 
