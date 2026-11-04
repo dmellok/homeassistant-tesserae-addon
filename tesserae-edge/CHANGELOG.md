@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.501.0-edge.1793821123, 2026-11-04
+## 0.502.0-edge.1793824557, 2026-11-04
 
-[`e289ee8`](https://github.com/dmellok/tesserae/commit/e289ee81d8cb59c2ba621e5621e8c35b6107da2d) feat: a painting can ask GPT Image for its quality and exact size, generate() taking quality (low, medium or high) and size (width, height), fal.ai sent the size rounded to multiples of 16 and OpenAI the quality at its nearest preset, the budget charged the high price when high is asked for; defaults unchanged; bump to 0.501.0
+[`b23dd9a`](https://github.com/dmellok/tesserae/commit/b23dd9a9ad5dabd2f37087a4d0cc914025bac8b3) feat: GPT Image from words alone (gpt_image_t2i) for a picture whose whole layout is in its prompt, taking quality and size like the edit model and going straight to OpenAI when only an OpenAI key is set; bump to 0.502.0
 
 ---
 
