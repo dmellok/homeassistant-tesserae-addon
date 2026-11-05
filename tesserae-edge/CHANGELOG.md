@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.504.0-edge.1793864077, 2026-11-05
+## 0.504.0-edge.1793877323, 2026-11-05
 
-[`899713f`](https://github.com/dmellok/tesserae/commit/899713f4eaa6aa4e7c4ec28171e601e153baace2) fix: Visionect Wi-Fi password is masked on the device page and reaches the frame; tested firmware builds are hash-checked
+[`1dbfede`](https://github.com/dmellok/tesserae/commit/1dbfede690f1861ebad1b386ef50c165b989ff0d) Merge pull request #443 from dmellok/chore/certifi-and-frontend-lint
 
 ---
 
