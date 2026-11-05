@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.504.0-edge.1793877323, 2026-11-05
+## 0.504.0-edge.1793886278, 2026-11-05
 
-[`1dbfede`](https://github.com/dmellok/tesserae/commit/1dbfede690f1861ebad1b386ef50c165b989ff0d) Merge pull request #443 from dmellok/chore/certifi-and-frontend-lint
+[`e153757`](https://github.com/dmellok/tesserae/commit/e15375758703ccf2274aad064a29811de7dc85be) Merge pull request #445 from dmellok/fix/ha-core-socket-leak
 
 ---
 
