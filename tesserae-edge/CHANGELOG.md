@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.504.0-edge.1794002065, 2026-11-06
+## 0.504.0-edge.1794005432, 2026-11-06
 
-[`9ee0b16`](https://github.com/dmellok/tesserae/commit/9ee0b1626d06a68cfc5e26d285ac937c478d87c1) Merge pull request #459 from dmellok/docs/readme-maintainer
+[`33ef12b`](https://github.com/dmellok/tesserae/commit/33ef12b08b309074450968db9c147e7302d8236b) Merge main (docs: #456, #458, #459) into the open-PRs landing
 
 ---
 
