@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.504.0-edge.1794001196, 2026-11-06
+## 0.504.0-edge.1794002065, 2026-11-06
 
-[`9f1e390`](https://github.com/dmellok/tesserae/commit/9f1e390704f5d5973413b777274c0d04cd9111f4) Merge pull request #458 from dmellok/docs/ko-fi
+[`9ee0b16`](https://github.com/dmellok/tesserae/commit/9ee0b1626d06a68cfc5e26d285ac937c478d87c1) Merge pull request #459 from dmellok/docs/readme-maintainer
 
 ---
 
