@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.504.0-edge.1794005432, 2026-11-06
+## 0.504.0-edge.1794079361, 2026-11-07
 
-[`33ef12b`](https://github.com/dmellok/tesserae/commit/33ef12b08b309074450968db9c147e7302d8236b) Merge main (docs: #456, #458, #459) into the open-PRs landing
+[`ad5246d`](https://github.com/dmellok/tesserae/commit/ad5246d223b64f0bfbe922755da162ebc66095c7) Merge feat/pi-client-kind: one pi_client kind for the unified Raspberry Pi client
 
 ---
 
