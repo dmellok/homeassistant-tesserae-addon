@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.505.0-edge.1794132466, 2026-11-08
+## 0.505.0-edge.1794146101, 2026-11-08
 
-[`4e8ed82`](https://github.com/dmellok/tesserae/commit/4e8ed82d69323563a18acb667d9253c64ccb2235) docs(changelog): the auto-update warning goes under Unreleased, not 0.505.0
+[`29c965a`](https://github.com/dmellok/tesserae/commit/29c965a754a5aca6987709b63bb448d58eb80a8b) feat: update badge on edge, counting the commits main is ahead of the build
 
 ---
 
