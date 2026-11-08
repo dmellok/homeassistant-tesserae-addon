@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.505.0-edge.1794130729, 2026-11-08
+## 0.505.0-edge.1794132466, 2026-11-08
 
-[`b72ce25`](https://github.com/dmellok/tesserae/commit/b72ce25f0b4e14e64f04e12a557193a538d92ed9) docs: list today's hardware (Inky Frame firmware, Badger app) in the README, client docs and compatibility matrix
+[`4e8ed82`](https://github.com/dmellok/tesserae/commit/4e8ed82d69323563a18acb667d9253c64ccb2235) docs(changelog): the auto-update warning goes under Unreleased, not 0.505.0
 
 ---
 
