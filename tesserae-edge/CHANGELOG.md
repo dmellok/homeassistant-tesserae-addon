@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.505.0-edge.1794127721, 2026-11-08
+## 0.505.0-edge.1794130729, 2026-11-08
 
-[`aa29394`](https://github.com/dmellok/tesserae/commit/aa29394d5a8f6d2269f0594f817ed13381468b55) Settings: a Logs page showing the server's own log live, with a watch level
+[`b72ce25`](https://github.com/dmellok/tesserae/commit/b72ce25f0b4e14e64f04e12a557193a538d92ed9) docs: list today's hardware (Inky Frame firmware, Badger app) in the README, client docs and compatibility matrix
 
 ---
 
