@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.504.0-edge.1794111803, 2026-11-08
+## 0.505.0-edge.1794112174, 2026-11-08
 
-[`12676e7`](https://github.com/dmellok/tesserae/commit/12676e7a2c916cfe992c9c4366ca750f1fb13af5) Buttons: bind a physical button by its key, beside its action name
+[`971b4cf`](https://github.com/dmellok/tesserae/commit/971b4cf932fae4c0b78450bfd716da89e5ec7c06) chore: changelog section for 0.505.0 (unified Pi client kind, button keys, Pi docs and cloud-init, and the batch since 0.496.1), bump to 0.505.0
 
 ---
 
