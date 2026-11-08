@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.505.0-edge.1794113609, 2026-11-08
+## 0.505.0-edge.1794120250, 2026-11-08
 
-[`ece2d4e`](https://github.com/dmellok/tesserae/commit/ece2d4eb2f0784cba9994ef0a7489b4a12c40f18) docs: the health check is /healthz, not /api/healthz, in the Pi and Seeed troubleshooting steps
+[`f12e922`](https://github.com/dmellok/tesserae/commit/f12e9221a6e70776c28de7a8f6cc776ce4f24b0b) hardware: the Pimoroni Inky Frame 7.3" (Spectra 6) is confirmed on hardware with the tesserae-device-inkyframe firmware
 
 ---
 
