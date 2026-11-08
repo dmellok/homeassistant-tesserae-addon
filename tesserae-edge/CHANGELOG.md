@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.506.0-edge.1794150804, 2026-11-08
+## 0.506.0-edge.1794179597, 2026-11-08
 
-[`0379305`](https://github.com/dmellok/tesserae/commit/03793056e2da43d9fcaebeccaca32a454ce1099b) chore: changelog section for 0.506.0 (Badger kinds, Inky Frame confirmed, Settings Logs page, the auto-update warning, the edge update badge)
+[`1c595c0`](https://github.com/dmellok/tesserae/commit/1c595c03df5d6d847b5866a928e51ee641fe250e) test: the device page browser test reads the card's renders thumbnail, as #464 serves it
 
 ---
 
