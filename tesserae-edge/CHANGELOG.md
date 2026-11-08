@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.504.0-edge.1794084727, 2026-11-07
+## 0.504.0-edge.1794100991, 2026-11-08
 
-[`9f89c37`](https://github.com/dmellok/tesserae/commit/9f89c3762f69acf08a0c2ec10a6d06ed745c94b7) test: a lineup push leaves the other lineups as they were
+[`528f818`](https://github.com/dmellok/tesserae/commit/528f818db594820f3f5b1bf2625f791acf5aa921) docs: point the Raspberry Pi docs at tesserae-device-pi
 
 ---
 
