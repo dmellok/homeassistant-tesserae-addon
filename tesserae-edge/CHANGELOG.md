@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.504.0-edge.1794100991, 2026-11-08
+## 0.504.0-edge.1794111803, 2026-11-08
 
-[`528f818`](https://github.com/dmellok/tesserae/commit/528f818db594820f3f5b1bf2625f791acf5aa921) docs: point the Raspberry Pi docs at tesserae-device-pi
+[`12676e7`](https://github.com/dmellok/tesserae/commit/12676e7a2c916cfe992c9c4366ca750f1fb13af5) Buttons: bind a physical button by its key, beside its action name
 
 ---
 
