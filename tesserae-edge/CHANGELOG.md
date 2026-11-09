@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.507.0-edge.1794186802, 2026-11-09
+## 0.507.0-edge.1794191995, 2026-11-09
 
-[`8ba63ec`](https://github.com/dmellok/tesserae/commit/8ba63ece94994ee6b21fdafea4ef226e02159bdd) chore: changelog section for 0.507.0 (Gallery photos sized to their cell, Lineups draws, exact-shape thumbnails, the pairing address under ingress, 8x faster start-up, the layout drag fix, PaperS3 portrait)
+[`57f0a24`](https://github.com/dmellok/tesserae/commit/57f0a247c40919f2e82f515af867101814437dc9) Merge pull request #474 from dmellok/fix/lineups-browser-flakes
 
 ---
 
