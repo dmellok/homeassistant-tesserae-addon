@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.509.0-edge.1794266263, 2026-11-09
+## 0.509.0-edge.1794266882, 2026-11-09
 
-[`663a98f`](https://github.com/dmellok/tesserae/commit/663a98f8d896cff0e79b5d5291dab2155660de0b) Merge pull request #483 from dmellok/test/deflake-push-step-resend-row
+[`1456d8b`](https://github.com/dmellok/tesserae/commit/1456d8bc8a938a370655af2e5ebb4aa444805870) docs: point the Inky Frame install at the in-browser flasher
 
 ---
 
