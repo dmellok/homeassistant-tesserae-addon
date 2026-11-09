@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.507.0-edge.1794191995, 2026-11-09
+## 0.507.0-edge.1794192471, 2026-11-09
 
-[`57f0a24`](https://github.com/dmellok/tesserae/commit/57f0a247c40919f2e82f515af867101814437dc9) Merge pull request #474 from dmellok/fix/lineups-browser-flakes
+[`827d439`](https://github.com/dmellok/tesserae/commit/827d4399b953aa7f801c0d049ac85aa903de888c) Merge pull request #472 from dmellok/ci/shard-pytest
 
 ---
 
