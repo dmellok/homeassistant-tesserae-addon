@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.508.0-edge.1794203362, 2026-11-09
+## 0.509.0-edge.1794245968, 2026-11-09
 
-[`719a92a`](https://github.com/dmellok/tesserae/commit/719a92a0b09e0f6fd101deecb6fa56a94236a582) chore: changelog section for 0.508.0 (the wizard finds a flashed panel, the relay keeps no plaintext token, the release check waits for Online features, Lineups peeks stay open, the docs audit)
+[`dabcf8d`](https://github.com/dmellok/tesserae/commit/dabcf8dad2b54cc816ac75b2cc9ac6c89e333819) chore: changelog section for 0.509.0 (OTA logs, filed apart and shown under their own heading)
 
 ---
 
