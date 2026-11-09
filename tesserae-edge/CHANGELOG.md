@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.509.0-edge.1794263094, 2026-11-09
+## 0.509.0-edge.1794264449, 2026-11-09
 
-[`02c54bb`](https://github.com/dmellok/tesserae/commit/02c54bb14debf457d8116d45cb515a0db0491ef7) fix(samsung_frame): review fixes for #465/#466
+[`effaaf4`](https://github.com/dmellok/tesserae/commit/effaaf4bff7acba99ef2756873b209f69afb72ed) docs: Pimoroni Inky Frame and Inky Impression affiliate links
 
 ---
 
