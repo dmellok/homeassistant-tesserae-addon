@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.509.0-edge.1794264449, 2026-11-09
+## 0.509.0-edge.1794266263, 2026-11-09
 
-[`effaaf4`](https://github.com/dmellok/tesserae/commit/effaaf4bff7acba99ef2756873b209f69afb72ed) docs: Pimoroni Inky Frame and Inky Impression affiliate links
+[`663a98f`](https://github.com/dmellok/tesserae/commit/663a98f8d896cff0e79b5d5291dab2155660de0b) Merge pull request #483 from dmellok/test/deflake-push-step-resend-row
 
 ---
 
