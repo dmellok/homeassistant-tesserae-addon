@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.506.0-edge.1794179597, 2026-11-08
+## 0.507.0-edge.1794186802, 2026-11-09
 
-[`1c595c0`](https://github.com/dmellok/tesserae/commit/1c595c03df5d6d847b5866a928e51ee641fe250e) test: the device page browser test reads the card's renders thumbnail, as #464 serves it
+[`8ba63ec`](https://github.com/dmellok/tesserae/commit/8ba63ece94994ee6b21fdafea4ef226e02159bdd) chore: changelog section for 0.507.0 (Gallery photos sized to their cell, Lineups draws, exact-shape thumbnails, the pairing address under ingress, 8x faster start-up, the layout drag fix, PaperS3 portrait)
 
 ---
 
