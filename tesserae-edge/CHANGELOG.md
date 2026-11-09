@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.509.0-edge.1794245968, 2026-11-09
+## 0.509.0-edge.1794263094, 2026-11-09
 
-[`dabcf8d`](https://github.com/dmellok/tesserae/commit/dabcf8dad2b54cc816ac75b2cc9ac6c89e333819) chore: changelog section for 0.509.0 (OTA logs, filed apart and shown under their own heading)
+[`02c54bb`](https://github.com/dmellok/tesserae/commit/02c54bb14debf457d8116d45cb515a0db0491ef7) fix(samsung_frame): review fixes for #465/#466
 
 ---
 
