@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.509.0-edge.1794297932, 2026-11-10
+## 0.510.0-edge.1794303380, 2026-11-10
 
-[`182d1ae`](https://github.com/dmellok/tesserae/commit/182d1aee232e72cea50770e4a783d7fed7e4fa46) Merge pull request #484 from dmellok/feat/fraimic-device
+[`fbaac7b`](https://github.com/dmellok/tesserae/commit/fbaac7b3eae93cf4671857468d653f4130089213) chore: bump to 0.510.0 for the batch since 0.509.0 (Fraimic canvases, Samsung The Frame Art Mode and quiet hours, GTFS accessibility and stop names, PaperS3 touch in any orientation)
 
 ---
 
