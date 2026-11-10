@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.509.0-edge.1794270716, 2026-11-10
+## 0.509.0-edge.1794297932, 2026-11-10
 
-[`77936a0`](https://github.com/dmellok/tesserae/commit/77936a04e6d4a49c8a9c824f975072ba438f702f) fix(csrf): the 403 says what the browser sent and what was expected
+[`182d1ae`](https://github.com/dmellok/tesserae/commit/182d1aee232e72cea50770e4a783d7fed7e4fa46) Merge pull request #484 from dmellok/feat/fraimic-device
 
 ---
 
