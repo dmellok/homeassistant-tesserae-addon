@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.509.0-edge.1794266882, 2026-11-09
+## 0.509.0-edge.1794270716, 2026-11-10
 
-[`1456d8b`](https://github.com/dmellok/tesserae/commit/1456d8bc8a938a370655af2e5ebb4aa444805870) docs: point the Inky Frame install at the in-browser flasher
+[`77936a0`](https://github.com/dmellok/tesserae/commit/77936a04e6d4a49c8a9c824f975072ba438f702f) fix(csrf): the 403 says what the browser sent and what was expected
 
 ---
 
