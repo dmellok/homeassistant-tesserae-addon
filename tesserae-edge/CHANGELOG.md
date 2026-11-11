@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.510.0-edge.1794303380, 2026-11-10
+## 0.510.1-edge.1794385607, 2026-11-11
 
-[`fbaac7b`](https://github.com/dmellok/tesserae/commit/fbaac7b3eae93cf4671857468d653f4130089213) chore: bump to 0.510.0 for the batch since 0.509.0 (Fraimic canvases, Samsung The Frame Art Mode and quiet hours, GTFS accessibility and stop names, PaperS3 touch in any orientation)
+[`8d06a8a`](https://github.com/dmellok/tesserae/commit/8d06a8a41167161adf89c3c8e9a6b4fd63865207) chore: bump to 0.510.1 for the Home Assistant Ingress form fix
 
 ---
 
