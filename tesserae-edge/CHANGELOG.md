@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.510.1-edge.1794385607, 2026-11-11
+## 0.510.1-edge.1794389717, 2026-11-11
 
-[`8d06a8a`](https://github.com/dmellok/tesserae/commit/8d06a8a41167161adf89c3c8e9a6b4fd63865207) chore: bump to 0.510.1 for the Home Assistant Ingress form fix
+[`3dc67c0`](https://github.com/dmellok/tesserae/commit/3dc67c060175b3bd2fdc6b85414fa64c00cd47d3) test(lineups): stop the real scheduler in the real-page fixture
 
 ---
 
