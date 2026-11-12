@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.510.1-edge.1794389717, 2026-11-11
+## 0.510.1-edge.1794515747, 2026-11-12
 
-[`3dc67c0`](https://github.com/dmellok/tesserae/commit/3dc67c060175b3bd2fdc6b85414fa64c00cd47d3) test(lineups): stop the real scheduler in the real-page fixture
+[`ae59012`](https://github.com/dmellok/tesserae/commit/ae59012d5a41343a3b9e80e94ce03375d9868649) Merge pull request #498 from dmellok/feat/fraimic-chained-wakes
 
 ---
 
