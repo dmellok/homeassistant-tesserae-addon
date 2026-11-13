@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.511.0-edge.1794536050, 2026-11-13
+## 0.511.0-edge.1794546547, 2026-11-13
 
-[`e9ec8c8`](https://github.com/dmellok/tesserae/commit/e9ec8c8f7f23bf00040ad51d17eb34bdaa3a4554) Merge pull request #496 from skynet01/fix/lineups-display-shapes
+[`0ea0c26`](https://github.com/dmellok/tesserae/commit/0ea0c26128ca368bca3b5768d645a518a427cd45) Merge pull request #491 from skynet01/fix/scheduler-timing
 
 ---
 
