@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794548638, 2026-11-13
+## 0.512.0-edge.1794598377, 2026-11-13
 
-[`af3666f`](https://github.com/dmellok/tesserae/commit/af3666f6d64cdcf3ed967f3b92f8bcbcc3ce194c) chore: bump to 0.512.0 on main so edge can install the album widgets
+[`51b22bb`](https://github.com/dmellok/tesserae/commit/51b22bb8dc8859caeda0f703cbabb60867d6d7e0) Merge pull request #502 from dmellok/docs/fraimic-code-and-catalog
 
 ---
 
