@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.511.0-edge.1794546547, 2026-11-13
+## 0.511.0-edge.1794547445, 2026-11-13
 
-[`0ea0c26`](https://github.com/dmellok/tesserae/commit/0ea0c26128ca368bca3b5768d645a518a427cd45) Merge pull request #491 from skynet01/fix/scheduler-timing
+[`6065db5`](https://github.com/dmellok/tesserae/commit/6065db5da9ef2f211aa3d36dbabe83d56332cbe6) Merge pull request #495 from skynet01/feat/lineup-editor-page
 
 ---
 
