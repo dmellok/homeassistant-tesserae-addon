@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.511.0-edge.1794535375, 2026-11-13
+## 0.511.0-edge.1794535769, 2026-11-13
 
-[`473517e`](https://github.com/dmellok/tesserae/commit/473517e43eb5d48e822d0f3b5612a52e733fc585) Merge pull request #489 from skynet01/feat/widget-query-preview
+[`a0d792f`](https://github.com/dmellok/tesserae/commit/a0d792ff45d5074c65c6258206e4e1d06ef25972) Merge pull request #490 from skynet01/feat/lineups-page-interactions
 
 ---
 
