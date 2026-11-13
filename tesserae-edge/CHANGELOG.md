@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794610517, 2026-11-13
+## 0.512.0-edge.1794613652, 2026-11-13
 
-[`f484aa4`](https://github.com/dmellok/tesserae/commit/f484aa4ee940276f214ca8739002c12beeb33a1d) Merge pull request #501 from skynet01/docs/plain-voice
+[`7a43088`](https://github.com/dmellok/tesserae/commit/7a43088ec0f4e7f6f8b80f747e24685e7645bc71) Merge pull request #504 from dmellok/docs/setup-page-browser
 
 ---
 
