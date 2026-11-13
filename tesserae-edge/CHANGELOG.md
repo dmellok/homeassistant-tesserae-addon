@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.510.1-edge.1794515747, 2026-11-12
+## 0.511.0-edge.1794535375, 2026-11-13
 
-[`ae59012`](https://github.com/dmellok/tesserae/commit/ae59012d5a41343a3b9e80e94ce03375d9868649) Merge pull request #498 from dmellok/feat/fraimic-chained-wakes
+[`473517e`](https://github.com/dmellok/tesserae/commit/473517e43eb5d48e822d0f3b5612a52e733fc585) Merge pull request #489 from skynet01/feat/widget-query-preview
 
 ---
 
