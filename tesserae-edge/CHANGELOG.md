@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794598377, 2026-11-13
+## 0.512.0-edge.1794610517, 2026-11-13
 
-[`51b22bb`](https://github.com/dmellok/tesserae/commit/51b22bb8dc8859caeda0f703cbabb60867d6d7e0) Merge pull request #502 from dmellok/docs/fraimic-code-and-catalog
+[`f484aa4`](https://github.com/dmellok/tesserae/commit/f484aa4ee940276f214ca8739002c12beeb33a1d) Merge pull request #501 from skynet01/docs/plain-voice
 
 ---
 
