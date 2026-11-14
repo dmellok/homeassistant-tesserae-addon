@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794613652, 2026-11-13
+## 0.512.0-edge.1794616293, 2026-11-14
 
-[`7a43088`](https://github.com/dmellok/tesserae/commit/7a43088ec0f4e7f6f8b80f747e24685e7645bc71) Merge pull request #504 from dmellok/docs/setup-page-browser
+[`e8fe026`](https://github.com/dmellok/tesserae/commit/e8fe026aa92f530a2453f4ab2be461065c070a12) Merge pull request #505 from dmellok/docs/paper-theme
 
 ---
 
