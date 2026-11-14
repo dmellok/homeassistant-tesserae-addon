@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794694977, 2026-11-14
+## 0.512.0-edge.1794696604, 2026-11-14
 
-[`b88d96b`](https://github.com/dmellok/tesserae/commit/b88d96b4800c75404a24e90ddc60a9fba8c6f856) Merge pull request #511 from dmellok/feat/opendisplay-first-class
+[`6ab38eb`](https://github.com/dmellok/tesserae/commit/6ab38ebaa280f03d68e76cfc62fa2fb80ebedec1) Merge pull request #513 from dmellok/fix/opendisplay-conversion-tone
 
 ---
 
