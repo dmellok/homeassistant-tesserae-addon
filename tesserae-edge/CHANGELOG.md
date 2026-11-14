@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794659500, 2026-11-14
+## 0.512.0-edge.1794694977, 2026-11-14
 
-[`c738f4b`](https://github.com/dmellok/tesserae/commit/c738f4b2f4d593383956c7bbaf8f5fe8caa2045b) Merge pull request #509 from dmellok/feat/opendisplay-palette-rotation
+[`b88d96b`](https://github.com/dmellok/tesserae/commit/b88d96b4800c75404a24e90ddc60a9fba8c6f856) Merge pull request #511 from dmellok/feat/opendisplay-first-class
 
 ---
 
