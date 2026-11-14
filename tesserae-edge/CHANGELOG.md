@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794656787, 2026-11-14
+## 0.512.0-edge.1794659500, 2026-11-14
 
-[`095673c`](https://github.com/dmellok/tesserae/commit/095673cab16c280b0604ec32815f126c535dd0db) Merge pull request #508 from dmellok/feat/opendisplay-ha-remote-upload
+[`c738f4b`](https://github.com/dmellok/tesserae/commit/c738f4b2f4d593383956c7bbaf8f5fe8caa2045b) Merge pull request #509 from dmellok/feat/opendisplay-palette-rotation
 
 ---
 
