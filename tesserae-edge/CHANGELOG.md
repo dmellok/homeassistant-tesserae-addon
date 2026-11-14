@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794616293, 2026-11-14
+## 0.512.0-edge.1794656787, 2026-11-14
 
-[`e8fe026`](https://github.com/dmellok/tesserae/commit/e8fe026aa92f530a2453f4ab2be461065c070a12) Merge pull request #505 from dmellok/docs/paper-theme
+[`095673c`](https://github.com/dmellok/tesserae/commit/095673cab16c280b0604ec32815f126c535dd0db) Merge pull request #508 from dmellok/feat/opendisplay-ha-remote-upload
 
 ---
 
