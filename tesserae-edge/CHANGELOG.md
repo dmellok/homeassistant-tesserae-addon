@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794696604, 2026-11-14
+## 0.512.0-edge.1794697201, 2026-11-14
 
-[`6ab38eb`](https://github.com/dmellok/tesserae/commit/6ab38ebaa280f03d68e76cfc62fa2fb80ebedec1) Merge pull request #513 from dmellok/fix/opendisplay-conversion-tone
+[`258ac4c`](https://github.com/dmellok/tesserae/commit/258ac4cf6f044f48ec5e796288a667f7baa7f05c) feat(ha_dashboard): pick the Home Assistant theme a dashboard is captured in
 
 ---
 
