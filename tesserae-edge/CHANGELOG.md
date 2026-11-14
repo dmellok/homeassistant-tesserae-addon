@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794697201, 2026-11-14
+## 0.512.0-edge.1794698012, 2026-11-14
 
-[`258ac4c`](https://github.com/dmellok/tesserae/commit/258ac4cf6f044f48ec5e796288a667f7baa7f05c) feat(ha_dashboard): pick the Home Assistant theme a dashboard is captured in
+[`014d05d`](https://github.com/dmellok/tesserae/commit/014d05d904ca68518bd8c1975adb110188eed14f) fix(ha_dashboard): keep the token owner's saved theme out of the capture
 
 ---
 
