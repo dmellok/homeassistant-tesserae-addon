@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794698012, 2026-11-14
+## 0.512.0-edge.1794699613, 2026-11-14
 
-[`014d05d`](https://github.com/dmellok/tesserae/commit/014d05d904ca68518bd8c1975adb110188eed14f) fix(ha_dashboard): keep the token owner's saved theme out of the capture
+[`5cbf61e`](https://github.com/dmellok/tesserae/commit/5cbf61e09b7c19a0862932d94000748040516206) feat(ha_dashboard): fit a dashboard taller than the cell
 
 ---
 
