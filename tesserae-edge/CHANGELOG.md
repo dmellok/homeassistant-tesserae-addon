@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794699613, 2026-11-14
+## 0.512.0-edge.1794720428, 2026-11-15
 
-[`5cbf61e`](https://github.com/dmellok/tesserae/commit/5cbf61e09b7c19a0862932d94000748040516206) feat(ha_dashboard): fit a dashboard taller than the cell
+[`87b969b`](https://github.com/dmellok/tesserae/commit/87b969b8f53e19275369ce5503a40f5c06d89e6c) chore: changelog section for 0.512.0 (OpenDisplay through Home Assistant, the lineup editor, Fraimic models, HA Dashboard theme and fit)
 
 ---
 
