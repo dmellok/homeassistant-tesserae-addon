@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794720428, 2026-11-15
+## 0.512.0-edge.1794721169, 2026-11-15
 
-[`87b969b`](https://github.com/dmellok/tesserae/commit/87b969b8f53e19275369ce5503a40f5c06d89e6c) chore: changelog section for 0.512.0 (OpenDisplay through Home Assistant, the lineup editor, Fraimic models, HA Dashboard theme and fit)
+[`6a419f1`](https://github.com/dmellok/tesserae/commit/6a419f11bbc3a58be9f1622c6c952bac29447a78) Merge pull request #510 from captSL/captsl-fix-dashboard-editor-ha-access
 
 ---
 
