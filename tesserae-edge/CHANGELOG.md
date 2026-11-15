@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.512.0-edge.1794721169, 2026-11-15
+## 0.513.0-edge.1794722217, 2026-11-15
 
-[`6a419f1`](https://github.com/dmellok/tesserae/commit/6a419f11bbc3a58be9f1622c6c952bac29447a78) Merge pull request #510 from captSL/captsl-fix-dashboard-editor-ha-access
+[`6df2e6d`](https://github.com/dmellok/tesserae/commit/6df2e6d2b02a26b630d7656afeb6482bc9671bd1) chore: bump to 0.513.0 (RSS feed fetch through the SSRF guard, widget choices inside the allowlist, ha_core delegation, HA Dashboard header option)
 
 ---
 
