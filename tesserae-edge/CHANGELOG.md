@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794726848, 2026-11-15
+## 0.513.0-edge.1794731119, 2026-11-15
 
-[`0244ea5`](https://github.com/dmellok/tesserae/commit/0244ea576f6c498761d29869803c10edd3af819f) Merge pull request #520 from dmellok/dashboard-editor-v2-506
+[`26b5d70`](https://github.com/dmellok/tesserae/commit/26b5d7069496b13c434559a0db3ebdb5e70bba9f) Merge pull request #521 from dmellok/fix/editor-v2-review
 
 ---
 
