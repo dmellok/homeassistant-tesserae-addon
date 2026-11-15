@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794784604, 2026-11-15
+## 0.513.0-edge.1794785589, 2026-11-15
 
-[`2931347`](https://github.com/dmellok/tesserae/commit/293134715611339e29f04880196e83a87ada6b58) Merge pull request #519 from skynet01/fix/gtfs-refresh-hint
+[`8dd6201`](https://github.com/dmellok/tesserae/commit/8dd6201960dd3362969c846f2643a74b4a5ccc2f) Merge pull request #522 from skynet01/feat/kie-image-provider
 
 ---
 
