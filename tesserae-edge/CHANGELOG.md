@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794731119, 2026-11-15
+## 0.513.0-edge.1794784604, 2026-11-15
 
-[`26b5d70`](https://github.com/dmellok/tesserae/commit/26b5d7069496b13c434559a0db3ebdb5e70bba9f) Merge pull request #521 from dmellok/fix/editor-v2-review
+[`2931347`](https://github.com/dmellok/tesserae/commit/293134715611339e29f04880196e83a87ada6b58) Merge pull request #519 from skynet01/fix/gtfs-refresh-hint
 
 ---
 
