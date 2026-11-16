@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794785589, 2026-11-15
+## 0.513.0-edge.1794814275, 2026-11-16
 
-[`8dd6201`](https://github.com/dmellok/tesserae/commit/8dd6201960dd3362969c846f2643a74b4a5ccc2f) Merge pull request #522 from skynet01/feat/kie-image-provider
+[`bdfd51e`](https://github.com/dmellok/tesserae/commit/bdfd51ea2cbdff10753a154599c760c437a2ccd6) Merge pull request #530 from dmellok/fix/lineup-editor-add-conditions
 
 ---
 
