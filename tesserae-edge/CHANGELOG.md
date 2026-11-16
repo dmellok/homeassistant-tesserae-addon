@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794834211, 2026-11-16
+## 0.513.0-edge.1794852634, 2026-11-16
 
-[`e0456b4`](https://github.com/dmellok/tesserae/commit/e0456b4f204413bb0b96758739970bde93387d74) Merge pull request #540 from skynet01/feat/lineup-add-options
+[`e755fa4`](https://github.com/dmellok/tesserae/commit/e755fa4ab1f4d79e32da8a1614c4df06504b5175) Merge pull request #551 from dmellok/fix/windows-install-and-kie-lock
 
 ---
 
