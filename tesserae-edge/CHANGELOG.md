@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794829630, 2026-11-16
+## 0.513.0-edge.1794831310, 2026-11-16
 
-[`4948894`](https://github.com/dmellok/tesserae/commit/4948894aaa6c0dce1b67340f3253214d4c1445bb) Merge pull request #533 from skynet01/feat/lineups-mobile
+[`137353d`](https://github.com/dmellok/tesserae/commit/137353d3c63dc42e9e979703be62a2853fb88800) Merge pull request #536 from skynet01/fix/editor-visibility-save
 
 ---
 
