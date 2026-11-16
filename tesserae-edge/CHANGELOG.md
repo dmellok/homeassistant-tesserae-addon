@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794831310, 2026-11-16
+## 0.513.0-edge.1794832620, 2026-11-16
 
-[`137353d`](https://github.com/dmellok/tesserae/commit/137353d3c63dc42e9e979703be62a2853fb88800) Merge pull request #536 from skynet01/fix/editor-visibility-save
+[`9c38fcd`](https://github.com/dmellok/tesserae/commit/9c38fcd9015814a4fc841d2dc1ca676acc5e102c) Merge pull request #531 from skynet01/fix/wake-trust-ignores-button-wakes
 
 ---
 
