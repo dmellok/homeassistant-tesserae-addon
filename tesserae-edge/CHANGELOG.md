@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794814275, 2026-11-16
+## 0.513.0-edge.1794829630, 2026-11-16
 
-[`bdfd51e`](https://github.com/dmellok/tesserae/commit/bdfd51ea2cbdff10753a154599c760c437a2ccd6) Merge pull request #530 from dmellok/fix/lineup-editor-add-conditions
+[`4948894`](https://github.com/dmellok/tesserae/commit/4948894aaa6c0dce1b67340f3253214d4c1445bb) Merge pull request #533 from skynet01/feat/lineups-mobile
 
 ---
 
