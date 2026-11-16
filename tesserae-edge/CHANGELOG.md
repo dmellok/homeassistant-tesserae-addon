@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794855340, 2026-11-16
+## 0.513.0-edge.1794856533, 2026-11-16
 
-[`cacae58`](https://github.com/dmellok/tesserae/commit/cacae5887b3e20bf96c5d6adf9a1165d82b39431) Merge pull request #552 from dmellok/fix/lineup-live-test-clock
+[`290d36f`](https://github.com/dmellok/tesserae/commit/290d36f033e65ed4eeccfc8b9286da9ece09e3fa) Merge pull request #554 from dmellok/fix/atlas-compose-signal
 
 ---
 
