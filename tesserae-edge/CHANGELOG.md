@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794864770, 2026-11-16
+## 0.513.0-edge.1794883296, 2026-11-17
 
-[`897a763`](https://github.com/dmellok/tesserae/commit/897a763f0f0ee07547ebaf5165fd676dcfd96340) Merge pull request #547 from skynet01/fix/classic-preview-refresh
+[`e5eeba0`](https://github.com/dmellok/tesserae/commit/e5eeba0bc8bb95ecd38f96b39b265a9cb5e27710) Merge pull request #562 from skynet01/pr/meural-1-lan-display
 
 ---
 
