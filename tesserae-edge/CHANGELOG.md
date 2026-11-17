@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794958676, 2026-11-17
+## 0.513.0-edge.1794959237, 2026-11-17
 
-[`30330a0`](https://github.com/dmellok/tesserae/commit/30330a054d82b4800a147fcee2a86fc6feb30ef6) Merge pull request #542 from skynet01/fix/paid-image-retry-safety
+[`ada016c`](https://github.com/dmellok/tesserae/commit/ada016ccc77b831b8313550a02cff09cc3089b0c) Merge pull request #570 from skynet01/fix/lineup-bind-unticked
 
 ---
 
