@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794954978, 2026-11-17
+## 0.513.0-edge.1794958676, 2026-11-17
 
-[`5ec7c72`](https://github.com/dmellok/tesserae/commit/5ec7c7293abae3f94257bf21d791334d91b4e866) Merge pull request #574 from dmellok/fix/touch-spec-turn
+[`30330a0`](https://github.com/dmellok/tesserae/commit/30330a054d82b4800a147fcee2a86fc6feb30ef6) Merge pull request #542 from skynet01/fix/paid-image-retry-safety
 
 ---
 
