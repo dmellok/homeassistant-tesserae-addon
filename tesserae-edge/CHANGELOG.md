@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794954261, 2026-11-17
+## 0.513.0-edge.1794954978, 2026-11-17
 
-[`b7773cc`](https://github.com/dmellok/tesserae/commit/b7773cc67b7b5bca9e242d81d6e997049129f5ea) Merge pull request #573 from dmellok/fix/flat-dither-circuitpython-pico
+[`5ec7c72`](https://github.com/dmellok/tesserae/commit/5ec7c7293abae3f94257bf21d791334d91b4e866) Merge pull request #574 from dmellok/fix/touch-spec-turn
 
 ---
 
