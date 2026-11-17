@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794886186, 2026-11-17
+## 0.513.0-edge.1794912798, 2026-11-17
 
-[`c149bab`](https://github.com/dmellok/tesserae/commit/c149babd199bcd9e09065a5858f378a38a8d6b0a) Merge pull request #556 from dmellok/feat/bundle-export-import
+[`bbb9d4a`](https://github.com/dmellok/tesserae/commit/bbb9d4acc5967ed377ace1597cee8be0a3e23255) Merge branch 'fix/fraimic-early-wake-not-a-tap'
 
 ---
 
