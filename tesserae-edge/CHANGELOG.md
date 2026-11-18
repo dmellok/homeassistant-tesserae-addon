@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1794972018, 2026-11-18
+## 0.514.0-edge.1794987693, 2026-11-18
 
-[`6997baa`](https://github.com/dmellok/tesserae/commit/6997baae8e3e7e97d03f3b039f20af2f23021b01) chore: bump to 0.514.0 (Home Assistant ingress sign-in, first-run setup token, forwarded addresses behind a proxy, display export and import, Meural cloud delivery)
+[`b42bc2c`](https://github.com/dmellok/tesserae/commit/b42bc2cf005c4b8ce8f85126d9001c7938e67a2b) Merge pull request #581 from dmellok/hardware/seeed-ee05-426
 
 ---
 
