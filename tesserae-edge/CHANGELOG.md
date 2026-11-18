@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794964181, 2026-11-18
+## 0.513.0-edge.1794965200, 2026-11-18
 
-[`212fb88`](https://github.com/dmellok/tesserae/commit/212fb88ae45399fcb99f7f721554d46d4465f589) Merge pull request #529 from dmellok/brand/works-with-tesserae-badges
+[`d7cc766`](https://github.com/dmellok/tesserae/commit/d7cc7660cffc509b75c347262f58b4a715a5ca7d) Merge pull request #569 from skynet01/pr/priority-lineup-event-stream
 
 ---
 
