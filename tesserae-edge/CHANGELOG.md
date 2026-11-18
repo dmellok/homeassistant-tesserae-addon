@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1794987693, 2026-11-18
+## 0.514.0-edge.1795035978, 2026-11-18
 
-[`b42bc2c`](https://github.com/dmellok/tesserae/commit/b42bc2cf005c4b8ce8f85126d9001c7938e67a2b) Merge pull request #581 from dmellok/hardware/seeed-ee05-426
+[`30bb905`](https://github.com/dmellok/tesserae/commit/30bb905ce76ba3fe6f63048574864617f4ba7fa3) Merge pull request #583 from dmellok/docs/trmnl-x-verified
 
 ---
 
