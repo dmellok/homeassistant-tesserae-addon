@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794967168, 2026-11-18
+## 0.514.0-edge.1794972018, 2026-11-18
 
-[`8d132d4`](https://github.com/dmellok/tesserae/commit/8d132d40a66c3eaeb49a3e1162cd158f0f4b9b7b) Merge pull request #579 from dmellok/feat/export-import-displays
+[`6997baa`](https://github.com/dmellok/tesserae/commit/6997baae8e3e7e97d03f3b039f20af2f23021b01) chore: bump to 0.514.0 (Home Assistant ingress sign-in, first-run setup token, forwarded addresses behind a proxy, display export and import, Meural cloud delivery)
 
 ---
 
