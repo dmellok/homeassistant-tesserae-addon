@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794959237, 2026-11-17
+## 0.513.0-edge.1794964181, 2026-11-18
 
-[`ada016c`](https://github.com/dmellok/tesserae/commit/ada016ccc77b831b8313550a02cff09cc3089b0c) Merge pull request #570 from skynet01/fix/lineup-bind-unticked
+[`212fb88`](https://github.com/dmellok/tesserae/commit/212fb88ae45399fcb99f7f721554d46d4465f589) Merge pull request #529 from dmellok/brand/works-with-tesserae-badges
 
 ---
 
