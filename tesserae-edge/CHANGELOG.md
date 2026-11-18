@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.513.0-edge.1794965200, 2026-11-18
+## 0.513.0-edge.1794967168, 2026-11-18
 
-[`d7cc766`](https://github.com/dmellok/tesserae/commit/d7cc7660cffc509b75c347262f58b4a715a5ca7d) Merge pull request #569 from skynet01/pr/priority-lineup-event-stream
+[`8d132d4`](https://github.com/dmellok/tesserae/commit/8d132d40a66c3eaeb49a3e1162cd158f0f4b9b7b) Merge pull request #579 from dmellok/feat/export-import-displays
 
 ---
 
