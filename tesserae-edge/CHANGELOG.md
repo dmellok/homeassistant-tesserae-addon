@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795126655, 2026-11-19
+## 0.514.0-edge.1795127299, 2026-11-19
 
-[`d193455`](https://github.com/dmellok/tesserae/commit/d19345538836839d1a27622709faad0a207c58be) Merge pull request #578 from skynet01/ui/lineups-header-hierarchy
+[`560fdc6`](https://github.com/dmellok/tesserae/commit/560fdc670fa6e9f1eebfcec064ab6bcd0d38cec6) Merge pull request #585 from skynet01/ui/multiselect-typeahead
 
 ---
 
