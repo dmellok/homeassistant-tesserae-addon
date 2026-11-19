@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795127905, 2026-11-19
+## 0.514.0-edge.1795129914, 2026-11-19
 
-[`e0209f1`](https://github.com/dmellok/tesserae/commit/e0209f1094c671a63afca05ea8459fde65e5f4b2) Merge pull request #586 from skynet01/feat/frame-shapes
+[`56c1926`](https://github.com/dmellok/tesserae/commit/56c1926c29b6f9c36499b8060e88fc5460e97d48) Merge pull request #577 from skynet01/feat/meural-swipe-next
 
 ---
 
