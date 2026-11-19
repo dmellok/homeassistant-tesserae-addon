@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795035978, 2026-11-18
+## 0.514.0-edge.1795062804, 2026-11-19
 
-[`30bb905`](https://github.com/dmellok/tesserae/commit/30bb905ce76ba3fe6f63048574864617f4ba7fa3) Merge pull request #583 from dmellok/docs/trmnl-x-verified
+[`b8bf209`](https://github.com/dmellok/tesserae/commit/b8bf209381ceaaaa1ca1bad8f478b4a118fc6bb0) Merge pull request #587 from dmellok/feat/flat-ink-themes
 
 ---
 
