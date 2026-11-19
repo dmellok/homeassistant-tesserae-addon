@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795127299, 2026-11-19
+## 0.514.0-edge.1795127905, 2026-11-19
 
-[`560fdc6`](https://github.com/dmellok/tesserae/commit/560fdc670fa6e9f1eebfcec064ab6bcd0d38cec6) Merge pull request #585 from skynet01/ui/multiselect-typeahead
+[`e0209f1`](https://github.com/dmellok/tesserae/commit/e0209f1094c671a63afca05ea8459fde65e5f4b2) Merge pull request #586 from skynet01/feat/frame-shapes
 
 ---
 
