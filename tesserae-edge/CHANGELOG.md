@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795062804, 2026-11-19
+## 0.514.0-edge.1795126655, 2026-11-19
 
-[`b8bf209`](https://github.com/dmellok/tesserae/commit/b8bf209381ceaaaa1ca1bad8f478b4a118fc6bb0) Merge pull request #587 from dmellok/feat/flat-ink-themes
+[`d193455`](https://github.com/dmellok/tesserae/commit/d19345538836839d1a27622709faad0a207c58be) Merge pull request #578 from skynet01/ui/lineups-header-hierarchy
 
 ---
 
