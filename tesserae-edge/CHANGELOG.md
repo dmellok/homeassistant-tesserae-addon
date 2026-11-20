@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795133334, 2026-11-20
+## 0.514.0-edge.1795139168, 2026-11-20
 
-[`9aaaea4`](https://github.com/dmellok/tesserae/commit/9aaaea464c2add496802a3431f4cb81f993515cc) Merge pull request #590 from dmellok/feat/device-export-picks
+[`636fa63`](https://github.com/dmellok/tesserae/commit/636fa63b5193cc642581394b31dc4d090864cb8e) Merge pull request #591 from dmellok/feat/webpage-html-snippet
 
 ---
 
