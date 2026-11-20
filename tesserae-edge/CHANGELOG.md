@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795132672, 2026-11-20
+## 0.514.0-edge.1795133334, 2026-11-20
 
-[`8854a93`](https://github.com/dmellok/tesserae/commit/8854a934fe3c241eaa216f9c44336bc0c0b93411) Merge pull request #589 from dmellok/fix/button-map-keeps-draft
+[`9aaaea4`](https://github.com/dmellok/tesserae/commit/9aaaea464c2add496802a3431f4cb81f993515cc) Merge pull request #590 from dmellok/feat/device-export-picks
 
 ---
 
