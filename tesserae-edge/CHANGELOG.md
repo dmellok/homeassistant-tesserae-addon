@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795129914, 2026-11-19
+## 0.514.0-edge.1795132672, 2026-11-20
 
-[`56c1926`](https://github.com/dmellok/tesserae/commit/56c1926c29b6f9c36499b8060e88fc5460e97d48) Merge pull request #577 from skynet01/feat/meural-swipe-next
+[`8854a93`](https://github.com/dmellok/tesserae/commit/8854a934fe3c241eaa216f9c44336bc0c0b93411) Merge pull request #589 from dmellok/fix/button-map-keeps-draft
 
 ---
 
