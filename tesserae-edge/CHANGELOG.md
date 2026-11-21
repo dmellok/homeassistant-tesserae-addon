@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795139168, 2026-11-20
+## 0.514.0-edge.1795221236, 2026-11-21
 
-[`636fa63`](https://github.com/dmellok/tesserae/commit/636fa63b5193cc642581394b31dc4d090864cb8e) Merge pull request #591 from dmellok/feat/webpage-html-snippet
+[`bd38c1a`](https://github.com/dmellok/tesserae/commit/bd38c1a7eb56e8d6a2239352114a312bb6690622) Merge pull request #592 from dmellok/fix/button-map-save-message
 
 ---
 
