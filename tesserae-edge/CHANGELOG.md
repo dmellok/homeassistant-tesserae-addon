@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795221236, 2026-11-21
+## 0.514.0-edge.1795334493, 2026-11-22
 
-[`bd38c1a`](https://github.com/dmellok/tesserae/commit/bd38c1a7eb56e8d6a2239352114a312bb6690622) Merge pull request #592 from dmellok/fix/button-map-save-message
+[`cf9f656`](https://github.com/dmellok/tesserae/commit/cf9f6564172ff8e19dda1186fa5899779eb44189) Merge pull request #599 from skynet01/ui/single-cell-look
 
 ---
 
