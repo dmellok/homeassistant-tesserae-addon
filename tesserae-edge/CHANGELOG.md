@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795337567, 2026-11-22
+## 0.514.0-edge.1795338165, 2026-11-22
 
-[`8b7e769`](https://github.com/dmellok/tesserae/commit/8b7e76930c7784b9839733a4b895dcd1f42f7497) Merge pull request #603 from dmellok/chore/changelog-595-unreleased
+[`acf242a`](https://github.com/dmellok/tesserae/commit/acf242a7a00576992e01ffe342c8ce77ac0c23a6) Merge pull request #597 from skynet01/ui/lineups-shortcuts
 
 ---
 
