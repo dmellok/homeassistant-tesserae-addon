@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795338795, 2026-11-22
+## 0.514.0-edge.1795339518, 2026-11-22
 
-[`620b036`](https://github.com/dmellok/tesserae/commit/620b036894c1dca2059575a6ae1bfe600940412a) Merge pull request #596 from skynet01/ui/lineups-step-labels
+[`ddff55b`](https://github.com/dmellok/tesserae/commit/ddff55b60eb9ced193e4fe286d7b2a2eb4428dfd) Merge pull request #598 from skynet01/ui/lineups-phone-polish
 
 ---
 
