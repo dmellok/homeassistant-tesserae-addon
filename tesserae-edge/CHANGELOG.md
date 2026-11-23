@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795339518, 2026-11-22
+## 0.514.0-edge.1795421765, 2026-11-23
 
-[`ddff55b`](https://github.com/dmellok/tesserae/commit/ddff55b60eb9ced193e4fe286d7b2a2eb4428dfd) Merge pull request #598 from skynet01/ui/lineups-phone-polish
+[`89d59b0`](https://github.com/dmellok/tesserae/commit/89d59b0a140c8b0068425cd11fe470845944bd3c) Merge pull request #606 from dmellok/fix/lineup-count-past-listing-cap
 
 ---
 
