@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795516564, 2026-11-24
+## 0.514.0-edge.1795517600, 2026-11-24
 
-[`de2b0cd`](https://github.com/dmellok/tesserae/commit/de2b0cdea9ffbd21d2f2cbbb5f635c693a47169c) Merge pull request #605 from vaibhav8a/fix/flat-dither-png-renderers-601
+[`628fcf1`](https://github.com/dmellok/tesserae/commit/628fcf12fc1e045b65872fd584df80b0918d1aa9) Merge pull request #611 from dmellok/fix/device-delete-form-inline
 
 ---
 
