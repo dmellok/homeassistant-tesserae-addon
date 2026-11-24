@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795421765, 2026-11-23
+## 0.514.0-edge.1795515850, 2026-11-24
 
-[`89d59b0`](https://github.com/dmellok/tesserae/commit/89d59b0a140c8b0068425cd11fe470845944bd3c) Merge pull request #606 from dmellok/fix/lineup-count-past-listing-cap
+[`dd1a347`](https://github.com/dmellok/tesserae/commit/dd1a347de682302c324f4d7bcfac641efdb43348) Merge pull request #604 from vaibhav8a/feat/ha-mqtt-from-supervisor-600
 
 ---
 
