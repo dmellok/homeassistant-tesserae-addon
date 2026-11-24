@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795515850, 2026-11-24
+## 0.514.0-edge.1795516564, 2026-11-24
 
-[`dd1a347`](https://github.com/dmellok/tesserae/commit/dd1a347de682302c324f4d7bcfac641efdb43348) Merge pull request #604 from vaibhav8a/feat/ha-mqtt-from-supervisor-600
+[`de2b0cd`](https://github.com/dmellok/tesserae/commit/de2b0cdea9ffbd21d2f2cbbb5f635c693a47169c) Merge pull request #605 from vaibhav8a/fix/flat-dither-png-renderers-601
 
 ---
 
