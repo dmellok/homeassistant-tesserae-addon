@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795635218, 2026-11-25
+## 0.514.0-edge.1795638816, 2026-11-25
 
-[`b4d9d32`](https://github.com/dmellok/tesserae/commit/b4d9d32748093f9a6b16fab461e0ba369058b464) Merge pull request #614 from skynet01/fix/still-loading-images-fail
+[`7581110`](https://github.com/dmellok/tesserae/commit/75811107d9635bd237010530f35913ebb14de828) Merge pull request #613 from skynet01/feat/meural-native-sleep-sync
 
 ---
 
