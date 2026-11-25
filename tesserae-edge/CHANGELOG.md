@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795638816, 2026-11-25
+## 0.514.0-edge.1795640581, 2026-11-25
 
-[`7581110`](https://github.com/dmellok/tesserae/commit/75811107d9635bd237010530f35913ebb14de828) Merge pull request #613 from skynet01/feat/meural-native-sleep-sync
+[`2bc2d3d`](https://github.com/dmellok/tesserae/commit/2bc2d3d747f89b73b49861ea54ee6e7d19d0dbd3) Merge pull request #615 from dmellok/fix/webpage-render-height
 
 ---
 
