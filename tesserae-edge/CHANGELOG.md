@@ -1,8 +1,8 @@
 # Changelog
 
-## 0.514.0-edge.1795517600, 2026-11-24
+## 0.514.0-edge.1795635218, 2026-11-25
 
-[`628fcf1`](https://github.com/dmellok/tesserae/commit/628fcf12fc1e045b65872fd584df80b0918d1aa9) Merge pull request #611 from dmellok/fix/device-delete-form-inline
+[`b4d9d32`](https://github.com/dmellok/tesserae/commit/b4d9d32748093f9a6b16fab461e0ba369058b464) Merge pull request #614 from skynet01/fix/still-loading-images-fail
 
 ---
 
